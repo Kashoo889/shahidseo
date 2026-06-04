@@ -17,7 +17,7 @@ export function AreaCard({ area, size = "md", variant = "image" }: { area: Area;
         <div>
           <h3 className="text-xl font-bold">{area.name}</h3>
           <p className="mt-1 text-sm opacity-90 line-clamp-2">{area.shortBlurb}</p>
-          <span className="mt-4 inline-flex rounded-full bg-primary-foreground px-4 py-1.5 text-xs font-semibold text-ink">
+          <span className="mt-4 inline-flex rounded-full bg-primary-foreground px-4 py-1.5 text-xs font-semibold text-white">
             View Area
           </span>
         </div>
