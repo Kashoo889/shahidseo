@@ -24,7 +24,7 @@ export const SERVICES: Service[] = [
     tagline: "Premium Logistics",
     description:
       "Full-service junk removal across Dubai. We sort, load and haul away household and commercial items the same day, with a 95% recycle rate.",
-    heroImage: u("1558618666-fcd25c85cd64"),
+    heroImage: u("1761479578277-b11d0092699d"),
     icon: "Trash2",
     included: [
       { title: "Whole-Home Pickup", description: "From a single sofa to an entire villa clearance, handled end to end." },

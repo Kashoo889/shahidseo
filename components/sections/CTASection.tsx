@@ -36,7 +36,7 @@ export function CTASection({
               href={waHref}
               target="_blank"
               rel="noreferrer"
-              className="rounded-full border border-primary-foreground/40 bg-transparent px-6 py-3 text-sm font-semibold text-primary-foreground transition hover:bg-primary-foreground/10"
+              className="rounded-full border border-primary-foreground bg-primary-foreground px-6 py-3 text-sm font-semibold text-ink transition hover:brightness-95"
             >
               {secondaryLabel}
             </a>

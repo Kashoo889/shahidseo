@@ -68,8 +68,8 @@ export default function Home() {
           <div className="relative">
             <div className="overflow-hidden rounded-3xl shadow-card">
               <Image
-                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&h=800&q=80"
-                alt="EcoHaul Dubai truck"
+                src="https://images.unsplash.com/photo-1776885008664-68b2988373e6?auto=format&fit=crop&w=1200&h=800&q=70"
+                alt="Junk removal team loading furniture into a truck"
                 width={1200}
                 height={800}
                 priority
