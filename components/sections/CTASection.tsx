@@ -28,7 +28,7 @@ export function CTASection({
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <a
               href={telHref}
-              className="rounded-full bg-primary-foreground px-6 py-3 text-sm font-semibold text-ink transition hover:brightness-95"
+              className="rounded-full bg-primary-foreground px-6 py-3 text-sm font-semibold text-white transition hover:brightness-95"
             >
               {primaryLabel}
             </a>
@@ -36,7 +36,7 @@ export function CTASection({
               href={waHref}
               target="_blank"
               rel="noreferrer"
-              className="rounded-full border border-primary-foreground bg-primary-foreground px-6 py-3 text-sm font-semibold text-ink transition hover:brightness-95"
+              className="rounded-full border border-primary-foreground bg-primary-foreground px-6 py-3 text-sm font-semibold text-white transition hover:brightness-95"
             >
               {secondaryLabel}
             </a>
