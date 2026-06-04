@@ -12,13 +12,6 @@ const values = [
   { icon: Eye, title: "Transparency", description: "We provide digital waste manifests for every pickup, detailing the environmental impact and recycling journey of your discarded items." },
 ];
 
-const team = [
-  { name: "Zaid Al-Mansoori", role: "Founder & CEO", img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&h=600&q=80" },
-  { name: "Sarah Jenkins", role: "Operations Lead", img: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600&h=600&q=80" },
-  { name: "Marcus Chen", role: "Sustainability Officer", img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&h=600&q=80" },
-  { name: "Omar Farooq", role: "Logistics Manager", img: "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?auto=format&fit=crop&w=600&h=600&q=80" },
-];
-
 const trust = ["ISO 14001 Certified", "Dubai Municipality Licensed", "Net-Zero Commitment", "Fully Insured Logistics"];
 
 export default function About() {
@@ -46,7 +39,7 @@ export default function About() {
             </div>
           </div>
           <div className="overflow-hidden rounded-3xl shadow-card">
-            <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&h=800&q=80" alt="EcoHaul fleet" className="h-full w-full object-cover" />
+            <img src="https://images.unsplash.com/photo-1776885008664-68b2988373e6?auto=format&fit=crop&w=1200&h=800&q=70" alt="Junk removal team loading furniture into a truck" className="h-full w-full object-cover" />
           </div>
         </Container>
       </section>
@@ -89,29 +82,12 @@ export default function About() {
                 <p className="mt-2 text-sm text-muted-foreground">{v.description}</p>
               </div>
             ))}
-            <div className="rounded-2xl bg-ink p-6 text-primary-foreground shadow-card">
+            <div className="rounded-2xl bg-ink p-6 text-white shadow-card">
               <Eye className="h-5 w-5 text-primary" />
               <h3 className="mt-5 text-base font-bold">{values[3].title}</h3>
               <p className="mt-2 text-sm opacity-90">{values[3].description}</p>
               <div className="mt-6 h-0.5 w-16 bg-primary" />
             </div>
-          </div>
-        </Container>
-      </section>
-
-      <section className="py-16">
-        <Container>
-          <SectionHeading title="The Eco-Experts" description="The specialised team behind Dubai's cleanest logistics." />
-          <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {team.map((m) => (
-              <div key={m.name} className="overflow-hidden rounded-2xl bg-surface shadow-soft">
-                <img src={m.img} alt={m.name} className="h-72 w-full object-cover grayscale" />
-                <div className="p-4">
-                  <div className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">{m.role}</div>
-                  <div className="mt-1 text-base font-bold text-ink">{m.name}</div>
-                </div>
-              </div>
-            ))}
           </div>
         </Container>
       </section>
