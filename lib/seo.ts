@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const siteConfig = {
   name: "EcoHaul Dubai",
-  url: "https://ecohauldubai.ae",
+  url: "https://getjunkremovalsdubai.com",
   defaultImage:
     "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&h=800&q=80",
 };

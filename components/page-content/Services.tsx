@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Seo } from "@/components/Seo";
 import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { SERVICES } from "@/data/services";
@@ -9,18 +8,17 @@ import { ProcessSteps, DEFAULT_STEPS } from "@/components/sections/ProcessSteps"
 export default function Services() {
   return (
     <>
-      <Seo
-        title="Junk Removal Services Dubai | EcoHaul Dubai"
-        description="Full range of junk removal services in Dubai — furniture, appliances, office cleanouts, garden waste, house clearance, and same day pickup."
-        path="/services"
-      />
-
       <section className="py-12 sm:py-16">
         <Container>
-          <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">Our Expertise</span>
-          <h1 className="mt-4 max-w-2xl text-4xl font-extrabold leading-tight text-ink sm:text-5xl">Premium Junk Removal & Waste Logistics</h1>
+          <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">
+            Our Expertise
+          </span>
+          <h1 className="mt-4 max-w-2xl text-4xl font-extrabold leading-tight text-ink sm:text-5xl">
+            Premium Junk Removal & Waste Experts
+          </h1>
           <p className="mt-4 max-w-2xl text-base text-muted-foreground sm:text-lg">
-            Sustainable removal solutions tailored for Dubai's most prestigious residential and commercial sectors. Professional, efficient, and ecologically responsible.
+            Sustainable removal solutions tailored for Dubai's most prestigious residential and
+            commercial sectors. Professional, efficient, and ecologically responsible.
           </p>
         </Container>
       </section>
@@ -29,7 +27,11 @@ export default function Services() {
         <Container>
           <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
             {SERVICES.map((s) => (
-              <Link key={s.slug} href={`/services/${s.slug}`} className="group relative flex flex-col overflow-hidden rounded-2xl border border-border bg-surface p-6 shadow-soft transition hover:-translate-y-1 hover:shadow-card">
+              <Link
+                key={s.slug}
+                href={`/services/${s.slug}`}
+                className="group relative flex flex-col overflow-hidden rounded-2xl border border-border bg-surface p-6 shadow-soft transition hover:-translate-y-1 hover:shadow-card"
+              >
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary-soft text-accent-foreground font-bold">
                   {s.shortTitle.charAt(0)}
                 </div>
@@ -48,14 +50,22 @@ export default function Services() {
 
       <section className="bg-surface-muted py-16">
         <Container>
-          <SectionHeading align="center" title="How EcoHaul Works" description="From booking to recycle, all handled by one team." />
+          <SectionHeading
+            align="center"
+            title="How EcoHaul Works"
+            description="From booking to recycle, all handled by one team."
+          />
           <div className="mt-12">
             <ProcessSteps steps={DEFAULT_STEPS} />
           </div>
         </Container>
       </section>
 
-      <CTASection title="Need a custom pickup?" description="Tell us what you need cleared and we'll handle the rest." primaryLabel="Book Junk Pickup" />
+      <CTASection
+        title="Need a custom pickup?"
+        description="Tell us what you need cleared and we'll handle the rest."
+        primaryLabel="Book Junk Pickup"
+      />
     </>
   );
 }

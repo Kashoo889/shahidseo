@@ -4,7 +4,7 @@ export function ProcessSteps({ steps }: { steps: Step[] }) {
   return (
     <div className="relative">
       <div className="absolute left-0 right-0 top-7 hidden h-px bg-primary lg:block" />
-      <ol className="relative grid gap-8 lg:grid-cols-4">
+      <ol className="relative grid gap-8 lg:grid-cols-3">
         {steps.map((s, i) => (
           <li key={s.title} className="text-center">
             <div className="relative mx-auto flex h-14 w-14 items-center justify-center rounded-xl border-2 border-primary bg-surface font-display text-lg font-bold text-ink">
@@ -20,8 +20,16 @@ export function ProcessSteps({ steps }: { steps: Step[] }) {
 }
 
 export const DEFAULT_STEPS: Step[] = [
-  { title: "Instant Booking", description: "Schedule your pickup online or via WhatsApp in under 2 minutes." },
-  { title: "On-site Appraisal", description: "Our team arrives, assesses the volume, and confirms a fixed price." },
-  { title: "Swift Removal", description: "White-glove handling as we remove items without a scratch to your walls." },
-  { title: "Eco-Disposal", description: "Items are sorted for recycling, donation, or responsible disposal." },
+  {
+    title: "Instant Booking",
+    description: "Schedule your pickup online or via WhatsApp in under 2 minutes.",
+  },
+  {
+    title: "On-site Appraisal",
+    description: "Our team arrives, assesses the volume, and confirms a fixed price.",
+  },
+  {
+    title: "Swift Removal",
+    description: "White-glove handling as we remove items without a scratch to your walls.",
+  },
 ];

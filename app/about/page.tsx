@@ -5,7 +5,7 @@ import { createMetadata } from "@/lib/seo";
 export const metadata: Metadata = createMetadata({
   title: "About EcoHaul Dubai | Premium Junk Removal",
   description:
-    "Founded in 2018, EcoHaul Dubai leads premium, sustainable junk removal across the UAE with certified recycling partners and low-emission vehicles.",
+    "Founded in 2018, EcoHaul Dubai leads premium, sustainable junk removal across Dubai with certified disposal partners and low-emission vehicles.",
   path: "/about",
 });
 

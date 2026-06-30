@@ -2,7 +2,6 @@ import { telHref, waHref } from "@/data/contact";
 import { Container } from "@/components/ui/Container";
 
 type Props = {
-  eyebrow?: string;
   title: string;
   description?: string;
   primaryLabel?: string;

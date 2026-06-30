@@ -3,15 +3,11 @@ import Image from "next/image";
 import { CONTACT, telHref, waHref } from "@/data/contact";
 import { Container } from "@/components/ui/Container";
 import { SERVICES } from "@/data/services";
-
-const legal = [
-  { label: "Privacy Policy", to: "/contact" },
-  { label: "Terms of Service", to: "/contact" },
-];
+import { AREAS } from "@/data/areas";
 
 const transparency = [
   { label: "Sustainability Report", to: "/about" },
-  { label: "Electronic Recycling", to: "/services/appliance-removal-dubai" },
+  { label: "Electronic Junk Removal", to: "/services/appliance-removal-dubai" },
 ];
 
 export function Footer() {
@@ -21,29 +17,44 @@ export function Footer() {
         <div>
           <Image
             src="/dubai-junk-removal-logo.png"
-            alt="Dubai Junk Removal"
+            alt="EcoHaul Dubai"
             width={128}
             height={128}
             className="h-20 w-20 object-contain"
           />
           <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
-            Premium junk removal and sustainable logistics. Transforming Dubai's
-            haul at a time.
+            Premium, sustainable junk removal. Transforming Dubai's haul at a time.
           </p>
           <div className="mt-4 space-y-1 text-sm text-muted-foreground">
-            <a href={telHref} className="block hover:text-ink">Call: {CONTACT.phoneDisplay}</a>
-            <a href={waHref} target="_blank" rel="noreferrer" className="block hover:text-ink">WhatsApp: {CONTACT.phoneDisplay}</a>
+            <a href={telHref} className="block hover:text-ink">
+              Call: {CONTACT.phoneDisplay}
+            </a>
+            <a href={waHref} target="_blank" rel="noreferrer" className="block hover:text-ink">
+              WhatsApp: {CONTACT.phoneDisplay}
+            </a>
             <span className="block">{CONTACT.office}</span>
           </div>
         </div>
 
-        <FooterCol title="Services" links={SERVICES.slice(0, 6).map((s) => ({ label: s.shortTitle, to: `/services/${s.slug}` }))} />
+        <FooterCol
+          title="Services"
+          links={SERVICES.slice(0, 6).map((s) => ({
+            label: s.shortTitle,
+            to: `/services/${s.slug}`,
+          }))}
+        />
         <FooterCol title="Transparency" links={transparency} />
-        <FooterCol title="Legal" links={legal} />
+        <FooterCol
+          title="Areas"
+          links={[
+            ...AREAS.slice(0, 5).map((a) => ({ label: a.name, to: `/areas/${a.slug}` })),
+            { label: "View all areas", to: "/areas" },
+          ]}
+        />
       </Container>
 
       <div className="border-t border-border/70 py-6 text-center text-xs text-muted-foreground">
-        © {new Date().getFullYear()} EcoHaul Dubai. Premium Junk Removal & Waste Logistics.
+        © {new Date().getFullYear()} EcoHaul Dubai. Premium Junk Removal Across Dubai.
       </div>
     </footer>
   );
@@ -56,7 +67,9 @@ function FooterCol({ title, links }: { title: string; links: { label: string; to
       <ul className="mt-4 space-y-2 text-sm text-muted-foreground">
         {links.map((l) => (
           <li key={l.label}>
-            <Link href={l.to} className="hover:text-ink">{l.label}</Link>
+            <Link href={l.to} className="hover:text-ink">
+              {l.label}
+            </Link>
           </li>
         ))}
       </ul>

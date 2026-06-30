@@ -1,9 +1,4 @@
 type Props = {
-  title: string;
-  description: string;
-  path: string;
-  image?: string;
-  type?: "website" | "article";
   jsonLd?: object | object[];
 };
 

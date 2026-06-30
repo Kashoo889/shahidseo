@@ -20,7 +20,7 @@ export function Header() {
         <Link href="/" className="flex items-center" onClick={() => setOpen(false)}>
           <Image
             src="/dubai-junk-removal-logo.png"
-            alt="Dubai Junk Removal"
+            alt="EcoHaul Dubai"
             width={96}
             height={96}
             className="h-12 w-12 object-contain lg:h-14 lg:w-14"
