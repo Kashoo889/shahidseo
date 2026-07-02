@@ -3,9 +3,9 @@ import Home from "@/components/page-content/Home";
 import { createMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createMetadata({
-  title: "Junk Removal Dubai | Same Day Pickup - EcoHaul Dubai",
+  title: "Junk Removal Dubai | Same-Day Pickup & Disposal | EcoHaul",
   description:
-    "Premium junk removal in Dubai. Same day pickup for furniture, appliances, office cleanouts, garden waste and house clearance. Call 050 285 6200.",
+    "Premium junk removal services in Dubai. Same-day pickup for furniture, appliances, garden waste, rubbish and house clearance. Call 050 285 6200 to book.",
   path: "/",
 });
 

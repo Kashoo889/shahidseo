@@ -55,14 +55,15 @@ export default function Home() {
         <Container className="grid items-center gap-10 lg:grid-cols-2">
           <div>
             <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">
-              Dubai's #1 Sustainable Removals
+              Dubai's #1 Sustainable Junk Removal
             </span>
             <h1 className="mt-5 text-4xl font-extrabold leading-[1.05] text-ink sm:text-5xl lg:text-6xl">
-              Premium <span className="text-primary">Junk Removal</span> Service Redefined.
+              Premium <span className="text-primary">Junk Removal</span> in Dubai, Redefined.
             </h1>
             <p className="mt-5 max-w-lg text-base text-muted-foreground sm:text-lg">
-              Experience white-glove junk removal for residential and commercial properties.
-              Professional, eco-certified, and efficient.
+              White-glove junk removal services across Dubai for homes and businesses — from
+              furniture and appliances to full property clearances. Professional, eco-certified, and
+              same-day fast.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <a
@@ -83,7 +84,7 @@ export default function Home() {
             <div className="overflow-hidden rounded-3xl shadow-card">
               <Image
                 src="https://images.unsplash.com/photo-1776885008664-68b2988373e6?auto=format&fit=crop&w=1200&h=800&q=70"
-                alt="Junk removal team loading furniture into a truck"
+                alt="Dubai junk removal team loading furniture into an eco-friendly truck"
                 width={1200}
                 height={800}
                 priority
@@ -116,8 +117,8 @@ export default function Home() {
       <section className="py-16 sm:py-20">
         <Container>
           <SectionHeading
-            title="Specialized Services"
-            description="Tailored disposal solutions for Dubai's modern landscape."
+            title="Specialized Junk Removal Services"
+            description="Tailored waste, rubbish and furniture removal for Dubai's homes and businesses."
           />
           <div className="mt-10 grid gap-5 lg:grid-cols-3">
             <Link
@@ -176,7 +177,7 @@ export default function Home() {
               Why Dubai Chooses Us
             </h2>
             <p className="mt-3 text-muted-foreground">
-              Setting the benchmark for service transparency and ecological responsibility in Dubai.
+              Setting the benchmark for transparent, responsible junk removal across Dubai.
             </p>
             <ul className="mt-6 space-y-5">
               {[
@@ -268,8 +269,8 @@ export default function Home() {
       <section className="bg-surface-muted py-16">
         <Container>
           <SectionHeading
-            title="Premium Service Hubs"
-            description="Specialized junk removal teams across Dubai's leading communities."
+            title="Areas We Serve Across Dubai"
+            description="Dedicated junk pickup and collection teams in Dubai's leading residential and commercial communities."
           />
           <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {AREAS.slice(0, 8).map((a) => (
@@ -306,19 +307,19 @@ export default function Home() {
           <div>
             <h2 className="text-2xl font-extrabold text-ink">Professional Junk Removal in Dubai</h2>
             <p className="mt-3 text-sm text-muted-foreground">
-              EcoHaul Dubai provides comprehensive junk removal services across Dubai. From Downtown
-              Dubai to Palm Jumeirah, our teams are equipped to handle furniture removal, appliance
-              pickup, and electronic waste. We are committed to Dubai's 2030 sustainability vision
-              by ensuring maximum reuse and repurposing of all collected items.
+              EcoHaul Dubai provides comprehensive junk removal services across Dubai — from Downtown
+              Dubai and Business Bay to Palm Jumeirah and Arabian Ranches. Our teams handle furniture
+              removal, appliance pickup, garden waste and full house clearance, sorting every load
+              for maximum reuse in line with Dubai's 2030 sustainability vision.
             </p>
           </div>
           <div>
             <p className="mt-9 text-sm text-muted-foreground">
-              Our services extend to{" "}
-              <strong>Dubai Marina, JLT, Emirates Hills, and Arabian Ranches</strong>. We specialise
-              in rapid-response junk removal for commercial entities, providing documented disposal
-              chains for compliance and environmental audits. Whether you need a single item removed
-              or a full building clearance, our premium white-glove approach remains consistent.
+              Need same-day rubbish removal or a one-off junk pickup? From a single item to a
+              complete villa clearance, our eco-trucks cover{" "}
+              <strong>Dubai Marina, JLT, Emirates Hills and Arabian Ranches</strong>. Commercial
+              clients receive documented waste collection and disposal chains for compliance and
+              environmental audits — all backed by transparent, fixed pricing.
             </p>
           </div>
         </Container>
@@ -326,7 +327,7 @@ export default function Home() {
 
       <CTASection
         title="Ready to clear your space?"
-        description="Book your professional pickup today across Dubai."
+        description="Book professional junk removal and rubbish collection across Dubai today."
         primaryLabel="Book a Removal"
         secondaryLabel="WhatsApp Us"
       />
