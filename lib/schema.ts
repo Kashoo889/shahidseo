@@ -328,7 +328,7 @@ export function blogPostingSchema({
   image,
   datePublished,
   dateModified,
-  authorName = "EcoHaul Editorial Team",
+  authorName = "The Bukhari Agency",
   authorRole,
   breadcrumbs,
 }: {

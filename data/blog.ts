@@ -56,8 +56,8 @@ export const BLOG_POSTS: BlogPost[] = [
     updatedAt: "2026-08-28",
     readingTime: "5 min read",
     author: {
-      name: "Tariq Al-Mansoor",
-      role: "Operations & Sustainability Lead",
+      name: "The Bukhari Agency",
+      role: "Author",
     },
     takeaways: [
       "Leaving bulky furniture outside residential buildings or waste chutes can incur Dubai Municipality fines.",
@@ -117,8 +117,8 @@ export const BLOG_POSTS: BlogPost[] = [
     updatedAt: "2026-08-29",
     readingTime: "4 min read",
     author: {
-      name: "Sara Jensen",
-      role: "Environmental Compliance Specialist",
+      name: "The Bukhari Agency",
+      role: "Author",
     },
     takeaways: [
       "E-waste contains hazardous metals that must never be mixed with general municipal waste.",
@@ -168,8 +168,8 @@ export const BLOG_POSTS: BlogPost[] = [
     updatedAt: "2026-08-29",
     readingTime: "6 min read",
     author: {
-      name: "Tariq Al-Mansoor",
-      role: "Operations & Sustainability Lead",
+      name: "The Bukhari Agency",
+      role: "Author",
     },
     takeaways: [
       "Landlords and property managers require villas to be handed over clean and clear of personal items.",
