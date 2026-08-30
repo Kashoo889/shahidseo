@@ -1,8 +1,10 @@
 import { Seo } from "@/components/Seo";
 import { Container } from "@/components/ui/Container";
+import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { AREAS } from "@/data/areas";
 import { FAQList } from "@/components/sections/FAQList";
 import { CTASection } from "@/components/sections/CTASection";
+import { faqSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
 
 const generalFaqs = [
   {
@@ -39,26 +41,43 @@ const generalFaqs = [
   },
 ];
 
+const breadcrumbsData = [
+  { name: "Home", path: "/" },
+  { name: "Frequently Asked Questions", path: "/faq" },
+];
+
 export default function Faq() {
+  const schemas = [
+    faqSchema(generalFaqs),
+    breadcrumbSchema(breadcrumbsData),
+    webPageSchema({
+      title: "FAQ | Junk Removal Dubai - EcoHaul Dubai",
+      description:
+        "Answers to common questions about junk removal in Dubai, pricing, same day pickup, areas served, disposal, and insurance.",
+      path: "/faq",
+      breadcrumbs: breadcrumbsData,
+    }),
+  ];
+
   return (
     <>
-      <Seo
-        jsonLd={{
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          mainEntity: generalFaqs.map((f) => ({
-            "@type": "Question",
-            name: f.q,
-            acceptedAnswer: { "@type": "Answer", text: f.a },
-          })),
-        }}
-      />
+      <Seo jsonLd={schemas} />
+
+      <Container className="pt-6">
+        <Breadcrumbs
+          items={[
+            { label: "Home", href: "/" },
+            { label: "FAQ" },
+          ]}
+        />
+      </Container>
 
       <section className="py-12 sm:py-16">
         <Container>
           <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">
             Helpful Answers
           </span>
+
           <h1 className="mt-4 max-w-2xl text-4xl font-extrabold leading-tight text-ink sm:text-5xl">
             Frequently Asked Questions
           </h1>

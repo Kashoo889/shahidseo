@@ -11,6 +11,7 @@ import { FAQList } from "@/components/sections/FAQList";
 import { CTASection } from "@/components/sections/CTASection";
 import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { telHref, waHref } from "@/data/contact";
+import { localBusinessSchema, faqSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
 
 const whyItems = [
   {
@@ -33,34 +34,28 @@ const whyItems = [
 export function AreaPageTemplate({ area }: { area: Area }) {
   const featuredServices = SERVICES.slice(0, 6);
 
+  const breadcrumbsData = [
+    { name: "Home", path: "/" },
+    { name: "Areas", path: "/areas" },
+    { name: area.name, path: `/areas/${area.slug}` },
+  ];
+
   const jsonLd = [
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      name: `EcoHaul Dubai — ${area.name}`,
-      description: `Junk removal services in ${area.name}, Dubai.`,
-      areaServed: { "@type": "Place", name: area.name },
-      address: {
-        "@type": "PostalAddress",
-        addressLocality: area.name,
-        addressRegion: "Dubai",
-        addressCountry: "AE",
-      },
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      mainEntity: area.faqs.map((f) => ({
-        "@type": "Question",
-        name: f.q,
-        acceptedAnswer: { "@type": "Answer", text: f.a },
-      })),
-    },
+    localBusinessSchema(area),
+    faqSchema(area.faqs),
+    breadcrumbSchema(breadcrumbsData),
+    webPageSchema({
+      title: `Junk Removal ${area.name} | EcoHaul Dubai`,
+      description: `Premium junk removal in ${area.name}, Dubai. ${area.shortBlurb}`,
+      path: `/areas/${area.slug}`,
+      breadcrumbs: breadcrumbsData,
+    }),
   ];
 
   return (
     <>
       <Seo jsonLd={jsonLd} />
+
 
       <Container className="pt-6">
         <Breadcrumbs
@@ -115,13 +110,14 @@ export function AreaPageTemplate({ area }: { area: Area }) {
           <div className="overflow-hidden rounded-3xl shadow-card">
             <Image
               src={area.image}
-              alt={`${area.name} Dubai`}
+              alt={`Professional junk removal and clearance services in ${area.name}, Dubai`}
               width={1200}
               height={800}
               priority
               className="h-full w-full object-cover"
             />
           </div>
+
         </Container>
       </section>
 

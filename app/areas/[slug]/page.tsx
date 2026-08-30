@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AREAS, getArea } from "@/data/areas";
 import { AreaPageTemplate } from "@/components/templates/AreaPageTemplate";
-import { breadcrumbSchema } from "@/lib/schema";
 import { createMetadata } from "@/lib/seo";
 
 type Props = {
@@ -41,19 +40,6 @@ export default async function AreaDetailPage({ params }: Props) {
     notFound();
   }
 
-  const breadcrumb = breadcrumbSchema([
-    { name: "Home", path: "/" },
-    { name: "Areas", path: "/areas" },
-    { name: area.name, path: `/areas/${area.slug}` },
-  ]);
-
-  return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }}
-      />
-      <AreaPageTemplate area={area} />
-    </>
-  );
+  return <AreaPageTemplate area={area} />;
 }
+

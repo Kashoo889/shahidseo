@@ -2,8 +2,11 @@ import Image from "next/image";
 import { Phone, MessageCircle, MapPin, Leaf, Clock, ShieldCheck } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { CTASection } from "@/components/sections/CTASection";
+import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
+import { Seo } from "@/components/Seo";
 import { CONTACT, telHref, waHref } from "@/data/contact";
 import { AREAS } from "@/data/areas";
+import { contactPageSchema, localBusinessSchema, breadcrumbSchema } from "@/lib/schema";
 
 const cards = [
   {
@@ -24,9 +27,31 @@ const cards = [
   },
 ];
 
+const breadcrumbsData = [
+  { name: "Home", path: "/" },
+  { name: "Contact Us", path: "/contact" },
+];
+
 export default function Contact() {
+  const schemas = [
+    contactPageSchema(breadcrumbsData),
+    localBusinessSchema(),
+    breadcrumbSchema(breadcrumbsData),
+  ];
+
   return (
     <>
+      <Seo jsonLd={schemas} />
+
+      <Container className="pt-6">
+        <Breadcrumbs
+          items={[
+            { label: "Home", href: "/" },
+            { label: "Contact Us" },
+          ]}
+        />
+      </Container>
+
       <section className="py-12 sm:py-16">
         <Container>
           <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">
@@ -43,16 +68,18 @@ export default function Contact() {
       </section>
 
       <section className="pb-16">
+
         <Container className="grid items-stretch gap-8 lg:grid-cols-2">
           {/* Business Bay image */}
           <div className="relative overflow-hidden rounded-2xl shadow-card">
             <Image
               src="https://images.unsplash.com/photo-1745750434535-5943ef2fd31a?auto=format&fit=crop&w=900&h=1100&q=80"
-              alt="Business Bay skyline in Dubai"
+              alt="EcoHaul headquarters and operations base in Business Bay, Dubai"
               width={900}
               height={1100}
               className="h-full min-h-[22rem] w-full object-cover"
             />
+
             <div className="absolute inset-0 flex items-center justify-center">
               <span className="inline-flex items-center gap-2 rounded-full bg-surface px-4 py-2 text-sm font-semibold text-ink shadow-card">
                 <MapPin className="h-4 w-4 text-primary" /> Find us in Business Bay

@@ -35,6 +35,7 @@ const A = (
   imageId: string,
   type: Area["type"],
   highlights: string[],
+  customFaqs?: { q: string; a: string }[],
 ): Area => ({
   slug,
   name,
@@ -43,8 +44,9 @@ const A = (
   image: u(imageId),
   type,
   highlights,
-  faqs: defaultFaqs(name),
+  faqs: customFaqs && customFaqs.length > 0 ? customFaqs : defaultFaqs(name),
 });
+
 
 export const AREAS: Area[] = [
   A(
@@ -362,6 +364,331 @@ export const AREAS: Area[] = [
     "Residential",
     ["Villa Clearance", "Garden Waste", "Family Friendly"],
   ),
+  A(
+    "jumeirah-village-triangle",
+    "Jumeirah Village Triangle (JVT)",
+    "Townhouse and villa junk removal across JVT's 9 districts.",
+    "Dedicated JVT removal crews handling townhouse clearances, Mediterranean villa cleanouts, bulky furniture disposal, and green garden waste across JVT Districts 1 to 9. We coordinate community security passes and ensure quiet, fast pickup.",
+    "1546412414-e1885259563a",
+    "Residential",
+    ["Districts 1–9 Coverage", "Townhouse & Villa Specialists", "Gate Security Coordinated"],
+    [
+      {
+        q: "Do you coordinate security gate access for JVT townhouses?",
+        a: "Yes, our drivers and crews carry verified company identification and commercial clearance permits for seamless entry across all JVT district gates.",
+      },
+      {
+        q: "Can you collect garden trimmings and patio waste in JVT?",
+        a: "Absolutely. We bag, load, and haul away tree cuttings, palm leaves, broken planters, and lawn debris from JVT villas, recycling 100% of organic waste.",
+      },
+      {
+        q: "How quickly can a removal team arrive in JVT?",
+        a: "We have mobile teams stationed adjacent to Al Khail Road and Sheikh Mohammed Bin Zayed Road, allowing us to arrive at JVT homes within 30 to 45 minutes.",
+      },
+    ],
+  ),
+  A(
+    "the-meadows",
+    "The Meadows",
+    "Premium villa clearance and garden waste removal in The Meadows.",
+    "White-glove junk removal tailored for Emirates Living and The Meadows 1 through 9. We manage mature garden waste, swimming pool patio furniture disposal, full villa move-out clearances, and high-volume recycling.",
+    "1571055107559-3e67626fa8be",
+    "Residential",
+    ["Meadows 1–9 Coverage", "Mature Garden Waste", "Villa Move-Out Clearance"],
+    [
+      {
+        q: "Do you handle large villa cleanouts before tenancy handovers in The Meadows?",
+        a: "Yes, we provide complete move-out clearances for 3 to 6-bedroom Meadows villas, removing unwanted furniture, electronics, and garden clutter with a swept-clean guarantee.",
+      },
+      {
+        q: "Are your crews familiar with Emaar community rules in The Meadows?",
+        a: "Yes, our teams strictly adhere to designated work hours, noise limits, and community access rules throughout Meadows 1 through 9.",
+      },
+      {
+        q: "What happens to reusable furniture collected from Meadows homes?",
+        a: "High-quality reusable furniture, appliances, and fixtures are sorted and routed to local UAE registered charities and donation partners.",
+      },
+    ],
+  ),
+  A(
+    "al-barsha",
+    "Al Barsha",
+    "Same-day apartment, villa, and small-business pickup across Al Barsha.",
+    "Fast, reliable junk removal covering Al Barsha 1, 2, 3 and Al Barsha South. From mid-rise apartment furniture disposal and commercial office clearances near Mall of the Emirates to family villa cleanouts, our low-emission trucks arrive within 30 minutes.",
+    "1518684079-3c830dcef090",
+    "Mixed",
+    ["Al Barsha 1–3 & South", "Apartment & Villa Pickup", "Near MOE Commercial Clearance"],
+    [
+      {
+        q: "Do you service both residential apartments and commercial units in Al Barsha?",
+        a: "Yes, we operate in both residential sectors (Al Barsha 2, 3, South) and commercial hubs near Mall of the Emirates and Al Barsha 1.",
+      },
+      {
+        q: "Can you dismantle large wardrobes and bed frames in Al Barsha apartments?",
+        a: "Our crew arrives equipped with power tools to safely disassemble and carry bulky furniture down service elevators without damaging walls or doorways.",
+      },
+      {
+        q: "Is same-day pickup available on weekends in Al Barsha?",
+        a: "Yes, our Al Barsha dispatch runs 7 days a week, including Fridays and Sundays, for urgent move-outs and rubbish collection.",
+      },
+    ],
+  ),
+  A(
+    "discovery-gardens",
+    "Discovery Gardens",
+    "Apartment-friendly furniture, appliance, and clutter removal in Discovery Gardens.",
+    "Specialized apartment junk removal for Discovery Gardens across the Zen, Mediterranean, Contemporary, Cactus, Mogul, and Mesoamerican clusters. Our crews are trained for tight stairwells, designated building loading zones, and Nakheel community rules.",
+    "1517512006864-7edc3b933137",
+    "Residential",
+    ["All 6 Cluster Coverage", "Building Loading Bay Trained", "Appliance & Furniture Disposal"],
+    [
+      {
+        q: "How do you handle pickups in Discovery Gardens buildings without service elevators?",
+        a: "Our trained heavy-lifting teams handle stair carrying safely using padded straps and protective dollies without disrupting building residents.",
+      },
+      {
+        q: "Can you remove old appliances like washing machines and refrigerators in Discovery Gardens?",
+        a: "Yes, we disconnect, haul, and safely recycle old white goods and e-waste following Dubai Municipality environmental regulations.",
+      },
+      {
+        q: "What are the loading bay arrangements for Discovery Gardens?",
+        a: "We park only in designated Nakheel loading bays and quickly clear the area to maintain free access for residents.",
+      },
+    ],
+  ),
+  A(
+    "mirdif",
+    "Mirdif",
+    "Family-friendly villa junk removal and garden waste pickup in Mirdif.",
+    "Trusted residential junk removal across Uptown Mirdif, Shorooq, Ghoroob, and Mirdif Tulips. We handle compound villa cleanouts, kids play structure removals, patio furniture clearance, and garden trimmings with eco-certified recycling.",
+    "1571055107559-3e67626fa8be",
+    "Residential",
+    ["Shorooq & Ghoroob Coverage", "Uptown Mirdif Villas", "Garden & Compound Cleanouts"],
+    [
+      {
+        q: "Do you serve gated communities like Shorooq and Ghoroob in Mirdif?",
+        a: "Yes, we service Shorooq, Ghoroob, Uptown Mirdif, and private standalone villas throughout the entire Mirdif area.",
+      },
+      {
+        q: "Can you dismantle and haul away outdoor trampolines or shed structures in Mirdif?",
+        a: "Yes, we dismantle outdoor play equipment, gazebos, garden sheds, and rusted patio furniture quickly and cleanly.",
+      },
+      {
+        q: "Can I schedule an early morning or evening pickup in Mirdif?",
+        a: "Yes, we offer flexible time windows from 7:00 AM to 10:00 PM to accommodate your daily family routine.",
+      },
+    ],
+  ),
+  A(
+    "dubai-silicon-oasis",
+    "Dubai Silicon Oasis (DSO)",
+    "Tech park office cleanouts, certified e-waste, and apartment pickup in DSO.",
+    "Comprehensive junk removal across Dubai Silicon Oasis technology park, Cedre Villas, Semmer Villas, and high-density residential towers. We specialize in certified corporate IT decommissioning, data center e-waste disposal, and residential apartment clearances.",
+    "1497366216548-37526070297c",
+    "Mixed",
+    ["Tech Park & Cedre Villas", "Certified E-Waste Recycling", "Corporate Decommissioning"],
+    [
+      {
+        q: "Do you provide data destruction or e-waste certificates for DSO companies?",
+        a: "Yes, we provide certified electronic waste disposal and documented material recycling compliance for technology firms and corporate offices in DSO.",
+      },
+      {
+        q: "Can you collect furniture and appliances from DSO residential towers?",
+        a: "Yes, we service Silicon Heights, Axis Residences, Silicon Gates, and all surrounding residential buildings with elevator protection and prompt collection.",
+      },
+      {
+        q: "Do you handle villa clearances in Cedre and Semmer Villas?",
+        a: "Yes, our crews frequently handle full villa move-out clearances, garage cleanouts, and garden waste in Cedre and Semmer communities.",
+      },
+    ],
+  ),
+  A(
+    "international-city",
+    "International City",
+    "Affordable, fast junk removal across all International City country clusters.",
+    "Reliable, cost-effective junk and bulky waste collection across China, England, France, Spain, Greece, Italy, Emirates, Russia, Persia, and CBD clusters. We provide rapid same-day removal for studio and 1-bedroom apartments, commercial retail shops, and warehouses.",
+    "1517512006864-7edc3b933137",
+    "Mixed",
+    ["All Country Clusters & CBD", "Budget-Friendly Same-Day", "No Minimum Load Requirement"],
+    [
+      {
+        q: "Do you have a minimum load requirement for International City pickups?",
+        a: "No minimum load required. Whether you need a single mattress, a washing machine, or a full studio clearance hauled away, we provide transparent on-site pricing.",
+      },
+      {
+        q: "How quickly can you arrive in International City?",
+        a: "With dedicated transport vans operating around Warsan and Dragon Mart, our crews typically reach International City clusters within 30 minutes.",
+      },
+      {
+        q: "Can you clear commercial waste and retail shop junk in International City?",
+        a: "Yes, we clear packaging waste, pallets, retail stockroom clutter, and obsolete shop furnishings across CBD and commercial zones.",
+      },
+    ],
+  ),
+  A(
+    "deira",
+    "Deira",
+    "Commercial shopfront cleanouts, hotel logistics, and residential pickup in Deira.",
+    "Historic district waste clearance specialists covering Al Rigga, Al Muraqqabat, Port Saeed, Naif, and Al Garhoud. Our experienced teams navigate traditional narrow streets, busy commercial wholesale corridors, and older residential buildings with zero disruption.",
+    "1512453979798-5ea266f8880c",
+    "Mixed",
+    ["Al Rigga & Port Saeed", "Wholesale & Shop Clearance", "Tight Street Logistics"],
+    [
+      {
+        q: "How do you manage parking and loading in congested Deira areas like Naif or Al Rigga?",
+        a: "Our drivers use agile, compact low-emission haulers and schedule early-morning or late-night pickup windows to avoid peak market congestion.",
+      },
+      {
+        q: "Do you offer regular commercial rubbish collection contracts for Deira businesses?",
+        a: "Yes, we offer recurring scheduled junk collection and carton/packaging clearance for traders, hotels, and retail stores across Deira.",
+      },
+      {
+        q: "Can you clear bulk furniture and appliances from older Deira apartment buildings?",
+        a: "Yes, our heavy lifting teams handle multi-story stair carries and apartment cleanouts safely and swiftly.",
+      },
+    ],
+  ),
+  A(
+    "bur-dubai",
+    "Bur Dubai",
+    "Heritage area apartment, embassy, and commercial office junk removal.",
+    "Trusted property clearance services across Al Mankhool, Al Karama, Oud Metha, Al Fahidi, and Meena Bazaar. We provide discreet, eco-certified removals for residential apartments, medical clinics, consulates, and commercial offices with meticulous floor and wall protection.",
+    "1518684079-3c830dcef090",
+    "Mixed",
+    ["Al Mankhool & Karama", "Embassy & Clinic Cleanouts", "Careful Floor Protection"],
+    [
+      {
+        q: "Do you service medical facilities, consulates, and offices in Bur Dubai?",
+        a: "Yes, we provide non-hazardous office clearance, archive document destruction, and commercial decommissioning for consulates, clinics, and law firms in Bur Dubai.",
+      },
+      {
+        q: "Can you remove heavy old wooden wardrobes and furniture in Al Mankhool?",
+        a: "Yes, our crew brings dismantling tools to take down bulky antique or modular furniture and safely move it through vintage building corridors.",
+      },
+      {
+        q: "Are same-day emergency slots available in Bur Dubai?",
+        a: "Yes, we offer urgent 30-minute response times for tenancy end-of-lease handovers across Bur Dubai and Karama.",
+      },
+    ],
+  ),
+  A(
+    "town-square",
+    "Town Square",
+    "Modern townhouse and apartment junk removal in Nshama Town Square.",
+    "Complete junk and rubbish clearance for Nshama Town Square communities including Zahra, Hayat, Noor, Safi, Warda, and Jenna. We handle townhouse backyard garden clearances, balcony furniture, moving box disposal, and full tenancy handover preparation.",
+    "1546412414-e1885259563a",
+    "Residential",
+    ["Zahra, Hayat & Noor", "Townhouse Garden Waste", "End-of-Tenancy Handover"],
+    [
+      {
+        q: "Do you service both apartments (Zahra/Jenna) and townhouses (Noor/Hayat) in Town Square?",
+        a: "Yes, we service all apartment buildings and townhouse phases throughout Nshama Town Square with tailored equipment for each property style.",
+      },
+      {
+        q: "Can you clear accumulated garden debris and outdoor BBQ sets in Town Square townhouses?",
+        a: "Yes, we haul away overgrown vegetation, soil sacks, damaged patio furniture, umbrellas, and BBQ fixtures in a single visit.",
+      },
+      {
+        q: "Do you recycle the items collected from Town Square?",
+        a: "Yes, all collected items are sorted at our eco-facility where metals, cardboard, plastics, and reusable furniture are diverted from landfills.",
+      },
+    ],
+  ),
+  A(
+    "remraam",
+    "Remraam",
+    "Affordable apartment junk and terrace furniture removal in Remraam.",
+    "Dedicated residential junk removal across Al Ramth and Al Thamam clusters in Remraam. We specialize in podium-level apartment clearances, bulky mattress and sofa disposal, balcony clutter clearing, and family move-out waste.",
+    "1517512006864-7edc3b933137",
+    "Residential",
+    ["Al Ramth & Al Thamam", "Podium & Terrace Clearances", "Affordable Same-Day Slots"],
+    [
+      {
+        q: "Do you service both Al Ramth and Al Thamam clusters in Remraam?",
+        a: "Yes, our mobile crews operate across both Al Ramth and Al Thamam residential sectors with full community gate access.",
+      },
+      {
+        q: "Can you remove heavy items from upper-floor apartments in Remraam?",
+        a: "Yes, our team handles elevator transport and stair carries with full padding to ensure no marks on walls or building lobbies.",
+      },
+      {
+        q: "Can you haul away old barbecue sets and outdoor furniture from Remraam terraces?",
+        a: "Yes, we clear terrace furniture, planters, broken parasols, and outdoor storage units with responsible recycling.",
+      },
+    ],
+  ),
+  A(
+    "jumeirah-lake-towers",
+    "Jumeirah Lake Towers (JLT)",
+    "High-rise apartment, DMCC office cleanouts, and e-waste pickup in JLT.",
+    "Specialized high-rise junk removal across all 26 clusters (A to Z) in Jumeirah Lake Towers. We handle corporate DMCC office cleanouts, IT server decommissioning, retail cafe junk clearance, and residential high-rise furniture removals with service lift coordination.",
+    "1512453979798-5ea266f8880c",
+    "Mixed",
+    ["Clusters A–Z & DMCC", "Service-Lift Coordinated", "Corporate IT & E-Waste"],
+    [
+      {
+        q: "Do you coordinate service lift bookings with building security in JLT?",
+        a: "Yes, we coordinate directly with JLT tower management and building security to ensure loading bay permits and service elevator padding.",
+      },
+      {
+        q: "Do you handle out-of-hours office cleanouts in DMCC towers?",
+        a: "Yes, we offer after-hours (evenings and weekends) commercial removals to avoid disruption to your office workforce.",
+      },
+      {
+        q: "Can you dispose of old office electronics, printers, and monitors from JLT offices?",
+        a: "Yes, we provide certified electronic waste disposal with documented landfill diversion for all IT hardware.",
+      },
+    ],
+  ),
+  A(
+    "umm-suqeim",
+    "Umm Suqeim",
+    "Coastal luxury villa clearance and garden waste removal in Umm Suqeim.",
+    "White-glove junk removal for luxury villas and private residences across Umm Suqeim 1, 2, 3, Madinat Jumeirah Living, and Kite Beach. We manage full villa estate cleanouts, mature garden landscaping debris, pool deck furniture disposal, and respectful donation sorting.",
+    "1518684079-3c830dcef090",
+    "Residential",
+    ["Umm Suqeim 1, 2, 3 & MJL", "Coastal Villa Specialists", "Discreet & Insured Handling"],
+    [
+      {
+        q: "Do you provide private, discreet villa clearances in Umm Suqeim?",
+        a: "Yes, our uniformed crews operate with unmarked or discreet low-emission vehicles and respect privacy standards for prestigious coastal villas.",
+      },
+      {
+        q: "Can you collect bulky garden trimmings and palm tree waste in Umm Suqeim?",
+        a: "Yes, we have high-capacity green waste trucks to haul away large volumes of palm fronds, branches, and garden landscaping clutter.",
+      },
+      {
+        q: "Do you service Madinat Jumeirah Living (MJL) apartments?",
+        a: "Yes, we service MJL residences with elevator protection, parking coordination, and same-day furniture pickup.",
+      },
+    ],
+  ),
+  A(
+    "al-sufouh",
+    "Al Sufouh",
+    "Villa clearances, Knowledge Park, and Media City commercial cleanouts.",
+    "Versatile junk removal serving Al Sufouh 1, Al Sufouh 2, Dubai Knowledge Park, and Dubai Media City. We provide specialized clearances for media production studios, educational institutions, university campuses, and beachside residential villas.",
+    "1745750434535-5943ef2fd31a",
+    "Mixed",
+    ["Al Sufouh 1 & 2", "Media City & Knowledge Park", "Studio & Commercial Clearances"],
+    [
+      {
+        q: "Do you handle media studio, stage prop, and fit-out waste in Al Sufouh?",
+        a: "Yes, we clear temporary exhibition structures, media sets, broken audio-visual gear, and studio props across Dubai Media City and Al Sufouh.",
+      },
+      {
+        q: "Can you clear university and school campus surplus furniture in Knowledge Park?",
+        a: "Yes, we provide bulk removal of classroom desks, chairs, library shelving, and administrative office furnishings with full recycling receipts.",
+      },
+      {
+        q: "Is same-day villa pickup available in Al Sufouh 1 and 2?",
+        a: "Yes, our local dispatch units cover Al Sufouh residential streets with same-day response times within 30 to 45 minutes.",
+      },
+    ],
+  ),
 ];
+
+
+
 
 export const getArea = (slug: string) => AREAS.find((a) => a.slug === slug) ?? null;

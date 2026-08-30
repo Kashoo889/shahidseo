@@ -3,7 +3,10 @@ import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { Leaf, ShieldCheck, Clock, Eye } from "lucide-react";
 import { CTASection } from "@/components/sections/CTASection";
+import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
+import { Seo } from "@/components/Seo";
 import { telHref } from "@/data/contact";
+import { aboutPageSchema, breadcrumbSchema } from "@/lib/schema";
 
 const values = [
   {
@@ -38,15 +41,37 @@ const trust = [
   "Fully Insured Junk Experts",
 ];
 
+const breadcrumbsData = [
+  { name: "Home", path: "/" },
+  { name: "About Us", path: "/about" },
+];
+
 export default function About() {
+  const schemas = [
+    aboutPageSchema(breadcrumbsData),
+    breadcrumbSchema(breadcrumbsData),
+  ];
+
   return (
     <>
+      <Seo jsonLd={schemas} />
+
+      <Container className="pt-6">
+        <Breadcrumbs
+          items={[
+            { label: "Home", href: "/" },
+            { label: "About Us" },
+          ]}
+        />
+      </Container>
+
       <section className="py-12 sm:py-16">
         <Container className="grid items-center gap-10 lg:grid-cols-2">
           <div>
             <span className="text-xs font-semibold uppercase tracking-wider text-primary">
               Redefining Junk Removal
             </span>
+
             <h1 className="mt-3 text-4xl font-extrabold leading-tight text-ink sm:text-5xl">
               Leading Dubai's Transition to{" "}
               <span className="text-primary">Sustainable Waste Management.</span>
@@ -73,7 +98,7 @@ export default function About() {
           <div className="overflow-hidden rounded-3xl shadow-card">
             <Image
               src="https://images.unsplash.com/photo-1776885008664-68b2988373e6?auto=format&fit=crop&w=1200&h=800&q=70"
-              alt="Junk removal team loading furniture into a truck"
+              alt="Professional junk removal crew clearing and loading furniture in Dubai"
               width={1200}
               height={800}
               priority
@@ -88,11 +113,12 @@ export default function About() {
           <div className="relative">
             <Image
               src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=900&h=900&q=80"
-              alt="Modern office"
+              alt="Sustainable commercial office clearance and furniture disposal in Dubai"
               width={900}
               height={900}
               className="h-auto w-full rounded-3xl object-cover"
             />
+
             <div className="absolute -bottom-4 -right-2 rounded-2xl bg-primary px-5 py-4 text-primary-foreground shadow-card sm:-right-6">
               <div className="text-2xl font-extrabold">10k+</div>
               <div className="text-xs font-semibold uppercase tracking-wider">

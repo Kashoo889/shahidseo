@@ -5,10 +5,12 @@ import { Container } from "@/components/ui/Container";
 import { SERVICES } from "@/data/services";
 import { AREAS } from "@/data/areas";
 
-const transparency = [
+const resources = [
+  { label: "Blog & Guides", to: "/blog" },
   { label: "Sustainability Report", to: "/about" },
   { label: "Electronic Junk Removal", to: "/services/appliance-removal-dubai" },
 ];
+
 
 export function Footer() {
   return (
@@ -43,7 +45,8 @@ export function Footer() {
             to: `/services/${s.slug}`,
           }))}
         />
-        <FooterCol title="Transparency" links={transparency} />
+        <FooterCol title="Resources" links={resources} />
+
         <FooterCol
           title="Areas"
           links={[

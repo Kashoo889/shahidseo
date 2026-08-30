@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { SERVICES, getService } from "@/data/services";
 import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
-import { breadcrumbSchema } from "@/lib/schema";
 import { createMetadata } from "@/lib/seo";
+
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -41,19 +41,6 @@ export default async function ServiceDetailPage({ params }: Props) {
     notFound();
   }
 
-  const breadcrumb = breadcrumbSchema([
-    { name: "Home", path: "/" },
-    { name: "Services", path: "/services" },
-    { name: service.title, path: `/services/${service.slug}` },
-  ]);
-
-  return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }}
-      />
-      <ServicePageTemplate service={service} />
-    </>
-  );
+  return <ServicePageTemplate service={service} />;
 }
+

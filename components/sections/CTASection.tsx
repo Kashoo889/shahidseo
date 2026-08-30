@@ -2,18 +2,19 @@ import { telHref, waHref } from "@/data/contact";
 import { Container } from "@/components/ui/Container";
 
 type Props = {
-  title: string;
+  title?: string;
   description?: string;
   primaryLabel?: string;
   secondaryLabel?: string;
 };
 
 export function CTASection({
-  title,
-  description,
+  title = "Ready to clear your space the premium way?",
+  description = "Book a professional pickup today and receive a detailed environmental impact report for your household or business.",
   primaryLabel = "Book a Pickup",
   secondaryLabel = "WhatsApp Us",
-}: Props) {
+}: Props = {}) {
+
   return (
     <section className="py-16 sm:py-20">
       <Container>
@@ -27,7 +28,7 @@ export function CTASection({
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <a
               href={telHref}
-              className="rounded-full bg-primary-foreground px-6 py-3 text-sm font-semibold text-white transition hover:brightness-95"
+              className="rounded-full bg-ink px-7 py-3.5 text-sm font-bold text-white shadow-soft transition hover:bg-ink/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-ink"
             >
               {primaryLabel}
             </a>
@@ -35,7 +36,7 @@ export function CTASection({
               href={waHref}
               target="_blank"
               rel="noreferrer"
-              className="rounded-full border border-primary-foreground bg-primary-foreground px-6 py-3 text-sm font-semibold text-white transition hover:brightness-95"
+              className="rounded-full border-2 border-ink/25 bg-ink/10 px-7 py-3.5 text-sm font-bold text-ink transition hover:bg-ink/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-ink"
             >
               {secondaryLabel}
             </a>
@@ -45,3 +46,4 @@ export function CTASection({
     </section>
   );
 }
+

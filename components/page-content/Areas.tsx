@@ -4,18 +4,47 @@ import { useState } from "react";
 import Image from "next/image";
 import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
+import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
+import { Seo } from "@/components/Seo";
 import { AREAS } from "@/data/areas";
 import { AreaCard } from "@/components/sections/AreaCard";
 import { CTASection } from "@/components/sections/CTASection";
 import { telHref } from "@/data/contact";
+import { collectionPageSchema, breadcrumbSchema } from "@/lib/schema";
+
+const breadcrumbsData = [
+  { name: "Home", path: "/" },
+  { name: "Areas We Serve", path: "/areas" },
+];
 
 export default function Areas() {
   const [query, setQuery] = useState("");
   const q = query.trim().toLowerCase();
   const filtered = q ? AREAS.filter((a) => a.name.toLowerCase().includes(q)) : AREAS;
 
+  const schemas = [
+    collectionPageSchema({
+      name: "Areas We Serve | Junk Removal Dubai - EcoHaul Dubai",
+      description: `EcoHaul covers ${AREAS.length} Dubai communities including Marina, Palm Jumeirah, Downtown, Business Bay, JVC, Arabian Ranches, Emirates Hills and more.`,
+      path: "/areas",
+      breadcrumbs: breadcrumbsData,
+    }),
+    breadcrumbSchema(breadcrumbsData),
+  ];
+
   return (
     <>
+      <Seo jsonLd={schemas} />
+
+      <Container className="pt-6">
+        <Breadcrumbs
+          items={[
+            { label: "Home", href: "/" },
+            { label: "Areas We Serve" },
+          ]}
+        />
+      </Container>
+
       <section className="py-12 sm:py-16">
         <Container className="grid items-center gap-10 lg:grid-cols-2">
           <div>
@@ -23,8 +52,9 @@ export default function Areas() {
               Local Junk Experts
             </span>
             <h1 className="mt-4 text-4xl font-extrabold leading-tight text-ink sm:text-5xl">
-              Junk Removal Across the <span className="text-primary">Dubai.</span>
+              Junk Removal Across <span className="text-primary">Dubai.</span>
             </h1>
+
             <p className="mt-4 max-w-lg text-muted-foreground">
               From the heights of Dubai Marina to the family communities in JVC, we provide premium,
               eco-conscious removal services wherever you are located.
@@ -41,11 +71,12 @@ export default function Areas() {
           <div className="relative overflow-hidden rounded-3xl bg-surface-muted p-6 shadow-card">
             <Image
               src="https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1200&h=800&q=80"
-              alt="Dubai map coverage"
+              alt="Live junk removal and same-day coverage network across Dubai communities"
               width={1200}
               height={800}
               className="h-72 w-full rounded-2xl object-cover sm:h-96"
             />
+
             <div className="absolute bottom-10 left-10 rounded-2xl bg-surface px-5 py-3 shadow-card">
               <div className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
                 Live Coverage

@@ -1,13 +1,43 @@
 import Link from "next/link";
 import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
+import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
+import { Seo } from "@/components/Seo";
 import { SERVICES } from "@/data/services";
 import { CTASection } from "@/components/sections/CTASection";
 import { ProcessSteps, DEFAULT_STEPS } from "@/components/sections/ProcessSteps";
+import { collectionPageSchema, breadcrumbSchema } from "@/lib/schema";
+
+const breadcrumbsData = [
+  { name: "Home", path: "/" },
+  { name: "Services", path: "/services" },
+];
 
 export default function Services() {
+  const schemas = [
+    collectionPageSchema({
+      name: "Junk Removal Services Dubai | EcoHaul Dubai",
+      description:
+        "Full range of junk removal services in Dubai for furniture, appliances, office cleanouts, garden waste, house clearance, and same day pickup.",
+      path: "/services",
+      breadcrumbs: breadcrumbsData,
+    }),
+    breadcrumbSchema(breadcrumbsData),
+  ];
+
   return (
     <>
+      <Seo jsonLd={schemas} />
+
+      <Container className="pt-6">
+        <Breadcrumbs
+          items={[
+            { label: "Home", href: "/" },
+            { label: "Services" },
+          ]}
+        />
+      </Container>
+
       <section className="py-12 sm:py-16">
         <Container>
           <span className="inline-flex items-center rounded-full bg-primary-soft px-3 py-1 text-xs font-semibold text-accent-foreground">
@@ -22,6 +52,7 @@ export default function Services() {
           </p>
         </Container>
       </section>
+
 
       <section className="pb-16">
         <Container>

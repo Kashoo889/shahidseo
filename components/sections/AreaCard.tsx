@@ -39,11 +39,12 @@ export function AreaCard({ area, variant = "image" }: { area: Area; variant?: "i
     >
       <Image
         src={area.image}
-        alt={`${area.name} junk removal`}
+        alt={`Junk removal and waste pickup in ${area.name}, Dubai`}
         fill
         sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
         className="object-cover transition duration-500 group-hover:scale-105"
       />
+
       <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/30 to-transparent" />
       <div className="absolute inset-x-0 bottom-0 p-5 text-white">
         <h3 className="text-lg font-bold text-white sm:text-xl">{area.name}</h3>

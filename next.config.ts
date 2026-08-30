@@ -5,30 +5,25 @@ import type { NextConfig } from "next";
 // point to the closest relevant area, or to the /areas index when there is no
 // sensible 1:1 replacement. Keeps previously-indexed URLs out of 404s.
 const areaRedirects = [
-  // Renamed (same community, new slug)
+  // Renamed short slugs (redirect to full canonical community slug)
   { from: "/areas/jvc", to: "/areas/jumeirah-village-circle" },
+  { from: "/areas/jvt", to: "/areas/jumeirah-village-triangle" },
+  { from: "/areas/jlt", to: "/areas/jumeirah-lake-towers" },
   { from: "/areas/motor-city", to: "/areas/dubai-motor-city" },
   { from: "/areas/sports-city", to: "/areas/dubai-sports-city" },
   { from: "/areas/springs", to: "/areas/the-springs" },
-  // Removed → nearest relevant community
-  { from: "/areas/jvt", to: "/areas/jumeirah-village-circle" },
-  { from: "/areas/meadows", to: "/areas/the-springs" },
-  // Removed → no sensible 1:1 replacement, send to the index
-  { from: "/areas/al-barsha", to: "/areas" },
-  { from: "/areas/discovery-gardens", to: "/areas" },
-  { from: "/areas/mirdif", to: "/areas" },
-  { from: "/areas/dubai-silicon-oasis", to: "/areas" },
-  { from: "/areas/international-city", to: "/areas" },
-  { from: "/areas/deira", to: "/areas" },
-  { from: "/areas/bur-dubai", to: "/areas" },
-  { from: "/areas/town-square", to: "/areas" },
-  { from: "/areas/remraam", to: "/areas" },
+  { from: "/areas/meadows", to: "/areas/the-meadows" },
 ];
+
+
+
 
 const nextConfig: NextConfig = {
   images: {
+    formats: ["image/avif", "image/webp"],
     remotePatterns: [{ protocol: "https", hostname: "images.unsplash.com" }],
   },
+
   async redirects() {
     // statusCode 301 (rather than `permanent: true`, which emits 308) to match
     // the canonical "301 Moved Permanently" expected for retired SEO URLs.

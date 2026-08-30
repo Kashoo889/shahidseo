@@ -12,6 +12,7 @@ import { FAQList } from "@/components/sections/FAQList";
 import { CTASection } from "@/components/sections/CTASection";
 import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { telHref, waHref } from "@/data/contact";
+import { serviceSchema, faqSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
 
 const whyIcons = [ShieldCheck, Leaf, Clock];
 
@@ -19,29 +20,28 @@ export function ServicePageTemplate({ service }: { service: Service }) {
   const others = SERVICES.filter((s) => s.slug !== service.slug).slice(0, 3);
   const featuredAreas = AREAS.slice(0, 10);
 
+  const breadcrumbsData = [
+    { name: "Home", path: "/" },
+    { name: "Services", path: "/services" },
+    { name: service.title, path: `/services/${service.slug}` },
+  ];
+
   const jsonLd = [
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      name: service.title,
+    serviceSchema(service),
+    faqSchema(service.faqs),
+    breadcrumbSchema(breadcrumbsData),
+    webPageSchema({
+      title: `${service.title} | EcoHaul Dubai`,
       description: service.description,
-      areaServed: { "@type": "City", name: "Dubai" },
-      provider: { "@type": "LocalBusiness", name: "EcoHaul Dubai" },
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      mainEntity: service.faqs.map((f) => ({
-        "@type": "Question",
-        name: f.q,
-        acceptedAnswer: { "@type": "Answer", text: f.a },
-      })),
-    },
+      path: `/services/${service.slug}`,
+      breadcrumbs: breadcrumbsData,
+    }),
   ];
 
   return (
     <>
       <Seo jsonLd={jsonLd} />
+
 
       <Container className="pt-6">
         <Breadcrumbs
@@ -86,13 +86,14 @@ export function ServicePageTemplate({ service }: { service: Service }) {
           <div className="overflow-hidden rounded-3xl shadow-card">
             <Image
               src={service.heroImage}
-              alt={service.title}
+              alt={`${service.title} in Dubai — professional removal and disposal`}
               width={1200}
               height={800}
               priority
               className="h-full w-full object-cover"
             />
           </div>
+
         </Container>
       </section>
 
@@ -215,11 +216,12 @@ export function ServicePageTemplate({ service }: { service: Service }) {
               >
                 <Image
                   src={s.heroImage}
-                  alt={s.title}
+                  alt={`${s.title} in Dubai`}
                   fill
                   sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
                   className="object-cover transition group-hover:scale-105"
                 />
+
                 <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/30 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 p-5 text-white">
                   <h3 className="text-lg font-bold text-white">{s.shortTitle}</h3>

@@ -8,6 +8,7 @@ import { SERVICES } from "@/data/services";
 import { AREAS } from "@/data/areas";
 import { CTASection } from "@/components/sections/CTASection";
 import { telHref } from "@/data/contact";
+import { webSiteSchema, localBusinessSchema, webPageSchema } from "@/lib/schema";
 
 const trustItems = [
   { icon: Check, label: "Eco-Friendly Certified" },
@@ -37,18 +38,21 @@ export default function Home() {
   const featured = SERVICES[0];
   const tiles = SERVICES.slice(1, 4);
 
+  const homeSchemas = [
+    webSiteSchema(),
+    localBusinessSchema(),
+    webPageSchema({
+      title: "Junk Removal Dubai | Same-Day Pickup & Disposal | EcoHaul",
+      description:
+        "Premium junk removal services in Dubai. Same-day pickup for furniture, appliances, garden waste, rubbish and house clearance. Call 050 285 6200 to book.",
+      path: "/",
+    }),
+  ];
+
   return (
     <>
-      <Seo
-        jsonLd={{
-          "@context": "https://schema.org",
-          "@type": "LocalBusiness",
-          name: "EcoHaul Dubai",
-          telephone: "+971502856200",
-          areaServed: { "@type": "City", name: "Dubai" },
-          address: { "@type": "PostalAddress", addressLocality: "Dubai", addressCountry: "AE" },
-        }}
-      />
+      <Seo jsonLd={homeSchemas} />
+
 
       {/* Hero */}
       <section className="py-12 sm:py-16">
@@ -127,11 +131,12 @@ export default function Home() {
             >
               <Image
                 src={featured.heroImage}
-                alt={featured.title}
+                alt={`${featured.title} service in Dubai`}
                 fill
                 sizes="(min-width: 1024px) 66vw, 100vw"
                 className="object-cover transition group-hover:scale-105"
               />
+
               <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/40 to-transparent" />
               <div className="absolute inset-x-0 bottom-0 p-8 text-white">
                 <span className="rounded-full bg-primary px-3 py-1 text-[10px] font-bold uppercase tracking-wider">
@@ -212,7 +217,7 @@ export default function Home() {
           <div className="grid grid-cols-2 gap-4">
             <Image
               src="https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=600&h=600&q=80"
-              alt="Junk sorting and disposal"
+              alt="Eco-friendly junk sorting, separation, and material diversion in Dubai"
               width={600}
               height={600}
               className="h-full w-full rounded-2xl object-cover"
@@ -226,13 +231,14 @@ export default function Home() {
             <div className="col-span-2 overflow-hidden rounded-2xl">
               <Image
                 src="https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1200&h=500&q=80"
-                alt="Sustainability"
+                alt="Responsible waste management and recycling operations across Dubai"
                 width={1200}
                 height={500}
                 className="h-48 w-full object-cover"
               />
             </div>
           </div>
+
         </Container>
       </section>
 
@@ -281,11 +287,12 @@ export default function Home() {
               >
                 <Image
                   src={a.image}
-                  alt={a.name}
+                  alt={`Junk removal services in ${a.name}, Dubai`}
                   fill
                   sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
                   className="object-cover transition group-hover:scale-105"
                 />
+
                 <div className="absolute inset-0 bg-gradient-to-t from-ink/85 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 p-4 text-white">
                   <h3 className="text-base font-bold text-white">{a.name}</h3>
