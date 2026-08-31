@@ -44,7 +44,7 @@ export default function Home() {
     webPageSchema({
       title: "Junk Removal Dubai | Same-Day Pickup & Disposal | EcoHaul",
       description:
-        "Premium junk removal services in Dubai. Same-day pickup for furniture, appliances, garden waste, rubbish and house clearance. Call 050 285 6200 to book.",
+        "Premium junk removal services in Dubai. Same-day pickup for furniture, appliances, garden waste, rubbish and house clearance. Call 055 154 7371 to book.",
       path: "/",
     }),
   ];

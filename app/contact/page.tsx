@@ -5,7 +5,7 @@ import { createMetadata } from "@/lib/seo";
 export const metadata: Metadata = createMetadata({
   title: "Contact EcoHaul Dubai | Junk Removal Experts",
   description:
-    "Get in touch for premium junk removal in Dubai. Call 050 285 6200, WhatsApp 24/7, or send a message to schedule a pickup.",
+    "Get in touch for premium junk removal in Dubai. Call 055 154 7371, WhatsApp 24/7, or send a message to schedule a pickup.",
   path: "/contact",
 });
 
