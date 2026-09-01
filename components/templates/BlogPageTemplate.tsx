@@ -200,6 +200,19 @@ export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
                   </p>
                 ))}
 
+                {section.image && (
+                  <div className="my-6 overflow-hidden rounded-2xl shadow-soft">
+                    <Image
+                      src={section.image.src}
+                      alt={section.image.alt}
+                      width={1200}
+                      height={800}
+                      sizes="(min-width: 1024px) 800px, 100vw"
+                      className="h-auto w-full object-cover max-h-[450px]"
+                    />
+                  </div>
+                )}
+
                 {section.callout && (
                   <div className="rounded-xl border-l-4 border-primary bg-surface-muted p-5 shadow-soft">
                     <div className="text-sm font-bold text-ink">{section.callout.title}</div>

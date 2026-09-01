@@ -12,6 +12,10 @@ export type BlogSection = {
     title: string;
     text: string;
   };
+  image?: {
+    src: string;
+    alt: string;
+  };
 };
 
 export type BlogPost = {
@@ -362,6 +366,289 @@ export const BLOG_POSTS: BlogPost[] = [
       "office-cleanout-dubai",
     ],
     relatedAreas: ["dubai-marina", "jumeirah-lake-towers", "business-bay", "arabian-ranches"],
+  },
+  {
+    slug: "how-much-does-junk-removal-cost-in-dubai",
+    title: "How Much Does Junk Removal Cost in Dubai? 2026 Pricing Guide",
+    excerpt:
+      "A realistic breakdown of junk removal costs in Dubai: volume-based truck pricing, single-item rates, what is included in the fee, and how to avoid surprise charges.",
+    category: "Guides",
+    tags: ["Cost Guide", "Pricing Breakdown", "Truck Load Rates", "Disposal Fees"],
+    coverImage: u("1584622650111-993a426fbf0a"),
+    coverImageAlt:
+      "EcoHaul junk removal crew loading bulky household items and furniture into an open-bed collection truck in Dubai",
+    publishedAt: "2026-09-01",
+    readingTime: "8 min read",
+    author: {
+      name: "The Bukhari Agency",
+      role: "Author",
+    },
+    takeaways: [
+      "Junk removal in Dubai is priced by truck volume (from 1/4 truck to full truck) rather than open-ended hourly rates, with single items starting from AED 150–250.",
+      "A transparent fixed quote bundles heavy lifting, dismantling, service-lift transit, transport, and certified municipal disposal fees.",
+      "Free or suspiciously cheap collection offers often cherry-pick valuable items and leave the heavy, difficult junk behind.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how much does junk removal cost in Dubai?",
+        content: [
+          "Most professional junk removal jobs in Dubai cost between AED 150 for a single bulky item and AED 1,200 to AED 2,200 for a full 3-tonne truckload. A quarter truck typically costs AED 350 to AED 500, while a half truck averages AED 650 to AED 900.",
+          "Unlike markets that charge strictly by the hour or by weight at a tip scale, Dubai operators work almost exclusively on volume tiers — how much space your items take up in an open-bed or box removal truck. That rate includes the labour to carry items down service lifts, basic dismantling, and certified municipal disposal.",
+          "Here is a realistic look at how those volume tiers break down, what pushes a quote up or down, and what questions to ask so your final bill matches what you were promised.",
+        ],
+      },
+      {
+        heading: "Volume-based pricing: what each truck tier actually fits",
+        content: [
+          "Because Dubai living ranges from compact studio apartments in Jumeirah Village Circle to 6-bedroom villas in Arabian Ranches, junk haulers structure pricing around standardized 3-tonne truck capacity:",
+        ],
+        listItems: [
+          "Single Item Pickup (AED 150 – AED 250): Ideal for one large piece — a 3-seater sofa, a king mattress, a washing machine, or an unwanted refrigerator.",
+          "1/4 Truckload (AED 350 – AED 500): Fits 2 to 3 larger items plus several boxed goods, such as a dining table with chairs, a dismantled bed frame, and 8–10 storage containers.",
+          "1/2 Truckload (AED 650 – AED 900): Handles a complete 1-bedroom apartment clearout (living room sofa, TV unit, bed, mattress, balcony set, and miscellaneous household clutter).",
+          "Full Truckload (AED 1,200 – AED 1,800+): Accommodates major property cleanouts, multi-room clearances, full garage strip-outs, or large garden overhauls.",
+        ],
+      },
+      {
+        heading: "What should be included in your fixed quote",
+        content: [
+          "A reputable removal company gives you an all-inclusive quote before dispatching the crew. That number should not change unless you add extra items on the day.",
+          "In Dubai, an all-inclusive rate covers several operational costs that informal operators often try to bill separately:",
+        ],
+        listItems: [
+          "Two- or three-person crew labour for all heavy lifting and stair/lift transit.",
+          "Basic disassembly of bulky furniture (bed frames, modular wardrobes, large dining tables).",
+          "Floor runners and corner protection to prevent scuffs in communal hallways.",
+          "Commercial transport across Dubai in a licensed vehicle.",
+          "Tipping and gate fees at registered Dubai Municipality waste facilities or recycling hubs.",
+        ],
+        image: {
+          src: u("1532996122724-e3c354a0b15b"),
+          alt: "Organized residential junk pickup and waste sorting process outside a Dubai residential apartment complex",
+        },
+      },
+      {
+        heading: "The hidden cost of hourly rates and informal pickups",
+        content: [
+          "You will see informal classified ads offering junk removal for AED 50 or AED 80. While tempting for a quick budget clearout, informal pickups often end up costing significantly more in frustration and hidden expenses.",
+          "Unmetered hourly rates create an incentive for an under-equipped crew to work slowly, particularly when navigating slow service elevators in high-rise towers like Dubai Marina or Business Bay. A job quoted as 'AED 100 per hour' quickly becomes AED 400 when two workers take four hours to move what an experienced team clears in 45 minutes.",
+          "Worse, unlicensed operators lack access to official municipal transfer stations. When rogue haulers dump unwanted furniture in open desert plots or by communal community bins, municipal tracking can trace the waste back to the resident, resulting in fines ranging from AED 500 to AED 1,000.",
+        ],
+        callout: {
+          title: "The Fixed Quote Rule",
+          text: "Always insist on a written, photo-based quote before the truck arrives. If a company refuses to commit to a total fixed amount based on photos of your items, look elsewhere.",
+        },
+      },
+      {
+        heading: "How to get an accurate quote in under two minutes",
+        content: [
+          "Getting an exact price is straightforward when you provide the right details upfront. You do not need an in-person site visit for standard residential junk.",
+          "Snap a few clear photos or a quick 10-second video of everything that needs to go, including any disassembled parts or garage clutter. Mention your community and building type (e.g. a 25th-floor apartment in JLT requiring service lift booking, or a ground-floor villa in The Springs with direct driveway access).",
+          "With those details, an established team can calculate the exact volume tier and reply with a binding quote on WhatsApp within minutes.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "furniture-removal-dubai",
+      "house-clearance-dubai",
+      "same-day-junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "jumeirah-village-circle",
+      "business-bay",
+      "arabian-ranches",
+    ],
+  },
+  {
+    slug: "furniture-removal-cost-breakdown-dubai",
+    title: "Furniture Removal Cost in Dubai: Item-by-Item Price Breakdown",
+    excerpt:
+      "Detailed item-by-item pricing for furniture removal in Dubai: sofas, mattresses, wardrobes, dining sets, and what disassembly or high-rise access adds to the cost.",
+    category: "Guides",
+    tags: ["Furniture Removal", "Itemized Cost", "Sofa Disposal", "Mattress Removal"],
+    coverImage: u("1555041469-a586c61ea9bc"),
+    coverImageAlt:
+      "EcoHaul crew disassembling and preparing a large modular sectional sofa for removal in a Dubai living room",
+    publishedAt: "2026-09-01",
+    readingTime: "7 min read",
+    author: {
+      name: "The Bukhari Agency",
+      role: "Author",
+    },
+    takeaways: [
+      "Single-piece furniture removal in Dubai typically ranges from AED 150 to AED 350, depending on piece dimensions and disassembly requirements.",
+      "Large multi-part items like 6-door wardrobes or modular sectionals require mechanical dismantling to clear standard Dubai doorway and lift dimensions.",
+      "Bundling multiple furniture pieces into one consolidated pickup cuts your per-item cost by up to 40% compared to separate bookings.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: average furniture removal prices by item",
+        content: [
+          "Removing individual furniture items in Dubai typically costs between AED 150 and AED 350 for single pieces, and AED 450 to AED 900 for multi-piece room sets. A standard mattress or 2-seater sofa is priced at AED 150 to AED 220, whereas large sectional sofas or multi-door wardrobes that require dismantling average AED 300 to AED 450.",
+          "Unlike general junk where loose items are bagged and tossed into a truck, furniture disposal in Dubai requires handling heavy weights, protecting apartment walls during tight corner turns, and dismantling large units on site. Here is the realistic item-by-item cost breakdown across common household furniture.",
+        ],
+      },
+      {
+        heading: "Item-by-item cost guide for Dubai homes",
+        content: [
+          "Prices reflect typical all-inclusive removal rates across Dubai, covering dismantling, carrying down service lifts, loading, and disposal:",
+        ],
+        listItems: [
+          "Armchairs & Accent Chairs: AED 100 – AED 150 per chair.",
+          "2-to-3-Seater Fabric or Leather Sofas: AED 180 – AED 250.",
+          "L-Shaped & U-Shaped Sectional Couches: AED 300 – AED 450 (includes modular separation and wrapping).",
+          "Mattresses (Single to King Size): AED 150 – AED 220.",
+          "Bed Frames & Storage Beds: AED 200 – AED 350 (includes mechanical disassembly of slats and hydraulics).",
+          "2-to-3-Door Freestanding Wardrobes: AED 220 – AED 320.",
+          "4-to-6-Door Large Wardrobes: AED 350 – AED 500 (requires full panel-by-panel teardown).",
+          "Dining Tables & 4–6 Chairs: AED 250 – AED 380.",
+          "Heavy Outdoor Rattan Sets & Patio Loungers: AED 200 – AED 350.",
+        ],
+      },
+      {
+        heading: "The 3 factors that influence your furniture removal price",
+        content: [
+          "While item dimensions form the baseline quote, three practical factors determine the final price:",
+          "1. Disassembly complexity: Modern flat-pack or modular furniture often requires specialized tools, particularly hydraulic storage beds and heavy particle-board wardrobes that cannot pass through corridors intact.",
+          "2. High-rise vs ground-floor access: Moving a large sectional down from a 40th-floor tower in Dubai Marina via a dedicated service lift takes different planning than carrying it out of a ground-floor villa in The Springs.",
+          "3. Material recycling and disposal routes: Solid wood and metal bedframes are routed directly to licensed Dubai recycling centres, while contaminated upholstery or worn foam mattresses require specialised handling at municipal facilities.",
+        ],
+        image: {
+          src: u("1586023492125-27b2c045efd7"),
+          alt: "Old mattress and disassembled bedroom furniture loaded carefully for sustainable recycling in Dubai",
+        },
+      },
+      {
+        heading: "Why bundling items saves you money",
+        content: [
+          "Because dispatching a truck and crew involves fixed transport and fuel costs, booking multiple pieces on the same run is significantly cheaper than scheduling individual pickups.",
+          "For example, clearing a sofa (AED 200), a dining table (AED 250), and an old mattress (AED 180) separately would cost AED 630. Booked together as a quarter-to-half truckload package, the combined price is typically AED 400 to AED 500 — saving over 20–35%.",
+        ],
+        callout: {
+          title: "Charity & Donation Routing",
+          text: "If your furniture is in good, gently-used condition, let your removal company know. Reputable haulers in Dubai partner with registered UAE charities to donate usable pieces, keeping quality items out of landfills.",
+        },
+      },
+      {
+        heading: "How to prepare furniture before the crew arrives",
+        content: [
+          "To make the removal process as fast as possible, run through a quick preparation check:",
+        ],
+        listItems: [
+          "Empty all drawers, shelves, and hidden storage compartments completely.",
+          "Clear personal items off side tables and surrounding pathways so the crew has a direct exit route.",
+          "Notify building security or book the service elevator 24 hours in advance if your building has strict move-in/move-out windows.",
+          "Take photos of the pieces in their current position to confirm your fixed quote on WhatsApp.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "furniture-removal-dubai",
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "house-clearance-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "downtown-dubai",
+      "jumeirah-lake-towers",
+      "the-springs",
+    ],
+  },
+  {
+    slug: "house-and-villa-clearance-cost-guide-dubai",
+    title: "House & Villa Clearance Cost Guide in Dubai: What to Expect",
+    excerpt:
+      "Planning a full property clearance in Dubai? Explore realistic cost benchmarks for apartments and villas, move-out handover standards, and garden/garage clearouts.",
+    category: "Guides",
+    tags: ["House Clearance", "Villa Clearance", "Move-Out Cost", "Tenancy Handover"],
+    coverImage: u("1613490493576-7fde63acd811"),
+    coverImageAlt:
+      "Large contemporary villa in a Dubai gated community undergoing complete interior and exterior move-out clearance",
+    publishedAt: "2026-09-01",
+    readingTime: "8 min read",
+    author: {
+      name: "The Bukhari Agency",
+      role: "Author",
+    },
+    takeaways: [
+      "Full property clearances in Dubai range from AED 500–900 for 1-bedroom apartments to AED 1,800–3,800+ for large 4 to 6-bedroom villas.",
+      "Villa clearances often require multi-truck fleets to clear outdoor pergolas, garden trimmings, maids' quarters, and packed garage workshops.",
+      "A thorough single-day clearance guarantees full compliance with landlord handover inspections, protecting your tenancy security deposit.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how much does house and villa clearance cost in Dubai?",
+        content: [
+          "A complete property clearance in Dubai costs between AED 500 and AED 1,200 for apartments (studios to 2-bedroom units) and AED 1,800 to AED 4,500+ for 3 to 6-bedroom villas. The total depends on overall truckload volume, outdoor garden structures, garage workshops, and dismantling requirements.",
+          "Unlike a standard junk pickup of a few unwanted items, a house or villa clearance means systematically stripping the entire property so it is broom-clean and compliant for a landlord tenancy handover, sale, or major renovation. Here is what you should expect to pay across different property sizes in Dubai.",
+        ],
+      },
+      {
+        heading: "Clearance cost benchmarks by property type and size",
+        content: [
+          "Property dimensions, room counts, and outdoor spaces determine how many truckloads and crew members are required:",
+        ],
+        listItems: [
+          "Studio & 1-Bedroom Apartments (AED 500 – AED 900 / 1–2 Truckloads): Covers bedroom furnishings, mattress, living room set, kitchen appliances, and balcony decluttering in high-rise towers like Dubai Marina or JVC.",
+          "2 to 3-Bedroom Apartments & Townhouses (AED 950 – AED 1,600 / 2–3 Truckloads): Full clearance of multiple bedrooms, dining areas, white goods, kids' play furniture, and storage room boxes.",
+          "3 to 4-Bedroom Standalone Villas (AED 1,800 – AED 2,800 / 3–5 Truckloads): Comprehensive interior clearout plus garage shelving, outdoor patio sets, and basic garden trimming waste in communities like Arabian Ranches or The Springs.",
+          "5+ Bedroom Luxury Estates (AED 3,000 – AED 4,500+ / Multi-Truck Dedicated Crew): Large-scale properties in Emirates Hills, Palm Jumeirah, or Dubai Hills Estate with outbuildings, maids' quarters, gym equipment, pergolas, and landscaped plots.",
+        ],
+      },
+      {
+        heading: "What separates a villa clearance from an apartment cleanout",
+        content: [
+          "Villa clearouts in Dubai present distinct challenges that do not exist in apartment buildings:",
+          "Outdoor garden debris: Dismantling weathered wooden pergolas, removing cracked ceramic plant pots, and hauling piles of trimmed palm fronds and green waste adds significant volume.",
+          "Garage and workshop storage: Garages often accumulate broken power tools, car parts, old paint tins, and heavy metal shelving units that require careful sorting.",
+          "Service quarters and annexes: Separate driver and maid quarters, rooftop utility areas, and external storage sheds must all be cleared to satisfy handover inspectors.",
+        ],
+        image: {
+          src: u("1600596542815-ffad4c1539a9"),
+          alt: "EcoHaul clearance team systematically emptying a spacious Dubai residence for landlord tenancy handover",
+        },
+      },
+      {
+        heading: "Protecting your security deposit during move-out",
+        content: [
+          "In Dubai, tenancy handover standards are strict. Under standard Ejari tenancy agreements, landlords and property management agencies expect the property to be returned vacant, de-cluttered, and ready for maintenance crews.",
+          "Leaving unwanted sofas, old curtains, or balcony artificial turf behind is one of the most common reasons landlords withhold funds from your security deposit — often charging inflated rates from the deposit balance to arrange emergency removals.",
+          "A professional clearance team leaves the property swept clean in a single morning, giving you documented proof that the property was vacated on time and in spotless condition.",
+        ],
+        callout: {
+          title: "Landlord Inspection Tip",
+          text: "Schedule your clearance 24 to 48 hours before your official tenancy inspection. This leaves ample time for final deep cleaning and maintenance touch-ups without overlapping contractors.",
+        },
+      },
+      {
+        heading: "What a standard full-day villa clearance timeline looks like",
+        content: [
+          "Knowing how the clearance day is structured helps you plan your moving schedule:",
+        ],
+        listItems: [
+          "08:00 AM: Crew arrives with dedicated 3-tonne trucks, floor runners, and disassembly toolkits.",
+          "08:30 AM – 11:30 AM: Systematic dismantling of wardrobes, bedframes, and large furniture, staging items for efficient truck loading.",
+          "12:00 PM – 02:00 PM: Clearing of kitchens, storage rooms, maids' quarters, and garage workbenches.",
+          "02:00 PM – 03:30 PM: Outdoor patio and garden clearance, followed by a complete broom sweep of all rooms and outdoor paving.",
+          "04:00 PM: Final property walkthrough with the tenant or property manager to verify total clearance.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "house-clearance-dubai",
+      "villa-clearance-dubai",
+      "garden-waste-removal-dubai",
+      "junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "emirates-hills",
+      "arabian-ranches",
+      "dubai-hills-estate",
+      "palm-jumeirah",
+    ],
   },
 ];
 
