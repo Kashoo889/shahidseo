@@ -122,3 +122,20 @@ graph TD
   2. Minimum 2 contextual links to relevant Area landing pages (`/areas/[slug]`).
   3. Minimum 1 contextual link to a related sibling Blog post (`/blog/[slug]`).
   4. 1 primary conversion link to `/contact` or WhatsApp.
+
+---
+
+## 4. Publication Progress (Updated 2026-09-02)
+
+- Published blog articles: **10 / 30 roadmap articles**
+- Phase 3 pricing and comparison layer: **6 / 6 complete**
+- Phase 4 regulatory and recycling pillars: **3 / 9 complete**
+- Other published roadmap work: **1 Phase 5 article**
+- Published today: **3**
+- Next priority: Phase 4 item 10, `dubai-municipality-bulky-waste-collection-explained`
+
+| Roadmap item | Primary keyword | Status | Published |
+|---|---|---|---|
+| Phase 4 #7 | `how to dispose of old furniture in dubai` | Published | 2026-09-02 |
+| Phase 4 #8 | `where to dispose e waste in dubai` | Published | 2026-09-02 |
+| Phase 4 #9 | `waste disposal rules dubai` | Published | 2026-09-02 |

@@ -4,6 +4,8 @@
 **Total Topic Clusters**: 18  
 **Cannibalization Policy**: Single primary URL mapping per search intent.
 
+**Publication sync (2026-09-02)**: 10 blog articles are live in `data/blog.ts`. Newly published primary mappings: `how to dispose of old furniture in dubai` → `/blog/how-to-dispose-of-large-furniture-in-dubai`; `where to dispose e waste in dubai` → `/blog/dubai-sustainable-waste-management-and-e-waste-guide`; `waste disposal rules dubai` → `/blog/dubai-municipality-waste-disposal-rules-and-regulations`. These informational URLs support, and do not replace, their commercial service-page mappings.
+
 *Reference documentation location*: [`.agents/memory/keywords.md`](file:///d:/Projects/Dubai/Uncle/.agents/memory/keywords.md)
 
 ---

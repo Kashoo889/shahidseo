@@ -21,6 +21,7 @@ export type BlogSection = {
 export type BlogPost = {
   slug: string;
   title: string;
+  seoTitle?: string;
   excerpt: string;
   category: "Guides" | "Eco & Recycling" | "Moving & Clearance" | "Commercial & Office";
   tags: string[];
@@ -47,6 +48,271 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 ];
 
 export const BLOG_POSTS: BlogPost[] = [
+  {
+    slug: "how-to-dispose-of-large-furniture-in-dubai",
+    title: "How to Dispose of Old Furniture in Dubai Without Dumping It",
+    seoTitle: "Old Furniture Disposal Dubai: 4 Responsible Options",
+    excerpt:
+      "How to dispose of old furniture in Dubai using reuse, municipality collection, or a booked removal crew—with the access checks that prevent delays.",
+    category: "Guides",
+    tags: ["Furniture Disposal", "Reuse", "Bulky Waste", "Dubai"],
+    coverImage: "/images/blog/old-furniture-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Used sofa, dining chairs and cabinet staged neatly for furniture collection in a Dubai apartment",
+    publishedAt: "2026-09-02",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Reusable furniture should be offered for sale, donation or giveaway before disposal is booked.",
+      "Dubai Municipality lists a free bulky-waste service for household furniture, but development zones and free zones are excluded.",
+      "Tower residents should confirm loading access, service-lift booking and item staging before pickup day.",
+      "A fixed-price removal crew is most useful when timing, lifting or multiple items make self-arrangement impractical.",
+    ],
+    sections: [
+      {
+        heading: "The quickest way to choose the right furniture-disposal route",
+        content: [
+          "To dispose of old furniture in Dubai, first judge whether it is genuinely reusable. Sell or give away clean, intact pieces; ask your building or community about its bulky-item process; use Dubai Municipality's household collection where the address is eligible; or book a removal crew when dismantling, access and a fixed deadline matter.",
+          "Do not leave a sofa, mattress or wardrobe beside communal bins. It can block the waste room, service corridor or collection bay, and the building team may not be authorised to move it. The right route depends less on the item's age than on condition, access and how soon it must leave.",
+        ],
+        callout: {
+          title: "Three-question test",
+          text: "Is it clean and usable? Can the recipient collect it? Is there enough time before handover? Those answers usually identify the best route in under a minute.",
+        },
+      },
+      {
+        heading: "Route 1: sell, donate or give away furniture that still has life in it",
+        content: [
+          "A solid table, clean sofa or complete bed frame is a reuse item, not automatically waste. Photograph it in daylight, state the dimensions and defects honestly, and set a firm collection window. For towers, tell the recipient whether parking, a service lift or security registration is required. A vague ‘free sofa’ listing often creates messages but no successful pickup.",
+          "Donation is not guaranteed. Organisations and recipients can decline stained upholstery, damaged flat-pack furniture, incomplete beds or items they cannot safely collect. Keep a backup disposal booking if your tenancy handover is close. Our guide to [selling or donating used furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai) will cover that route in more depth when published.",
+        ],
+      },
+      {
+        heading: "Route 2: request the household bulky-waste service if your address qualifies",
+        content: [
+          "Dubai Municipality currently describes a free service for disposing of household appliances and furniture, with completion listed within three working days. Its service information also says that investment or real-estate development zones are not included, so residents in master-planned communities should not assume eligibility from a Dubai postal address alone.",
+          "Start with the [Dubai Municipality services directory](https://www.dm.gov.ae/dubai-municipality-services/) or call 800900 to confirm the current channel, coverage and set-out instructions. Ask building management separately where the crew may collect from. Municipality eligibility does not cancel tower rules about lift reservations or loading-bay access.",
+        ],
+        image: {
+          src: "/images/blog/old-furniture-removal-tower.webp",
+          alt: "Removal workers moving a wrapped cabinet through a protected Dubai tower service corridor",
+        },
+      },
+      {
+        heading: "Route 3: book removal when access or timing is the real problem",
+        content: [
+          "Paid removal makes sense when a wardrobe must be dismantled, a sectional sofa will not pass through the door, several rooms are being cleared, or a handover deadline leaves no margin for failed collections. A useful quote should cover the actual load, labour, dismantling, carrying distance and disposal route—not just a truck arriving outside.",
+          "Send photographs that show every item plus the route out. Mention stairs, narrow doors, lift dimensions, parking restrictions and the permitted work window. For a single sofa or mixed household load, our [furniture clearance team](/services/furniture-removal-dubai) can quote from photos; larger move-outs may fit the [house-clearance service](/services/house-clearance-dubai) better.",
+        ],
+      },
+      {
+        heading: "The access checks Dubai residents most often miss",
+        content: [
+          "In high-rise buildings, call security or facilities before promising a pickup time. Some towers require a move-out or contractor form, Emirates ID details, vehicle information, refundable lift padding deposits, or a weekday service-lift slot. In Dubai Marina and Business Bay, a missed loading slot can turn a simple removal into a second trip.",
+          "Villa access is different. Confirm whether the truck can stop at the gate, whether community security needs vehicle details and whether large furniture must pass through landscaped side access. Residents can review coverage for [Dubai Marina](/areas/dubai-marina) and [Business Bay](/areas/business-bay), but building-specific permission always controls the day.",
+        ],
+        listItems: [
+          "Measure the largest item and the narrowest doorway, lift door and corridor turn.",
+          "Empty drawers and cabinets; tape loose shelves and keep fixings in a labelled bag.",
+          "Photograph walls and lift interiors before moving starts.",
+          "Keep fire exits, rubbish rooms and shared corridors clear while items are staged.",
+        ],
+      },
+      {
+        heading: "What not to mix with an ordinary furniture load",
+        content: [
+          "Tell the collector about paint, chemicals, batteries, gas cylinders, broken glass or refrigerant appliances before booking. These materials need different handling and should never be hidden inside drawers or bags. A furniture truck prepared for wood and upholstery may not be licensed or equipped for hazardous material.",
+          "If the load includes refrigerators or air-conditioning equipment, use the [appliance-removal route](/services/appliance-removal-dubai). If you have furniture plus renovation rubble, disclose both streams so the quote and disposal plan are accurate.",
+        ],
+      },
+      {
+        heading: "A calm plan for same-week disposal",
+        content: [
+          "Day one: photograph, measure and offer genuinely reusable items. At the same time, check community rules and municipality eligibility. Day two: confirm the recipient or collection request in writing. Keep a paid-removal fallback for anything unclaimed. The day before collection, reserve access and separate items that need special handling.",
+          "If the date is fixed, [send photos for a removal quote](/contact) with your community, floor, lift status and deadline. You will get a more reliable answer than asking for a price based only on ‘one sofa’, because the carry route often determines the work.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "business-bay"],
+  },
+  {
+    slug: "dubai-sustainable-waste-management-and-e-waste-guide",
+    title: "Where to Dispose of E-Waste in Dubai: A Data-Safe Guide",
+    seoTitle: "Where to Dispose of E-Waste in Dubai Safely",
+    excerpt:
+      "Where to dispose of e-waste in Dubai, how to protect personal or company data, and which electronics need specialist recycling instead of a general bin.",
+    category: "Eco & Recycling",
+    tags: ["E-Waste", "Electronics Recycling", "Data Security", "Dubai"],
+    coverImage: "/images/blog/e-waste-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Laptops, monitors, cables and small appliances organised on electronics recycling tables in Dubai",
+    publishedAt: "2026-09-02",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Working devices are best reused; broken electronics should go through an approved collection or recycling route.",
+      "Erase accounts and storage before handover—factory reset alone may not meet a business data policy.",
+      "Batteries, lamps and refrigerant appliances must be declared because they require separate handling.",
+      "Ask any commercial collector for traceability rather than accepting a vague promise that everything is recycled.",
+    ],
+    sections: [
+      {
+        heading: "Where can you take e-waste in Dubai?",
+        content: [
+          "To dispose of e-waste in Dubai, use a manufacturer or retailer take-back option, a community collection point confirmed by its operator, Dubai Municipality's eligible household bulky-waste service for larger electronics, or a specialist collector for business quantities. Never place loose batteries or data-bearing devices in an ordinary rubbish bag.",
+          "The current UAE Policy for Integrated Management of Recyclable Materials explicitly includes electronic waste among materials intended for recycling. That makes separation important: a laptop, cable box and swollen battery may arrive together, but they should not travel through the same handling path.",
+        ],
+      },
+      {
+        heading: "Choose the route by device condition, not convenience alone",
+        content: [
+          "Start with reuse. A working phone, monitor or laptop can be sold, donated or returned through a verified take-back programme after its data is removed. A cracked television, water-damaged computer or appliance with an electrical fault belongs in a recycling stream, not with a recipient who may be exposed to the defect.",
+          "Collection points and retailer programmes change, so confirm accepted items and opening hours directly before travelling. For large household electronics, check the [Dubai Municipality service directory](https://www.dm.gov.ae/dubai-municipality-services/); coverage exclusions apply in development zones and free zones. The [UAE recyclable-materials policy](https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/environment-and-energy/the-uae-policy-for-integrated-management-of-recyclable-materials) explains the national direction.",
+        ],
+      },
+      {
+        heading: "Protect your data before the device leaves your control",
+        content: [
+          "Back up what you need, sign out of cloud and device accounts, remove SIM and memory cards, disable activation locks, then use the manufacturer's supported erase process. Photograph the serial number and record who received the device. For a personal phone this is sensible housekeeping; for office equipment it may be part of a formal retention and destruction policy.",
+          "A factory reset is not a universal certificate of destruction. Companies clearing desktops, servers, access-control units or multifunction printers should ask their IT owner what evidence is required. Some devices store address books, scanned files or credentials outside the obvious hard drive.",
+        ],
+        image: {
+          src: "/images/blog/secure-electronics-recycling-dubai.webp",
+          alt: "Technician removing a hard drive from an office computer before electronics recycling in Dubai",
+        },
+        callout: {
+          title: "Office rule",
+          text: "Do not let a clearance crew decide the data standard. The asset owner or IT policy should define whether wiping, drive removal or documented destruction is required.",
+        },
+      },
+      {
+        heading: "Separate the items that create fire or handling risks",
+        content: [
+          "Remove loose batteries where the device is designed for safe user removal. Tape exposed terminals on small batteries and keep damaged or swollen lithium batteries isolated from metal objects, heat and pressure while you obtain specialist instructions. Do not puncture, flatten or post them through a collection slot that does not expressly accept them.",
+          "Also declare fluorescent lamps, toner, power banks, UPS units, televisions with broken panels, refrigerators and air-conditioning equipment. Refrigerant appliances are not simply ‘large electronics’; use an [appliance-removal service](/services/appliance-removal-dubai) that knows what is in the load.",
+        ],
+      },
+      {
+        heading: "How households and offices should prepare differently",
+        content: [
+          "A household can usually sort a small box into working devices, cables and accessories, loose batteries and broken equipment. Keep the box dry and do not add food waste. Tower residents should ask management whether an e-waste drive or approved collection cage exists before carrying equipment through public areas.",
+          "An office needs an asset list. Match serial numbers to devices, identify leased equipment, obtain finance and IT sign-off, and separate items marked for reuse from those authorised for recycling. For a DIFC or Dubai Internet City clearance, confirm building access and free-zone procedures before scheduling the [office cleanout team](/services/office-cleanout-dubai).",
+        ],
+        listItems: [
+          "Inventory: device type, asset tag, serial number and owner.",
+          "Data decision: reuse, verified wipe, drive removal or destruction.",
+          "Hazard screen: swollen batteries, broken glass, toner and refrigerants.",
+          "Handover record: date, quantity, collector and destination evidence requested.",
+        ],
+      },
+      {
+        heading: "Questions to ask an electronics collector",
+        content: [
+          "Ask which items it accepts, whether it transports them itself, what downstream facility receives them and what receipt or destruction record it can provide. Businesses should verify that the documentation matches their compliance need; a collection receipt and a data-destruction certificate are not the same thing.",
+          "Be cautious when every device is described as valuable scrap. Mixed e-waste contains reusable parts as well as batteries, screens and materials requiring controlled processing. A responsible answer should explain sorting, not promise that every item has resale value.",
+        ],
+      },
+      {
+        heading: "Arrange a traceable pickup for a mixed electronics load",
+        content: [
+          "Send an item list and clear photographs before requesting a quote. State whether the load is residential or commercial, identify data-bearing equipment and flag batteries or damaged screens. Residents can check our service coverage in [Business Bay](/areas/business-bay) and [Dubai Internet City](/areas/dubai-internet-city).",
+          "For a bulky or office load, [request a documented collection quote](/contact). Keep the asset and data decisions with your organisation; the crew can then plan labour, access and segregated transport around a clear brief.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "appliance-removal-dubai"],
+    relatedAreas: ["business-bay", "dubai-internet-city"],
+  },
+  {
+    slug: "dubai-municipality-waste-disposal-rules-and-regulations",
+    title: "Waste Disposal Rules in Dubai: A Practical Household Guide",
+    seoTitle: "Waste Disposal Rules Dubai: A Household Guide",
+    excerpt:
+      "Waste disposal rules in Dubai explained by waste type, property responsibility and collection route—so bulky, hazardous and renovation waste stay separated.",
+    category: "Eco & Recycling",
+    tags: ["Waste Rules", "Dubai Municipality", "Waste Separation", "Compliance"],
+    coverImage: "/images/blog/waste-disposal-rules-dubai-hero.webp",
+    coverImageAlt:
+      "Cardboard, metal, electronics and sealed household waste separated in a Dubai villa utility area",
+    publishedAt: "2026-09-02",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "The safe rule is to separate ordinary household waste, recyclables, bulky items, hazardous materials and renovation debris.",
+      "Never leave furniture or waste in corridors, beside communal bins or on open land without an authorised collection arrangement.",
+      "Building and master-developer procedures can add access rules even when a municipal service exists.",
+      "Commercial and controlled waste should be moved only through an appropriately authorised route.",
+    ],
+    sections: [
+      {
+        heading: "The waste disposal rules Dubai households need to follow",
+        content: [
+          "Dubai residents should contain ordinary household rubbish, separate recyclable material where the property provides that stream, and arrange approved collection for furniture, electronics, hazardous items and renovation debris. Do not abandon waste beside bins, in service corridors, on pavements or on undeveloped land. When unsure, ask the building manager or Dubai Municipality before moving it.",
+          "The practical mistake is treating every unwanted object as the same kind of rubbish. A bag of kitchen waste, a sofa, a paint tin and broken tiles have different risks and destinations. Separating them before collection protects workers, prevents leakage and makes reuse or recycling possible.",
+        ],
+      },
+      {
+        heading: "Use five streams instead of one pile",
+        content: [
+          "Ordinary household waste belongs in the property's designated contained bin system. Clean cardboard, metal, plastic and glass should follow the recycling instructions provided at that property. Bulky furniture and appliances need a booked service or approved community process. Paint, chemicals, batteries and similar materials need specific advice. Construction and renovation debris requires a suitable authorised collector.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and appliance disposal as well as permits for vehicles accessing municipal waste sites. The UAE's [waste-management overview](https://u.ae/en/information-and-services/environment-and-energy/waste-management) describes the federal integrated-waste framework and hazardous-waste controls.",
+        ],
+        listItems: [
+          "General waste: sealed, contained and placed only in the designated property system.",
+          "Recyclables: clean and separated according to the collector's accepted-material list.",
+          "Bulky waste: booked collection for furniture and large household appliances.",
+          "Hazardous or special waste: identified and declared before handover.",
+          "Renovation debris: kept separate and assigned to an appropriate transport and disposal route.",
+        ],
+      },
+      {
+        heading: "Why your building or community rules matter too",
+        content: [
+          "Municipality rules determine the disposal framework, but the property controls access. Towers may limit contractor hours, require a service-lift booking and prohibit staging in waste rooms. Gated communities can require driver and vehicle details. These procedures are not disposal permits, but ignoring them can stop a lawful collection at the door.",
+          "The Municipality's household bulky-waste information excludes development zones and free zones, where residents commonly need to use their facilities or master-developer process. Confirm the address first rather than leaving an item outside in the hope that a routine truck will take it.",
+        ],
+        image: {
+          src: "/images/blog/licensed-waste-collection-dubai.webp",
+          alt: "Uniformed crew safely loading contained bulky items at a Dubai residential service entrance",
+        },
+      },
+      {
+        heading: "Bulky household items are not bin-room waste",
+        content: [
+          "Sofas, mattresses, wardrobes and large appliances can obstruct fire routes, damage lifts and overwhelm ordinary collection equipment. Arrange the date and set-out location first. Keep the item inside your property until the building or collector confirms where and when it may be staged.",
+          "For reusable pieces, start with the [old-furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai). For booked lifting and transport, choose the [bulky-item removal service](/services/bulky-item-removal-dubai) or [furniture-removal team](/services/furniture-removal-dubai) according to the load.",
+        ],
+      },
+      {
+        heading: "Hazardous and renovation waste need separate instructions",
+        content: [
+          "Do not pour paint, oil, solvent or chemicals into drains or hide them in general-waste bags. Keep products in their original sealed containers where safe, do not mix substances, and request current instructions from the authority or an appropriate specialist. Likewise, isolate batteries and disclose damaged lithium packs.",
+          "Broken tiles, plasterboard, sanitaryware, timber offcuts and rubble are not an ordinary household clear-out. Ask the contractor who generated the waste to state its removal plan. If you appoint a collector directly, describe every material and quantity so the vehicle and destination are appropriate.",
+        ],
+        callout: {
+          title: "No mystery bags",
+          text: "A collector cannot plan safe handling for unlabelled liquids or concealed sharp material. Name special items during quoting and keep them separate on collection day.",
+        },
+      },
+      {
+        heading: "What to verify before hiring a waste collector",
+        content: [
+          "Ask for the business name, the waste types accepted, who will transport the load and where controlled material will go. Dubai Municipality operates a permit process for vehicles accessing its disposal sites; a household should not assume that any pickup vehicle can use an authorised facility for every waste type.",
+          "Get the scope and price in writing. Photographs should show the whole load, not just the easiest item. For offices or managed properties, retain collection records required by the building, landlord or company policy. Avoid anyone proposing an unapproved roadside handover or open-land drop.",
+        ],
+      },
+      {
+        heading: "A pre-collection compliance check",
+        content: [
+          "Sort the load, flag hazards, confirm the property procedure, agree the collector and destination route, then reserve access. In towers such as [Dubai Marina](/areas/dubai-marina) or [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), do this before booking labour because facilities approval can determine the workable time.",
+          "If you have a mixed household load and need help identifying the right stream, [send photographs and the property details](/contact). We can quote normal removal work and tell you when a specialist route must be arranged instead.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-lake-towers"],
+  },
   {
     slug: "villa-move-out-clearance-checklist-dubai",
     title: "The Ultimate Villa Move-Out Clearance Checklist for Dubai Residents",
@@ -454,12 +720,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "house-clearance-dubai",
       "same-day-junk-removal-dubai",
     ],
-    relatedAreas: [
-      "dubai-marina",
-      "jumeirah-village-circle",
-      "business-bay",
-      "arabian-ranches",
-    ],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle", "business-bay", "arabian-ranches"],
   },
   {
     slug: "furniture-removal-cost-breakdown-dubai",
@@ -550,12 +811,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "junk-removal-dubai",
       "house-clearance-dubai",
     ],
-    relatedAreas: [
-      "dubai-marina",
-      "downtown-dubai",
-      "jumeirah-lake-towers",
-      "the-springs",
-    ],
+    relatedAreas: ["dubai-marina", "downtown-dubai", "jumeirah-lake-towers", "the-springs"],
   },
   {
     slug: "house-and-villa-clearance-cost-guide-dubai",
@@ -643,12 +899,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "garden-waste-removal-dubai",
       "junk-removal-dubai",
     ],
-    relatedAreas: [
-      "emirates-hills",
-      "arabian-ranches",
-      "dubai-hills-estate",
-      "palm-jumeirah",
-    ],
+    relatedAreas: ["emirates-hills", "arabian-ranches", "dubai-hills-estate", "palm-jumeirah"],
   },
 ];
 

@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return createMetadata({
-    title: `${post.title} | EcoHaul Dubai Journal`,
+    title: post.seoTitle ?? `${post.title} | EcoHaul Dubai Journal`,
     description: post.excerpt,
     path: `/blog/${post.slug}`,
     image: post.coverImage,

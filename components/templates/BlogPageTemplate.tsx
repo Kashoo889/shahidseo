@@ -3,7 +3,17 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Calendar, Clock, User, Share2, Check, ArrowLeft, ArrowRight, Sparkles, MapPin, Wrench } from "lucide-react";
+import {
+  Clock,
+  User,
+  Share2,
+  Check,
+  ArrowLeft,
+  ArrowRight,
+  Sparkles,
+  MapPin,
+  Wrench,
+} from "lucide-react";
 import type { BlogPost } from "@/data/blog";
 import { getRecentBlogPosts } from "@/data/blog";
 import { SERVICES } from "@/data/services";
@@ -17,6 +27,32 @@ import { CTASection } from "@/components/sections/CTASection";
 
 interface BlogPageTemplateProps {
   post: BlogPost;
+}
+
+function RichParagraph({ text }: { text: string }) {
+  const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
+
+  return (
+    <>
+      {parts.map((part, index) => {
+        const match = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+        if (!match) return part;
+
+        const [, label, href] = match;
+        const external = href.startsWith("http");
+        return (
+          <Link
+            key={`${href}-${index}`}
+            href={href}
+            className="font-medium text-primary underline decoration-primary/30 underline-offset-2 hover:decoration-primary"
+            {...(external ? { target: "_blank", rel: "noreferrer" } : {})}
+          >
+            {label}
+          </Link>
+        );
+      })}
+    </>
+  );
 }
 
 export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
@@ -38,12 +74,8 @@ export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
   };
 
   // Resolve related services and areas
-  const relatedServicesData = SERVICES.filter((s) =>
-    post.relatedServices?.includes(s.slug),
-  );
-  const relatedAreasData = AREAS.filter((a) =>
-    post.relatedAreas?.includes(a.slug),
-  );
+  const relatedServicesData = SERVICES.filter((s) => post.relatedServices?.includes(s.slug));
+  const relatedAreasData = AREAS.filter((a) => post.relatedAreas?.includes(a.slug));
 
   return (
     <>
@@ -176,7 +208,10 @@ export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
               </div>
               <ul className="mt-4 space-y-2.5">
                 {post.takeaways.map((item, idx) => (
-                  <li key={idx} className="flex items-start gap-2.5 text-sm text-ink leading-relaxed">
+                  <li
+                    key={idx}
+                    className="flex items-start gap-2.5 text-sm text-ink leading-relaxed"
+                  >
                     <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
                     <span>{item}</span>
                   </li>
@@ -195,8 +230,11 @@ export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
                   </h2>
                 )}
                 {section.content.map((p, pIdx) => (
-                  <p key={pIdx} className="text-base leading-relaxed text-muted-foreground sm:text-lg">
-                    {p}
+                  <p
+                    key={pIdx}
+                    className="text-base leading-relaxed text-muted-foreground sm:text-lg"
+                  >
+                    <RichParagraph text={p} />
                   </p>
                 ))}
 
@@ -216,16 +254,17 @@ export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
                 {section.callout && (
                   <div className="rounded-xl border-l-4 border-primary bg-surface-muted p-5 shadow-soft">
                     <div className="text-sm font-bold text-ink">{section.callout.title}</div>
-                    <div className="mt-1 text-sm text-muted-foreground">
-                      {section.callout.text}
-                    </div>
+                    <div className="mt-1 text-sm text-muted-foreground">{section.callout.text}</div>
                   </div>
                 )}
 
                 {section.listItems && section.listItems.length > 0 && (
                   <ul className="space-y-2 rounded-xl bg-surface-muted p-6">
                     {section.listItems.map((li, liIdx) => (
-                      <li key={liIdx} className="flex items-start gap-2 text-sm text-ink sm:text-base">
+                      <li
+                        key={liIdx}
+                        className="flex items-start gap-2 text-sm text-ink sm:text-base"
+                      >
                         <span className="font-bold text-primary">•</span>
                         <span>{li}</span>
                       </li>
