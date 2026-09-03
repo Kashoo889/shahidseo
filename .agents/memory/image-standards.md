@@ -38,12 +38,29 @@ Every published article must contain **exactly 2 high-quality, topic-relevant im
 
 2. **Image 2 (In-Body Contextual Image)**:
    * **Role**: Supporting editorial image demonstrating a concrete scenario, step-by-step process, property type, or material sorting phase.
-   * **Placement**: Positioned midway through the article body (between Section 2 and Section 3).
+   * **Placement**: Positioned midway through the article body (between the second and third body sections).
    * **Loading Directive**: Lazy loaded by default with responsive `sizes` attribute.
 
 ---
 
-## 2. Image Relevance & Authenticity (Zero Generic Stock)
+## 2. Image Sourcing Priority (Generate First, Stock Second)
+
+Both images must be sourced in this strict order of priority. Never source an image from a lower priority when a higher one is available.
+
+**Priority 1 — Generate the image yourself.**
+* If image generation is available, generate a **unique, article-specific image** for each of the two slots.
+* Each generated image must be genuinely relevant to that article's topic and to the Dubai reality rules in Section 3 — not a reused or near-duplicate render from another article.
+* Prompt for the exact subject the article covers (the property type, the material, the step being described), at **1200 × 800 px (3:2)**, then compress to the targets in Section 4.
+
+**Priority 2 — Existing Pexels / image sourcing workflow.**
+* Fall back to the established stock sourcing workflow (Pexels / Unsplash) **only** when image generation is unavailable, or when generation cannot produce a suitable, relevant, on-brand image after a genuine attempt.
+* Sourced images are held to the same relevance, dimension, format and alt-text standards as generated ones.
+
+**Hard limit:** an article carries **exactly 2 images — never more**, regardless of which priority produced them. Mixing sources across the two slots (one generated, one sourced) is acceptable when generation only worked for one of them.
+
+---
+
+## 3. Image Relevance & Authenticity (Zero Generic Stock)
 
 * **Must Reflect Dubai Reality**: Depict actual UAE living and working environments:
   * Luxury villa communities (Emirates Hills, Arabian Ranches, Palm Jumeirah, Dubai Hills).
@@ -58,7 +75,7 @@ Every published article must contain **exactly 2 high-quality, topic-relevant im
 
 ---
 
-## 3. Format, Performance & Compression
+## 4. Format, Performance & Compression
 
 * **Modern WebP Format**: All article images must be served in modern **WebP** (`.webp`) format (or optimized via Next.js Image optimization pipeline with automated WebP/AVIF transformation).
 * **Target File Size**:
@@ -89,7 +106,7 @@ Every published article must contain **exactly 2 high-quality, topic-relevant im
 
 ---
 
-## 4. Dimensions, Aspect Ratios & Zero Layout Shift (CLS = 0)
+## 5. Dimensions, Aspect Ratios & Zero Layout Shift (CLS = 0)
 
 * **Standard Aspect Ratio**: **3:2 (1200 × 800 px)** across both Image 1 and Image 2 for visual consistency.
 * **Explicit Dimensions**: Always supply explicit `width={1200}` and `height={800}` attributes to ensure browsers allocate exact layout space before download, preventing Cumulative Layout Shift (CLS).
@@ -97,7 +114,7 @@ Every published article must contain **exactly 2 high-quality, topic-relevant im
 
 ---
 
-## 5. Alt Text Standards (Descriptive & SEO-Friendly)
+## 6. Alt Text Standards (Descriptive & SEO-Friendly)
 
 Alt text must describe the visual content accurately for screen-reader accessibility while naturally reinforcing the article's topic.
 
@@ -116,7 +133,7 @@ Alt text must describe the visual content accurately for screen-reader accessibi
 
 ---
 
-## 6. Visual Style Consistency
+## 7. Visual Style Consistency
 
 * **Color Palette Alignment**: Imagery should complement EcoHaul Dubai’s primary brand palette:
   * Vibrant Forest Green accents (`#1f9d4d`).
@@ -128,11 +145,12 @@ Alt text must describe the visual content accurately for screen-reader accessibi
 
 ---
 
-## 7. Pre-Publishing Image Verification Checklist
+## 8. Pre-Publishing Image Verification Checklist
 
-Before publishing any article, verify all 7 items:
+Before publishing any article, verify all 8 items:
 
-- [ ] **Exact Count**: The article contains **exactly 2 images** (1 Hero + 1 In-Body).
+- [ ] **Exact Count**: The article contains **exactly 2 images** (1 Hero + 1 In-Body) — never more.
+- [ ] **Sourcing Priority**: Images were generated (Priority 1); the Pexels / stock sourcing workflow was used only where generation was unavailable or unsuitable (Priority 2).
 - [ ] **Relevance**: Both images directly depict the subject matter and reflect genuine Dubai property/waste scenarios.
 - [ ] **Format**: Assets are served in WebP format or optimized through Next.js Image loader.
 - [ ] **Dimensions & Aspect Ratio**: Both images conform to **1200 × 800 px (3:2 ratio)** with explicit width/height to prevent layout shift.

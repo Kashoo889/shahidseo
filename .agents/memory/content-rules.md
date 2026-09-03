@@ -160,7 +160,11 @@ This is the rule most likely to quietly damage the site, so it's strict.
 
 ## 14. Images and alt text
 
-- **Use images only when they help** — illustrate a step, show a before/after, clarify a scenario. No stock filler for decoration's sake.
+- **Exactly 2 images per article — never more**: 1 featured (hero) image plus 1 relevant in-body image. Full spec in `image-standards.md`.
+- **Sourcing priority — generate first, stock second**:
+  - **Priority 1**: if image generation is available, generate a unique, article-specific image yourself for each of the two slots.
+  - **Priority 2**: if generation is unavailable or can't produce a suitable, relevant image, fall back to the existing Pexels / image sourcing workflow.
+- **Both images must earn their place** — illustrate a step, show a before/after, clarify a scenario. No stock filler for decoration's sake.
 - **Alt text describes the image for a real person** who can't see it. Accurate, specific, natural.
 - **Alt text is not a keyword slot.** Include the keyword only if it honestly describes the image; never stuff it. "Crew wrapping a mattress before carrying it down a Marina stairwell" beats "junk removal dubai mattress removal dubai."
 - **Prefer original or genuinely representative images.** Avoid obviously generic stock that undercuts the "we actually do this" positioning.
@@ -254,7 +258,7 @@ Run every article against this before it goes live. Any "no" blocks publication.
 - [ ] 2–4 contextual internal links to related content where genuinely helpful.
 - [ ] Anchor text descriptive and varied; no generic or repeated exact-match anchors.
 - [ ] Not an orphan — linked from at least one existing relevant page.
-- [ ] Images help the reader; alt text accurate and natural, not stuffed.
+- [ ] Exactly 2 images (1 featured + 1 in-body), generated where possible and sourced only as fallback; alt text accurate and natural, not stuffed.
 
 **Local, FAQ & CTA**
 - [ ] Local relevance real and value-adding where used, not decorative.

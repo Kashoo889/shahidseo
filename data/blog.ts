@@ -901,6 +901,283 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedAreas: ["emirates-hills", "arabian-ranches", "dubai-hills-estate", "palm-jumeirah"],
   },
+  {
+    slug: "dubai-municipality-bulky-waste-collection-explained",
+    title: "Dubai Municipality Bulky Waste Collection: Rules, Eligibility & Booking",
+    seoTitle: "Dubai Municipality Bulky Waste Collection Explained (2026)",
+    excerpt:
+      "Everything you need to know about Dubai Municipality bulky waste collection: who is eligible, how to book via WhatsApp/800900, response times, and alternatives for private communities.",
+    category: "Guides",
+    tags: ["Bulky Waste", "Dubai Municipality", "Waste Collection", "Free Collection", "Furniture Pickup"],
+    coverImage: u("1532996122724-e3c354a0b15b"),
+    coverImageAlt:
+      "Municipal waste collection vehicle and organized household bulky waste pickup in Dubai residential area",
+    publishedAt: "2026-09-03",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Dubai Municipality provides a free bulky waste pickup service for household furniture and white goods for eligible Dubai residents.",
+      "Private real estate development zones and freehold master communities (Emaar, Nakheel, Damac) are excluded from the municipal 800900 service.",
+      "Standard municipality requests typically take up to 3 working days, and items must be staged at ground level curbside.",
+      "For apartment towers, tight move-out deadlines, or properties in private communities, a licensed private removal crew is required.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how Dubai Municipality bulky waste collection works",
+        content: [
+          "Dubai Municipality provides a free bulky waste collection service for individual residential households across designated public municipal sectors. The service covers large unwanted items such as sofas, mattresses, wardrobes, refrigerators, and washing machines that cannot fit into standard roadside green wheelie bins.",
+          "However, eligibility is strictly geographic. Master-planned private developments, freehold investment zones (like Downtown Dubai, Dubai Marina, Arabian Ranches, and Palm Jumeirah), and commercial free zones are not covered by the municipality's free collection trucks. In those communities, residents must coordinate through their building facilities management or hire a licensed private junk hauler.",
+          "Here is a step-by-step breakdown of how the municipal service operates, how to apply through official channels, and what to do if your area is excluded.",
+        ],
+      },
+      {
+        heading: "Who is eligible for free municipal bulky waste pickup?",
+        content: [
+          "Dubai Municipality's Waste Management Department directly services traditional residential zones, public citizen housing areas, and older freehold residential neighbourhoods (such as parts of Deira, Bur Dubai, Al Satwa, Al Rashidiya, and Al Quoz residential areas).",
+          "Key eligibility restrictions to keep in mind:",
+        ],
+        listItems: [
+          "Excluded Private Master Communities: Communities managed by private developers (Emaar, Nakheel, Dubai Properties, Damac) must use private waste contractors appointed by their Community Management.",
+          "Residential Use Only: Commercial entities, retail stores, office cleanouts, and construction sites cannot use the free service.",
+          "Volume Limits: The service is intended for a handful of household items (1 to 3 large pieces), not whole-house strip-outs or tenancy clearance.",
+        ],
+      },
+      {
+        heading: "How to request bulky waste collection through official channels",
+        content: [
+          "If your address qualifies, you can register a collection request through three official Dubai Municipality channels:",
+        ],
+        listItems: [
+          "Dubai Municipality WhatsApp (800 900): Send a message with your Makani number, photos of the items, and your contact details to start an automated request.",
+          "Dubai 24/7 Call Centre (800 900): Speak to a customer service representative to log a bulky waste ticket.",
+          "Dubai Municipality Smart App (DM App): Navigate to Waste Management Services, select 'Bulky Waste Collection Request', upload item photos, and pin your GPS location.",
+        ],
+        image: {
+          src: u("1584622650111-993a426fbf0a"),
+          alt: "Household furniture and bulky appliances staged safely for collection outside a residential property in Dubai",
+        },
+      },
+      {
+        heading: "Set-out rules and staging requirements",
+        content: [
+          "Once your request is approved, the municipality scheduling team will assign a collection window (typically within 3 working days).",
+          "You are responsible for bringing the items to ground-level curbside outside your villa or designated ground loading area. Municipal collection crews do not enter private homes, dismantle furniture, or carry heavy goods down high-rise stairwells or elevators.",
+        ],
+        callout: {
+          title: "Do Not Dump Early",
+          text: "Placing bulky items on the pavement or near communal bins before receiving an official collection confirmation ticket is considered illegal dumping under Local Order No. 11 of 2003 and can attract an on-the-spot fine of AED 500.",
+        },
+      },
+      {
+        heading: "When to hire a private junk removal company instead",
+        content: [
+          "While the municipal service is a great option for eligible ground-floor villas with flexible timing, many Dubai residents require an alternative:",
+        ],
+        listItems: [
+          "You live in a private master community (Marina, JLT, JVC, Business Bay, The Springs, Dubai Hills, etc.) where municipal trucks cannot enter.",
+          "You need same-day or exact-hour collection before an Ejari tenancy handover inspection.",
+          "You live in an apartment tower and need crew labour to dismantle large wardrobes and navigate service elevators.",
+          "You have a full apartment, villa, or office volume exceeding the municipality's single-item limits.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "furniture-removal-dubai",
+      "appliance-removal-dubai",
+    ],
+    relatedAreas: ["jumeirah-village-circle", "al-barsha", "mirdif", "al-quoz"],
+  },
+  {
+    slug: "complete-list-of-recycling-centers-in-dubai",
+    title: "Complete List of Recycling Centers in Dubai: Locations, Drop-Offs & Rules",
+    seoTitle: "Recycling Centers in Dubai: 2026 Public Drop-Off Directory",
+    excerpt:
+      "A comprehensive directory of Dubai recycling centers, 24/7 smart recycling hubs, community drop-off stations, and rules for sorting paper, plastic, electronics, and bulky items.",
+    category: "Eco & Recycling",
+    tags: ["Recycling Centers", "Eco Dubai", "Waste Segregation", "Drop Off Kiosks", "Sustainability"],
+    coverImage: u("1532996122724-e3c354a0b15b"),
+    coverImageAlt:
+      "Modern smart recycling station with segregated bins for plastics, paper, metals, and electronic waste in Dubai",
+    publishedAt: "2026-09-03",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Dubai operates 13+ Dubai Municipality Smart Recycling Centers open 24/7 for automated drop-off of segregated recyclables.",
+      "Major public drop-off hubs accept cardboard, plastics, glass, metals, small electronics, fabric textiles, and used cooking oil.",
+      "Contaminated or non-sorted recyclables in public drop-off bins are diverted to landfills, making proper pre-cleaning essential.",
+      "Large-scale household cleanouts and bulky furniture require commercial transport to licensed material recovery facilities (MRFs).",
+    ],
+    sections: [
+      {
+        heading: "The short answer: where can you recycle in Dubai?",
+        content: [
+          "Dubai offers a growing network of public recycling facilities, including 13+ automated 24/7 Dubai Municipality Smart Sustainability Centers, community recycling kiosks in residential parks, supermarket drop-off stations (Waitrose, Spinneys, Carrefour), and dedicated e-waste kiosks.",
+          "These stations allow residents to drop off sorted household recyclables — including cardboard, mixed paper, plastic bottles, aluminium cans, glass containers, textiles, small electronic devices, and used cooking oil — completely free of charge.",
+          "Here is the complete directory of major public recycling locations across Dubai, what materials each center accepts, and how to prepare your items for drop-off.",
+        ],
+      },
+      {
+        heading: "Dubai Municipality 24/7 Smart Sustainability Centers directory",
+        content: [
+          "The Dubai Municipality has established solar-powered, automated 24-hour Smart Sustainability Centers across key residential zones. These centres feature interactive touchscreens and separated chutes for up to 18 different recyclable materials:",
+        ],
+        listItems: [
+          "Al Barsha Smart Recycling Centre: Located near Al Barsha 2 Pond Park (Accepts: paper, plastics, metals, glass, e-waste, fabric).",
+          "Al Manara Centre: Sheikh Zayed Road, near Noor Bank Metro (Accepts: paper, cardboard, electronics, plastics, cans).",
+          "Al Twar Centre: Al Twar 1, adjacent to Dubai Municipality Centre (Accepts: household packaging, textiles, small appliances).",
+          "Al Karama Recycling Hub: Near Karama Municipality Office & Post Office (Accepts: heavy cardboard, plastics, metals).",
+          "Hatta Sustainability Centre: Hatta Community Centre (Accepts: full domestic recyclable stream).",
+          "Jumeirah & Umm Suqeim Drop-Offs: Positioned near public beach access points and municipal service branches.",
+        ],
+      },
+      {
+        heading: "Community drop-off kiosks and private recycling initiatives",
+        content: [
+          "Beyond municipal centres, private environmental operators provide convenient neighborhood recycling points:",
+        ],
+        listItems: [
+          "RECAPP & Bee'ah Drop-Off Kiosks: Deployed across residential communities and petrol stations for plastic bottles and aluminum cans.",
+          "Averda ReVend Smart Kiosks: Reverse-vending machines located in university campuses and metro hubs that reward users with points for recycled beverage containers.",
+          "Supermarket Container Stations: Carrefour (Mall of the Emirates, Ibn Battuta) and Spinneys branches offer designated bins for clean plastic bags, battery recycling, and packaging cartons.",
+          "Textile & Clothing Donation Banks: Managed by Beit Al Khair, Red Crescent, and Kiswa, located outside major mosques and community retail strips.",
+        ],
+        image: {
+          src: u("1581092160607-ee22621dd758"),
+          alt: "Automated conveyor sorting and segregated baling of plastic and paper recyclables at a Dubai facility",
+        },
+      },
+      {
+        heading: "Rules for sorting: how to avoid contaminating the recycling stream",
+        content: [
+          "Recycling facilities in Dubai enforce strict contamination rules. When food residue or unwashed materials enter paper or plastic bins, entire batches are deemed non-recyclable and diverted to landfills.",
+          "Follow these fundamental drop-off rules:",
+        ],
+        listItems: [
+          "Rinse all plastic food containers, yogurt pots, and glass jars before dropping them off.",
+          "Flatten cardboard boxes completely to maximize bin space and prevent chute blockages.",
+          "Remove plastic tape and styrofoam inserts from delivery boxes; styrofoam must be disposed of separately.",
+          "Keep e-waste (laptops, cables, phone batteries) in designated electronic bins — never mix with general metal or plastic.",
+        ],
+        callout: {
+          title: "Zero Contamination Rule",
+          text: "Greasy pizza boxes and soiled food packaging cannot be recycled with clean cardboard. Dispose of food-soiled packaging in regular domestic waste.",
+        },
+      },
+      {
+        heading: "What to do with bulky items and high-volume recyclables",
+        content: [
+          "Public drop-off kiosks are designed for daily household quantities. If you are clearing an entire apartment, stripping a villa, or disposing of bulky timber, appliances, and office furniture, drop-off bins cannot accommodate your volume.",
+          "In these scenarios, booking a licensed clearance service ensures your bulk items are taken directly to registered Dubai Material Recovery Facilities (MRFs) where timber, metals, plastics, and appliances are mechanically separated and diverted from municipal landfill sites.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "rubbish-removal-dubai",
+      "bulky-item-removal-dubai",
+      "office-cleanout-dubai",
+    ],
+    relatedAreas: [
+      "al-barsha",
+      "jumeirah-lake-towers",
+      "dubai-silicon-oasis",
+      "downtown-dubai",
+    ],
+  },
+  {
+    slug: "how-to-safely-dispose-of-refrigerators-ac-units-dubai",
+    title: "How to Safely Dispose of Old Refrigerators & AC Units in Dubai",
+    seoTitle: "Fridge & AC Disposal Dubai: Safe Degassing & Recycling Guide",
+    excerpt:
+      "A safety guide for disposing of old refrigerators, freezers, and air conditioners in Dubai — refrigerant gas recovery, electrical disconnects, and certified recycling.",
+    category: "Eco & Recycling",
+    tags: ["Appliance Disposal", "Fridge Removal", "AC Disposal", "Refrigerant Recovery", "Eco Dubai"],
+    coverImage: u("1584622650111-993a426fbf0a"),
+    coverImageAlt:
+      "Technicians carefully disconnecting and loading large commercial and domestic refrigerators for safe recycling in Dubai",
+    publishedAt: "2026-09-03",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Refrigerators and air conditioners contain fluorinated greenhouse gases (R-134a, R-410A, R-32) that require certified degassing prior to disposal.",
+      "Puncturing compressor copper lines or venting refrigerant into the atmosphere violates Dubai environmental protection laws.",
+      "Refrigerators must be fully defrosted 24 hours in advance and taped shut to prevent water leakage during service lift transit.",
+      "Over 90% of a refrigerator or AC condenser unit by weight (copper, steel, aluminium) is recyclable when processed at licensed facilities.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to dispose of a fridge or AC unit in Dubai",
+        content: [
+          "To dispose of an old refrigerator, deep freezer, or air conditioning unit in Dubai, you cannot simply place it in a communal waste room or curbside bin. Cooling appliances contain pressurized refrigerant gases (such as R-134a, R-410A, and R-32) and compressor lubricating oils that are classified as regulated environmental pollutants.",
+          "Safe disposal requires three steps: disconnecting and defrosting the unit, recovering the refrigerant gas using dedicated recovery cylinders, and transporting the scrap metal shell to a licensed Dubai Municipality material recycling facility.",
+          "Here is the practical step-by-step guide to preparing, handling, and disposing of cooling appliances safely in Dubai.",
+        ],
+      },
+      {
+        heading: "Why refrigerant gases require specialized recovery",
+        content: [
+          "Refrigerators and split/package AC systems rely on closed refrigerant circuits. If these copper lines are cut or punctured by informal scrap collectors, the escaping gas damages the ozone layer and exerts a global warming potential (GWP) hundreds to thousands of times higher than carbon dioxide.",
+          "Under Dubai environmental regulations, cooling equipment must undergo closed-loop gas recovery before the compressor is stripped for scrap metal. Certified technicians use vacuum recovery machines to capture the gas into storage cylinders for purification or destruction.",
+        ],
+        callout: {
+          title: "Beware of Informal Metal Scrappers",
+          text: "Unlicensed informal truck operators frequently snip refrigerant lines with pliers to quickly extract the copper motor, releasing toxic gases into the air and spilling heavy compressor oils on residential driveways. Always use licensed haulers.",
+        },
+      },
+      {
+        heading: "Step-by-step preparation checklist before pickup",
+        content: [
+          "To ensure a smooth, mess-free removal on collection day, prepare your appliance 24 hours prior:",
+        ],
+        listItems: [
+          "Empty All Food and Contents: Remove all perishable items, jars, and freezer contents completely.",
+          "Disconnect and Defrost 24 Hours Early: Turn off the power, open the doors, and place towels at the base to catch meltwater. Moving a frozen fridge causes dirty water leaks in building corridors and service elevators.",
+          "Remove or Tape Loose Shelves: Take out tempered glass shelves or tape them securely inside to prevent shattering during transit.",
+          "Secure the Doors: Use masking tape or a strap around the exterior so doors do not swing open in narrow stairwells.",
+        ],
+        image: {
+          src: u("1581092160607-ee22621dd758"),
+          alt: "Certified electronic and appliance metal recovery workstation stripping cooling components in Dubai",
+        },
+      },
+      {
+        heading: "Special considerations for air conditioning unit removal",
+        content: [
+          "Disposing of split AC systems, window units, or ducted fan coil units in Dubai involves specific mechanical steps:",
+        ],
+        listItems: [
+          "Electrical Isolation: Ensure the AC isolator switch or main distribution breaker is switched off before attempting any disconnection.",
+          "Refrigerant Pump Down: An HVAC technician should 'pump down' the refrigerant back into the outdoor compressor unit before disconnecting the copper pipework.",
+          "Wall Mounting Brackets: Outdoor compressor units mounted on high-rise balconies or villa exterior walls require proper harness safety gear during unbolting.",
+        ],
+      },
+      {
+        heading: "Responsible recycling: what happens to your appliance",
+        content: [
+          "Once collected by a licensed removal team, your old cooling appliances are routed to specialized recycling facilities:",
+        ],
+        listItems: [
+          "Compressor & Copper Recovery: The sealed motor is drained of oil, and high-purity copper windings are separated for industrial smelting.",
+          "Steel Shell & Radiator Grids: The exterior steel casing and aluminium cooling fins are shredded and baled for raw material reuse.",
+          "Plastic & Insulation Foam: Interior lining plastics (HIPS) and polyurethane insulation are sorted and processed under controlled municipal standards.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "appliance-removal-dubai",
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "same-day-junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "jumeirah-village-circle",
+      "al-barsha",
+      "business-bay",
+    ],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>
