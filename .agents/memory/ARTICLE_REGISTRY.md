@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-04**  
+Last synchronized: **2026-09-05**  
 Canonical implementation: `data/blog.ts`
 
 | # | Primary keyword | Intent | URL | Published | Status |
@@ -21,16 +21,19 @@ Canonical implementation: `data/blog.ts`
 | 14 | `how to dispose of a mattress in dubai` | Informational | `/blog/how-to-dispose-of-an-old-mattress-in-dubai` | 2026-09-04 | Published |
 | 15 | `construction waste removal dubai` | Informational | `/blog/construction-and-renovation-waste-removal-dubai` | 2026-09-04 | Published |
 | 16 | `landfill diversion meaning` | Informational | `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` | 2026-09-04 | Published |
+| 17 | `junk removal before moving dubai` | Commercial / Informational | `/blog/junk-removal-before-moving-house-in-dubai` | 2026-09-05 | Published |
+| 18 | `how to declutter your home dubai` | Informational | `/blog/how-to-declutter-your-home-room-by-room-dubai` | 2026-09-05 | Published |
+| 19 | `where to donate furniture in dubai` | Informational | `/blog/where-to-donate-used-furniture-in-dubai` | 2026-09-05 | Published |
 
 ## Current counts
 
-- Published: **16**
-- Published on 2026-09-04: **3**
-- Roadmap articles remaining: **14**
-- Next unpublished priority: `junk removal before moving dubai` (Phase 5)
+- Published: **19**
+- Published on 2026-09-05: **3**
+- Roadmap articles remaining: **11**
+- Next unpublished priority: `sell used furniture dubai` (Phase 5, #20)
 
-## Cannibalization notes for 2026-09-04 batch
+## Cannibalization notes for 2026-09-05 batch
 
-- Mattress guide owns mattress-specific disposal and tower logistics intent; `/services/furniture-removal-dubai` retains general commercial furniture booking intent.
-- Construction waste guide owns renovation debris regulations, NOCs, and sorting; `/services/bulky-item-removal-dubai` retains heavy/bulky commercial removal intent.
-- Landfill diversion guide owns sustainability metrics and circular economy educational intent; `/about` retains brand sustainability credentials.
+- Pre-move guide owns relocation decluttering and moving-quote reduction intent; `/services/house-clearance-dubai` retains general house clearance booking intent.
+- Room-by-room decluttering guide owns home organization, apartment storage, and seasonal decluttering intent; `/services/junk-removal-dubai` retains general on-demand junk removal intent.
+- Furniture donation guide owns charity directory, donation criteria, and non-profit redistribution intent; `/services/furniture-removal-dubai` retains commercial furniture disposal intent.

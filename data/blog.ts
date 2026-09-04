@@ -1462,6 +1462,289 @@ export const BLOG_POSTS: BlogPost[] = [
       "dubai-hills-estate",
     ],
   },
+  {
+    slug: "junk-removal-before-moving-house-in-dubai",
+    title: "Junk Removal Before Moving House in Dubai: The Complete Guide",
+    seoTitle: "Junk Removal Before Moving House in Dubai: Pre-Move Guide",
+    excerpt:
+      "How to declutter and clear unwanted furniture before moving in Dubai — reducing mover quotes, managing Ejari move-out inspections, and booking same-day pickups.",
+    category: "Moving & Clearance",
+    tags: ["Moving House", "Pre-Move Declutter", "Move Out Clearance", "Relocation", "Dubai"],
+    coverImage: "/images/blog/declutter-before-moving-dubai-hero.webp",
+    coverImageAlt:
+      "EcoHaul removal crew assisting with pre-move furniture and household decluttering in a Dubai apartment",
+    publishedAt: "2026-09-05",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Decluttering unwanted furniture before moving cuts your professional relocation quote by 20% to 35% based on reduced truck volume.",
+      "Leaving broken furniture or unwanted balcony items behind risks severe deductions from your tenancy security deposit during Ejari handover.",
+      "Schedule junk removal 3 to 5 days before your moving company arrives to avoid overlapping crews in narrow service lobbies.",
+      "Eco-certified junk removal ensures items you discard are sorted for UAE charity donation or mechanical material recycling.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: why you should clear junk before moving day",
+        content: [
+          "Arranging junk removal before moving house in Dubai saves hundreds to thousands of dirhams on moving company fees, prevents moving-day chaos, and guarantees your property passes the landlord's move-out inspection for full security deposit refund. Professional movers in Dubai charge based on total cubic volume and packing time; paying to wrap, pack, and transport items you will ultimately discard in your new home is a common and costly mistake.",
+          "Whether you are downsizing from a 4-bedroom villa in Arabian Ranches to a Dubai Marina apartment or relocating across town, decluttering first streamlines your move into a single, organized operation.",
+          "Here is the practical step-by-step strategy for decluttering, staging, and clearing junk before your moving trucks pull up.",
+        ],
+      },
+      {
+        heading: "The financial equation: moving junk vs clearing junk",
+        content: [
+          "When moving in Dubai, every cubic metre of truck space and every cardboard carton adds to your relocation invoice:",
+        ],
+        listItems: [
+          "Movers Charge for Packing Volume: Professional movers charge for bubble wrap, packing paper, carton boxes, and labour hours. Packing an old, worn-out 3-seater sofa and broken particle-board wardrobe costs almost as much as moving brand-new luxury furniture.",
+          "New Home Spatial Reality: Floor plans in Dubai vary drastically between older spacious layouts (like Al Barsha or Bur Dubai) and modern high-rise apartments (like Downtown or Business Bay). Measuring and removing surplus pieces before transit prevents paying to move furniture that cannot fit through doorway thresholds.",
+          "Deposit Deduction Protection: Landlords frequently charge AED 1,000+ from your security deposit if even a single broken coffee table or weathered balcony planter is left behind on handover day.",
+        ],
+      },
+      {
+        heading: "The 4-pile staging method for Dubai homes",
+        content: [
+          "Two weeks before your moving date, walk through every room and categorize every non-essential item into four clear piles:",
+        ],
+        listItems: [
+          "Keep & Move: Essential, high-value furniture and daily items that match your new home's dimensions.",
+          "Donate / Sell: Gently-used sofas, solid wood dining sets, clean appliances, and children's toys in good condition.",
+          "Recycle / Dispose: Stained mattresses, broken flat-pack MDF furniture, defective electronics, and worn balcony artificial grass.",
+          "Hazardous Quarantine: Paint tins, aerosol cans, and cleaning chemicals that moving companies are legally prohibited from transporting.",
+        ],
+        image: {
+          src: "/images/blog/move-out-junk-sorting-dubai.webp",
+          alt: "Organized pre-move staging area with labeled boxes, disassembled bed frames, and sorted recyclable items in a Dubai villa",
+        },
+      },
+      {
+        heading: "Timeline: how to schedule your pre-move clearance",
+        content: [
+          "Timing is critical when coordinating multiple contractors in Dubai residential towers and gated communities:",
+        ],
+        listItems: [
+          "14 Days Before Moving: Conduct room-by-room inventory and list high-value items on community classifieds or offer to friends.",
+          "4 to 5 Days Before Moving: Book an eco-certified junk removal team to clear all discarded furniture, broken appliances, and storeroom clutter.",
+          "2 Days Before Moving: Book your moving company to pack and box your remaining vetted belongings.",
+          "Handover Day: Conduct the final broom-clean inspection with your landlord or real estate broker with zero leftover clutter.",
+        ],
+        callout: {
+          title: "Service Lift Booking Window",
+          text: "Never schedule your junk removal team and your home moving company on the exact same morning. Building managements in Dubai towers allocate service elevator windows in strict 2-to-3-hour blocks, and overlapping crews will cause elevator logjams.",
+        },
+      },
+      {
+        heading: "What to look for in a pre-move junk removal service",
+        content: [
+          "When selecting a removal team to clear out your pre-move items in Dubai, verify three essentials:",
+        ],
+        listItems: [
+          "Fixed Written Pricing: Volume-based quotes that include all heavy lifting, disassembly, and disposal fees.",
+          "Building Paperwork Readiness: Ability to supply trade licences and third-party liability insurance for security-gate passes.",
+          "Sustainable Sorting: A documented policy of routing usable items to registered charities and recyclables to Dubai Municipality-approved MRFs.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "house-clearance-dubai",
+      "villa-clearance-dubai",
+      "junk-removal-dubai",
+      "furniture-removal-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "arabian-ranches",
+      "jumeirah-village-circle",
+      "business-bay",
+    ],
+  },
+  {
+    slug: "how-to-declutter-your-home-room-by-room-dubai",
+    title: "How to Declutter Your Home Room-by-Room in Dubai: A Practical Guide",
+    seoTitle: "How to Declutter Your Home Room-by-Room in Dubai (2026)",
+    excerpt:
+      "A room-by-room decluttering blueprint for Dubai apartments and villas — tackling maids' rooms, balconies, walk-in closets, garages, and storage areas.",
+    category: "Moving & Clearance",
+    tags: ["Home Decluttering", "Apartment Storage", "Room-by-Room Guide", "Organizing", "Dubai Living"],
+    coverImage: "/images/blog/room-by-room-decluttering-dubai-hero.webp",
+    coverImageAlt:
+      "Serene, beautifully decluttered and organized living room in a modern Dubai luxury apartment",
+    publishedAt: "2026-09-05",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Dubai residences tend to accumulate rapid clutter in secondary spaces: maid's quarters, external storage lockers, and balcony corners.",
+      "The 'One-Year Rule' and volume-based sorting prevent emotional decision fatigue when decluttering high-density apartments.",
+      "Weathered balcony furniture and sun-damaged plastic planters are top items requiring periodic clearing due to UAE summer heat.",
+      "Booking an on-demand collection for bulky cast-offs immediately locks in the psychological and physical benefits of decluttering.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to declutter a Dubai home systematically",
+        content: [
+          "Decluttering a home in Dubai is most effective when executed room by room rather than attempting a whole-property purge in one exhausting weekend. Start with high-impact, low-emotional areas (such as the storage closet or balcony) before tackling personal spaces (wardrobes and living rooms), using a structured 'Keep, Donate, Recycle, Dump' framework.",
+          "Dubai's expat lifestyle often leads to rapid item accumulation: online shopping deliveries, imported furnishings, seasonal holiday gear, and surplus gym or hobby equipment. In high-density apartments across Downtown, JVC, and Dubai Marina, unmanaged clutter quickly encroaches on valuable square footage.",
+          "Here is the room-by-room guide tailored specifically to Dubai residential layouts and storage realities.",
+        ],
+      },
+      {
+        heading: "Room 1: The living room and dining area",
+        content: [
+          "The living room is your home's visual centrepiece, yet it frequently becomes a dumping ground for surplus side tables, obsolete entertainment gadgets, and worn cushions:",
+        ],
+        listItems: [
+          "Media Consoles & Tech: Clear out tangled charging cables, obsolete TV set-top boxes, and broken gaming accessories.",
+          "Furniture Flow: Evaluate oversized armchairs or coffee tables that obstruct walking paths. If an accent chair is only used to hold laundry, it is ready for removal.",
+          "Shelving & Decorative Knickknacks: Keep only pieces you genuinely appreciate; donate surplus decorative vases and travel souvenirs.",
+        ],
+      },
+      {
+        heading: "Room 2: Bedrooms and walk-in wardrobes",
+        content: [
+          "Wardrobes in Dubai frequently hold seasonal clothing that is rarely worn in a sub-tropical desert climate:",
+        ],
+        listItems: [
+          "The 12-Month Rule: If you have not worn a winter coat, heavy jacket, or formal gown in the past year in Dubai, place it in a charity donation box.",
+          "Under-Bed Storage: Empty under-bed drawers. Items stored under beds often trap dust and humidity, leading to stale odours.",
+          "Mattress & Bedding Health: Replace pillows older than two years and evaluate sagging mattresses that degrade sleep quality.",
+        ],
+        image: {
+          src: "/images/blog/apartment-closet-storage-declutter-dubai.webp",
+          alt: "Systematic organization and decluttering of a modern walk-in wardrobe and storage room in a Dubai residence",
+        },
+      },
+      {
+        heading: "Room 3: The maid's room, storage cupboard & utility locker",
+        content: [
+          "In Dubai villas and 2-to-3-bedroom apartments, the maid's room or utility closet is notorious for becoming an unchecked junk repository:",
+        ],
+        listItems: [
+          "Old Delivery Boxes: Break down empty electronics cartons and shipping boxes that were kept 'just in case'.",
+          "Surplus Cleaning Tools: Discard broken mop handles, dried-out sponges, and half-empty chemical bottles.",
+          "Unused Luggage: Old cracked suitcases take up massive volume. Keep one nestable set and discard damaged luggage.",
+        ],
+        callout: {
+          title: "Dubai Heat & Balcony Decluttering",
+          text: "Intense UAE summer heat degrades plastic patio furniture, brittle artificial turf, and dried-out planters. Regularly inspect balconies and clear sun-damaged items before sand and dust storms create a maintenance nightmare.",
+        },
+      },
+      {
+        heading: "Room 4: The garage & garden (for Dubai villa residents)",
+        content: [
+          "Villa residents in communities like The Springs, Arabian Ranches, and Dubai Hills Estate face distinct garage and outdoor challenges:",
+        ],
+        listItems: [
+          "Rusted Garden Tools & Pergolas: Dismantle weathered timber slats, broken barbecues, and rusted patio heaters.",
+          "Chemical Paint Cans: Dried paint from previous tenancy touch-ups should be safely bundled for hazardous municipal disposal.",
+          "Automotive Accessories & Broken Bicycles: Discard flat-tyre children's bikes, worn car mats, and damaged fitness equipment.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "furniture-removal-dubai",
+      "house-clearance-dubai",
+      "bulky-item-removal-dubai",
+    ],
+    relatedAreas: [
+      "jumeirah-village-circle",
+      "dubai-marina",
+      "the-springs",
+      "downtown-dubai",
+    ],
+  },
+  {
+    slug: "where-to-donate-used-furniture-in-dubai",
+    title: "Where to Donate Used Furniture in Dubai: Charities & Free Pickups",
+    seoTitle: "Where to Donate Used Furniture in Dubai: 2026 Charity Guide",
+    excerpt:
+      "A complete guide on where to donate used furniture in Dubai — registered UAE charities, acceptance criteria, free pickup schedules, and eco-certified collection alternatives.",
+    category: "Eco & Recycling",
+    tags: ["Furniture Donation", "Charity Dubai", "Donate Furniture", "Reuse", "Eco Friendly"],
+    coverImage: "/images/blog/donate-used-furniture-dubai-hero.webp",
+    coverImageAlt:
+      "EcoHaul team carefully loading quality gently-used wooden furniture for charity donation outside a Dubai villa",
+    publishedAt: "2026-09-05",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Registered UAE charities such as Beit Al Khair, Emirates Red Crescent, and Kiswa accept clean, functional household furniture.",
+      "Charity pickup services often have waiting lists of 5 to 14 days and will refuse stained, torn, or broken items on the doorstep.",
+      "Donated furniture must be structurally intact and cleaned prior to handover to ensure dignified redistribution.",
+      "If you have a tight tenancy deadline or items in mixed condition, booking an eco-certified clearance service guarantees same-day pickup with charity routing.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to donate furniture in Dubai",
+        content: [
+          "To donate used furniture in Dubai, you can schedule a pickup with registered UAE humanitarian organisations (such as Beit Al Khair Society, Emirates Red Crescent, or Dar Al Ber Society), drop smaller items at community donation hubs, or use reuse platforms. Furniture must be clean, structurally sound, and free of severe stains or mechanical defects.",
+          "Donating quality furnishings prevents useful items from ending up in desert landfills while providing essential household support to low-income families and community programs across the Emirates.",
+          "Here is the definitive guide to verified charity organizations in Dubai, what items they accept, and how to navigate pickup logistics.",
+        ],
+      },
+      {
+        heading: "Top registered charities accepting furniture in Dubai",
+        content: [
+          "The following officially licensed charitable foundations accept household furniture and appliance donations in Dubai:",
+        ],
+        listItems: [
+          "Beit Al Khair Society: One of the UAE's premier humanitarian charities. Operates dedicated furniture collection vans for large household donations (sofas, bedroom sets, refrigerators, dining tables). Call 800 22554.",
+          "Emirates Red Crescent (ERC): Accepts furniture, white goods, and household electronics in working condition for charitable distribution and charity bazaar sales. Call 800 733.",
+          "Dar Al Ber Society: Established charitable entity managing furniture, appliance, and family aid donations across Dubai and the Northern Emirates. Call 800 79.",
+          "Kiswa UAE: Specializes in scheduled home pickups of usable textiles, footwear, and selected small household items via their mobile app.",
+        ],
+      },
+      {
+        heading: "What charities will and will not accept",
+        content: [
+          "Charity inspection teams must maintain dignity and safety for recipient families. Understanding their criteria prevents last-minute rejections:",
+        ],
+        listItems: [
+          "Accepted Items: Clean fabric and leather sofas, complete bed frames with slats, solid wood wardrobes, dining tables with chairs, and working refrigerators or washing machines.",
+          "Rejected Items: Mattresses with body stains or sagging springs, particle-board furniture with missing screws or swollen water damage, broken glass tables, and appliances requiring electrical repairs.",
+        ],
+        image: {
+          src: "/images/blog/dubai-charity-furniture-donation-center.webp",
+          alt: "Organized staging and distribution warehouse of gently-used furniture at a certified Dubai charity center",
+        },
+      },
+      {
+        heading: "The limitations of free charity pickup services",
+        content: [
+          "While donating directly to charity is ideal, residents should be aware of operational realities:",
+        ],
+        listItems: [
+          "Long Scheduling Lead Times: Charity collection trucks operate on high demand and often require 1 to 2 weeks advance booking.",
+          "No Dismantling Service: Charity drivers are typically transport workers, not carpenters; they cannot dismantle complex 6-door wardrobes or high-bed frames.",
+          "On-the-Spot Refusal: If an item has minor tears or marks, drivers are instructed to decline pickup, leaving you with no backup plan before a tenancy handover inspection.",
+        ],
+        callout: {
+          title: "Tenancy Handover Backup",
+          text: "If your Ejari lease expires in 48 hours, do not rely solely on charity collection. Have a licensed junk removal team on standby who can route qualifying items to charity while responsibly disposing of rejected pieces.",
+        },
+      },
+      {
+        heading: "The hybrid solution: eco-certified removal with charity donation",
+        content: [
+          "If you have a mixture of great furniture and items that cannot be donated (such as an old mattress or broken desk), an eco-certified clearance service provides the best of both worlds.",
+          "The crew arrives on your chosen day, dismantles and carries all items down service elevators, sorts the load, delivers reusable items to registered charity partners, and transports recyclable metals and wood to licensed Dubai MRFs.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "furniture-removal-dubai",
+      "house-clearance-dubai",
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "emirates-hills",
+      "arabian-ranches",
+      "dubai-hills-estate",
+      "palm-jumeirah",
+    ],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>
