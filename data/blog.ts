@@ -1178,6 +1178,290 @@ export const BLOG_POSTS: BlogPost[] = [
       "business-bay",
     ],
   },
+  {
+    slug: "how-to-dispose-of-an-old-mattress-in-dubai",
+    title: "How to Dispose of an Old Mattress in Dubai: The Complete Guide",
+    seoTitle: "How to Dispose of a Mattress in Dubai: 4 Responsible Ways",
+    excerpt:
+      "Learn how to dispose of an old mattress in Dubai legally and cleanly — covering high-rise building service lifts, municipality collection, charity criteria, and recycling.",
+    category: "Guides",
+    tags: ["Mattress Disposal", "Mattress Removal", "Bulky Waste", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/mattress-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Uniformed EcoHaul crew carefully maneuvering a wrapped king-size mattress through a Dubai residential tower service corridor",
+    publishedAt: "2026-09-04",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Leaving an old mattress in a building garbage chute room, communal corridor, or by roadside bins is strictly illegal under Dubai Municipality rules.",
+      "Charities in Dubai only accept clean, stain-free mattresses; soiled or sagging units must be routed to certified material recovery facilities.",
+      "Mattress recycling extracts steel innerspring coils and polyurethane foam, diverting up to 90% of materials from Dubai landfills.",
+      "High-rise residential towers require dedicated service-elevator booking and protective wrapping to prevent corridor wall damage.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to get rid of a mattress in Dubai",
+        content: [
+          "To dispose of an old mattress in Dubai, you have four practical options depending on its condition and your timeline: donate it to a registered UAE charity if it is spotless and structurally sound; request Dubai Municipality's household bulky collection if you live in an eligible public residential zone; trade it in through a retailer take-back scheme when buying new; or book a licensed same-day junk removal service for fast high-rise removal and certified recycling.",
+          "Never abandon a mattress in your building's garbage chute room, service corridor, or beside outdoor communal wheelie bins. Building security teams monitor CCTV in service lobbies, and Dubai Municipality imposes on-the-spot fines of AED 500 to AED 1,000 for illegal dumping in residential areas.",
+          "Here is everything you need to know about navigating tower logistics, avoiding fines, and ensuring your mattress is recycled rather than landfilled.",
+        ],
+      },
+      {
+        heading: "Why mattresses are the hardest furniture item to move in Dubai towers",
+        content: [
+          "Disposing of a mattress in Dubai involves practical hurdles that simple furniture pieces do not present:",
+        ],
+        listItems: [
+          "Bulk and Non-Disassemblable Frames: Unlike flat-pack wardrobes or bed frames with removable slats, spring and hybrid mattresses cannot be broken down into smaller components.",
+          "Service Elevator Restrictions: In towers across Dubai Marina, JLT, and Downtown, standard passenger lifts strictly prohibit bulky mattresses. You must book the designated service elevator in advance through building management.",
+          "Corridor & Wall Scuffing: Carrying a heavy king or super-king mattress (often weighing 40–60 kg) through tight corridor corners requires two handlers and protective poly-wrapping to prevent damaging paintwork and losing your tenancy deposit.",
+        ],
+      },
+      {
+        heading: "Option 1 vs Option 2: Charity donation vs municipal collection",
+        content: [
+          "If your mattress is less than 3–5 years old, completely free of stains, tears, or odours, and has intact springs, you can offer it to charitable organisations such as Beit Al Khair, Emirates Red Crescent, or local community reuse platforms.",
+          "However, charities operate under strict hygiene regulations and will reject any mattress with visible wear or body impressions. If charity collection is declined, municipal collection through 800900 is an option for eligible ground-level villas, though private master communities (Emaar, Nakheel, Damac) are excluded from municipal routes.",
+        ],
+        image: {
+          src: "/images/blog/mattress-recycling-facility-dubai.webp",
+          alt: "Workers sorting steel springs, foam layers, and textile fabrics inside a certified Dubai mattress recycling facility",
+        },
+      },
+      {
+        heading: "How modern mattress recycling works in Dubai",
+        content: [
+          "When collected by a professional, eco-certified junk removal company, your old mattress is transported to a licensed material recovery facility (MRF) rather than dumped in a landfill:",
+        ],
+        listItems: [
+          "Steel Coil Recovery: Innersprings and pocket coils are mechanically stripped and baled as scrap metal for industrial steel recycling.",
+          "Polyurethane Foam Shredding: High-density memory foam and latex layers are shredded and repurposed into carpet underlay, acoustic insulation, and sports mat padding.",
+          "Textile & Fluff Separation: Outer ticking fabrics and quilting fibres are cleaned and processed for industrial wiping rags and insulation.",
+        ],
+        callout: {
+          title: "Landfill Diversion Impact",
+          text: "A single king mattress takes up over 1.5 cubic metres of landfill space and takes decades to decompose. Certified recycling recovers up to 90% of the mattress by weight.",
+        },
+      },
+      {
+        heading: "Booking a quick mattress pickup: what to prepare",
+        content: [
+          "If you need a hassle-free, same-day mattress removal before an Ejari handover inspection:",
+        ],
+        listItems: [
+          "Confirm mattress size (Single, Queen, King, Super King) and whether the bed base or headboard is included.",
+          "Book a 30-minute window for the service elevator with your building security desk.",
+          "Send a quick photo on WhatsApp to receive a guaranteed fixed price that covers all labour, lift transit, and disposal fees.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "furniture-removal-dubai",
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "same-day-junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "jumeirah-village-circle",
+      "business-bay",
+      "jumeirah-lake-towers",
+    ],
+  },
+  {
+    slug: "construction-and-renovation-waste-removal-dubai",
+    title: "Construction & Renovation Waste Removal in Dubai: Rules, Skips & Disposal",
+    seoTitle: "Construction & Renovation Waste Removal Dubai: 2026 Guide",
+    excerpt:
+      "How to manage, bag, and remove renovation debris in Dubai — permits, building security NOCs, hazardous material checks, and licensed rubble removal.",
+    category: "Commercial & Office",
+    tags: ["Construction Waste", "Renovation Debris", "Rubble Removal", "Dubai Municipality", "Fitout Waste"],
+    coverImage: "/images/blog/renovation-waste-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Professional clearance team removing bagged renovation debris, tiles, and wooden drywall framing from a Dubai villa",
+    publishedAt: "2026-09-04",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Mixing construction debris (broken tiles, concrete screed, drywall) with domestic household waste is strictly prohibited in Dubai.",
+      "High-rise building managements require a fit-out NOC and contractor trade licence before allowing rubble removal through loading docks.",
+      "Heavy debris must be bagged in reinforced 25–30 kg woven polypropylene rubble bags to prevent overloading and corridor spillage.",
+      "Certified construction waste disposal routes send inert masonry to recycling crushers to produce aggregate for road base construction.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to dispose of renovation waste in Dubai",
+        content: [
+          "Disposing of construction and renovation waste in Dubai requires specialized handling, reinforced heavy-duty bagging, building management approval (NOC), and transport in a commercially licensed vehicle to an approved Dubai Municipality inert waste facility. You cannot throw tiles, drywall, cement rubble, or plumbing pipes into regular community bins or standard household waste chutes.",
+          "Whether you are remodeling a kitchen in a Dubai Marina penthouse, stripping flooring in an Arabian Ranches villa, or doing an office fit-out in Business Bay, managing debris properly protects you from building management fines, safety hazards, and municipality penalties.",
+          "Here is the complete operational guide to managing and removing renovation debris cleanly and legally across Dubai.",
+        ],
+      },
+      {
+        heading: "Classifying your renovation waste: inert, recyclable, and hazardous",
+        content: [
+          "Before booking a removal truck or skip, categorize the materials coming out of your property:",
+        ],
+        listItems: [
+          "Inert Heavy Rubble: Ceramic tiles, porcelain slabs, concrete screed, brickwork, and plaster. These items are heavy, dense, and 100% recyclable into construction aggregate.",
+          "Fit-Out Timber & Drywall: Gypsum board partitions, wooden door frames, laminate flooring, and plywood cabinetry. These must be kept dry and separated from wet cement.",
+          "Metals & MEP Scraps: Copper pipes, electrical wiring, aluminum window frames, and steel rebar. These carry high recyclable value and are routed to metal smelting plants.",
+          "Hazardous & Chemical Waste: Leftover solvent-based paint tins, chemical adhesives, varnish, and aerosol cans. These require dedicated hazardous waste handling and cannot be mixed with general rubble.",
+        ],
+      },
+      {
+        heading: "Navigating building management approvals (NOC) and loading docks",
+        content: [
+          "In managed developments and towers, moving renovation waste out of the building requires strict compliance:",
+        ],
+        listItems: [
+          "Work Permit / NOC: Ensure your fit-out contractor or waste removal company provides their trade licence and insurance to the building management office.",
+          "Service Lift & Floor Protection: Corridors, lift interiors, and threshold doorframes must be lined with heavy-duty protective floor runners and coreflute boards.",
+          "Dedicated Loading Window: Towers typically permit debris removal only during restricted working hours (e.g. 09:00 AM to 05:00 PM on weekdays; zero noisy transit on Sundays).",
+        ],
+        image: {
+          src: "/images/blog/construction-debris-sorting-facility-dubai.webp",
+          alt: "Industrial mechanical crushing and sorting plant processing construction concrete and rubble in Dubai",
+        },
+      },
+      {
+        heading: "Skip hire vs direct on-demand truck removal for renovations",
+        content: [
+          "Choosing the right removal method depends on your project scale and property type:",
+        ],
+        listItems: [
+          "Direct Truckload Removal (Best for apartments, quick renovations, and gated communities): The crew loads all bagged debris directly into a truck in a single visit and leaves immediately — requiring no street skip permit or parking blockage.",
+          "Skip Hire (Best for major multi-week structural overhauls): Requires a municipal/developer permit to place a steel container on the driveway or street plot, self-loading by site workers, and scheduled crane exchanges.",
+        ],
+        callout: {
+          title: "Bagging Weight Limits",
+          text: "Never overfill bags with concrete or tile screed. Use heavy-duty woven polypropylene rubble sacks filled to a maximum of 25–30 kg each so they can be handled safely without tearing or bursting in elevators.",
+        },
+      },
+      {
+        heading: "How to get a fixed renovation debris quote in minutes",
+        content: [
+          "To get an accurate, fixed quote for your renovation waste clearance:",
+        ],
+        listItems: [
+          "Estimate the number of heavy rubble bags or pile volume in cubic metres.",
+          "Note any bulky disassemblies like glass shower screens, marble vanity tops, or timber kitchen cabinets.",
+          "Specify your community and floor level to ensure proper elevator crew allocation.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "office-cleanout-dubai",
+      "rubbish-removal-dubai",
+    ],
+    relatedAreas: [
+      "business-bay",
+      "downtown-dubai",
+      "dubai-marina",
+      "arabian-ranches",
+    ],
+  },
+  {
+    slug: "what-is-landfill-diversion-and-why-it-matters-in-dubai",
+    title: "What Is Landfill Diversion and Why It Matters in Dubai",
+    seoTitle: "Landfill Diversion in Dubai: Meaning, Targets & Process",
+    excerpt:
+      "An expert guide to landfill diversion in Dubai — Dubai Integrated Waste Management Strategy 2030, material recovery facilities, and eco-certified waste diversion.",
+    category: "Eco & Recycling",
+    tags: ["Landfill Diversion", "Dubai Sustainability 2030", "Circular Economy", "Waste Diversion", "Eco Dubai"],
+    coverImage: "/images/blog/landfill-diversion-dubai-hero.webp",
+    coverImageAlt:
+      "Modern sustainable Dubai urban skyline demonstrating green energy and circular waste management practices",
+    publishedAt: "2026-09-04",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Landfill diversion measures the percentage of collected waste prevented from entering municipal landfill sites through recycling, composting, and reuse.",
+      "Under the Dubai Integrated Waste Management Strategy 2030, Dubai aims to divert 100% of municipal solid waste away from landfills.",
+      "Professional junk removal separates household and commercial waste into specialized material streams at certified Material Recovery Facilities (MRFs).",
+      "Corporate businesses and residential communities in Dubai increasingly require verified Landfill Diversion Certificates for ESG reporting.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: what is landfill diversion?",
+        content: [
+          "Landfill diversion is the process of redirecting waste away from landfill disposal sites through source reduction, direct reuse, mechanical recycling, composting, and waste-to-energy conversion. In simple terms, it represents the percentage of total collected waste that is successfully turned back into useful resources rather than buried in the ground.",
+          "For a rapidly growing metropolis like Dubai, landfill diversion is not just an environmental catchphrase — it is a central pillar of the Dubai Integrated Waste Management Strategy 2030 and the UAE Net Zero 2050 strategic initiative.",
+          "Here is how landfill diversion actually works on the ground in Dubai, why it matters for residents and businesses, and how professional junk removal contributes to the circular economy.",
+        ],
+      },
+      {
+        heading: "Dubai's waste goals: the 2030 zero-waste roadmap",
+        content: [
+          "Historically, rapid urban and economic expansion led to significant volumes of municipal solid waste being sent to major landfill sites such as Al Qusais, Jebel Ali, and Al Warsan.",
+          "To transform waste management into a sustainable, closed-loop model, Dubai Municipality launched ambitious policy frameworks:",
+        ],
+        listItems: [
+          "Dubai Integrated Waste Management Strategy 2030: Setting a target of zero municipal waste to landfill by 2030 through advanced sorting, high-tech recycling, and waste-to-energy conversion.",
+          "Dubai Waste Management Centre (Warsan Plant): One of the world's largest waste-to-energy facilities, capable of processing 1.9 million tonnes of municipal waste annually and generating electricity for over 135,000 homes.",
+          "Commercial Waste Tariffs: Implementing volumetric landfill tipping fees that incentivize developers, business towers, and contractors to segregate and recycle.",
+        ],
+      },
+      {
+        heading: "The journey of diverted waste: from your doorstep to the circular economy",
+        content: [
+          "When an eco-certified clearance service collects unwanted items from your villa or office, the load undergoes multi-stage sorting at certified Material Recovery Facilities (MRFs):",
+        ],
+        listItems: [
+          "Stage 1: Reusable Goods Redistribution — Furniture, working electronics, and clean household goods in good condition are routed to UAE charitable organizations.",
+          "Stage 2: Ferrous & Non-Ferrous Metals — Steel bedframes, aluminum appliances, and copper cabling are separated and melted into industrial raw materials.",
+          "Stage 3: Paper, Cardboard & Packaging — Flattened corrugated boxes and office paper are pulped into recycled packaging materials.",
+          "Stage 4: Rigid Plastics & Polymers — Clean plastic containers and components are shredded and extruded into recycled polymer pellets.",
+          "Stage 5: Organic & Green Waste — Garden trimmings and tree branches are shredded into mulch and organic compost for UAE landscaping projects.",
+        ],
+        image: {
+          src: "/images/blog/dubai-material-recovery-facility-diversion.webp",
+          alt: "High-tech automated conveyor sorting line separating plastics, cardboard, and recyclable materials in Dubai",
+        },
+      },
+      {
+        heading: "Why landfill diversion matters for Dubai residents and businesses",
+        content: [
+          "Choosing a junk removal operator with high documented landfill diversion rates brings tangible benefits:",
+        ],
+        listItems: [
+          "Corporate ESG & Sustainability Compliance: Businesses in DIFC, Business Bay, and Dubai South require documented diversion reporting for their annual environmental audits.",
+          "Preserving Desert Ecosystems: Minimizes land degradation, prevents hazardous chemical leachate from reaching subterranean water tables, and curbs methane emissions.",
+          "Reducing Municipal Strain: Prolongs the operational lifespan of civic infrastructure and supports the UAE's circular economy.",
+        ],
+        callout: {
+          title: "What Is a Landfill Diversion Certificate?",
+          text: "For commercial cleanouts and large estate clearances, a Landfill Diversion Certificate provides auditable documentation showing the exact tonnage of materials collected and the percentage successfully diverted to certified recyclers.",
+        },
+      },
+      {
+        heading: "How you can improve your own household diversion rate",
+        content: [
+          "Maximizing waste diversion starts at home with a few simple habits:",
+        ],
+        listItems: [
+          "Separate paper, dry cardboard, and plastics before clearing out your storage room.",
+          "Offer usable furniture, books, and children's toys on community reuse boards before scheduling disposal.",
+          "Work only with licensed junk removal companies that guarantee certified material sorting and transparent disposal.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "rubbish-removal-dubai",
+      "office-cleanout-dubai",
+      "furniture-removal-dubai",
+    ],
+    relatedAreas: [
+      "downtown-dubai",
+      "business-bay",
+      "dubai-marina",
+      "dubai-hills-estate",
+    ],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>
