@@ -125,17 +125,17 @@ graph TD
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-02)
+## 4. Publication Progress (Updated 2026-09-07)
 
-- Published blog articles: **10 / 30 roadmap articles**
+- Published blog articles: **22 / 30 roadmap articles**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
-- Phase 4 regulatory and recycling pillars: **3 / 9 complete**
-- Other published roadmap work: **1 Phase 5 article**
+- Phase 4 regulatory and recycling pillars: **9 / 9 complete**
+- Phase 5 moving, tenancy and decluttering lifecycle: **7 / 8 complete**
 - Published today: **3**
-- Next priority: Phase 4 item 10, `dubai-municipality-bulky-waste-collection-explained`
+- Next priority: Phase 5 item 23, `spring-cleaning-junk-removal-checklist-dubai`
 
 | Roadmap item | Primary keyword | Status | Published |
 |---|---|---|---|
-| Phase 4 #7 | `how to dispose of old furniture in dubai` | Published | 2026-09-02 |
-| Phase 4 #8 | `where to dispose e waste in dubai` | Published | 2026-09-02 |
-| Phase 4 #9 | `waste disposal rules dubai` | Published | 2026-09-02 |
+| Phase 5 #20 | `sell used furniture dubai` | Published | 2026-09-07 |
+| Phase 5 #21 | `what to do with old office furniture dubai` | Published | 2026-09-07 |
+| Phase 5 #22 | `post renovation cleanup dubai` | Published | 2026-09-07 |

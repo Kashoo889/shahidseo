@@ -1342,6 +1342,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to get a fixed renovation debris quote in minutes",
         content: [
+          "Once the debris is gone, the property still needs the staged dust clean, AC filter change and snagging pass covered in our [post-renovation cleanup guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai).",
           "To get an accurate, fixed quote for your renovation waste clearance:",
         ],
         listItems: [
@@ -1729,6 +1730,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "If you have a mixture of great furniture and items that cannot be donated (such as an old mattress or broken desk), an eco-certified clearance service provides the best of both worlds.",
           "The crew arrives on your chosen day, dismantles and carries all items down service elevators, sorts the load, delivers reusable items to registered charity partners, and transports recyclable metals and wood to licensed Dubai MRFs.",
+          "If some of your pieces are good enough to be worth money rather than a donation receipt, try the resale routes in our guide to [selling used furniture in Dubai](/blog/how-to-sell-or-donate-used-furniture-in-dubai) first — offices clearing a floor should start with the [office relocation furniture guide](/blog/what-to-do-with-old-office-furniture-during-relocation) instead.",
         ],
       },
     ],
@@ -1743,6 +1745,292 @@ export const BLOG_POSTS: BlogPost[] = [
       "arabian-ranches",
       "dubai-hills-estate",
       "palm-jumeirah",
+    ],
+  },
+  {
+    slug: "how-to-sell-or-donate-used-furniture-in-dubai",
+    title: "How to Sell Used Furniture in Dubai Before You Give It Away",
+    seoTitle: "How to Sell Used Furniture in Dubai (and What Won’t Sell)",
+    excerpt:
+      "Where to sell used furniture in Dubai, what buyers really pay for, how to price against the tenancy cycle, and when to switch to donation or removal.",
+    category: "Eco & Recycling",
+    tags: ["Sell Furniture", "Second Hand Dubai", "Reuse", "Move Out", "Resale Value"],
+    coverImage: u("1759691554705-8a791e8f0875"),
+    coverImageAlt:
+      "Modular sofa, armchairs and coffee table in a high-rise Dubai apartment being prepared for resale before a move",
+    publishedAt: "2026-09-07",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Resale value in Dubai tracks the tenancy calendar: listings move fastest in the September–November renewal window and the June–July departure rush.",
+      "Solid-frame, brand-recognisable pieces hold value; flat-pack, custom-built and soft items such as mattresses rarely sell at any price.",
+      "Most failed sales in towers are logistical, not financial — the buyer cannot get a service lift, a parking bay or security clearance on the day.",
+      "Give resale a fixed deadline. Once it passes, donation and booked removal are faster and cheaper than another two weeks of messages.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: what sells, what doesn’t, and how long you have",
+        content: [
+          "To sell used furniture in Dubai, list solid, clean, brand-recognisable pieces on dubizzle, Facebook Marketplace or a resale app roughly four to six weeks before you need the flat empty, price them to move rather than to recover what you paid, and treat collection logistics as part of the deal. Anything still unsold two weeks before handover should be routed to donation or removal instead.",
+          "The mistake is not the price. It is starting too late. A sofa that would have sold comfortably in September becomes a problem in the final week of a tenancy, when the seller is negotiating from a deadline and every buyer can sense it.",
+        ],
+        callout: {
+          title: "Time your listing to the lease cycle",
+          text: "Dubai’s second-hand market peaks twice a year — around September to November as leases renew and families arrive, and again in June and July as departing residents clear out. Listing inside those windows is worth more than any discount you can offer outside them.",
+        },
+      },
+      {
+        heading: "Where people actually sell used furniture in Dubai",
+        content: [
+          "Four channels cover almost every sale in this city, and they trade price against speed in different ways.",
+          "dubizzle carries the most traffic and the most serious buyers for individual pieces, so it is where a good dining set or a two-year-old sectional gets seen. Facebook Marketplace and community groups work faster for cheaper items because the buyer is often already in your building or community. Resale apps such as Melltoo sit in between, adding payment handling and delivery for people who would rather not manage a stranger’s collection themselves.",
+          "The fourth channel is the trade. Second-hand furniture dealers cluster in Satwa, Karama and Naif, and several buy household lots outright. They will pay noticeably less than a private buyer — sometimes a fraction of it — but they come with their own truck and labour, take the whole lot including the pieces nobody wants, and settle the same day. For a villa emptying in seventy-two hours, that trade-off is often correct.",
+        ],
+        listItems: [
+          "dubizzle: highest reach, best prices, slowest close. Best for single quality pieces with photographs and dimensions.",
+          "Facebook Marketplace and building or community groups: fastest for low-value items where the buyer lives nearby.",
+          "Resale apps: less negotiation and less collection admin, in exchange for a smaller net return.",
+          "Second-hand dealers and the community flea markets: lowest price per item, but they clear everything at once.",
+        ],
+      },
+      {
+        heading: "Pricing: what your furniture is actually worth second-hand",
+        content: [
+          "Second-hand pricing in Dubai has less to do with what an item cost new than with whether it can survive a move. Solid timber, metal frames and recognised brands hold value because a buyer can see they will still be intact after being carried down a service lift. Flat-pack furniture that has already been assembled once loses most of its value the moment it is disassembled — the panels chip, the cam locks loosen, and the buyer knows it.",
+          "Three categories are effectively unsellable regardless of condition: used mattresses, upholstered items with stains or odour, and anything built into the property such as fitted wardrobes and made-to-measure shelving. Do not spend two weeks trying to sell them. Mattresses in particular need their own route, which our guide on [mattress disposal in Dubai](/blog/how-to-dispose-of-an-old-mattress-in-dubai) covers in full.",
+          "Set a realistic asking price, add a line saying the price is firm for the first week, then reduce once. Buyers here are experienced negotiators and a listing that has been up for a month with three price cuts signals that the seller is running out of time.",
+        ],
+        image: {
+          src: u("1602770318920-7a02839e5c4d"),
+          alt: "Discarded armchair and sofa cushions left beside communal bins after a failed second-hand sale",
+        },
+      },
+      {
+        heading: "Handling collection without losing the sale",
+        content: [
+          "More sales collapse at collection than at the price. A buyer agrees, arrives at a tower in Dubai Marina at 8pm on a Friday, and discovers the service lift is not available, the loading bay is booked, and security will not let two strangers walk a sofa through the residents’ lobby. The sale dies on the doorstep.",
+          "Do the building admin before you list, not after someone commits. Ask facilities what a resident needs in order to move an item out: many towers want a move-out or gate-pass form, Emirates ID details for whoever is collecting, vehicle registration, a booked service-lift slot and sometimes a refundable deposit against lift damage. Then put the real constraints in the listing — the collection window, whether there is lift access, and the largest dimension of the piece.",
+          "Villa communities are simpler but not free of rules. Community security in places like [Arabian Ranches](/areas/arabian-ranches) usually needs vehicle details in advance, and a pickup truck arriving unannounced at the gate will be turned away. Buildings across [Dubai Marina](/areas/dubai-marina) and [Business Bay](/areas/business-bay) are stricter again, with weekday-only service-lift windows in some towers.",
+        ],
+        listItems: [
+          "Measure the item and the narrowest point on the route out before agreeing a price.",
+          "Confirm the buyer is bringing enough people — a three-seater is not a one-person collection.",
+          "Take payment on collection, in person, before the item leaves the flat.",
+          "Photograph the lift, corridor and door frames beforehand if your building holds a damage deposit.",
+        ],
+      },
+      {
+        heading: "When to stop selling and switch to donation or removal",
+        content: [
+          "Give resale a deadline and hold it. Two weeks before your handover inspection, whatever has not sold is no longer an asset — it is an item standing between you and a deposit refund.",
+          "Clean, structurally sound pieces should go to donation at that point. Registered UAE charities collect household furniture, though they book out well in advance and will decline anything stained or damaged on the doorstep; our guide to [donating used furniture in Dubai](/blog/where-to-donate-used-furniture-in-dubai) lists who accepts what and how their pickups work. Everything below donation standard needs a disposal route, and leaving it beside the communal bins is not one — that is what triggers building fines and blocked waste rooms.",
+          "In practice most move-outs end up with a mixed load: two pieces sold, one donated, and a handful that nobody wants. That last group is what a booked crew is for. Our [furniture collection service](/services/furniture-removal-dubai) handles single items and mixed loads with the dismantling and lift access included, and a full property emptying usually fits the [house clearance service](/services/house-clearance-dubai) better. If you are clearing ahead of a move rather than at the end of one, the sequence in our [pre-move junk removal guide](/blog/junk-removal-before-moving-house-in-dubai) will save you a second trip.",
+          "Send photographs of what is left, including the route out and the floor you are on, and we will [confirm a fixed price](/contact) before anyone is booked in.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "furniture-removal-dubai",
+      "house-clearance-dubai",
+      "junk-removal-dubai",
+      "bulky-item-removal-dubai",
+    ],
+    relatedAreas: [
+      "dubai-marina",
+      "business-bay",
+      "arabian-ranches",
+      "jumeirah-village-circle",
+    ],
+  },
+  {
+    slug: "what-to-do-with-old-office-furniture-during-relocation",
+    title: "What to Do With Old Office Furniture During a Dubai Relocation",
+    seoTitle: "Old Office Furniture Dubai: Relocation & Disposal Guide",
+    excerpt:
+      "What to do with old office furniture in Dubai when you relocate: reinstatement deadlines, what resells, IT and e-waste handling, and out-of-hours access.",
+    category: "Commercial & Office",
+    tags: ["Office Relocation", "Office Furniture", "Reinstatement", "E-Waste", "Commercial Clearance"],
+    coverImage: u("1549637642-90187f64f420"),
+    coverImageAlt:
+      "Rows of workstations and task chairs on an empty Dubai office floor awaiting clearance before relocation",
+    publishedAt: "2026-09-07",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "The reinstatement clause in your lease, not your moving date, sets the real deadline for emptying the old floor.",
+      "Resale value sits in recognisable task chairs, meeting tables and storage; bench workstations, branded reception desks and partition systems rarely find a buyer.",
+      "IT hardware needs a documented data-wipe and a separate e-waste route before it leaves the building.",
+      "Most Dubai towers and free-zone buildings only permit furniture removal out of hours, through a booked service lift, by a contractor whose licence and insurance are on file.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: work backwards from the handover, not the move",
+        content: [
+          "When you relocate an office in Dubai, deal with the old furniture in four passes: check what the lease obliges you to remove, list every asset and decide what moves with you, sell or donate what has genuine resale value, and book a licensed clearance for the rest inside the building’s permitted working window. The handover date on the lease is the deadline that matters, and it usually lands before you have finished settling into the new space.",
+          "Teams routinely plan the move-in in detail and treat the old floor as an afterthought. That is how a company ends up paying rent on an empty unit for another month because a landlord will not sign off a handover with forty workstations still in it.",
+        ],
+      },
+      {
+        heading: "Start with the lease, not the furniture",
+        content: [
+          "Read the reinstatement or make-good clause before anything is priced. It decides whether you are handing the space back as-is, stripped to shell and core, or restored to the condition recorded in the original handover photographs. Each of those is a completely different scope of work, and only the last two involve removing partitions, cabling, signage and fitted joinery as well as loose furniture.",
+          "In free zones and managed towers there is a second layer: the building’s own fit-out and de-fit rules. Landlord and facilities teams in developments across [DIFC](/areas/difc) and [Business Bay](/areas/business-bay) typically require the removal contractor’s trade licence and insurance on file, an approved work permit, protection of lift interiors and common corridors, and a defined out-of-hours window. Approvals take days, not hours — start them the week you sign the new lease.",
+          "Then set the sequence. Furniture that is leaving with you moves first, resale and donation collections happen next, and general clearance comes last so the crew is not working around items someone else is coming to collect.",
+        ],
+      },
+      {
+        heading: "Sort the inventory into four outcomes before you price anything",
+        content: [
+          "Walk the floor with the asset register and put every item into one of four groups: relocate, resell, donate, dispose. Doing this on paper first is what keeps the clearance quote accurate, because volume is the thing being priced.",
+          "Be realistic about what the Dubai second-hand market actually absorbs. Recognisable task chairs, height-adjustable desks, meeting tables, pedestals and storage units find buyers, and dealers in Karama in particular deal in used office furniture. Bench-system workstations with custom laminate tops, branded reception counters, glass partition systems and anything cut to fit your old floorplate almost never do — the cost of dismantling and re-installing them exceeds their value.",
+          "Donation has a narrower window than most people expect. Registered charities can take usable chairs, tables and storage, but they need lead time and they refuse damaged items on sight, which is the same constraint households run into when they [donate furniture in Dubai](/blog/where-to-donate-used-furniture-in-dubai). If your handover is three weeks away, start those conversations now or plan without them.",
+        ],
+        image: {
+          src: u("1577412647305-991150c7d163"),
+          alt: "Open-plan office with desks, screens and storage units being assessed for resale, donation and clearance",
+        },
+      },
+      {
+        heading: "IT equipment and e-waste need their own chain of custody",
+        content: [
+          "Computers, servers, network gear, printers and phone handsets should never be in the same pile as furniture. They carry company data and they are regulated waste, and once they are on a truck with two hundred chairs there is no way to prove what happened to them.",
+          "Wipe or destroy drives before anything leaves the building, and record it against the asset tags. Keep the hardware separate through collection so the disposal route is documented end to end. What the certified recycling chain looks like in this market — and why the paperwork matters more than the hardware’s value — is covered in our [Dubai e-waste disposal guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide).",
+          "Ask for the same documentation on the furniture side. A clearance that ends in a licensed material recovery facility rather than a landfill run can be evidenced, and finance and sustainability teams increasingly need that evidence, not a verbal assurance. Our note on [what landfill diversion means](/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai) explains what those figures are actually measuring.",
+        ],
+        callout: {
+          title: "Leased equipment is not yours to dispose of",
+          text: "Printers, coffee machines, water dispensers and some IT hardware are frequently on rental or managed-service contracts. Separate them from the disposal list early — returning them late, or scrapping them by accident, is an avoidable charge on the way out.",
+        },
+      },
+      {
+        heading: "Building access is what breaks office clearances",
+        content: [
+          "The physical work is rarely the difficult part. Access is. Most commercial towers restrict furniture movement to evenings or weekends, allocate a single service lift to the job, and require floor protection and corridor runners before the first chair moves. In business parks and free zones such as [Dubai Internet City](/areas/dubai-internet-city), gate passes for crew and vehicles are issued in advance against named individuals.",
+          "Plan for the clearance to run in phases if your team is still working. A floor being stripped around live desks needs the sequence agreed in advance — usually storage and meeting rooms first, then workstations by zone, with IT last so the network stays up until the final evening.",
+        ],
+        listItems: [
+          "Confirm the permitted working hours and whether weekend or overnight work needs separate approval.",
+          "Book the service lift for the full duration, not the optimistic duration.",
+          "Have the contractor’s licence, insurance and crew list with facilities before the first visit.",
+          "Agree where the truck stands and for how long — loading bays in commercial towers are shared and timed.",
+        ],
+      },
+      {
+        heading: "Getting a quote that matches how offices actually empty",
+        content: [
+          "A useful commercial quote prices the load, the labour, the dismantling and the disposal route together, and it accounts for the hours you are allowed to work rather than a theoretical clear run. Send a floor plan or a walk-through video, the item counts by type, the floor level, and the building’s access window, and you will get a number that holds.",
+          "Our [office clearance team](/services/office-cleanout-dubai) handles phased and out-of-hours strip-outs, with heavier fixed items covered by the [bulky item removal service](/services/bulky-item-removal-dubai). If your relocation also involves partition or joinery removal, the approvals and bagging rules in our [renovation waste guide](/blog/construction-and-renovation-waste-removal-dubai) apply to that portion of the work.",
+          "Send us the floor details and your handover date and we will [confirm a fixed price and a schedule](/contact) that lands inside it.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "office-cleanout-dubai",
+      "furniture-removal-dubai",
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+    ],
+    relatedAreas: [
+      "difc",
+      "business-bay",
+      "dubai-internet-city",
+      "dubai-design-district",
+    ],
+  },
+  {
+    slug: "post-renovation-junk-and-debris-cleanup-guide-dubai",
+    title: "Post-Renovation Cleanup in Dubai: What Happens After the Contractor Leaves",
+    seoTitle: "Post Renovation Cleanup Dubai: The After-Contractor Guide",
+    excerpt:
+      "A staged post renovation cleanup for Dubai homes: what your contractor’s scope really covers, what to do with leftovers, and why the dust clean comes second.",
+    category: "Moving & Clearance",
+    tags: ["Post Renovation", "Renovation Debris", "Dust Cleaning", "Snagging", "Dubai"],
+    coverImage: u("1618832515490-e181c4794a45"),
+    coverImageAlt:
+      "Finished kitchen still covered in protective sheeting and paper with a ladder and leftover materials in place",
+    publishedAt: "2026-09-07",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Post-renovation cleanup is three separate jobs — debris out, fine-dust clean, then AC filters and vents — and they only work in that order.",
+      "Most contracts cover the contractor’s own offcuts and packaging, not spare tiles, paint tins, old fixtures or protective sheeting.",
+      "Keep a labelled box of spare tiles, grout and touch-up paint; dried solvent-based paint and adhesives need a hazardous route, not a bin bag.",
+      "Book the debris collection for the day after the contractor’s final visit and the deep clean after it, so you are not paying to clean a room twice.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: three stages, in this order",
+        content: [
+          "A post renovation cleanup in Dubai runs in three stages. First the leftovers and debris leave the property. Then the fine dust is cleaned top to bottom, once nothing is being carried through the rooms. Last, the AC filters are changed and the vents cleaned, because the system has been pulling gypsum and tile dust in for the whole project. Furniture goes back after all three, not between them.",
+          "Reverse any two of those and you pay for the work twice. A deep clean booked before the spare tiles and sheeting are carried out is a deep clean you will need again the same week — which is exactly what happens in most flats, because the cleaning company is easier to book than the removal.",
+        ],
+      },
+      {
+        heading: "What your contractor’s ‘clearing up’ usually covers — and what it doesn’t",
+        content: [
+          "Read the final line of the scope before the last payment. In most residential contracts in Dubai, the contractor removes what their own trades generated — offcuts, broken tiles, cement bags, packaging from installed units — and leaves the property broom-swept. That is a genuinely different standard from clean.",
+          "What tends to stay behind is everything that is technically yours: surplus tiles ordered as spares, part-used paint and grout, the old sanitaryware or kitchen doors that were stripped out early, protective floor sheeting and door tape, and a layer of fine dust on every surface, inside every cupboard and along the top of every door frame. None of that is a dispute. It simply is not in the scope, and it becomes your problem on the day the crew leaves.",
+          "If the renovation was large enough to involve permits, building approvals and skip or truck logistics, the classification and bagging rules for the heavy material are set out in our [construction and renovation waste guide](/blog/construction-and-renovation-waste-removal-dubai). This article picks up where that one ends — at the point the contractor calls the job finished.",
+        ],
+      },
+      {
+        heading: "Stage 1: get the leftovers out before anything is cleaned",
+        content: [
+          "Walk the property with two piles in mind: what is worth keeping for the next five years, and what is going today.",
+          "Keep a small, labelled box of spares — a few tiles of each type, the grout colour, the touch-up paint with the code on the lid, and any spare handles or hinges. Villa and apartment residents who skip this end up buying a full box of discontinued tile to repair one chipped corner. Everything else goes, and most of it is bulkier than it looks once it is off the floor and bagged.",
+          "Dried solvent-based paint, adhesives, varnish and aerosol cans are the exception. They are not household waste, and they should not go into a communal bin or a chute — Dubai’s [waste disposal rules](/blog/dubai-municipality-waste-disposal-rules-and-regulations) treat that material separately, and building management will not accept it in the waste room. Set it aside and tell whoever is collecting that it is in the load.",
+        ],
+        listItems: [
+          "Keep: spare tiles and grout, labelled touch-up paint, spare fixings, appliance manuals and warranty cards.",
+          "Remove: protective sheeting and tape, packaging, stripped-out fixtures, old doors and sanitaryware, broken tile and board.",
+          "Separate: paint tins, solvents, adhesives and aerosols for hazardous handling.",
+          "Recycle: clean cardboard, timber and metal offcuts — the routes are listed in our recycling centre guide.",
+        ],
+        image: {
+          src: u("1747729495628-e38c438f619b"),
+          alt: "Tiling tools, dried grout and leftover materials on a newly tiled floor after a renovation",
+        },
+      },
+      {
+        heading: "Stage 2: the fine-dust clean Dubai properties always need twice",
+        content: [
+          "Gypsum and tile dust behaves differently from ordinary household dust. It is fine enough to stay airborne for hours, it settles again after you have wiped a surface, and it travels through a closed door. Add the desert dust that gets into every Dubai property anyway and the first clean after a renovation is never the last one.",
+          "Work top down and slowly. Ceilings, light fittings, curtain tracks and the tops of doors and wardrobes first, then walls and joinery, then floors. Open every cupboard and drawer — the inside of kitchen units is where dust hides until you put plates in them. Expect to repeat floors and horizontal surfaces a day or two later, once whatever was still airborne has settled.",
+          "This stage is worth doing after the debris has gone and before furniture returns, which is the one window when the rooms are genuinely empty. If the renovation was part of a move-in, our [pre-move junk removal guide](/blog/junk-removal-before-moving-house-in-dubai) covers how to sequence the two so the furniture truck is not waiting outside.",
+        ],
+        callout: {
+          title: "The AC is the step people skip",
+          text: "Dubai homes run their air conditioning almost year-round, so anything airborne during the works has been drawn into the filters and ducts. Change or clean the filters and have the vents cleaned once the dust clean is done — otherwise the system redistributes the renovation across the rooms you just finished cleaning.",
+        },
+      },
+      {
+        heading: "Stage 3: snag it, then move back in",
+        content: [
+          "A snag list is far easier to write in an empty, clean, well-lit room than around stacked furniture. Go through it methodically: paint coverage and edges, grout lines, silicone seals, door and drawer alignment, sockets and switches, water pressure and drainage, and every surface for chips that were hidden under sheeting.",
+          "Photograph what you find and send it in one message rather than five. Contractors respond better to a single consolidated list, and if the property is rented, the same photographs are what you show the landlord or property manager at inspection.",
+          "Only then does furniture come back. Moving it in before the snags are fixed means a second round of protection, a second dust clean, and tradespeople working around your sofa.",
+        ],
+      },
+      {
+        heading: "How to book the debris collection so it actually fits",
+        content: [
+          "Book the collection for the day after the contractor’s final visit. Anything earlier and you are removing half a job; anything later and the cleaning, snagging and move-in all slide.",
+          "Photograph the piles where they stand, including the route out — floor level, lift access, whether the corridor turns, and where a vehicle can stand. Renovation loads are heavy rather than large, and the difference between a fourth-floor flat in [Jumeirah Village Circle](/areas/jumeirah-village-circle) with a working service lift and one without changes the crew size, not just the price. Villa jobs in communities such as [Arabian Ranches](/areas/arabian-ranches) usually turn on gate access and where the truck can park relative to the door.",
+          "We handle heavy post-renovation loads through the [bulky item removal service](/services/bulky-item-removal-dubai), with mixed household and renovation loads under [general junk removal](/services/junk-removal-dubai), and the clean material routed to the facilities listed in our [Dubai recycling centre guide](/blog/complete-list-of-recycling-centers-in-dubai). Send photos and your contractor’s finish date and we will [confirm a fixed price](/contact) for the slot after it.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "bulky-item-removal-dubai",
+      "junk-removal-dubai",
+      "house-clearance-dubai",
+      "rubbish-removal-dubai",
+    ],
+    relatedAreas: [
+      "jumeirah-village-circle",
+      "arabian-ranches",
+      "dubai-marina",
+      "downtown-dubai",
     ],
   },
 ];

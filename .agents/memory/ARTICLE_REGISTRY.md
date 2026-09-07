@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-05**  
+Last synchronized: **2026-09-07**  
 Canonical implementation: `data/blog.ts`
 
 | # | Primary keyword | Intent | URL | Published | Status |
@@ -24,16 +24,19 @@ Canonical implementation: `data/blog.ts`
 | 17 | `junk removal before moving dubai` | Commercial / Informational | `/blog/junk-removal-before-moving-house-in-dubai` | 2026-09-05 | Published |
 | 18 | `how to declutter your home dubai` | Informational | `/blog/how-to-declutter-your-home-room-by-room-dubai` | 2026-09-05 | Published |
 | 19 | `where to donate furniture in dubai` | Informational | `/blog/where-to-donate-used-furniture-in-dubai` | 2026-09-05 | Published |
+| 20 | `sell used furniture dubai` | Informational | `/blog/how-to-sell-or-donate-used-furniture-in-dubai` | 2026-09-07 | Published |
+| 21 | `what to do with old office furniture dubai` | Informational | `/blog/what-to-do-with-old-office-furniture-during-relocation` | 2026-09-07 | Published |
+| 22 | `post renovation cleanup dubai` | Commercial / Informational | `/blog/post-renovation-junk-and-debris-cleanup-guide-dubai` | 2026-09-07 | Published |
 
 ## Current counts
 
-- Published: **19**
-- Published on 2026-09-05: **3**
-- Roadmap articles remaining: **11**
-- Next unpublished priority: `sell used furniture dubai` (Phase 5, #20)
+- Published: **22**
+- Published on 2026-09-07: **3**
+- Roadmap articles remaining: **8**
+- Next unpublished priority: `spring cleaning junk removal dubai` (Phase 5, #23)
 
-## Cannibalization notes for 2026-09-05 batch
+## Cannibalization notes for 2026-09-07 batch
 
-- Pre-move guide owns relocation decluttering and moving-quote reduction intent; `/services/house-clearance-dubai` retains general house clearance booking intent.
-- Room-by-room decluttering guide owns home organization, apartment storage, and seasonal decluttering intent; `/services/junk-removal-dubai` retains general on-demand junk removal intent.
-- Furniture donation guide owns charity directory, donation criteria, and non-profit redistribution intent; `/services/furniture-removal-dubai` retains commercial furniture disposal intent.
+- The resale guide owns selling, pricing and buyer-collection intent; `/blog/where-to-donate-used-furniture-in-dubai` retains all charity and donation-pickup intent, and `/services/furniture-removal-dubai` retains commercial furniture disposal intent.
+- The office relocation guide owns reinstatement-deadline, asset-sorting and IT chain-of-custody intent for relocating businesses; `/services/office-cleanout-dubai` retains commercial office clearance booking intent and `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains e-waste routing intent.
+- The post-renovation guide owns the after-contractor cleanup sequence (leftovers, dust, AC, snagging); `/blog/construction-and-renovation-waste-removal-dubai` retains debris classification, bagging, NOC and skip-vs-truck intent, and `/services/bulky-item-removal-dubai` retains heavy-load booking intent.
