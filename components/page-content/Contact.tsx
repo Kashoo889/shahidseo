@@ -44,12 +44,7 @@ export default function Contact() {
       <Seo jsonLd={schemas} />
 
       <Container className="pt-6">
-        <Breadcrumbs
-          items={[
-            { label: "Home", href: "/" },
-            { label: "Contact Us" },
-          ]}
-        />
+        <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Contact Us" }]} />
       </Container>
 
       <section className="py-12 sm:py-16">
@@ -68,7 +63,6 @@ export default function Contact() {
       </section>
 
       <section className="pb-16">
-
         <Container className="grid items-stretch gap-8 lg:grid-cols-2">
           {/* Business Bay image */}
           <div className="relative overflow-hidden rounded-2xl shadow-card">

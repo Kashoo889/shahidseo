@@ -42,4 +42,3 @@ export default async function AreaDetailPage({ params }: Props) {
 
   return <AreaPageTemplate area={area} />;
 }
-

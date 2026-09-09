@@ -62,14 +62,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   // Standard Company & Information Pages
-  const infoEntries: MetadataRoute.Sitemap = ["/about", "/contact", "/faq"].map(
-    (route) => ({
-      url: `${siteConfig.url}${route}`,
-      lastModified: now,
-      changeFrequency: "monthly",
-      priority: 0.7,
-    }),
-  );
+  const infoEntries: MetadataRoute.Sitemap = ["/about", "/contact", "/faq"].map((route) => ({
+    url: `${siteConfig.url}${route}`,
+    lastModified: now,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
 
   return [
     rootEntry,
@@ -80,5 +78,3 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...infoEntries,
   ];
 }
-
-

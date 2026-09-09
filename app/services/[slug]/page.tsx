@@ -4,7 +4,6 @@ import { SERVICES, getService } from "@/data/services";
 import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
 import { createMetadata } from "@/lib/seo";
 
-
 type Props = {
   params: Promise<{ slug: string }>;
 };
@@ -43,4 +42,3 @@ export default async function ServiceDetailPage({ params }: Props) {
 
   return <ServicePageTemplate service={service} />;
 }
-

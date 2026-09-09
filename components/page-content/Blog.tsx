@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { Search, BookOpen, Sparkles } from "lucide-react";
-import type { BlogPost } from "@/data/blog";
 import { BLOG_CATEGORIES, getAllBlogPosts } from "@/data/blog";
 import { blogCollectionPageSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
 import { Seo } from "@/components/Seo";
@@ -19,8 +18,7 @@ export function Blog() {
   const featuredPost = allPosts[0];
 
   const filteredPosts = allPosts.filter((post) => {
-    const matchesCategory =
-      selectedCategory === "All" || post.category === selectedCategory;
+    const matchesCategory = selectedCategory === "All" || post.category === selectedCategory;
     const matchesSearch =
       searchQuery.trim() === "" ||
       post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -53,12 +51,7 @@ export function Blog() {
 
       <div className="pt-6">
         <Container>
-          <Breadcrumbs
-            items={[
-              { label: "Home", href: "/" },
-              { label: "Blog" },
-            ]}
-          />
+          <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Blog" }]} />
         </Container>
       </div>
 
@@ -73,7 +66,8 @@ export function Blog() {
               The EcoHaul <span className="text-primary">Journal</span>
             </h1>
             <p className="mt-4 text-base text-muted-foreground sm:text-lg">
-              Practical guides on waste reduction, property clearance checklists, Dubai municipal regulations, and sustainable disposal practices.
+              Practical guides on waste reduction, property clearance checklists, Dubai municipal
+              regulations, and sustainable disposal practices.
             </p>
           </div>
 
@@ -93,7 +87,11 @@ export function Blog() {
             </div>
 
             {/* Category Pills */}
-            <div className="flex flex-wrap items-center gap-2 pt-2" role="tablist" aria-label="Blog categories">
+            <div
+              className="flex flex-wrap items-center gap-2 pt-2"
+              role="tablist"
+              aria-label="Blog categories"
+            >
               <button
                 type="button"
                 role="tab"

@@ -19,8 +19,8 @@ If no, it doesn't ship. Everything below is how we get to yes.
 
 - **Every article targets exactly one primary keyword** with one clear intent, pulled from `keywords.md`. That keyword defines the article. Do not merge two primary keywords into one post to "save time" — split them.
 - **Match the format to the intent.** Question keywords (Q) get a direct answer near the top. Informational (I) get a genuine guide. Cost/commercial-research keywords get honest numbers and ranges. Never answer a "how do I dispose of X" query with a sales page.
-- **Secondary keywords support, they don't compete.** Each article may naturally include 3–8 secondary/long-tail keywords from the *same cluster* in `keywords.md`. Pulling secondaries from a *different* cluster is a cannibalization risk — don't.
-- **Commercial head terms belong to service and area pages, not blogs.** Terms like "furniture removal dubai," "villa clearance dubai," or "junk removal dubai marina" are owned by their service/area URLs. A blog may *mention* them and link to them, but must never be built to rank for them. (See Section 3.)
+- **Secondary keywords support, they don't compete.** Each article may naturally include 3–8 secondary/long-tail keywords from the _same cluster_ in `keywords.md`. Pulling secondaries from a _different_ cluster is a cannibalization risk — don't.
+- **Commercial head terms belong to service and area pages, not blogs.** Terms like "furniture removal dubai," "villa clearance dubai," or "junk removal dubai marina" are owned by their service/area URLs. A blog may _mention_ them and link to them, but must never be built to rank for them. (See Section 3.)
 - **Never invent keywords to hit a quota.** If a topic doesn't have a real query behind it in `keywords.md`, it's not an article yet.
 
 ---
@@ -42,7 +42,7 @@ This is the rule most likely to quietly damage the site, so it's strict.
 - **One intent, one URL — across the whole site.** No two of our pages should be built to rank for the same query. Blogs target informational/question/comparison/cost intent; service pages own commercial service terms; area pages own geo-modified terms.
 - **Before creating any article, run the pre-publish overlap check in Section 16.** No exceptions.
 - **A blog never competes with a service page.** If a draft is starting to read like a pitch for "office junk removal dubai," stop — that intent belongs to the service page. Reframe the blog to its actual informational angle (e.g. "How to clear an office in Dubai without disrupting the workday") and link to the service page.
-- **A blog never competes with an area page.** Do not write "Junk Removal in Dubai Marina" as a blog — that's the area page's job. A blog *can* cover something area-flavoured that the area page doesn't ("What Marina towers require before a bulky-item pickup"), as long as its target query differs.
+- **A blog never competes with an area page.** Do not write "Junk Removal in Dubai Marina" as a blog — that's the area page's job. A blog _can_ cover something area-flavoured that the area page doesn't ("What Marina towers require before a bulky-item pickup"), as long as its target query differs.
 - **Two blogs never share a primary keyword or near-duplicate intent.** If a proposed article's core question is already answered by an existing post, either update the existing post or pick a genuinely different angle — don't publish a second one.
 - **When overlap is unavoidable, consolidate.** Improve and expand the stronger existing page rather than splitting authority across two.
 
@@ -94,7 +94,7 @@ This is the rule most likely to quietly damage the site, so it's strict.
 - **Every blog links to at least one relevant service page and, where relevant, one area page** — placed where it actually helps the reader, not dumped at the bottom.
 - **Link with intent flow in mind:** informational articles should guide a ready reader toward the matching service or area page. A mattress-disposal guide links to the mattress/bulky-item service page.
 - **Link between related blogs** (2–4 contextual links) to build topic clusters and keep readers on-site — but only where the linked article genuinely continues the thought.
-- **Service and area pages generally don't need to link *out* to blogs** except to a genuinely helpful guide; keep those pages conversion-focused.
+- **Service and area pages generally don't need to link _out_ to blogs** except to a genuinely helpful guide; keep those pages conversion-focused.
 - **Don't over-link.** A wall of links dilutes value and looks manipulative. Every link must earn its place by being useful to that specific reader at that point.
 - **No orphan articles:** every new post must be linked from at least one existing relevant page or hub, so it isn't stranded.
 
@@ -144,12 +144,14 @@ This is the rule most likely to quietly damage the site, so it's strict.
 ## 13. Meta title and meta description
 
 **Meta title**
+
 - ~50–60 characters; primary keyword included naturally, ideally near the front.
 - Compelling and specific — written for a human deciding whether to click, not just for the crawler.
 - Unique across the entire site. No two pages share a meta title.
 - Brand suffix ("— Dubai Junk Collection") only when it fits the length; the message comes first.
 
 **Meta description**
+
 - ~140–160 characters; primary keyword included once, naturally.
 - Describe what the reader will get and give a reason to click. It's ad copy, not a summary of the H1.
 - **No keyword stuffing, no clickbait, no promises the article doesn't keep.**
@@ -191,9 +193,9 @@ This is the gate that prevents cannibalization and duplication. **Complete it be
 2. **Search existing content** (blog, service pages, area pages) for the primary keyword and its close variations. Check titles, H1s, and target keywords.
 3. **Check for intent overlap, not just word overlap.** Ask: is any existing page already built to answer this exact question or serve this exact intent? Word-different but intent-identical still counts as a conflict.
 4. **Decide the outcome:**
-   - *No overlap* → proceed to draft.
-   - *Overlaps an existing blog* → update/expand that post instead, or choose a demonstrably different angle and primary keyword.
-   - *Overlaps a service/area page* → do not compete; reframe the blog to a distinct informational angle and link to that page.
+   - _No overlap_ → proceed to draft.
+   - _Overlaps an existing blog_ → update/expand that post instead, or choose a demonstrably different angle and primary keyword.
+   - _Overlaps a service/area page_ → do not compete; reframe the blog to a distinct informational angle and link to that page.
 5. **Confirm a unique angle** (Section 4) that no existing article uses.
 6. **Map the internal links** you'll include (which service page, area page, related blogs) before writing, so linking is intentional, not an afterthought.
 7. **Log the article** (primary keyword, intent, angle, target URL, key internal links) in the content tracker so the next writer can run this same check against it.
@@ -227,16 +229,19 @@ If steps 1–5 can't all be satisfied, the article isn't ready to write.
 Run every article against this before it goes live. Any "no" blocks publication.
 
 **Intent & keywords**
+
 - [ ] One clear primary keyword from `keywords.md`, correct intent, marked for blog use.
 - [ ] Secondary keywords are from the same cluster and read naturally.
 - [ ] No keyword stuffing anywhere (body, headings, meta, alt, FAQ).
 
 **Cannibalization**
+
 - [ ] Pre-publish overlap check (Section 16) completed and logged.
 - [ ] Does not compete with any service page, area page, or existing blog.
 - [ ] Unique angle no other article uses.
 
 **Content quality**
+
 - [ ] Genuinely useful; passes the one-line test (Section 0).
 - [ ] Reads as human-written — natural rhythm, real specifics, no AI filler phrases.
 - [ ] Experience-based detail a desk-writer couldn't fake.
@@ -244,16 +249,19 @@ Run every article against this before it goes live. Any "no" blocks publication.
 - [ ] Length fits the intent; nothing padded, nothing missing.
 
 **E-E-A-T & accuracy**
+
 - [ ] Every fact, price, rule, and figure verified or safely generalized — nothing invented.
 - [ ] Dubai-specific claims are current and correct.
 
 **Structure & on-page**
+
 - [ ] One H1 (with keyword, human-readable); logical H2/H3 hierarchy, no skipped levels.
 - [ ] Meta title unique, ~50–60 chars, natural keyword.
 - [ ] Meta description unique, ~140–160 chars, natural keyword, real reason to click.
 - [ ] URL slug clean and keyword-appropriate.
 
 **Links & media**
+
 - [ ] Links to ≥1 relevant service page (and area page where relevant), placed naturally.
 - [ ] 2–4 contextual internal links to related content where genuinely helpful.
 - [ ] Anchor text descriptive and varied; no generic or repeated exact-match anchors.
@@ -261,13 +269,15 @@ Run every article against this before it goes live. Any "no" blocks publication.
 - [ ] Exactly 2 images (1 featured + 1 in-body), generated where possible and sourced only as fallback; alt text accurate and natural, not stuffed.
 
 **Local, FAQ & CTA**
+
 - [ ] Local relevance real and value-adding where used, not decorative.
 - [ ] FAQ only if it adds genuine, non-duplicated value (3–6 real Qs).
 - [ ] One intent-matched CTA, helpful not pushy; article isn't overly promotional.
 
 **Final read**
+
 - [ ] Read aloud once. If any sentence sounds robotic, repetitive, or salesy, fix it before publishing.
 
 ---
 
-*Keep this file and `keywords.md` open while writing. When in doubt, favour the reader — and run the overlap check.*
+_Keep this file and `keywords.md` open while writing. When in doubt, favour the reader — and run the overlap check._

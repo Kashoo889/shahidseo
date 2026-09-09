@@ -14,7 +14,6 @@ export function CTASection({
   primaryLabel = "Book a Pickup",
   secondaryLabel = "WhatsApp Us",
 }: Props = {}) {
-
   return (
     <section className="py-16 sm:py-20">
       <Container>
@@ -46,4 +45,3 @@ export function CTASection({
     </section>
   );
 }
-

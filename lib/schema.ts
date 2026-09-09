@@ -13,9 +13,7 @@ const WEBSITE_ID = `${siteConfig.url}/#website`;
 export function organizationSchema(area?: Area) {
   const isAreaSpecific = Boolean(area);
   const areaName = area ? area.name : "Dubai";
-  const businessName = isAreaSpecific
-    ? `${siteConfig.name} — ${areaName}`
-    : siteConfig.name;
+  const businessName = isAreaSpecific ? `${siteConfig.name} — ${areaName}` : siteConfig.name;
   const description = isAreaSpecific
     ? `Professional, eco-friendly junk removal and rubbish collection in ${areaName}, Dubai. Same-day pickup for furniture, appliances, and house clearance.`
     : "Dubai's premier sustainable junk removal and property clearance service. Same-day pickup with over 95% landfill diversion rate.";
@@ -51,15 +49,7 @@ export function organizationSchema(area?: Area) {
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
-        dayOfWeek: [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday",
-        ],
+        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
         opens: "00:00",
         closes: "23:59",
       },
@@ -177,7 +167,6 @@ export function webPageSchema({
   };
 }
 
-
 /**
  * AboutPage schema
  */
@@ -243,7 +232,6 @@ export function collectionPageSchema({
   breadcrumbs?: { name: string; path: string }[];
 }) {
   const canonicalUrl = toCanonicalUrl(path);
-
 
   return {
     "@context": "https://schema.org",
@@ -400,4 +388,3 @@ export function blogCollectionPageSchema(breadcrumbs?: { name: string; path: str
     inLanguage: "en-AE",
   };
 }
-

@@ -9,4 +9,3 @@ export const NAV_LINKS: NavLink[] = [
   { label: "About", to: "/about" },
   { label: "Contact", to: "/contact" },
 ];
-

@@ -56,7 +56,6 @@ export function AreaPageTemplate({ area }: { area: Area }) {
     <>
       <Seo jsonLd={jsonLd} />
 
-
       <Container className="pt-6">
         <Breadcrumbs
           items={[
@@ -117,7 +116,6 @@ export function AreaPageTemplate({ area }: { area: Area }) {
               className="h-full w-full object-cover"
             />
           </div>
-
         </Container>
       </section>
 

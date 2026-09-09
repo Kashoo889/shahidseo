@@ -15,9 +15,6 @@ const areaRedirects = [
   { from: "/areas/meadows", to: "/areas/the-meadows" },
 ];
 
-
-
-
 const nextConfig: NextConfig = {
   images: {
     formats: ["image/avif", "image/webp"],

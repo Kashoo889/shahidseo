@@ -65,10 +65,7 @@ export default function NotFound() {
               ))}
             </ul>
             <div className="mt-5 border-t border-border pt-3">
-              <Link
-                href="/services"
-                className="text-xs font-semibold text-primary hover:underline"
-              >
+              <Link href="/services" className="text-xs font-semibold text-primary hover:underline">
                 View all services →
               </Link>
             </div>
@@ -100,4 +97,3 @@ export default function NotFound() {
     </div>
   );
 }
-

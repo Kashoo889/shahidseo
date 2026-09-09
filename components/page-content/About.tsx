@@ -47,22 +47,14 @@ const breadcrumbsData = [
 ];
 
 export default function About() {
-  const schemas = [
-    aboutPageSchema(breadcrumbsData),
-    breadcrumbSchema(breadcrumbsData),
-  ];
+  const schemas = [aboutPageSchema(breadcrumbsData), breadcrumbSchema(breadcrumbsData)];
 
   return (
     <>
       <Seo jsonLd={schemas} />
 
       <Container className="pt-6">
-        <Breadcrumbs
-          items={[
-            { label: "Home", href: "/" },
-            { label: "About Us" },
-          ]}
-        />
+        <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "About Us" }]} />
       </Container>
 
       <section className="py-12 sm:py-16">

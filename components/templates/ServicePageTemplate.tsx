@@ -42,7 +42,6 @@ export function ServicePageTemplate({ service }: { service: Service }) {
     <>
       <Seo jsonLd={jsonLd} />
 
-
       <Container className="pt-6">
         <Breadcrumbs
           items={[
@@ -93,7 +92,6 @@ export function ServicePageTemplate({ service }: { service: Service }) {
               className="h-full w-full object-cover"
             />
           </div>
-
         </Container>
       </section>
 

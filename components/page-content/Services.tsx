@@ -30,12 +30,7 @@ export default function Services() {
       <Seo jsonLd={schemas} />
 
       <Container className="pt-6">
-        <Breadcrumbs
-          items={[
-            { label: "Home", href: "/" },
-            { label: "Services" },
-          ]}
-        />
+        <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Services" }]} />
       </Container>
 
       <section className="py-12 sm:py-16">
@@ -52,7 +47,6 @@ export default function Services() {
           </p>
         </Container>
       </section>
-
 
       <section className="pb-16">
         <Container>

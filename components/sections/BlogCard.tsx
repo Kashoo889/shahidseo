@@ -53,7 +53,10 @@ export function BlogCard({ post, className, featured = false }: BlogCardProps) {
             </div>
 
             <h2 className="mt-4 text-2xl font-extrabold leading-tight text-ink transition group-hover:text-primary sm:text-3xl">
-              <Link href={`/blog/${post.slug}`} className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
+              <Link
+                href={`/blog/${post.slug}`}
+                className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg"
+              >
                 {post.title}
               </Link>
             </h2>
@@ -127,7 +130,10 @@ export function BlogCard({ post, className, featured = false }: BlogCardProps) {
           </div>
 
           <h3 className="mt-3 text-lg font-bold leading-snug text-ink transition group-hover:text-primary">
-            <Link href={`/blog/${post.slug}`} className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-md">
+            <Link
+              href={`/blog/${post.slug}`}
+              className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-md"
+            >
               {post.title}
             </Link>
           </h3>
@@ -138,9 +144,7 @@ export function BlogCard({ post, className, featured = false }: BlogCardProps) {
         </div>
 
         <div className="mt-5 flex items-center justify-between border-t border-border/60 pt-4">
-          <span className="text-xs font-medium text-muted-foreground">
-            By {post.author.name}
-          </span>
+          <span className="text-xs font-medium text-muted-foreground">By {post.author.name}</span>
           <span className="inline-flex items-center gap-1 text-xs font-bold text-primary group-hover:underline">
             Read <ArrowRight className="h-3.5 w-3.5 transition group-hover:translate-x-0.5" />
           </span>

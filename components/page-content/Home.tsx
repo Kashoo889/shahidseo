@@ -53,7 +53,6 @@ export default function Home() {
     <>
       <Seo jsonLd={homeSchemas} />
 
-
       {/* Hero */}
       <section className="py-12 sm:py-16">
         <Container className="grid items-center gap-10 lg:grid-cols-2">
@@ -238,7 +237,6 @@ export default function Home() {
               />
             </div>
           </div>
-
         </Container>
       </section>
 
@@ -314,10 +312,10 @@ export default function Home() {
           <div>
             <h2 className="text-2xl font-extrabold text-ink">Professional Junk Removal in Dubai</h2>
             <p className="mt-3 text-sm text-muted-foreground">
-              EcoHaul Dubai provides comprehensive junk removal services across Dubai — from Downtown
-              Dubai and Business Bay to Palm Jumeirah and Arabian Ranches. Our teams handle furniture
-              removal, appliance pickup, garden waste and full house clearance, sorting every load
-              for maximum reuse in line with Dubai's 2030 sustainability vision.
+              EcoHaul Dubai provides comprehensive junk removal services across Dubai — from
+              Downtown Dubai and Business Bay to Palm Jumeirah and Arabian Ranches. Our teams handle
+              furniture removal, appliance pickup, garden waste and full house clearance, sorting
+              every load for maximum reuse in line with Dubai's 2030 sustainability vision.
             </p>
           </div>
           <div>

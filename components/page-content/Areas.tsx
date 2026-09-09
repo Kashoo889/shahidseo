@@ -37,12 +37,7 @@ export default function Areas() {
       <Seo jsonLd={schemas} />
 
       <Container className="pt-6">
-        <Breadcrumbs
-          items={[
-            { label: "Home", href: "/" },
-            { label: "Areas We Serve" },
-          ]}
-        />
+        <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Areas We Serve" }]} />
       </Container>
 
       <section className="py-12 sm:py-16">

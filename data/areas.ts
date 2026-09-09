@@ -47,7 +47,6 @@ const A = (
   faqs: customFaqs && customFaqs.length > 0 ? customFaqs : defaultFaqs(name),
 });
 
-
 export const AREAS: Area[] = [
   A(
     "jumeirah-village-circle",
@@ -687,8 +686,5 @@ export const AREAS: Area[] = [
     ],
   ),
 ];
-
-
-
 
 export const getArea = (slug: string) => AREAS.find((a) => a.slug === slug) ?? null;

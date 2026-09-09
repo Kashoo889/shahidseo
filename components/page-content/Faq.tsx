@@ -64,12 +64,7 @@ export default function Faq() {
       <Seo jsonLd={schemas} />
 
       <Container className="pt-6">
-        <Breadcrumbs
-          items={[
-            { label: "Home", href: "/" },
-            { label: "FAQ" },
-          ]}
-        />
+        <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "FAQ" }]} />
       </Container>
 
       <section className="py-12 sm:py-16">

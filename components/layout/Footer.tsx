@@ -11,7 +11,6 @@ const resources = [
   { label: "Electronic Junk Removal", to: "/services/appliance-removal-dubai" },
 ];
 
-
 export function Footer() {
   return (
     <footer className="mt-24 border-t border-border bg-surface-muted">

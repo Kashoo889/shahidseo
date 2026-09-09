@@ -10,4 +10,3 @@ export const metadata: Metadata = createMetadata({
 });
 
 export default NotFound;
-
