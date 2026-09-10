@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-09**  
+Last synchronized: **2026-09-10**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                             | Published  | Status    |
@@ -30,16 +30,25 @@ Canonical implementation: `data/blog.ts`
 |  23 | `spring cleaning junk removal dubai`           | Commercial / Informational | `/blog/spring-cleaning-junk-removal-checklist-dubai`            | 2026-09-09 | Published |
 |  24 | `what items do junk removal companies take`    | Informational              | `/blog/what-items-can-junk-removal-companies-take-in-dubai`     | 2026-09-09 | Published |
 |  25 | `do you need a permit to remove junk in dubai` | Informational              | `/blog/do-you-need-a-permit-for-junk-removal-in-dubai`          | 2026-09-09 | Published |
+|  26 | `is junk removal worth it`                     | Informational              | `/blog/is-professional-junk-removal-worth-it-in-dubai`          | 2026-09-10 | Published |
+|  27 | `how to prepare for junk removal`              | Informational              | `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai`       | 2026-09-10 | Published |
+|  28 | `what affects junk removal price`              | Informational              | `/blog/what-factors-affect-junk-removal-prices-in-dubai`        | 2026-09-10 | Published |
 
 ## Current counts
 
-- Published: **25**
-- Published on 2026-09-09: **3**
-- Roadmap articles remaining: **5**
-- Next unpublished priority: `is junk removal worth it` (Phase 6, #26)
+- Published: **28**
+- Published on 2026-09-10: **3**
+- Roadmap articles remaining: **2**
+- Next unpublished priority: `how to sort junk for recycling` (Phase 6, #29)
 
 ## Cannibalization notes for 2026-09-09 batch
 
 - The spring cleaning guide owns pre-summer timing, garage purge zones, and terrace/balcony sandstorm recovery; `/blog/how-to-declutter-your-home-room-by-room-dubai` retains general interior room decluttering methodology, and `/services/house-clearance-dubai` retains comprehensive full-property clearance bookings.
 - The items-accepted guide owns the definitive master inventory of what licensed haulers can and cannot legally collect under municipal mandates; `/blog/dubai-municipality-waste-disposal-rules-and-regulations` retains broad legal framework and penalty details, and `/services/junk-removal-dubai` retains general booking intent.
 - The permit guide owns developer-specific gate passes (Emaar Sakani, Nakheel, Damac) and high-rise service elevator booking/deposit procedures; `/blog/dubai-municipality-bulky-waste-collection-explained` retains public municipal collection scope, and `/services/same-day-junk-removal-dubai` retains urgent clearance booking intent.
+
+## Cannibalization notes for 2026-09-10 batch
+
+- The worth-it guide owns the DIY-versus-professional decision framework and complete-job value test; `/blog/junk-removal-vs-man-and-van-dubai` retains provider-type comparison, while `/services/junk-removal-dubai` retains booking intent.
+- The pickup-preparation guide owns the 48-hour preparation sequence, photo inventory, safe staging, measurements, and collection-day handoff; `/blog/do-you-need-a-permit-for-junk-removal-in-dubai` retains the permit and gate-pass rules, while `/services/same-day-junk-removal-dubai` retains urgent booking intent.
+- The price-factors guide owns the diagnostic explanation of volume, density, access, labour, timing, and scope exclusions; `/blog/how-much-does-junk-removal-cost-in-dubai` retains actual price ranges and truck tiers, and the service pages retain commercial quote intent.

@@ -133,18 +133,21 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-09)
+## 4. Publication Progress (Updated 2026-09-10)
 
-- Published blog articles: **25 / 30 roadmap articles**
+- Published blog articles: **28 / 30 roadmap articles**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
-- Phase 6 PAA and question-based content: **2 / 7 complete (28.6%)**
+- Phase 6 PAA and question-based content: **5 / 7 complete (71.4%)**
 - Published today: **3**
-- Next priority: Phase 6 item 26, `is-professional-junk-removal-worth-it-in-dubai`
+- Next priority: Phase 6 item 29, `how-to-sort-junk-for-maximum-recycling-dubai`
 
 | Roadmap item | Primary keyword                                | Status    | Published  |
 | ------------ | ---------------------------------------------- | --------- | ---------- |
 | Phase 5 #23  | `spring cleaning junk removal dubai`           | Published | 2026-09-09 |
 | Phase 6 #24  | `what items do junk removal companies take`    | Published | 2026-09-09 |
 | Phase 6 #25  | `do you need a permit to remove junk in dubai` | Published | 2026-09-09 |
+| Phase 6 #26  | `is junk removal worth it`                     | Published | 2026-09-10 |
+| Phase 6 #27  | `how to prepare for junk removal`              | Published | 2026-09-10 |
+| Phase 6 #28  | `what affects junk removal price`              | Published | 2026-09-10 |
