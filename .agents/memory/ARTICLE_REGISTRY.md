@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-10**
+Last synchronized: **2026-09-11**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                             | Published  | Status    |
@@ -33,13 +33,17 @@ Canonical implementation: `data/blog.ts`
 |  26 | `is junk removal worth it`                     | Informational              | `/blog/is-professional-junk-removal-worth-it-in-dubai`          | 2026-09-10 | Published |
 |  27 | `how to prepare for junk removal`              | Informational              | `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai`       | 2026-09-10 | Published |
 |  28 | `what affects junk removal price`              | Informational              | `/blog/what-factors-affect-junk-removal-prices-in-dubai`        | 2026-09-10 | Published |
+|  29 | `how to sort junk for recycling`               | Informational              | `/blog/how-to-sort-junk-for-maximum-recycling-dubai`            | 2026-09-11 | Published |
+|  30 | `best time to book junk removal dubai`         | Informational              | `/blog/best-times-to-schedule-junk-removal-in-dubai`            | 2026-09-11 | Published |
+|  31 | `how to dispose of paint in dubai`             | Informational              | `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai` | 2026-09-11 | Published |
 
 ## Current counts
 
-- Published: **28**
-- Published on 2026-09-10: **3**
-- Roadmap articles remaining: **2**
-- Next unpublished priority: `how to sort junk for recycling` (Phase 6, #29)
+- Published: **31**
+- Published on 2026-09-11: **3**
+- Roadmap articles remaining: **0**
+- Roadmap status: **Complete (30/30)**
+- Next approved supplemental priority: `how to dispose of batteries in dubai`
 
 ## Cannibalization notes for 2026-09-09 batch
 
@@ -52,3 +56,9 @@ Canonical implementation: `data/blog.ts`
 - The worth-it guide owns the DIY-versus-professional decision framework and complete-job value test; `/blog/junk-removal-vs-man-and-van-dubai` retains provider-type comparison, while `/services/junk-removal-dubai` retains booking intent.
 - The pickup-preparation guide owns the 48-hour preparation sequence, photo inventory, safe staging, measurements, and collection-day handoff; `/blog/do-you-need-a-permit-for-junk-removal-in-dubai` retains the permit and gate-pass rules, while `/services/same-day-junk-removal-dubai` retains urgent booking intent.
 - The price-factors guide owns the diagnostic explanation of volume, density, access, labour, timing, and scope exclusions; `/blog/how-much-does-junk-removal-cost-in-dubai` retains actual price ranges and truck tiers, and the service pages retain commercial quote intent.
+
+## Cannibalization notes for 2026-09-11 batch
+
+- The sorting guide owns the pre-collection six-stream source-separation method and contamination check; `/blog/complete-list-of-recycling-centers-in-dubai` retains destination listings, while `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` retains the meaning and outcomes of diversion.
+- The scheduling guide owns the decision framework for selecting a collection day and time around access, heat, weekends, and handover buffers; `/blog/spring-cleaning-junk-removal-checklist-dubai` retains seasonal decluttering scope, and `/services/same-day-junk-removal-dubai` retains urgent booking intent.
+- The paint guide owns household paint triage, safe interim storage, and authorised hazardous-waste routing; `/blog/dubai-municipality-waste-disposal-rules-and-regulations` retains the broad legal framework, while `/blog/post-renovation-junk-and-debris-cleanup-guide-dubai` retains general post-project debris sequencing.

@@ -2633,6 +2633,305 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedAreas: ["jumeirah-lake-towers", "arabian-ranches", "dubai-marina", "business-bay"],
   },
+  {
+    slug: "how-to-sort-junk-for-maximum-recycling-dubai",
+    title: "How to Sort Junk for Recycling in Dubai: 6-Stream Guide",
+    seoTitle: "How to Sort Junk for Recycling in Dubai: Simple Guide",
+    excerpt:
+      "Learn how to sort junk for recycling in Dubai using six practical streams that protect reusable items, reduce contamination, and simplify pickup.",
+    category: "Eco & Recycling",
+    tags: ["Waste Sorting", "Source Separation", "Recycling", "Reuse", "Dubai"],
+    coverImage: "/images/blog/sort-junk-recycling-dubai-hero.webp",
+    coverImageAlt:
+      "Resident and clearance worker separating cardboard, metal, electronics, textiles, furniture, and residual waste in a Dubai villa garage",
+    publishedAt: "2026-09-11",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Sort by the next safe destination—not by whether an item merely looks recyclable: reuse, dry fibre, containers and metal, electronics, green waste, and residual or controlled material.",
+      "Keep recyclables clean, dry, visible, and easy to inspect; food residue, liquids, mixed bags, and hidden batteries can contaminate or endanger an otherwise recoverable load.",
+      "Separate working items before dismantling because a usable chair, appliance, or cabinet usually has more value intact than as raw material.",
+      "Ask the receiving facility, building programme, or removal company what it accepts before collection; symbols and material type alone do not guarantee a local recycling route.",
+    ],
+    sections: [
+      {
+        heading: "The short answer: how to sort junk for recycling",
+        content: [
+          "To sort junk for recycling, first remove anything suitable for reuse. Then separate clean paper and cardboard, containers and metal, electronics and batteries, green waste, and residual or controlled material. Keep every stream dry, visible, and confirmed for its intended Dubai collection route.",
+          "The goal is not to create the greatest number of piles. It is to prevent one leaking container, food-stained box, loose battery, or bag of unknown material from downgrading a load that could otherwise be reused or recovered. Sort only as far as your building, collector, or receiving facility can maintain.",
+        ],
+        callout: {
+          title: "Destination before container",
+          text: "Before labelling a box ‘recycling,’ decide who will receive it and confirm that organisation's current acceptance rules. A perfectly sorted material with no confirmed destination is still an unresolved item.",
+        },
+      },
+      {
+        heading: "Stream 1: protect items that can be reused",
+        content: [
+          "Start with furniture, appliances, tools, décor, toys, and household goods that are clean, complete, and safe. Photograph them before moving or dismantling. Keep shelves, remotes, cables, fittings, and instruction booklets with the item. A cabinet missing its hardware or a television without its stand is harder to pass on even when it works.",
+          "Be strict about condition. Swollen particleboard, mouldy upholstery, cracked safety glass, pest damage, and unreliable electrical items should not be presented as donations. Our [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) explains how to assess and offer usable pieces; the [sell-or-donate comparison](/blog/how-to-sell-or-donate-used-furniture-in-dubai) helps when timing matters as much as value.",
+        ],
+      },
+      {
+        heading: "Streams 2 and 3: dry fibre, containers, and metal",
+        content: [
+          "Flatten clean cardboard, remove loose foam or plastic film, and keep paper dry. Grease-soaked takeaway boxes, wet cartons, tissues, and laminated mixed-material packaging may not belong with clean fibre. Do not spend hours separating staples or small tape strips unless the receiving programme specifically asks; dryness and freedom from food residue usually matter more.",
+          "Empty bottles, cans, rigid plastic containers, and scrap metal completely. Do not place a sealed container in recycling when nobody knows what remains inside. Keep sharp sheet metal and broken edges separate and visible so handlers can plan safe lifting. Dubai Municipality's [waste technical-guidelines library](https://www.dm.gov.ae/municipality-business/waste-department-technical-guidelines-2/) is the current official reference point, but the acceptance list of your actual building or collector controls what should enter its bins.",
+        ],
+        listItems: [
+          "Cardboard and paper: clean, dry, flattened, and free from food or liquid contamination.",
+          "Metal: separated from soft waste, with sharp edges declared and safely contained.",
+          "Bottles and rigid containers: empty, dry, and accepted by the named collection programme.",
+          "Mixed packaging: keep out when layers cannot be separated and the receiving programme does not list it.",
+        ],
+      },
+      {
+        heading: "Stream 4: isolate electronics and every loose battery",
+        content: [
+          "Electronics should never disappear inside a black bag. Group phones, laptops, monitors, routers, cables, small appliances, and accessories where they can be identified. Remove personal data, sign out of accounts, and keep business devices on an asset list until an authorised owner approves their release.",
+          "Take removable batteries out when the product instructions allow it, protect exposed terminals, and keep swollen, damaged, hot, or leaking batteries away from normal recyclables. Do not open or crush them. Use the route in our [Dubai electronics disposal guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) and confirm the receiving point before travelling.",
+        ],
+        image: {
+          src: "/images/blog/source-separated-recyclables-dubai-apartment.webp",
+          alt: "Residents separating clean cardboard, cans, plastic containers, electronics, batteries, textiles, and a reusable chair in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Stream 5: keep garden material free from household rubbish",
+        content: [
+          "Pruned branches, dry leaves, grass, and plant material have a better chance of following a green-waste route when they are not mixed with plastic pots, irrigation pipe, rubble, soil-filled bags, or general garage rubbish. Shake loose soil from roots where practical and separate ceramic planters, metal trellises, and synthetic grass.",
+          "For a villa in [Arabian Ranches](/areas/arabian-ranches), stage tied branches and contained clippings in shade near the approved loading point, without blocking the pavement or road. The [garden waste collection service](/services/garden-waste-removal-dubai) can assess branches and outdoor items from photos before you spend time cutting or bagging them incorrectly.",
+        ],
+      },
+      {
+        heading: "Stream 6: residual and controlled material",
+        content: [
+          "Not everything is recyclable, and pretending otherwise creates contamination. Keep broken composite furniture, heavily soiled material, sanitary waste, and unidentifiable mixed pieces in a clearly separate residual stream. Declare glass, dense rubble, liquids, powders, pressurised containers, chemicals, and sharp objects rather than hiding them in ordinary bags.",
+          "Controlled material needs its own advice and may require a permitted specialist. Review [what a standard junk-removal load can contain](/blog/what-items-can-junk-removal-companies-take-in-dubai) before pickup. If the item is not listed, send a photo of the item and its label; do not guess from colour, smell, or packaging.",
+        ],
+      },
+      {
+        heading: "Sort for the property you actually live in",
+        content: [
+          "In a [Dubai Marina apartment](/areas/dubai-marina), six permanent containers may be unrealistic. Use temporary boxes or reusable bags inside the apartment, then transfer only accepted material during the building's permitted access window. Keep fire exits, corridors, chute rooms, and passenger-lift lobbies clear while sorting.",
+          "A villa garage gives you more space but invites piles to sit for weeks. Set a collection date first, create a safe walking lane, and limit each stream to a defined zone. Keep textiles and cardboard off the floor where condensation, irrigation water, or a leaking appliance could ruin them.",
+        ],
+      },
+      {
+        heading: "The final ten-minute contamination check",
+        content: [
+          "Before collection, open every box and inspect the top and bottom. Remove food, liquids, loose batteries, documents with personal data, and items that belong to another stream. Count the containers, photograph each group, and tell the collector about dense, fragile, or sharp material.",
+          "For a mixed household clearance, our [general junk-removal team](/services/junk-removal-dubai) can plan loading around the streams you have prepared. [Send wide photos of every group](/contact) and we will confirm what can travel together, what must stay separate, and which material needs another route.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "garden-waste-removal-dubai",
+      "appliance-removal-dubai",
+      "bulky-item-removal-dubai",
+    ],
+    relatedAreas: ["arabian-ranches", "dubai-marina", "dubai-hills-estate", "business-bay"],
+  },
+  {
+    slug: "best-times-to-schedule-junk-removal-in-dubai",
+    title: "Best Time to Book Junk Removal in Dubai: Timing Guide",
+    seoTitle: "Best Time to Book Junk Removal Dubai: Practical Guide",
+    excerpt:
+      "Find the best time to book junk removal in Dubai by balancing building access, heat, traffic, handover deadlines, weekends, and same-day availability.",
+    category: "Guides",
+    tags: ["Booking Time", "Same-Day Pickup", "Weekend Collection", "Move-Out Planning", "Dubai"],
+    coverImage: "/images/blog/best-time-junk-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew loading a wrapped sofa into a box truck during a calm early-morning collection at a Dubai residential tower",
+    publishedAt: "2026-09-11",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "The best slot is the earliest practical window after building or community approval—not simply the earliest hour a truck is available.",
+      "Morning collections suit outdoor villa, garage, and garden work, especially in hotter months; tower jobs should follow the service-lift and loading-bay window first.",
+      "For a planned move or handover, remove unwanted items before the final cleaning and keep a buffer day for access changes or extra items.",
+      "Same-day and weekend pickups work best when photos, scope, parking, building permission, and decision-makers are ready before dispatch.",
+    ],
+    sections: [
+      {
+        heading: "The direct answer: the best time to book junk removal in Dubai",
+        content: [
+          "The best time to book junk removal in Dubai is the first approved morning or mid-morning slot that gives the crew legal access, a reserved lift or loading bay, and enough time to finish before your deadline. For planned clearances, book before the final clean—not on handover day.",
+          "There is no universal perfect hour. A villa garage in September, a forty-storey apartment with a two-hour service-lift booking, and an office restricted to evenings each need a different schedule. Access rules come first, then heat, parking, traffic, load complexity, and your fallback time.",
+        ],
+        callout: {
+          title: "The best slot has a buffer after it",
+          text: "If the property must be empty on Friday, aim to remove unwanted items by Wednesday or Thursday. A buffer protects the handover from a rejected gate pass, unavailable lift, changed load, or item that needs a different disposal route.",
+        },
+      },
+      {
+        heading: "Choose the time from the access window backwards",
+        content: [
+          "Ask the building or community when commercial vehicles may enter, whether a contractor pass is required, how long the service lift can be reserved, and where the truck may wait. Only then should you request the crew. Booking a truck for 8:00 a.m. is useless if security opens contractor access at 9:00 or the loading bay is already allocated.",
+          "In [Business Bay](/areas/business-bay), a shared loading dock can be the narrowest part of the plan. In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), the workable period may depend on tower management and the reserved service lift. Our [permit and access guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) separates property permissions from the waste permissions held by the transporter.",
+        ],
+      },
+      {
+        heading: "Morning is best for heat-exposed villa and garden work",
+        content: [
+          "Outdoor sorting, garage clearing, and garden loading are physically harder once the driveway and stored items have heated up. An early permitted window gives the crew better working conditions and reduces the time furniture, electronics, and reusable goods sit in direct sun. It also leaves daylight to resolve an unexpected second load.",
+          "For a villa in [Dubai Hills Estate](/areas/dubai-hills-estate), prepare the gate entry and parking position the previous day, then keep the route from garage or garden clear. The [garden-waste team](/services/garden-waste-removal-dubai) can estimate branches, planters, and outdoor pieces from photos so the morning slot has the right vehicle and crew.",
+        ],
+      },
+      {
+        heading: "Mid-morning often works better for tower clearances",
+        content: [
+          "A tower pickup should align with reception, facilities staff, lift padding, and loading-bay supervision. The first permitted mid-morning window often works better than dawn because the people who release access are present and the building has moved past its busiest resident departure period. Follow the building's written hours rather than assuming.",
+          "Send the crew the exact entrance, basement level, vehicle-height limit, security contact, and lift reservation. A screenshot saying only ‘approved’ may not show the correct bay or time. The preparation sequence in our [Dubai pickup checklist](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) prevents those small omissions from consuming the booked slot.",
+        ],
+        image: {
+          src: "/images/blog/scheduled-service-lift-pickup-dubai.webp",
+          alt: "Crew moving a dismantled wardrobe from a padded service lift toward a waiting truck during an approved Dubai tower collection window",
+        },
+      },
+      {
+        heading: "Schedule move-out work before cleaning and inspection",
+        content: [
+          "The correct order is declutter, remove, repair, clean, then inspect. If the deep clean happens first, wardrobes, appliances, and boxes are dragged across finished floors and dust returns when furniture is dismantled. If removal happens on the handover morning, there is no space to solve a larger-than-expected load or a rejected item.",
+          "Book the clearance far enough ahead that the empty property can still be checked room by room. Our [pre-move removal guide](/blog/junk-removal-before-moving-house-in-dubai) shows how to separate what moves from what leaves, while the [house-clearance service](/services/house-clearance-dubai) suits full apartment and villa handovers.",
+        ],
+      },
+      {
+        heading: "Are weekends a good time for junk pickup?",
+        content: [
+          "Weekend junk pickup in Dubai can be convenient for residents, but it is only a good choice when the property permits contractor activity and the service lift, loading bay, and security team are available. Some buildings offer shorter windows or different approval procedures on weekends; others treat them like normal operating days. Confirm, do not assume.",
+          "Weekend demand can also reduce choice for large jobs. If several family members, a landlord, or an office manager must approve what leaves, finish those decisions before the slot. A crew should not spend a limited access window waiting while boxes are reopened or absent owners are called.",
+        ],
+      },
+      {
+        heading: "When same-day removal is realistic",
+        content: [
+          "Same-day collection is realistic when the load is photographed, accepted, and accessible; the building approval is already active; parking is confirmed; and the responsible person can meet the crew. One accessible sofa or a prepared group of boxes is easier to dispatch than a full villa described only as ‘some junk.’",
+          "Urgency does not remove safety or disposal constraints. Controlled liquids, unknown chemicals, fixed appliances, safes, oversized glass, or a load hidden across several rooms may need a different crew or route. Use the [same-day junk-removal service](/services/same-day-junk-removal-dubai) for access-ready work, not as a substitute for permissions or an honest inventory.",
+        ],
+      },
+      {
+        heading: "Send six details to secure the right slot",
+        content: [
+          "Send the item photos, property type, community and building, floor and lift details, truck parking point, preferred window, and hard deadline in one message. Add the gate-pass status and any unusually heavy, fragile, or fixed item. Those details let a dispatcher judge duration and avoid promising a slot the building cannot support.",
+          "If your date is flexible, provide two windows. If it is fixed, state the consequence—handover, flight, contractor start, or office reopening—so the plan includes an appropriate buffer. [Send your collection details](/contact) and we will confirm the earliest realistic slot and what must be ready before arrival.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "same-day-junk-removal-dubai",
+      "house-clearance-dubai",
+      "garden-waste-removal-dubai",
+      "junk-removal-dubai",
+    ],
+    relatedAreas: ["business-bay", "jumeirah-lake-towers", "dubai-hills-estate", "dubai-marina"],
+  },
+  {
+    slug: "how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai",
+    title: "How to Dispose of Paint in Dubai Without Taking Risks",
+    seoTitle: "How to Dispose of Paint in Dubai Safely: 2026 Guide",
+    excerpt:
+      "Learn how to dispose of paint in Dubai safely by separating reusable, dry, leaking, and liquid products and confirming an authorised collection route.",
+    category: "Eco & Recycling",
+    tags: ["Paint Disposal", "Hazardous Liquids", "Renovation Waste", "Safe Storage", "Dubai"],
+    coverImage: "/images/blog/paint-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Resident wearing gloves inspecting closed paint cans arranged upright in a secondary-containment tray inside a Dubai villa garage",
+    publishedAt: "2026-09-11",
+    readingTime: "10 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Never pour leftover paint, thinner, solvent, or an unidentified coating into a drain, onto soil, or into an ordinary rubbish or recycling container.",
+      "Keep liquid products closed in their original labelled containers, upright in secondary containment, away from heat, flames, children, pets, and incompatible chemicals.",
+      "Oil-based paint is identified by Dubai Municipality as hazardous waste; water-based, dry, empty, or unknown products still need route confirmation from the authority or receiving operator.",
+      "A standard junk-removal crew should not transport undeclared liquid paint; use a permitted hazardous-waste route and keep ordinary renovation debris separate.",
+    ],
+    sections: [
+      {
+        heading: "The safe answer: how to dispose of paint in Dubai",
+        content: [
+          "To dispose of paint in Dubai, keep it closed in its original container, identify whether it is liquid, dry, leaking, or still usable, and confirm the route with Dubai Municipality or a permitted hazardous-waste operator. Never pour paint into drains, soil, street gullies, or ordinary bins.",
+          "Do not decide from the colour or smell alone. Paint can contain solvents, metals, preservatives, or other components that change its classification. Dubai Municipality's [hazardous-waste guidance](https://www.dm.gov.ae/rasid/hazardous-waste-management/) specifically lists oil-based paints among hazardous wastes and explains that controlled waste requires suitable treatment and disposal.",
+        ],
+        callout: {
+          title: "Keep the label with the liquid",
+          text: "The original container and readable product label help the receiving operator identify the material. Do not combine leftovers, move them into drinks bottles, or create an unlabelled mixture to save space.",
+        },
+      },
+      {
+        heading: "Step 1: separate usable, liquid, dry, and damaged containers",
+        content: [
+          "Create four groups without opening containers unnecessarily. Keep sound, usable paint together for the original project or a recipient who has agreed to take that exact product. Put every closed container holding liquid into a compatible shallow tray or rigid crate so a leak cannot spread across the floor.",
+          "Keep fully dry or empty tins separate, but do not assume they belong in metal recycling; residue and product type can affect acceptance. Isolate bulging, rusted, unlabelled, or leaking containers and seek professional instructions. Do not press a damaged lid closed, inhale vapour to identify the contents, or handle residue with bare hands.",
+        ],
+        listItems: [
+          "Reusable: sealed or sound product with a readable label and a confirmed future user.",
+          "Liquid: any container that still holds fluid, sludge, thinner, solvent, or mixed coating.",
+          "Dry or empty: no free liquid, retained separately until the receiving route confirms acceptance.",
+          "Damaged or unknown: leaking, swollen, corroded, unlabelled, or mixed material needing specialist advice.",
+        ],
+      },
+      {
+        heading: "Step 2: store paint safely while arranging collection",
+        content: [
+          "Stand containers upright on a stable floor in a shaded, ventilated, secure space. Keep lids closed and separate the group from ignition sources, direct sun, hot vehicles, food, drains, and areas used by children or pets. Use secondary containment large enough to hold a leak without spreading.",
+          "Do not deliberately evaporate leftover paint outdoors or leave open tins in Dubai heat. That can release vapours, create a fire or exposure risk, and turn a manageable container into an unknown residue. Do not add sawdust, cement, cat litter, or another material unless the receiving authority or licensed operator specifically instructs you for that product.",
+        ],
+      },
+      {
+        heading: "Step 3: use an authorised route for liquid and hazardous products",
+        content: [
+          "Contact Dubai Municipality through its current service channels or use a waste company permitted for the relevant hazardous-waste category. Describe the product, container size and count, condition, and whether a label or safety data sheet is available. Ask for written confirmation of acceptance, packaging, collection, and any transport requirement before moving it.",
+          "Do not place uncertain paint in a passenger vehicle and drive to a facility that has not agreed to receive it. Hazardous-waste transport is controlled, and a standard household junk truck is not automatically authorised for every category. The Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists current waste permits and service channels; confirm the active route because facility and eligibility rules can change.",
+        ],
+        image: {
+          src: "/images/blog/licensed-paint-waste-containment-dubai.webp",
+          alt: "Protected technician securing closed paint and solvent containers upright inside rigid secondary containment at a licensed Dubai facility",
+        },
+      },
+      {
+        heading: "What to do with leftover water-based paint",
+        content: [
+          "Water-based does not mean suitable for a sink, storm drain, soil, or ordinary recycling bin. Preserve the label and ask the receiving route whether it accepts the product as reusable paint, liquid waste, or dry residue. If it can be reused, keep the colour name, finish, batch information, and enough product for future touch-ups together.",
+          "Do not rely on internet instructions written for another country that recommend leaving paint open or mixing in absorbent. Dubai's heat, property rules, and waste routes are different, and product formulas vary. Follow the manufacturer information and the instructions of the Dubai authority or permitted operator that will actually receive it.",
+        ],
+      },
+      {
+        heading: "Plan paint responsibility before renovation handover",
+        content: [
+          "For a villa refurbishment in [Dubai Hills Estate](/areas/dubai-hills-estate), agree in writing whether the painting contractor removes unused product, returns sealed stock, or leaves labelled touch-up tins for the owner. Photograph what remains before final payment. Unassigned half-full cans often sit in a hot garage until the label fails and disposal becomes harder.",
+          "For an office fit-out in [Business Bay](/areas/business-bay), keep the coating inventory with the contractor's waste plan and building close-out documents. Ordinary timber, cardboard, protective sheeting, and dismantled fixtures can be scoped separately through our [post-renovation cleanup guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai); liquid coatings and solvents require their confirmed controlled route.",
+        ],
+      },
+      {
+        heading: "If a container leaks or someone is exposed",
+        content: [
+          "Keep people away, ventilate only if it is safe to do so, remove ignition sources without operating equipment in a vapour area, and follow the product label or safety data sheet. Do not wash the spill toward a drain. If the material is unknown, fumes are strong, someone feels unwell, or there is fire risk, leave the area and contact the appropriate emergency service.",
+          "For a small contained leak, do not improvise a chemical reaction or pour the material into another household container. Place the original can upright inside compatible secondary containment only if you can do so without contact, then seek instructions from the manufacturer, Municipality, or licensed hazardous-waste operator.",
+        ],
+      },
+      {
+        heading: "Keep paint out of the standard clearance load",
+        content: [
+          "When booking a mixed garage or renovation clearance, photograph paint cans separately with labels visible and say whether liquid moves inside. Review the broader [Dubai waste-disposal rules](/blog/dubai-municipality-waste-disposal-rules-and-regulations) and our [accepted-items guide](/blog/what-items-can-junk-removal-companies-take-in-dubai) before combining anything with ordinary furniture or debris.",
+          "Our [general removal service](/services/junk-removal-dubai) and [bulky-item team](/services/bulky-item-removal-dubai) can scope standard household items and dry renovation pieces after controlled liquids are separated. [Send clear photos for a scope check](/contact); we will state what we can collect and what needs an authorised hazardous-waste route rather than loading an unsafe item.",
+        ],
+      },
+    ],
+    relatedServices: [
+      "junk-removal-dubai",
+      "bulky-item-removal-dubai",
+      "rubbish-removal-dubai",
+      "house-clearance-dubai",
+    ],
+    relatedAreas: [
+      "dubai-hills-estate",
+      "business-bay",
+      "arabian-ranches",
+      "jumeirah-village-circle",
+    ],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>
