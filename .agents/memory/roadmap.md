@@ -133,17 +133,17 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-11)
+## 4. Publication Progress (Updated 2026-09-12)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **1**
-- Total published blog articles: **31**
+- Published supplemental approved articles: **7**
+- Total published blog articles: **37**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
-- Published today: **3**
-- Next approved supplemental priority: `how-to-dispose-of-batteries-and-small-electronics-dubai`
+- Published today: **6**
+- Next approved supplemental priority: `how-to-recycle-in-dubai-residents-guide`
 
 | Roadmap item | Primary keyword                                | Status    | Published  |
 | ------------ | ---------------------------------------------- | --------- | ---------- |
@@ -156,3 +156,10 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Phase 6 #29  | `how to sort junk for recycling`               | Published | 2026-09-11 |
 | Phase 6 #30  | `best time to book junk removal dubai`         | Published | 2026-09-11 |
 | Supplemental | `how to dispose of paint in dubai`             | Published | 2026-09-11 |
+| Supplemental | `how to dispose of batteries in dubai`         | Published | 2026-09-12 |
+| Supplemental | `decluttering tips for small apartments dubai` | Published | 2026-09-12 |
+| Supplemental | `what happens to junk after removal`           | Published | 2026-09-12 |
+| Supplemental | `how to dispose of junk in dubai`              | Published | 2026-09-12 |
+| Supplemental | `where to dump junk in dubai`                  | Published | 2026-09-12 |
+| Supplemental | `free bulky waste collection dubai`            | Published | 2026-09-12 |
+
