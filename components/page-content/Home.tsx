@@ -6,6 +6,8 @@ import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { SERVICES } from "@/data/services";
 import { AREAS } from "@/data/areas";
+import { getRecentBlogPosts } from "@/data/blog";
+import { BlogCard } from "@/components/sections/BlogCard";
 import { CTASection } from "@/components/sections/CTASection";
 import { telHref } from "@/data/contact";
 import { webSiteSchema, localBusinessSchema, webPageSchema } from "@/lib/schema";
@@ -37,6 +39,7 @@ const steps = [
 export default function Home() {
   const featured = SERVICES[0];
   const tiles = SERVICES.slice(1, 4);
+  const recentPosts = getRecentBlogPosts(3);
 
   const homeSchemas = [
     webSiteSchema(),
@@ -326,6 +329,26 @@ export default function Home() {
               clients receive documented waste collection and disposal chains for compliance and
               environmental audits — all backed by transparent, fixed pricing.
             </p>
+          </div>
+        </Container>
+      </section>
+
+      {/* Recent Blogs */}
+      <section className="bg-surface-muted py-16 sm:py-20">
+        <Container>
+          <SectionHeading
+            title="Latest from the EcoHaul Journal"
+            description="Practical guides on junk removal, sustainable disposal and property clearance across Dubai."
+          />
+          <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {recentPosts.map((post) => (
+              <BlogCard key={post.slug} post={post} />
+            ))}
+          </div>
+          <div className="mt-8 text-center">
+            <Link href="/blog" className="text-sm font-semibold text-primary hover:underline">
+              View all articles →
+            </Link>
           </div>
         </Container>
       </section>
