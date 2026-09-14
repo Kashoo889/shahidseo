@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-12**
+Last synchronized: **2026-09-14**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -42,15 +42,18 @@ Canonical implementation: `data/blog.ts`
 |  35 | `how to dispose of junk in dubai`              | Informational              | `/blog/how-to-dispose-of-junk-in-dubai-complete-guide`             | 2026-09-12 | Published |
 |  36 | `where to dump junk in dubai`                  | Informational              | `/blog/where-to-legally-dump-junk-and-waste-in-dubai`              | 2026-09-12 | Published |
 |  37 | `free bulky waste collection dubai`            | Informational / Comparison | `/blog/free-vs-paid-bulky-waste-collection-in-dubai`               | 2026-09-12 | Published |
+|  38 | `how to recycle in dubai`                      | Informational              | `/blog/how-to-recycle-household-waste-in-dubai`                    | 2026-09-14 | Published |
+|  39 | `what is a landfill diversion certificate`    | Informational              | `/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it` | 2026-09-14 | Published |
+|  40 | `how long does junk removal take`              | Informational              | `/blog/how-long-does-a-typical-junk-removal-job-take`              | 2026-09-14 | Published |
 
 ## Current counts
 
-- Published: **37**
-- Published on 2026-09-12: **6**
+- Published: **40**
+- Published on 2026-09-14: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **7**
-- Next approved supplemental priority: `how to recycle in dubai` (Cluster 13)
+- Supplemental approved articles published: **10**
+- Next approved supplemental priority: `where to donate old appliances dubai` (requires final overlap review against the existing sell-or-donate guide)
 
 ## Cannibalization notes for 2026-09-09 batch
 
@@ -82,3 +85,8 @@ Canonical implementation: `data/blog.ts`
 - The legal dumping guide (`where-to-legally-dump-junk-and-waste-in-dubai`) owns municipal landfill locations (Al Qusais, Warsan, Jebel Ali), commercial weighbridge procedures, Noor digital permits, and satellite anti-dumping surveillance; `/blog/complete-list-of-recycling-centers-in-dubai` retains neighborhood dry recycling kiosks, and `/blog/dubai-municipality-waste-disposal-rules-and-regulations` retains broad legal framework.
 - The free vs paid bulky waste guide (`free-vs-paid-bulky-waste-collection-in-dubai`) owns the head-to-head decision matrix comparing municipal curbside service against white-glove private removal and exposing rogue fly-tipping scrap operators; `/blog/dubai-municipality-bulky-waste-collection-explained` retains municipal application mechanics, while `/services/bulky-item-removal-dubai` retains bulky removal booking intent.
 
+## Cannibalization notes for 2026-09-14 batch
+
+- The household recycling guide owns the resident's repeatable routing system across building recycling, public collection points, specialist drop-offs, reuse and booked bulky collection; `/blog/how-to-sort-junk-for-maximum-recycling-dubai` retains material preparation and source-separation technique, while `/blog/complete-list-of-recycling-centers-in-dubai` retains location discovery.
+- The landfill diversion certificate guide owns evidence interpretation, minimum document fields, calculation review, chain of custody and audit red flags; `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` retains the underlying diversion concept and policy context, while `/blog/what-happens-to-your-junk-after-pickup-dubai` retains the physical downstream journey.
+- The job-duration guide owns the stage-by-stage time-estimating method across load, access, dismantling, protection and building controls; `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai` retains the pre-pickup preparation checklist, while `/blog/best-times-to-schedule-junk-removal-in-dubai` retains day-and-slot selection.
