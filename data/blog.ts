@@ -3811,6 +3811,298 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedAreas: ["dubai-marina", "arabian-ranches", "downtown-dubai", "palm-jumeirah"],
   },
+  {
+    slug: "where-to-donate-and-recycle-appliances-in-dubai",
+    title: "Where to Donate Old Appliances in Dubai: Reuse Guide",
+    seoTitle: "Where to Donate Old Appliances in Dubai: 2026 Guide",
+    excerpt:
+      "Learn where to donate old appliances in Dubai, how to confirm acceptance, prepare a safe handover and choose recycling when an appliance cannot be reused.",
+    category: "Eco & Recycling",
+    tags: ["Appliance Donation", "Reuse", "Appliance Recycling", "Dubai"],
+    coverImage: "/images/blog/donate-old-appliances-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai resident and collection worker checking clean household appliances and accessories before a reuse handover",
+    publishedAt: "2026-09-15",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Donate only appliances that are clean, complete, safe and honestly described; a faulty machine should follow a repair or recycling route instead.",
+      "Confirm the recipient's current acceptance criteria and pickup capability before disconnecting or moving a heavy appliance.",
+      "Send the model, dimensions, age, condition, accessories, access details and clear photos in one message to reduce failed collections.",
+      "If reuse is declined, keep cooling appliances and data-bearing electronics separate and use an appropriate municipal or specialist collection route.",
+    ],
+    sections: [
+      {
+        heading: "Where to donate old appliances in Dubai: the short answer",
+        content: [
+          "If you are deciding where to donate old appliances in Dubai, start with the organisation or recipient—not the appliance. Ask a registered charity, community reuse programme or confirmed private recipient whether it currently accepts that exact item, whether it collects from your area, and what proof of working condition it needs. Acceptance policies, storage capacity and pickup coverage can change. This guide was checked on 15/09/2026.",
+          "A donation is suitable only when the appliance is safe, clean, complete and useful without an undisclosed repair. A washing machine that leaks, a microwave with a damaged door, or a refrigerator that no longer cools is not a responsible gift. Route unsafe or non-working equipment to repair, recycling or booked disposal instead.",
+          "This guide owns appliance reuse eligibility and handover. For computers, phones and data-bearing devices, use our [Dubai e-waste disposal guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide). For refrigerant equipment, follow the [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai).",
+        ],
+        callout: {
+          title: "Get acceptance before moving anything",
+          text: "A charity logo or old social post is not confirmation. Send the exact appliance details and receive a current yes, pickup date and access instructions before disconnecting or staging the item.",
+        },
+      },
+      {
+        heading: "Use a three-route test: donate, repair or recycle",
+        content: [
+          "Choose donation when the appliance performs its main function, has no known electrical or mechanical safety issue, includes essential parts and can be installed by the next owner without an unreasonable repair. Cosmetic marks are usually easier to disclose than missing doors, cracked plugs, damaged hoses or intermittent faults.",
+          "Choose repair when a technician can restore a useful machine safely and the recipient knows its status. Do not advertise an appliance as working because it powers on briefly; a full operating cycle, temperature control, drainage or safety interlock may still fail. Where specialist testing is needed, say that plainly rather than guessing.",
+          "Choose recycling or disposal when the unit is unsafe, incomplete, contaminated, obsolete for its intended use or repeatedly rejected. Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household appliance and furniture disposal for eligible users and notes geographic exclusions. Confirm eligibility and instructions directly before relying on that route.",
+        ],
+      },
+      {
+        heading: "What donation recipients need to know before they say yes",
+        content: [
+          "Send one complete description. Include the appliance type, brand and model, approximate age, dimensions, colour, working status, known defects and reason for replacement. Photograph the front, sides, controls, plug or connection area, model plate and included accessories. Add a short video only if the recipient asks for evidence of operation and it is safe to record.",
+          "State whether manuals, shelves, trays, remotes, hoses or mounting parts are included. For a washing machine, missing transit bolts may affect transport; for a cooker, refrigerator or built-in unit, the collector needs to know whether professional disconnection is complete. Never conceal a fault to secure a free pickup.",
+        ],
+        listItems: [
+          "Condition: fully working, recently serviced, repair needed or untested—use only the description you can support.",
+          "Completeness: list every essential accessory and every missing part.",
+          "Size: give width, depth and height, including handles or protruding connections.",
+          "Location: community, building, floor, lift or stairs, loading access and collection window.",
+          "Safety: disclose damaged cables, leaks, unusual noise, odour, battery swelling or cooling-system faults immediately.",
+        ],
+      },
+      {
+        heading: "Prepare an appliance for a clean, safe donation handover",
+        content: [
+          "Remove food, lint, dust and personal contents. Clean removable trays and shelves, dry the interior and secure loose accessories separately. A refrigerator or freezer needs enough time to empty and defrost without leaving water in a corridor or lift. Keep doors slightly ventilated while stored, but secure them for transport according to the collector's instructions.",
+          "Do not cut cables, vent refrigerant, disconnect gas, or improvise around hard-wired and built-in equipment. Use the appropriate technician where disconnection falls outside ordinary user steps. Keep the appliance upright if the manufacturer or collector requires it, and do not run a final test after damage has been found.",
+        ],
+        image: {
+          src: "/images/blog/appliance-donation-condition-check-dubai.webp",
+          alt: "Resident photographing a clean washing machine while a collection worker checks its door, hoses and accessories in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Plan the pickup around Dubai building access",
+        content: [
+          "A willing recipient may still be unable to collect from a controlled tower. In [Dubai Marina](/areas/dubai-marina), confirm contractor registration, service-lift booking, permitted work hours and loading-bay access. Give the appliance dimensions and the narrowest doorway or lift measurement before the driver arrives.",
+          "Villa access can be simpler, but communities such as [Arabian Ranches](/areas/arabian-ranches) may still require visitor or contractor approval. Keep the item inside until the confirmed collection window; leaving it beside communal bins, on a pavement or in a service corridor is not a donation and can create an obstruction.",
+          "Decide who is responsible for carrying. Many individual recipients arrive without a trolley, straps or a two-person team. If collection does not include safe lifting, arrange [appliance removal in Dubai](/services/appliance-removal-dubai) rather than expecting security staff, neighbours or building cleaners to move the unit.",
+        ],
+      },
+      {
+        heading: "Protect personal data and accounts on smart appliances",
+        content: [
+          "Connected televisions, smart displays, robot vacuums and modern kitchen appliances may retain Wi-Fi details, household maps, voice accounts or streaming logins. Sign out, remove the device from the manufacturer's account, erase stored data using the official instructions and remove any memory card or paired accessory before handover.",
+          "A factory reset is only part of the process if the device is still linked to a cloud account. Confirm that it no longer appears in your app or home network. Business-owned equipment may need a documented data process; the recipient should not receive confidential settings simply because the hardware still works.",
+        ],
+      },
+      {
+        heading: "What to do when a donation request is declined",
+        content: [
+          "A refusal does not mean the organisation is unreliable. It may lack warehouse space, a suitable vehicle, installation support or current demand for that appliance. Ask whether the issue is condition, category, location or timing, then choose another route without repeatedly moving the item between temporary storage points.",
+          "A safe working item can be offered to a verified private recipient with the same honest condition record. A non-working small electrical item belongs in a confirmed e-waste route. Large white goods may need municipal bulky collection where eligible or a licensed private collector. Our [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai) explains how to keep these specialist items out of everyday recycling bins.",
+          "If a move-out deadline leaves no time for uncertain acceptance, a [junk-removal service in Dubai](/services/junk-removal-dubai) can coordinate lifting and the appropriate next destination. Ask what happens if the appliance is rejected for reuse after collection.",
+        ],
+      },
+      {
+        heading: "Arrange a documented appliance collection",
+        content: [
+          "Keep the acceptance message, collection date and recipient details until the handover is complete. For several appliances, label which items are confirmed for reuse and which need recycling so the crew does not combine them by mistake. Take a final photo after collection if you need proof for a landlord or property manager.",
+          "EcoHaul can assess access, condition and fallback routes from photographs. To arrange a collection, [contact the team](/contact) with the appliance list, model photos, location, floor, lift status and deadline. We will scope the lifting separately from any reuse decision so the handover remains clear.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches", "business-bay", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-recycle-and-dispose-of-old-sofas-dubai",
+    title: "How to Recycle an Old Sofa in Dubai: 4 Clear Routes",
+    seoTitle: "Recycle Old Sofa Dubai: Reuse, Repair or Disposal",
+    excerpt:
+      "Need to recycle an old sofa in Dubai? Use this condition-first guide to choose reuse, repair, material recovery or booked bulky disposal without dumping.",
+    category: "Eco & Recycling",
+    tags: ["Sofa Recycling", "Furniture Disposal", "Reuse", "Dubai"],
+    coverImage: "/images/blog/recycle-old-sofa-dubai-hero.webp",
+    coverImageAlt:
+      "Removal specialist and resident assessing the frame and upholstery of an old sofa in a Dubai apartment",
+    publishedAt: "2026-09-15",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "A sofa is a mixed-material bulky item, so it cannot be placed in an ordinary recycling bin or assumed to be recycled whole.",
+      "Choose reuse for clean, structurally sound seating; repair for a good frame with fixable wear; and recovery or disposal for unsafe or contaminated pieces.",
+      "Confirm the destination, lifting responsibility and building access before moving the sofa into a corridor or collection bay.",
+      "Tell the collector about pests, odour, moisture, broken mechanisms, glass, batteries or electrical parts before pickup.",
+    ],
+    sections: [
+      {
+        heading: "Can you recycle an old sofa in Dubai?",
+        content: [
+          "You can recycle an old sofa in Dubai only through a bulky-waste or furniture collector that can sort its components or deliver it to an appropriate facility. A sofa is not one recyclable material: upholstery, foam, timber, engineered board, steel springs, fasteners and sometimes electrical mechanisms are joined together. It should never be forced into a building recycling room. This guide was checked on 15/09/2026.",
+          "The best route depends on condition. A clean, safe sofa may be reused. A solid frame with worn fabric may suit repair or reupholstery. A broken or unsuitable sofa may be dismantled for recoverable material where a processor accepts it, with the remaining residue sent through a lawful disposal route. ‘Recyclable’ does not guarantee that every component will be recovered.",
+          "This article owns the sofa-specific condition and material decision. Our broader guide explains [how to dispose of old furniture in Dubai](/blog/how-to-dispose-of-large-furniture-in-dubai), while the [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) covers recipient and charity selection across furniture categories.",
+        ],
+        callout: {
+          title: "Do not dismantle first and ask later",
+          text: "A reusable sofa can lose its donation value once damaged or split into loose parts. Confirm whether the next route wants it intact, partially dismantled or separated before you reach for tools.",
+        },
+      },
+      {
+        heading: "Route 1: reuse a sofa that is clean and structurally sound",
+        content: [
+          "Reuse is appropriate when the frame is stable, the seats support weight evenly, upholstery is clean enough for another household, and all sections, legs and cushions are present. Photograph every side, state dimensions and defects, and describe whether it comes apart. A recipient needs the truth more than a flattering close-up.",
+          "Reject reuse if there are signs of pests, persistent damp or smoke odour, unsafe exposed staples, collapsing joints, damaged recliner mechanisms or contamination that ordinary cleaning cannot resolve. Do not wrap a problem and pass it on. Isolate a suspected pest issue inside the property and obtain suitable advice before moving it through shared areas.",
+        ],
+      },
+      {
+        heading: "Route 2: repair or reupholster when the frame is worth saving",
+        content: [
+          "A quality timber or metal frame can outlast worn fabric and flattened cushions. Ask an upholsterer to assess frame integrity, springs, foam, fabric quantity, transport and turnaround before deciding. Compare the total repair cost and expected remaining life with replacement—not only the visible fabric price.",
+          "Repair is less attractive for water-swollen particle board, widespread frame fractures, missing proprietary recliner parts or repeated pest contamination. If the sofa is modular, one damaged section may be repairable without discarding the entire set. Keep labels, spare legs, connectors and matching cushions with the piece during assessment.",
+        ],
+      },
+      {
+        heading: "Route 3: component recovery for a sofa that cannot be reused",
+        content: [
+          "Ask the collector whether the sofa will be assessed whole or dismantled into streams. Recoverable components may include clean timber, ferrous metal springs and mechanisms, and certain textiles or foam where a receiving processor accepts them. Contamination, adhesives, composite boards and mixed fabrics can limit recovery.",
+          "Dubai Municipality publishes technical guidance for waste collection, transport and treatment activities, including material categories such as wood, metal and textiles. That framework does not turn a household sofa into a public-bin recyclable. The actual outcome depends on separation quality and the receiving facility's current acceptance rules.",
+          "A responsible provider should distinguish what it can document from what it merely hopes will happen. Ask where the mixed residue goes and whether the claimed recycling rate applies to your sofa, a combined load or the provider's wider operations.",
+        ],
+        image: {
+          src: "/images/blog/sofa-material-separation-dubai.webp",
+          alt: "Workers at a Dubai recovery facility separating timber, steel springs, foam and fabric from an old sofa",
+        },
+      },
+      {
+        heading: "Route 4: use a lawful bulky-waste collection when recovery is limited",
+        content: [
+          "Some sofas are too damaged, contaminated or composite-heavy for meaningful reuse or component recovery. They still need a booked route. Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) currently describes household furniture and appliance disposal for eligible users and notes that investment zones are excluded. Check the current applicant, area and set-out requirements directly.",
+          "Residents outside municipal coverage can ask building or community management for the appointed bulky-waste process or book [furniture removal in Dubai](/services/furniture-removal-dubai). Do not leave the sofa beside a communal bin and do not place it in a skip hired for another property or construction project.",
+        ],
+      },
+      {
+        heading: "Measure the sofa and its route before collection day",
+        content: [
+          "Record overall width, depth and height, then measure doorways, lift openings and tight corridor turns. Check whether arms, legs, backs or modular clips are designed to detach. A sofa bed or recliner can be far heavier than it looks, and its moving mechanism may shift unless secured correctly.",
+          "In [Dubai Marina](/areas/dubai-marina), reserve the service lift and loading bay before the crew arrives. For a villa in [Arabian Ranches](/areas/arabian-ranches), confirm vehicle access, gate width and the route from room to driveway. Protect floors and corners, keep children and pets away, and let trained crew control heavy lifting.",
+          "Send route photos as well as sofa photos. The [bulky-item removal service](/services/bulky-item-removal-dubai) can plan labour, trolley use, wrapping and dismantling more accurately when the narrowest point is visible.",
+        ],
+      },
+      {
+        heading: "Questions that reveal whether ‘sofa recycling’ is credible",
+        content: [
+          "Ask whether the sofa will first be checked for reuse, who carries and dismantles it, which components are normally separated, what contamination changes the route, and whether the receiving facility can be identified. If evidence matters, request the available collection or diversion record before booking.",
+          "Avoid a collector that promises every sofa is fully recycled, refuses to discuss residual material, or offers to leave unwanted parts beside a bin. Our guide to [what happens after junk pickup](/blog/what-happens-to-your-junk-after-pickup-dubai) explains why the downstream chain matters after the truck leaves.",
+          "For household sorting around the sofa—cardboard, loose metal, electronics and ordinary packaging—use the [Dubai household recycling system](/blog/how-to-recycle-household-waste-in-dubai) rather than mixing everything into the same furniture load.",
+        ],
+      },
+      {
+        heading: "Book the route that matches the sofa's real condition",
+        content: [
+          "Photograph the full sofa, defects, underside where safely visible, detachable parts and the exit route. State whether it is clean, repairable, pest-free to the best of your knowledge, or intended only for disposal. That allows the collector to protect reusable value and plan the correct fallback.",
+          "EcoHaul can assess a single sofa or a wider furniture load from those details. [Contact the team](/contact) with the location, dimensions, floor, lift or villa access, condition and required date for a scoped collection plan.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches", "palm-jumeirah", "downtown-dubai"],
+  },
+  {
+    slug: "tipping-etiquette-for-junk-removal-crews-in-dubai",
+    title: "Tipping Junk Removal in Dubai: Etiquette and Amounts",
+    seoTitle: "Tipping Junk Removal in Dubai: Etiquette & Amounts",
+    excerpt:
+      "Is tipping junk removal in Dubai expected? Learn when a tip is optional, sensible amount ranges, how to share it fairly and useful non-cash alternatives.",
+    category: "Guides",
+    tags: ["Tipping Etiquette", "Junk Removal", "Crew Appreciation", "Dubai"],
+    coverImage: "/images/blog/tipping-junk-removal-crew-dubai-hero.webp",
+    coverImageAlt:
+      "Resident discreetly offering an optional envelope to a junk-removal crew after checking a cleared Dubai apartment",
+    publishedAt: "2026-09-15",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Tipping a junk-removal crew in Dubai is optional; the agreed quote should already cover the full approved scope and labour.",
+      "If service was exceptional, a modest per-person amount is clearer and fairer than an unexplained payment to one worker.",
+      "Give any tip only after checking the completed job, and state whether it is for the whole crew or a specific person.",
+      "Water, a named positive review and feedback to the company are valuable alternatives when you prefer not to give cash.",
+    ],
+    sections: [
+      {
+        heading: "Is tipping junk removal in Dubai expected?",
+        content: [
+          "Tipping junk removal in Dubai is not required. A professional quote should cover the agreed crew, lifting, dismantling, vehicle, access plan and disposal route. The team should complete that scope properly whether or not you add a gratuity. This etiquette guide was checked on 15/09/2026.",
+          "A tip is a voluntary way to recognise service that felt notably careful or helpful—not a hidden charge, a condition of completion or a substitute for a fair company price. You should never be pressured for one, and declining to tip does not require an explanation.",
+          "This article owns crew-appreciation etiquette. For the charges that belong in the service price, use our guide to [what affects a junk-removal quote](/blog/what-factors-affect-junk-removal-prices-in-dubai). For realistic on-site windows, see [how long junk removal takes](/blog/how-long-does-a-typical-junk-removal-job-take).",
+        ],
+        callout: {
+          title: "Tip and invoice are separate",
+          text: "Confirm the job, price and approved extras first. A voluntary gratuity comes after satisfactory completion and should never be used to unlock work already included in the quote.",
+        },
+      },
+      {
+        heading: "When residents commonly choose to recognise the crew",
+        content: [
+          "You may want to thank a team that handled a difficult stair carry, protected a narrow corridor carefully, completed demanding dismantling, separated items as promised or stayed professional through a complicated building check-in. Exceptional care is the reason—not simply the number of items moved.",
+          "Do not feel obliged to tip because the day was hot, the property was in a tower or the company sent several workers. Those are normal operating conditions the provider should plan and price. A larger crew also does not automatically mean a larger gratuity; judge the actual service and your own comfort.",
+        ],
+      },
+      {
+        heading: "How much should you tip a junk-removal crew?",
+        content: [
+          "There is no official percentage or fixed Dubai amount. If you want a practical reference point, AED 20–50 per crew member is a modest voluntary range after a short, well-handled residential job. For an unusually long or demanding clearance, some customers may choose AED 50–100 per person. These are suggestions, not a rule or expectation.",
+          "A per-person amount is often clearer than copying restaurant-style percentages. Removal invoices include vehicle, processing and other costs that do not reflect each worker's effort, so a percentage of the total can produce an arbitrary result. Give only what feels proportionate and affordable; sincere thanks remains enough.",
+        ],
+        listItems: [
+          "Routine single-item pickup completed as quoted: no tip is necessary.",
+          "Careful short job with notably good handling: optional AED 20–50 per crew member.",
+          "Long, complex clearance handled exceptionally well: optional AED 50–100 per crew member.",
+          "Unresolved damage, missing scope or pressure for payment: pause, document the issue and contact the company instead of tipping.",
+        ],
+      },
+      {
+        heading: "Give a gratuity clearly and fairly",
+        content: [
+          "Wait until the final walkthrough. Check that agreed rooms are clear, items meant to stay remain in place, common areas are tidy and any completion record is provided. Then tell the supervisor plainly that the amount is optional and intended for the whole crew, or hand equal amounts to each person.",
+          "Cash in a plain envelope is direct, but ask whether the company permits staff to accept it. If you prefer a digital payment, use only an approved company channel or a method the company confirms; do not scan an unknown code or send money to an unverified number. Add a clear note if the system allows one.",
+          "Do not quietly add a tip to the invoice transfer and assume payroll will distribute it. Company accounting may treat an unexplained overpayment as an error. Keep the service receipt separate from any personal gratuity.",
+        ],
+      },
+      {
+        heading: "Useful non-cash ways to thank the team",
+        content: [
+          "Sealed drinking water at the start or during an agreed break is thoughtful in Dubai's climate. Offer it without delaying the job or expecting workers to accept food they may not want. Keep access to washrooms, prayer breaks and building rules respectful where relevant, but let the supervisor coordinate operational timing.",
+          "A detailed review can have lasting value. Mention the crew members by name only with their consent, and describe the behaviour that helped: careful lift protection, punctual communication, safe sofa dismantling or a clean final walkthrough. You can also send the company manager a short message so good work is recorded internally.",
+        ],
+        image: {
+          src: "/images/blog/resident-crew-job-completion-dubai.webp",
+          alt: "Dubai resident offering sealed water and leaving positive feedback while a removal crew completes job sign-off",
+        },
+      },
+      {
+        heading: "What to do if the job changes or a worker asks for extra money",
+        content: [
+          "Legitimate scope changes can affect the company price—for example, additional items, undisclosed stairs or dismantling not shown in the quote. The supervisor should explain the change and obtain your approval before the extra work begins. That is an invoice decision, not a tip.",
+          "If an individual asks for cash to perform work already included, do not negotiate privately. Refer to the written scope and contact the company's office. Likewise, document any damage or missing item with photographs and report it promptly. A gratuity should never be used to avoid a formal service conversation.",
+          "Prepare the item list and access information in advance using our [pickup preparation checklist](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai). Clear scope makes it easier to distinguish an approved variation from an inappropriate request.",
+        ],
+      },
+      {
+        heading: "Apartment, villa and office etiquette differences",
+        content: [
+          "In a [Dubai Marina](/areas/dubai-marina) tower, help the crew most by having permits, lift booking and loading access ready. Security delays are not the workers' fault, but the crew should still follow building rules. Keep any appreciation private and out of busy common areas.",
+          "At a villa in [Dubai Hills Estate](/areas/dubai-hills-estate), confirm which gates and rooms are in scope and keep pets away from the carry path. For offices, check the employer's gifts and hospitality policy before offering cash; a facilities manager may be allowed to provide written feedback but not a personal gratuity.",
+          "Whether the booking is standard [junk removal in Dubai](/services/junk-removal-dubai) or an urgent [same-day collection](/services/same-day-junk-removal-dubai), the same principle applies: access, courtesy and a clear scope come first; tipping stays optional.",
+        ],
+      },
+      {
+        heading: "Close the job first, then choose how to say thank you",
+        content: [
+          "Use the final walkthrough to settle the facts: approved items removed, retained items untouched, property and common areas checked, and paperwork complete. If the service met the scope, choose cash, water, feedback, a review or simply a direct thank-you according to your preference and any company policy.",
+          "To receive a written scope before your next clearance, [contact EcoHaul](/contact) with photos, access details and the removal date. The quote will cover the work itself; any appreciation afterward remains entirely your choice.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "same-day-junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "dubai-hills-estate", "business-bay", "arabian-ranches"],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>

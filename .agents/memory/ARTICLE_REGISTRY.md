@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-14**
+Last synchronized: **2026-09-15**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -45,15 +45,18 @@ Canonical implementation: `data/blog.ts`
 |  38 | `how to recycle in dubai`                      | Informational              | `/blog/how-to-recycle-household-waste-in-dubai`                    | 2026-09-14 | Published |
 |  39 | `what is a landfill diversion certificate`    | Informational              | `/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it` | 2026-09-14 | Published |
 |  40 | `how long does junk removal take`              | Informational              | `/blog/how-long-does-a-typical-junk-removal-job-take`              | 2026-09-14 | Published |
+|  41 | `where to donate old appliances dubai`         | Informational              | `/blog/where-to-donate-and-recycle-appliances-in-dubai`             | 2026-09-15 | Published |
+|  42 | `recycle old sofa dubai`                       | Informational              | `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai`               | 2026-09-15 | Published |
+|  43 | `tipping junk removal in dubai`                | Informational              | `/blog/tipping-etiquette-for-junk-removal-crews-in-dubai`           | 2026-09-15 | Published |
 
 ## Current counts
 
-- Published: **40**
-- Published on 2026-09-14: **3**
+- Published: **43**
+- Published on 2026-09-15: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **10**
-- Next approved supplemental priority: `where to donate old appliances dubai` (requires final overlap review against the existing sell-or-donate guide)
+- Supplemental approved articles published: **13**
+- Next approved supplemental priority: `junk removal cost per item dubai` (requires overlap review against the existing general and furniture pricing guides)
 
 ## Cannibalization notes for 2026-09-09 batch
 
@@ -90,3 +93,9 @@ Canonical implementation: `data/blog.ts`
 - The household recycling guide owns the resident's repeatable routing system across building recycling, public collection points, specialist drop-offs, reuse and booked bulky collection; `/blog/how-to-sort-junk-for-maximum-recycling-dubai` retains material preparation and source-separation technique, while `/blog/complete-list-of-recycling-centers-in-dubai` retains location discovery.
 - The landfill diversion certificate guide owns evidence interpretation, minimum document fields, calculation review, chain of custody and audit red flags; `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` retains the underlying diversion concept and policy context, while `/blog/what-happens-to-your-junk-after-pickup-dubai` retains the physical downstream journey.
 - The job-duration guide owns the stage-by-stage time-estimating method across load, access, dismantling, protection and building controls; `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai` retains the pre-pickup preparation checklist, while `/blog/best-times-to-schedule-junk-removal-in-dubai` retains day-and-slot selection.
+
+## Cannibalization notes for 2026-09-15 batch
+
+- The appliance-donation guide owns working-condition eligibility, recipient acceptance, safe preparation, access and documented handover; `/blog/how-to-sell-or-donate-used-furniture-in-dubai` retains used-furniture sale strategy, `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains data-safe electronics recycling, and `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant-appliance disposal.
+- The old-sofa recycling guide owns the sofa-specific condition decision across reuse, repair, component recovery and lawful bulky disposal; `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the cross-category furniture disposal overview, while `/blog/where-to-donate-used-furniture-in-dubai` retains furniture-recipient discovery.
+- The tipping guide owns voluntary gratuity amounts, distribution etiquette, company-policy checks, non-cash appreciation and handling inappropriate payment requests; `/blog/what-factors-affect-junk-removal-prices-in-dubai` retains quote inputs and clarifies only that tips do not change the agreed price.

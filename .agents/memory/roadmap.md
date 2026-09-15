@@ -133,12 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-14)
+## 4. Publication Progress (Updated 2026-09-15)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **10**
-- Total published blog articles: **40**
-- Published on 2026-09-14: **3**
+- Published supplemental approved articles: **13**
+- Total published blog articles: **43**
+- Published on 2026-09-15: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
@@ -166,3 +166,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Supplemental | `how to recycle in dubai`                      | Published | 2026-09-14 |
 | Supplemental | `what is a landfill diversion certificate`    | Published | 2026-09-14 |
 | Supplemental | `how long does junk removal take`              | Published | 2026-09-14 |
+| Supplemental | `where to donate old appliances dubai`         | Published | 2026-09-15 |
+| Supplemental | `recycle old sofa dubai`                       | Published | 2026-09-15 |
+| Supplemental | `tipping junk removal in dubai`                | Published | 2026-09-15 |
