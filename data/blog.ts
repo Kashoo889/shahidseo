@@ -4103,6 +4103,314 @@ export const BLOG_POSTS: BlogPost[] = [
     relatedServices: ["junk-removal-dubai", "same-day-junk-removal-dubai", "house-clearance-dubai"],
     relatedAreas: ["dubai-marina", "dubai-hills-estate", "business-bay", "arabian-ranches"],
   },
+  {
+    slug: "item-by-item-junk-removal-pricing-dubai",
+    title: "Junk Removal Cost Per Item Dubai: 2026 Price Guide",
+    seoTitle: "Junk Removal Cost Per Item Dubai: 2026 Price Guide",
+    excerpt:
+      "Compare junk removal cost per item in Dubai, including furniture, appliances, bags and mixed loads, and learn when a bundled quote costs less.",
+    category: "Guides",
+    tags: ["Item Pricing", "Junk Removal Cost", "Removal Quotes", "Dubai"],
+    coverImage: "/images/blog/item-by-item-junk-removal-cost-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai resident and removal estimator measuring a sofa beside a mattress, appliance, boxes and bags for an item-level quote",
+    publishedAt: "2026-09-16",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "A single standard bulky item often starts around AED 150–250, but dimensions, weight, dismantling, access and disposal route matter more than the item name.",
+      "Per-item prices are useful for one or two pieces; mixed or multi-item jobs are usually clearer and better value as one volume-based quote.",
+      "Photograph every item where it stands and disclose stairs, lift controls, parking distance and special materials before comparing prices.",
+      "Use price bands for budgeting only and obtain a written scope that identifies included labour, transport, ordinary dismantling and disposal.",
+    ],
+    sections: [
+      {
+        heading: "Junk removal cost per item in Dubai: the short answer",
+        content: [
+          "Junk removal cost per item in Dubai commonly starts around AED 150–250 for one accessible standard bulky piece. Larger sectional sofas, multi-door wardrobes, heavy appliances or items requiring dismantling can move into roughly AED 250–500 territory. These are planning bands, not a universal tariff. This guide was checked on 16/09/2026.",
+          "The item name is only shorthand for the real work. A two-seat sofa beside a villa driveway is different from a sofa bed on an upper floor with a timed service lift. A washing machine already disconnected is different from equipment that still needs a qualified trade. The final quote should cover the item from its current position to the agreed downstream route.",
+          "This article owns mixed household item budgeting and bundling. Our [Dubai junk-removal cost guide](/blog/how-much-does-junk-removal-cost-in-dubai) retains truck-volume pricing, while the [furniture-removal cost guide](/blog/furniture-removal-cost-breakdown-dubai) contains a deeper furniture-only breakdown.",
+        ],
+        callout: {
+          title: "Price the job, not the noun",
+          text: "‘One wardrobe’ is not a complete quote request. Add dimensions, material, dismantling, floor, lift or stairs, carrying distance, parking and the required date.",
+        },
+      },
+      {
+        heading: "Planning ranges for common furniture items",
+        content: [
+          "Use the following ranges to build a first budget before sending photographs. They reflect ordinary household handling, not specialist rigging, crane work, built-in removal or controlled materials. A provider should adjust the figure only after seeing the actual piece and route.",
+        ],
+        listItems: [
+          "Armchair or compact chair: approximately AED 100–150 when accessible and collected alone or nearby.",
+          "Standard two- or three-seat sofa: approximately AED 180–250; sofa beds and heavy recliners may cost more.",
+          "Large L-shaped or modular sofa: approximately AED 300–450 where sections need separating and protection.",
+          "Single-to-king mattress: approximately AED 150–220 depending on size, contamination and carry route.",
+          "Bed frame or storage bed: approximately AED 200–350 when ordinary dismantling is required.",
+          "Large four-to-six-door wardrobe: approximately AED 350–500 when panel-by-panel dismantling is necessary.",
+          "Dining table with four to six chairs: approximately AED 250–380 as one grouped set.",
+        ],
+      },
+      {
+        heading: "Appliance, bag and loose-junk pricing needs more context",
+        content: [
+          "A standard washing machine or dishwasher may fit the general AED 150–250 single-item band when disconnected, drained and accessible. Refrigerators, freezers and air-conditioning equipment need a declared route because refrigerants, oil and safe transport affect handling. Our [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) explains those requirements.",
+          "Small appliances rarely make economic sense as separate truck visits. Group them into one photographed collection or use an appropriate drop-off route. Data-bearing electronics and batteries should be identified rather than hidden in a general bag. The [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers safe preparation.",
+          "Bags are not equal units. A bag of clothes, a bag of books and a bag of broken tiles have different weight, handling and destinations. State the bag count, approximate size and contents. Loose glass, liquids, paint, chemicals and sharp material should never be buried inside an ordinary household bag to obtain a cheaper price.",
+        ],
+      },
+      {
+        heading: "Why three separate item prices may cost more than one bundled quote",
+        content: [
+          "Every dispatch carries fixed work: allocating a vehicle and crew, reaching the property, checking in, protecting the route, loading and travelling to the next destination. Pricing a sofa, mattress and table as three different visits repeats those costs. Collected together, they may fit one quarter-truck or another defined volume tier.",
+          "Do not simply add the highest individual ranges. Ask for both views: the item list for scope control and the bundled total for the actual booking. The written quote should say whether adding a small box or bag changes the total and where the next price tier begins.",
+        ],
+        image: {
+          src: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+          alt: "Removal supervisor measuring grouped furniture, an appliance, boxes and bags beside a Dubai loading-bay truck",
+        },
+      },
+      {
+        heading: "Access can change the cost of the same item",
+        content: [
+          "In a [Dubai Marina](/areas/dubai-marina) tower, a quote may need security registration, a service-lift reservation, padded protection, a long basement carry and a fixed loading window. Send the building name, floor, lift dimensions and parking instructions. A crew waiting for unconfirmed access is not the same job as a prepared pickup.",
+          "A villa in [The Springs](/areas/the-springs) may offer a short driveway route, but stairs, narrow garden gates or distant legal parking can still add work. Measure the widest and narrowest points, and show the entire path from item to vehicle rather than photographing only the object.",
+          "The detailed diagnostic is in our guide to [what affects junk-removal price](/blog/what-factors-affect-junk-removal-prices-in-dubai). For the item-level budget, record access as a separate column so two quotes are compared on the same assumptions.",
+        ],
+      },
+      {
+        heading: "Build an item-by-item quote sheet in five minutes",
+        content: [
+          "Create one line per item or consistent group: ‘three sealed medium boxes’ is more useful than three identical lines. Add quantity, dimensions, material, condition, dismantling, floor, route and preferred outcome. Mark anything optional so the provider can price the base job and the add-on separately.",
+          "Take a wide photograph of each room and close-ups of heavy, fragile or unusual pieces. Include internal contents only where relevant and remove personal documents first. If the item may be reused, show its condition honestly; if it is broken, show the damage so the destination is not priced on a false assumption.",
+        ],
+        listItems: [
+          "Item or group: what it is and how many pieces are included.",
+          "Size and weight clues: dimensions, solid wood, stone, metal, books or unusually dense contents.",
+          "Preparation: assembled, disassembled, disconnected, drained, boxed or loose.",
+          "Route: room, floor, lift, stairs, corridor turns, loading bay and parking distance.",
+          "Special handling: glass, electronics, refrigeration, sharp edges, confidential material or suspected contamination.",
+        ],
+      },
+      {
+        heading: "How to compare two per-item quotes fairly",
+        content: [
+          "Check whether each total includes the same item list, crew labour, ordinary dismantling, protection, carrying, loading, transport and lawful disposal. Ask about callout minimums, building fees, extra trips, items added on the day and what happens if the photographed load occupies more space than expected.",
+          "Be cautious with a price attached only to a noun—‘sofa AED 100’—when the provider has not asked about size or access. Also avoid paying an individual to remove only valuable metal while leaving the rest. A cheap partial pickup can create a second collection and a higher combined cost.",
+        ],
+      },
+      {
+        heading: "Get a scoped price for the complete item list",
+        content: [
+          "EcoHaul can price a single piece through [bulky-item removal in Dubai](/services/bulky-item-removal-dubai) or combine mixed items through [junk removal in Dubai](/services/junk-removal-dubai). The useful number is the total for the photographed scope, with access and exclusions stated—not a collection of optimistic headline rates.",
+          "To receive a written estimate, [contact the team](/contact) with the item sheet, wide photos, location, floor or villa access, preferred date and any specialist materials. Keep the same information when requesting comparison quotes.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "junk-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["dubai-marina", "the-springs", "business-bay", "jumeirah-village-circle"],
+  },
+  {
+    slug: "dubai-illegal-dumping-laws-and-fines-guide",
+    title: "Is It Illegal to Dump Furniture in Dubai? 2026 Rules",
+    seoTitle: "Is It Illegal to Dump Furniture in Dubai? 2026 Guide",
+    excerpt:
+      "Is it illegal to dump furniture in Dubai? Learn which locations are prohibited, what to do if an item was placed outside and how to arrange legal collection.",
+    category: "Guides",
+    tags: ["Illegal Dumping", "Furniture Disposal", "Dubai Law", "Bulky Waste"],
+    coverImage: "/images/blog/illegal-furniture-dumping-dubai-hero.webp",
+    coverImageAlt:
+      "Resident and building security officer assessing an abandoned sofa obstructing a Dubai tower waste-room entrance",
+    publishedAt: "2026-09-16",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Yes—Dubai law prohibits placing or abandoning waste in public places or anywhere not designated for that purpose.",
+      "A pavement, vacant plot, beach, roadside, shared corridor or another property's skip does not become legal because the furniture is labelled free.",
+      "If furniture was placed outside too early, secure the area, notify building management and arrange an approved collection rather than moving it elsewhere.",
+      "Keep the booking confirmation and collection record, especially when a tenant, landlord, building or private hauler shares responsibility for access.",
+    ],
+    sections: [
+      {
+        heading: "Is it illegal to dump furniture in Dubai?",
+        content: [
+          "Yes. It is illegal to dump furniture in Dubai in a public place or any location not designated for that waste. Article 6 of Dubai Law No. 18 of 2024 prohibits dumping, discarding or placing waste in public places or elsewhere outside approved controls. Its definition of public place includes roads, streets, pathways, pavements, beaches, vacant plots and public squares. This guide was checked on 16/09/2026.",
+          "The rule applies across the Emirate, including free zones and special development zones. A sofa does not become acceptable because it is beside a bin, offered free online or expected to be collected later. The lawful sequence is to confirm the collection route and set-out point first, then move the furniture at the approved time.",
+          "This article owns the furniture-placement question and corrective steps. Our guide to [where to legally dump junk in Dubai](/blog/where-to-legally-dump-junk-and-waste-in-dubai) retains facility access and commercial weighbridge procedures, while the [Dubai waste-disposal rules guide](/blog/dubai-municipality-waste-disposal-rules-and-regulations) covers the wider regulatory framework.",
+        ],
+        callout: {
+          title: "Permission must come before set-out",
+          text: "A booking request, marketplace message or handwritten ‘free’ sign is not permission to occupy a pavement, corridor, bin enclosure or loading bay. Wait for a confirmed route, place and time.",
+        },
+      },
+      {
+        heading: "Five places where an unwanted sofa does not belong",
+        content: [
+          "Do not leave furniture on a pavement, roadside or landscaped verge. These are not informal collection points. Open land and desert tracks are also prohibited, regardless of whether other waste is already present. Adding an item to an existing dump compounds the problem rather than legitimising it.",
+          "A communal waste room is designed for the building's approved container system, not automatic bulky storage. A sofa can block access for residents and collection workers or prevent containers from moving. Fire corridors, stair landings and service-lift lobbies must stay clear even for a short period.",
+        ],
+        listItems: [
+          "Public pavement, roadside, beach or vacant plot.",
+          "Beside or on top of communal bins without building approval.",
+          "Fire exit, stair landing, corridor or service-lift lobby.",
+          "Construction skip, commercial container or another property's collection bay without permission.",
+          "Loading area before the confirmed collection window or after the crew has declined the item.",
+        ],
+      },
+      {
+        heading: "Why ‘someone will take it’ is not a safe disposal plan",
+        content: [
+          "A reusable item may indeed find a recipient, but until a named person accepts it and a legal handover occurs, the owner still has an unwanted bulky item. A free listing does not transfer responsibility. If the recipient fails to arrive, the sofa cannot remain in a common area indefinitely.",
+          "Likewise, an informal collector may take valuable sections and abandon the residue. Ask who is collecting, what vehicle will be used, whether the building permits entry and what happens to rejected material. Keep messages and collection details until the furniture has left through the agreed route.",
+          "For legitimate reuse, follow the acceptance and access checks in our [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai). Donation is a confirmed transfer, not anonymous roadside set-out.",
+        ],
+      },
+      {
+        heading: "What the current Dubai law allows authorities to do",
+        content: [
+          "Dubai Law No. 18 of 2024 establishes the waste-management and public-cleanliness framework. It allows penalties for violations, with a statutory maximum of AED 500,000 depending on the specific offence and implementing decisions; repeat violations within one year can be doubled within that maximum. That ceiling is not a standard fine for one household sofa.",
+          "The law also requires a violator to remedy the breach and restore the situation at their expense within the period set by Dubai Municipality. If the authority remedies it instead, the costs may be recovered with an additional administrative charge. The exact consequence depends on the recorded violation and applicable schedule, so do not rely on unverified social-media fine tables.",
+          "Read the current [official text of Law No. 18 of 2024](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20%2818%29%20of%202024%20Regulating%20Waste%20Management.html) for the governing language.",
+        ],
+      },
+      {
+        heading: "What to do if furniture has already been placed outside",
+        content: [
+          "Act quickly without creating a second unsafe move. Tell building security or community management exactly where the item is and ask for the approved temporary instruction. If it can be returned to the property safely and without blocking residents, arrange competent help; do not attempt a heavy solo lift or drag it through a fire door.",
+          "Book the appropriate collection, give the collector photographs and obtain a confirmed date and set-out point. If the item is in a public place or causing immediate obstruction, follow the building or Dubai Municipality reporting direction. Photograph the corrected area and keep the booking record.",
+        ],
+        image: {
+          src: "/images/blog/booked-sofa-removal-service-lift-dubai.webp",
+          alt: "Booked removal crew moving a wrapped sofa through a reserved service lift while Dubai building security confirms access",
+        },
+      },
+      {
+        heading: "Use the correct furniture route instead",
+        content: [
+          "Start with reuse if the furniture is clean, safe and accepted by a recipient. If reuse fails, Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) describes a household furniture and appliance disposal service for eligible users and notes that investment zones are excluded. Confirm the applicant, coverage and current set-out rules directly.",
+          "In private developments or when lifting and timing are the problem, arrange [furniture removal in Dubai](/services/furniture-removal-dubai) or a [bulky-item collection](/services/bulky-item-removal-dubai). A professional scope should include the route from inside the property, building controls, transport and downstream handling.",
+        ],
+      },
+      {
+        heading: "Tenant, landlord and building responsibilities should be written down",
+        content: [
+          "The tenancy or property-management agreement may assign clearance and access duties, but it cannot authorise illegal dumping. Tenants should remove personal furniture by the handover deadline; landlords or managers should identify the approved process for abandoned property and common areas. Neither side should move the item onto public land to settle a dispute.",
+          "In a [Business Bay](/areas/business-bay) tower, record security approval, lift booking and loading time. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), confirm whether the building, community contractor or a private provider handles bulky items. Keep the handover inspection and collection record together if deposit responsibility may be questioned.",
+        ],
+      },
+      {
+        heading: "Arrange collection before the furniture leaves the room",
+        content: [
+          "Send the item dimensions, condition, route photos, floor, lift or stairs, parking point and required date before moving it. Ask the provider to identify anything excluded and confirm where the crew will take control of the item.",
+          "EcoHaul can coordinate the inside-to-truck route and building access. [Contact the team](/contact) with photos and the current location of the furniture—especially if it has already been moved into a common area—so the safest correction can be planned promptly.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-village-circle", "dubai-marina", "downtown-dubai"],
+  },
+  {
+    slug: "dubai-integrated-waste-management-strategy-2030",
+    title: "Dubai Waste Management 2030: What Changed by 2026?",
+    seoTitle: "Dubai Waste Management 2030: Current 2041 Strategy",
+    excerpt:
+      "Searching for Dubai waste management 2030? Learn why current official sources now reference the 2041 strategy and what the updated system means in practice.",
+    category: "Eco & Recycling",
+    tags: ["Waste Strategy", "Dubai 2041", "Circular Economy", "Recycling"],
+    coverImage: "/images/blog/dubai-integrated-waste-management-strategy-hero.webp",
+    coverImageAlt:
+      "Integrated Dubai waste system with a collection truck weighbridge, material-recovery lines and energy facility",
+    publishedAt: "2026-09-16",
+    readingTime: "10 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Dubai waste management 2030 remains a common search phrase, but current official Dubai sources describe the Integrated Waste Management Strategy 2021–2041.",
+      "The present strategy connects waste reduction, separation, recycling, treatment, energy conversion, private investment and regulated transport rather than relying on one facility or target.",
+      "Law No. 18 of 2024 supplies the current legal framework for waste segregation, transport, treatment, reuse, recycling and public cleanliness across Dubai.",
+      "Residents and businesses contribute most effectively by reducing waste, separating it at source, declaring specialist items and using approved collection routes.",
+    ],
+    sections: [
+      {
+        heading: "Dubai waste management 2030: the current answer",
+        content: [
+          "Dubai waste management 2030 is now an outdated label for the city's current long-term programme. Earlier Dubai Municipality communications discussed a 2030 landfill-diversion direction, which is why the phrase remains in search results and older articles. As checked on 16/09/2026, official Dubai sources describe the active framework as the Dubai Integrated Waste Management Strategy 2021–2041.",
+          "That does not mean the earlier work disappeared. Collection controls, material recovery, recycling, waste treatment, energy conversion and anti-dumping systems continue within a longer planning horizon and an updated legal framework. When assessing a claim, separate the target year from the date of the evidence and the performance actually reported.",
+          "This article owns the strategy timeline and system view. Our guide to [landfill diversion meaning](/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai) retains the environmental concept, while the [landfill diversion certificate guide](/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it) explains project-level evidence.",
+        ],
+        callout: {
+          title: "Use the current name",
+          text: "For present-day policy references, use ‘Dubai Integrated Waste Management Strategy 2021–2041.’ Mention 2030 only when discussing the earlier target, historical communication or the search query itself.",
+        },
+      },
+      {
+        heading: "Why 2030 still appears in Dubai waste searches",
+        content: [
+          "In 2021, Dubai Municipality publicly described measures intended to reduce and completely divert waste from landfill by 2030. Those statements were widely repeated in sustainability pages, tenders and company marketing. Search engines do not automatically replace every historical reference when a later strategy becomes the current frame.",
+          "The practical lesson is not to delete the history; it is to date it. A 2030 ambition, a 2024 law, a 2025 facility guideline and the 2021–2041 strategy are different documents with different roles. A contractor saying it is ‘aligned with Dubai 2030’ should be able to explain which current requirement or measurable practice it means.",
+          "For the physical journey from collection to sorting and treatment, read [what happens to junk after pickup](/blog/what-happens-to-your-junk-after-pickup-dubai).",
+        ],
+      },
+      {
+        heading: "What the Integrated Waste Management Strategy 2021–2041 covers",
+        content: [
+          "The Executive Council approved the strategy with a stated budget of AED 74.5 billion, including AED 70.5 billion in direct private-sector contribution. Official descriptions emphasise integrated management, innovation, recycling and conversion of waste to energy. The scale signals that infrastructure, operating standards, private investment and behaviour change must work together.",
+          "The [official Dubai waste-management overview](https://www.dubai.ae/web/dubai.ae/living/environment-sustainability/waste-management) now presents the 2041 strategy as the current framework. The [Executive Council announcement](https://www.protocol.dubai.ae/en/media-listing/news-events/executive-council-of-dubai-approves-integrated-waste-management-strategy-2021-2041-with-a-budget-of-aed745-billion/) provides the approval context and investment figures.",
+          "A strategy is not a promise that every material is recyclable or that every load avoids landfill today. It sets the direction for prevention, collection, recovery, treatment and final disposal. Actual outcomes still depend on material quality, facility acceptance, contamination and traceable operations.",
+        ],
+      },
+      {
+        heading: "The 2024 law turns strategy into operating responsibilities",
+        content: [
+          "Dubai Law No. 18 of 2024 applies across the Emirate, including free zones and special development zones. It defines waste management broadly—from cleaning and collection through segregation, sorting, transport, storage, reuse, recycling, treatment and final disposal. It also gives Dubai Municipality responsibility for policies, standards, facility oversight and compliance.",
+          "The law supports diversion from landfill by enabling requirements for segregation, sorting, recycling and use of recovered materials. It also prohibits waste disposal in public places and unauthorised locations. These provisions connect city-scale strategy to choices made at buildings, businesses, collection companies and treatment facilities.",
+          "The current legal text is available through [Dubai Legislation](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20%2818%29%20of%202024%20Regulating%20Waste%20Management.html).",
+        ],
+      },
+      {
+        heading: "Collection, monitoring and facility classification matter as much as new plants",
+        content: [
+          "Integrated management begins before a truck reaches a facility. The material needs a suitable container, clear classification, authorised collection, a safe vehicle and a destination that can lawfully accept it. Digital monitoring and weighbridge records help connect vehicle movements and quantities to the operating system.",
+          "Dubai Municipality's current technical guidelines describe evaluation and classification for waste collection, transport, treatment and recycling facilities. This shifts the conversation from a vague ‘licensed company’ claim toward measurable operational standards and continuous improvement.",
+        ],
+        image: {
+          src: "/images/blog/dubai-waste-operations-monitoring-control-room.webp",
+          alt: "Dubai waste operations team monitoring collection trucks, weighbridge activity and recycling-facility status",
+        },
+      },
+      {
+        heading: "Waste-to-energy is one part of the system, not a synonym for recycling",
+        content: [
+          "Dubai's official overview describes the Warsan waste-to-energy centre as capable of processing up to 2 million tonnes of dry waste annually and producing energy for more than 135,000 homes. Energy conversion can reduce the volume requiring landfill and recover value from suitable residual waste.",
+          "It should not erase the earlier choices in the hierarchy. Avoiding an unnecessary item, keeping a product in use, donating a working appliance and recycling a clean material preserve different forms of value. Burning a reusable table for energy is not the same outcome as extending its life; contaminated residual waste is not the same as separated cardboard.",
+          "Residents can apply this hierarchy using the [Dubai household recycling guide](/blog/how-to-recycle-household-waste-in-dubai): reduce first, reuse what remains functional, separate accepted recyclables, declare specialist items and use the correct residual route.",
+        ],
+      },
+      {
+        heading: "What the strategy means for residents and property managers",
+        content: [
+          "For a household, the strategy becomes practical at the bin room and collection booking. Follow the building's accepted-material list, keep food and liquids out of dry recycling, isolate batteries and electronics, and confirm bulky pickup before set-out. Do not assume a mixed bag will be perfectly separated later.",
+          "A property manager in [Business Bay](/areas/business-bay) should know the appointed collectors, container system, loading controls and evidence available for recurring waste streams. A logistics or industrial site in [Jebel Ali](/areas/jebel-ali) may need more detailed classification, contractor approvals and reporting. The citywide direction is shared, but the operational plan depends on the site and material.",
+          "Commercial clearances should define reuse, recycling, controlled items and reporting before collection. An [office cleanout in Dubai](/services/office-cleanout-dubai) can then be planned around asset records, data security, access and downstream evidence rather than a single mixed load.",
+        ],
+      },
+      {
+        heading: "How to read future progress claims accurately",
+        content: [
+          "Check the reporting period, geography, waste stream and denominator. A facility capacity is not the same as the tonnes processed; material collected is not automatically material recycled; a diversion percentage may include treatment or energy recovery depending on the stated method. Look for a dated official source and a clear definition.",
+          "For a private project, ask for the job scope, quantities, estimation method, receiving destinations and residual disposal. For city performance, use Dubai Government and Dubai Municipality sources rather than copying an undated company infographic. Targets guide action, while transparent measurements show progress.",
+        ],
+      },
+      {
+        heading: "Connect your next clearance to the current system",
+        content: [
+          "EcoHaul plans household and commercial collections around source information: what the items are, their condition, access, special handling and intended routes. General [junk removal in Dubai](/services/junk-removal-dubai) works best when reusable, recyclable, specialist and residual items are identified before loading.",
+          "To scope a collection and any documentation requirement, [contact the team](/contact) with photographs, the property type, area, deadline and material list. The strategy is city-scale; a responsible collection begins with accurate details at one property.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["business-bay", "jebel-ali", "dubai-marina", "al-quoz"],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>

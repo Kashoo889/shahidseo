@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-15**
+Last synchronized: **2026-09-16**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -48,15 +48,18 @@ Canonical implementation: `data/blog.ts`
 |  41 | `where to donate old appliances dubai`         | Informational              | `/blog/where-to-donate-and-recycle-appliances-in-dubai`             | 2026-09-15 | Published |
 |  42 | `recycle old sofa dubai`                       | Informational              | `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai`               | 2026-09-15 | Published |
 |  43 | `tipping junk removal in dubai`                | Informational              | `/blog/tipping-etiquette-for-junk-removal-crews-in-dubai`           | 2026-09-15 | Published |
+|  44 | `junk removal cost per item dubai`             | Informational / Pricing    | `/blog/item-by-item-junk-removal-pricing-dubai`                      | 2026-09-16 | Published |
+|  45 | `is it illegal to dump furniture in dubai`     | Informational              | `/blog/dubai-illegal-dumping-laws-and-fines-guide`                   | 2026-09-16 | Published |
+|  46 | `dubai waste management 2030`                  | Informational              | `/blog/dubai-integrated-waste-management-strategy-2030`              | 2026-09-16 | Published |
 
 ## Current counts
 
-- Published: **43**
-- Published on 2026-09-15: **3**
+- Published: **46**
+- Published on 2026-09-16: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **13**
-- Next approved supplemental priority: `junk removal cost per item dubai` (requires overlap review against the existing general and furniture pricing guides)
+- Supplemental approved articles published: **16**
+- Next approved supplemental priority: `how to estimate junk removal cost` (requires consolidation review against the price-factors and item-pricing guides)
 
 ## Cannibalization notes for 2026-09-09 batch
 
@@ -99,3 +102,9 @@ Canonical implementation: `data/blog.ts`
 - The appliance-donation guide owns working-condition eligibility, recipient acceptance, safe preparation, access and documented handover; `/blog/how-to-sell-or-donate-used-furniture-in-dubai` retains used-furniture sale strategy, `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains data-safe electronics recycling, and `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant-appliance disposal.
 - The old-sofa recycling guide owns the sofa-specific condition decision across reuse, repair, component recovery and lawful bulky disposal; `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the cross-category furniture disposal overview, while `/blog/where-to-donate-used-furniture-in-dubai` retains furniture-recipient discovery.
 - The tipping guide owns voluntary gratuity amounts, distribution etiquette, company-policy checks, non-cash appreciation and handling inappropriate payment requests; `/blog/what-factors-affect-junk-removal-prices-in-dubai` retains quote inputs and clarifies only that tips do not change the agreed price.
+
+## Cannibalization notes for 2026-09-16 batch
+
+- The item-pricing guide owns mixed household per-item planning bands, category-specific quote inputs and the choice between individual and bundled pricing; `/blog/how-much-does-junk-removal-cost-in-dubai` retains truck-volume tiers, `/blog/furniture-removal-cost-breakdown-dubai` retains detailed furniture-only pricing, and `/blog/what-factors-affect-junk-removal-prices-in-dubai` retains the diagnostic explanation of quote variables.
+- The illegal furniture-dumping guide owns the direct legality question, prohibited placement scenarios and corrective steps when furniture is already outside; `/blog/where-to-legally-dump-junk-and-waste-in-dubai` retains disposal-site access and commercial weighbridge procedures, while `/blog/dubai-municipality-waste-disposal-rules-and-regulations` retains the broader regulatory overview.
+- The 2030 strategy guide owns the historical-to-current timeline and corrects the outdated 2030 query to the active Integrated Waste Management Strategy 2021–2041; `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` retains the landfill-diversion concept, and `/blog/what-happens-to-your-junk-after-pickup-dubai` retains the physical downstream process.
