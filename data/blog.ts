@@ -4726,6 +4726,337 @@ export const BLOG_POSTS: BlogPost[] = [
     relatedServices: ["junk-removal-dubai", "house-clearance-dubai", "appliance-removal-dubai"],
     relatedAreas: ["dubai-hills-estate", "business-bay", "dubai-marina", "arabian-ranches"],
   },
+  {
+    slug: "where-to-dispose-and-donate-old-furniture-dubai",
+    title: "Where to Dispose Old Furniture in Dubai: Route Guide",
+    seoTitle: "Where to Dispose Old Furniture in Dubai: Route Guide",
+    excerpt:
+      "Find where to dispose old furniture in Dubai when reuse fails, with condition, material and access checks for lawful collection and downstream routing.",
+    category: "Eco & Recycling",
+    tags: ["Furniture Disposal", "End-of-Life Furniture", "Bulky Waste", "Dubai"],
+    coverImage: "/images/blog/dispose-old-furniture-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai resident and collection assessor reviewing a worn sofa, damaged cabinet, glass table and broken office chair",
+    publishedAt: "2026-09-18",
+    readingTime: "10 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Choose the destination only after checking condition, construction and contamination; one address will not accept every furniture type.",
+      "Give reusable furniture a confirmed handover, but route unstable, infested, wet or badly damaged pieces as end-of-life material.",
+      "Composite furniture may need separation into timber, metal, glass, upholstery and residue before meaningful recovery is possible.",
+      "Confirm eligibility, access, lifting and the rejected-item fallback before moving furniture into a communal area.",
+    ],
+    sections: [
+      {
+        heading: "Where to dispose old furniture in Dubai",
+        content: [
+          "Where to dispose old furniture in Dubai depends on whether the piece can remain in use, which materials it contains, and whether a municipality, recipient or private collector can accept it from your address. Start with a condition test, then match the item to a confirmed destination before it leaves the room. This guide was checked on 18/09/2026.",
+          "This is an end-of-life route guide for furniture that may fail resale or donation. Our broader guide to [disposing of old furniture in Dubai](/blog/how-to-dispose-of-large-furniture-in-dubai) retains the top-level sell, donate, municipal and private options, while the [old-sofa recycling guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) retains sofa-specific repair and component decisions.",
+          "There is no responsible universal answer called ‘the dump.’ A dry solid-wood table, a swollen particleboard wardrobe, a mirrored cabinet and a pest-affected sofa present different reuse, safety and material-recovery possibilities. Describe the real item rather than asking a destination to accept ‘furniture.’",
+        ],
+        callout: {
+          title: "Destination before set-out",
+          text: "A marketplace post, enquiry form or unconfirmed collection request is not an accepted handover. Keep the item inside until the recipient, building and collection time are confirmed.",
+        },
+      },
+      {
+        heading: "Use a four-question furniture condition gate",
+        content: [
+          "First ask whether the piece is structurally safe. Check loose joints, cracked glass, exposed staples, failed recliner mechanisms, unstable legs and panels that no longer hold fasteners. Do not disguise a defect with a cover or tape. If another household could be injured by normal use, the item is not donation-ready.",
+          "Second, check hygiene and moisture. Strong odours, mould, pests, bodily-fluid contamination or water-swollen board can eliminate reuse and may restrict handling. Photograph the issue and tell the collector before booking. Moving contaminated furniture through common areas without a plan can spread the problem.",
+          "Third, check completeness: doors, drawers, shelves, hardware, cushions, keys and assembly parts. Fourth, ask whether the item can be moved intact or safely dismantled. These answers determine whether the next route is confirmed reuse, repair or parts recovery, material separation, or lawful residual disposal.",
+        ],
+      },
+      {
+        heading: "Route A: give usable furniture a verified second life",
+        content: [
+          "A usable item needs a named recipient, honest photographs, measurements, defect disclosure and a collection commitment. State the floor, lift or stairs and who will carry it. Donation and resale are complete only when the item has been accepted and handed over—not when an advertisement is published.",
+          "If a buyer or recipient has not confirmed by your decision deadline, move to the next route. Do not leave the item in a lobby or beside a bin with a ‘free’ note. That transfers inconvenience and potential risk to the building without proving reuse.",
+          "For recipient discovery and acceptance questions, use the [Dubai furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai). The purpose here is to decide what happens after a piece passes or fails that reuse gate.",
+        ],
+      },
+      {
+        heading: "Route B: separate recoverable furniture materials",
+        content: [
+          "Furniture is often a composite product. A desk may contain laminated board, steel runners, plastic edging and glass. An upholstered chair may combine timber, steel springs, foam, fabric and adhesives. A recycler may accept one separated material but reject the assembled object, so ask whether dismantling occurs at the collection company or receiving facility.",
+          "Do not dismantle heavy or tensioned furniture without suitable tools and competence. Recliners, sofa beds, glass panels and spring units can release force or create sharp edges. A collection quote should identify ordinary dismantling, specialist work and any parts that remain residual.",
+          "Keep separated material clean and safe: stack panels flat, contain fasteners, protect glass, and do not mix wet upholstery with dry timber or metal. Separation is useful only when the destination has confirmed those streams.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Dubai recovery workshop separating furniture panels, metal frames, upholstery foam and protected glass into distinct material routes",
+        },
+      },
+      {
+        heading: "Route C: use the current municipal bulky service where eligible",
+        content: [
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) currently lists disposal of household appliances and furniture, describes collection within three working days for citizens, and says investment zones are excluded. Service wording, applicant eligibility and set-out instructions can change, so open the live service and confirm your address and item before making plans.",
+          "A municipal request is not permission to place furniture outside immediately. Wait for the booking instruction and use the approved location and time. If your property is outside coverage, the item is not accepted, or you need inside-property lifting, use another confirmed route.",
+          "Keep a screenshot or reference number and tell building management. In a managed development, municipal eligibility and building access are separate approvals; both need to work for the handover to succeed.",
+        ],
+      },
+      {
+        heading: "Route D: book an inside-to-destination furniture collection",
+        content: [
+          "A private [furniture removal service](/services/furniture-removal-dubai) is appropriate when the problem includes lifting, dismantling, timed access or mixed destinations. Send wide photos, item dimensions, damage, floor, lift, stairs, corridor turns and parking distance. Ask what happens to reusable, recoverable and rejected material.",
+          "For several categories in one clearout, [junk removal in Dubai](/services/junk-removal-dubai) can combine the operational plan while keeping destination streams identifiable. A written scope should state labour, ordinary dismantling, building protection, transport, exclusions and the basis for any day-of variation.",
+          "Avoid an informal collector who wants only metal parts and leaves the residue. Confirm the complete item is included and ask for the company or vehicle details required by your building. A cheap partial pickup can create a second, more difficult disposal job.",
+        ],
+      },
+      {
+        heading: "Match difficult furniture to the right question",
+        content: [
+          "For upholstered furniture, ask about hygiene acceptance, foam and textile recovery, and the residual frame. For flat-pack or particleboard furniture, disclose swelling, delamination and broken connectors. For glass or mirrors, ask how panels must be protected and whether the receiving route accepts treated or backed glass.",
+          "For built-ins, distinguish removal work from disposal. Cabinets fixed to walls, stone counters, bathroom units and fitted wardrobes may involve utilities, tiles or building fabric and can become renovation waste. Obtain landlord or management approval and use appropriate trades before a waste collection.",
+          "For large modular pieces, number components and photograph the assembled item if reuse remains possible. If it is end-of-life, ask whether controlled dismantling will reduce risk and improve material separation rather than simply reduce truck volume.",
+        ],
+      },
+      {
+        heading: "Plan access in apartments and villas",
+        content: [
+          "In a [Jumeirah Village Circle](/areas/jumeirah-village-circle) apartment, confirm mover registration, lift reservation, padding, loading-bay access and the permitted collection window. Measure the largest rigid component and the narrowest turn. Keep fire doors, corridors and waste rooms clear.",
+          "At a [Dubai Hills Estate](/areas/dubai-hills-estate) villa, check stairs, side gates, driveway rules and community vehicle access. Heat, dust or irrigation can damage furniture staged outdoors and turn a possible reuse item into waste, so set out close to the confirmed arrival time.",
+          "If a recipient rejects the piece at the door, return it to the property safely or activate the fallback already agreed with the collector. Never improvise by leaving it in the loading area.",
+        ],
+      },
+      {
+        heading: "Confirm the destination and close the handover",
+        content: [
+          "Before collection, record the accepted item list, intended route, fallback for rejection and person responsible for access. On the day, compare the actual items with the scope and photograph any disclosed damage. Keep the booking and collection confirmation until the building and recipient have closed the handover.",
+          "To plan an end-of-life furniture collection, [contact EcoHaul](/contact) with item and access photographs, measurements, condition, location and deadline. The useful answer is a complete route from the room to an accepted destination—not an address without an acceptance check.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: [
+      "jumeirah-village-circle",
+      "dubai-hills-estate",
+      "dubai-marina",
+      "arabian-ranches",
+    ],
+  },
+  {
+    slug: "charity-furniture-collection-and-donation-dubai",
+    title: "Charity Furniture Collection Dubai: Pickup Checklist",
+    seoTitle: "Charity Furniture Collection Dubai: Pickup Checklist",
+    excerpt:
+      "Prepare a charity furniture collection in Dubai with condition screening, a complete photo request, building access, handover records and a rejection fallback.",
+    category: "Moving & Clearance",
+    tags: ["Furniture Donation", "Charity Collection", "Pickup Checklist", "Dubai"],
+    coverImage: "/images/blog/charity-furniture-collection-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai resident and furniture collection coordinator checking a clean sofa and dining set against submitted photos",
+    publishedAt: "2026-09-18",
+    readingTime: "10 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm that the organisation currently accepts your exact furniture and offers collection in your area before treating the pickup as booked.",
+      "Send current full-item photos, dimensions, defects and access information in one request so screening is based on the real handover.",
+      "Keep furniture clean, assembled where requested and inside the property until the approved collection window.",
+      "Set a decision deadline and lawful fallback because a charity may reject an item before or during collection.",
+    ],
+    sections: [
+      {
+        heading: "Charity furniture collection Dubai: how the pickup works",
+        content: [
+          "A charity furniture collection Dubai request usually has four stages: choose an authorised organisation, submit the exact items for screening, confirm that collection and building access are available, and complete a documented handover. An enquiry is not a booking, and a booking may still depend on the furniture matching the submitted condition. This checklist was checked on 18/09/2026.",
+          "This guide owns the collection workflow rather than a list of charities. Our article on [where to donate furniture in Dubai](/blog/where-to-donate-used-furniture-in-dubai) retains organisation discovery and general acceptance, while the guide to [selling used furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai) retains marketplace pricing and the decision to switch from sale to donation.",
+          "Furniture donation should protect the recipient, the collection team and the donor's building. That means honest screening, a safe carry route and a backup plan for anything that is not accepted. ‘Free pickup’ should never be assumed to include dismantling, stairs, waiting time or disposal of rejected pieces.",
+        ],
+        callout: {
+          title: "Accepted, booked and collected are different states",
+          text: "Do not reserve a lift or move furniture into a corridor until you have written confirmation of the item list, date, collection scope and access requirements.",
+        },
+      },
+      {
+        heading: "Step 1: verify the organisation and current programme",
+        content: [
+          "Use an official channel to verify the organisation and contact details. Dubai's Islamic Affairs and Charitable Activities Department maintains an [official charity-associations directory](https://eservices.iacad.gov.ae/charity-associations). A licensed charitable organisation may run several programmes, and not every programme accepts physical furniture or offers home collection.",
+          "Open the organisation's current website or contact its published number. Ask whether it accepts in-kind household furniture, which categories and conditions qualify, which Dubai areas it covers, and whether pickup is performed by the organisation or a named partner. Do not send items or personal details to a number copied from an unverified social post.",
+          "If the programme asks for a fee, payment link or collection charge, verify that request through the organisation's main channel before paying. Keep the booking reference and the name or department that confirmed the collection.",
+        ],
+      },
+      {
+        heading: "Step 2: screen the furniture before making the request",
+        content: [
+          "Inspect structure, cleanliness, completeness and function. A sofa should be dry, stable and free from pests, deep staining and strong odours. Tables and chairs should stand securely. Cabinets should have working doors, shelves and essential hardware. Disclose scratches, repairs and missing pieces rather than relying on flattering photographs.",
+          "Ask whether the item is useful to the programme now. Demand changes, storage is limited and a large piece may be unsuitable even when it is valuable. Mattresses, built-ins, oversized wardrobes, damaged flat-pack furniture and dismantled items often need special confirmation.",
+          "Do not describe unsafe furniture as ‘repairable’ unless the recipient explicitly accepts repair projects. Donation moves a usable asset to a new owner; it is not a way to transfer disposal cost or risk.",
+        ],
+      },
+      {
+        heading: "Step 3: send one complete photo-and-access request",
+        content: [
+          "Submit a full front view, both sides, the back if accessible, a close-up of any defect and a scale reference. Include quantity, dimensions, material, age if known, working features and whether the item is assembled. List every component—such as six dining chairs, two table leaves and a hardware bag—so the handover is not disputed.",
+          "Add the collection address area, property type, floor, lift or stairs, parking or loading point and preferred dates. Photograph the largest doorway and any tight turn. State whether building management requires trade documents, crew IDs, insurance, a refundable lift deposit or advance booking.",
+          "Send current photos. An old listing image does not show today's stains, pet damage, missing parts or dismantled condition. Keep a copy of the submitted set and do not swap items after approval without asking again.",
+        ],
+        listItems: [
+          "One line per item or matching set, with quantity and dimensions.",
+          "Clear condition photos plus every defect disclosed in words.",
+          "Floor, lift, stairs, corridor turns and legal loading point.",
+          "Who will dismantle, carry, wrap and load the furniture.",
+          "Requested date, decision deadline and fallback if collection is unavailable.",
+        ],
+      },
+      {
+        heading: "Step 4: confirm the exact collection scope",
+        content: [
+          "Ask whether the crew enters the property or collects from an approved ground-floor point. Confirm dismantling, wrapping, lift protection, carrying distance and whether the team can wait for security. If the answer is curbside or reception-only, decide who will move the furniture there and when management permits it.",
+          "Confirm the arrival window and contact method, then obtain building approval. In a [Dubai Marina](/areas/dubai-marina) tower, a donation pickup may follow the same mover registration and service-lift controls as a commercial move. Charity status does not override loading-bay or fire-safety rules.",
+          "For a villa in [Jumeirah Village Circle](/areas/jumeirah-village-circle), check community access, driveway parking, stairs and side gates. Keep furniture protected from sun, dust and irrigation until the crew is present.",
+        ],
+      },
+      {
+        heading: "Prepare the item without reducing its value",
+        content: [
+          "Empty drawers and cabinets, remove personal papers, vacuum upholstery and wipe hard surfaces with suitable products. Do not soak fabric immediately before collection. Keep manuals, remotes, keys, shelf pins and proprietary fasteners together in a sealed, clearly associated bag.",
+          "Leave the furniture assembled unless the organisation requests dismantling or the approved carry route requires it. Assembly shows condition and completeness. If dismantling is agreed, photograph the item first, number components and protect corners and glass.",
+          "Do not perform structural repairs, electrical work or pest treatment beyond your competence. Tell the organisation if the condition changes after approval. A new spill, broken leg or missing component may require re-screening.",
+        ],
+        image: {
+          src: "/images/blog/scheduled-charity-furniture-handover-dubai-clean.webp",
+          alt: "Scheduled Dubai furniture handover with a clean wrapped sofa, padded service lift and digital booking confirmation",
+        },
+      },
+      {
+        heading: "Complete a controlled collection-day handover",
+        content: [
+          "Before the crew moves anything, verify the organisation or collection partner, booking reference and approved item list. Point out disclosed defects and loose components. Keep unapproved belongings in a separate room or mark them clearly so there is no accidental collection.",
+          "Protect the carry route, keep children and pets away, and do not block fire exits. After loading, walk the route for damage and check that every accepted component has gone. Request the form of acknowledgement the organisation provides; not every household pickup produces a valuation or tax document.",
+          "Remove the item from sale or giveaway listings only after the handover is complete. Save confirmation messages and any receipt with your move or tenancy records until no building-access issue remains.",
+        ],
+      },
+      {
+        heading: "Have a rejection and no-show fallback",
+        content: [
+          "Set a decision deadline several days before a move or handover. If the organisation declines from photos, choose another verified recipient or an appropriate furniture route. If the crew rejects the actual condition, return the item inside safely; do not leave it at reception, beside bins or on a pavement.",
+          "When timing or lifting makes charity collection impossible, a [furniture removal service](/services/furniture-removal-dubai) can collect from inside and apply the agreed reuse or disposal route. For one or two large pieces, [bulky-item removal](/services/bulky-item-removal-dubai) may be the clearer scope. Ask whether donation delivery is actually included rather than assuming every collected item goes to charity.",
+          "A backup plan does not weaken the donation attempt. It protects the building and prevents a deadline from turning a rejected piece into illegal or unsafe set-out.",
+        ],
+      },
+      {
+        heading: "Build a collection-ready donation request",
+        content: [
+          "Create a single folder containing the item list, photos, dimensions, defects, charity confirmation, building approval and collection contact. That record lets everyone work from the same scope and makes it easy to activate the fallback if availability changes.",
+          "If you need lifting or a time-certain alternative around a donation booking, [contact EcoHaul](/contact) with the approved items, access details and deadline. We can scope the physical collection separately from the charity's acceptance decision so neither responsibility is left unclear.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle", "business-bay", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-declutter-before-moving-in-dubai",
+    title: "Declutter Before Moving Dubai: A New-Home Fit Test",
+    seoTitle: "Declutter Before Moving Dubai: New-Home Fit-Test Guide",
+    excerpt:
+      "Declutter before moving in Dubai with a new-home fit test that checks dimensions, function, replacement value and access before anything enters a moving box.",
+    category: "Moving & Clearance",
+    tags: ["Pre-Move Decluttering", "Moving House", "Furniture Fit", "Dubai"],
+    coverImage: "/images/blog/declutter-before-moving-dubai-fit-test-hero.webp",
+    coverImageAlt:
+      "Dubai couple measuring a sofa and bookcase while comparing furniture with their next-home floor plan",
+    publishedAt: "2026-09-18",
+    readingTime: "10 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Decide what crosses the new home's threshold before packing by checking fit, access, function, condition and total move value.",
+      "Measure furniture, doorways, lifts and usable wall space; a piece can fit the room on paper but fail the route or circulation test.",
+      "Use a decision score and deadline for uncertain items so boxes do not become paid storage for delayed choices.",
+      "Keep the move manifest, disposal list and first-night essentials separate to prevent rework and accidental removal.",
+    ],
+    sections: [
+      {
+        heading: "Declutter before moving Dubai: start with the destination",
+        content: [
+          "To declutter before moving Dubai households should start with the next home, not the current cupboard. Test each large item and category against the destination's dimensions, access, function and replacement value before buying boxes or accepting a mover's final volume. This new-home fit method was checked on 18/09/2026.",
+          "This article owns the keep-or-remove decision before packing. Our [junk removal before moving guide](/blog/junk-removal-before-moving-house-in-dubai) retains the clearance booking timeline and mover-cost equation, while the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains the general home sequence.",
+          "The goal is not to own as little as possible. It is to move items that have a safe route, a defined place and a real use in the next home. Everything else needs a sell, donate, recycle or disposal decision before it becomes labelled cargo.",
+        ],
+        callout: {
+          title: "No destination, no box",
+          text: "If you cannot name the next room, storage location or use for an item, keep it visible in the decision zone instead of packing it to decide later.",
+        },
+      },
+      {
+        heading: "Build a usable new-home map",
+        content: [
+          "Obtain the best floor plan available, then verify critical measurements where possible. Record usable wall lengths, room widths, door swings, balcony thresholds, built-in cupboards, utility connections and clear circulation. Exclude areas occupied by columns, radiators, access panels or doors that need to open.",
+          "Map the delivery route as well as the room. Measure the narrowest door, corridor turn, stair, lift entrance and service-lift interior. Confirm loading-bay height and the distance from vehicle to lift. A wardrobe may fit the bedroom yet fail the lift unless it can be safely dismantled.",
+          "Use removable tape or a simple scaled sketch to mark large furniture footprints. Leave walking space and allow chairs, drawers and appliance doors to operate. Photograph each planned zone so the decision remains available when you return to the old home.",
+        ],
+        image: {
+          src: "/images/blog/new-home-furniture-fit-test-dubai.webp",
+          alt: "Dubai residents testing furniture footprints with removable floor tape while measuring a cabinet and documenting the moving inventory",
+        },
+      },
+      {
+        heading: "Score furniture on fit, function, condition and move value",
+        content: [
+          "Give each large piece a simple zero-to-two score across five questions. Does it fit the destination room? Can it pass through the route? Does it perform a needed function? Is its condition worth another move? Is moving it sensible compared with replacement, repair or sale? A high score supports keeping; a low score triggers an exit plan.",
+          "The score is a decision aid, not an appraisal. A sentimental chest may deserve a place even if replacement is cheaper. A low-value shelf may be worth moving because it fits perfectly and avoids a new purchase. Write the reason so two household members are not repeatedly debating the same item.",
+          "Add constraints: landlord ownership, furnished-property inventory, warranty, finance or a promised recipient. Never remove an item simply because it looks unwanted until ownership and the move scope are confirmed.",
+        ],
+        listItems: [
+          "Fit: exact destination and usable footprint confirmed.",
+          "Route: doors, lift, stairs and turns allow safe movement or agreed dismantling.",
+          "Function: a real use exists in the next home during the coming year.",
+          "Condition: safe, complete and proportionate to repair or clean.",
+          "Move value: carrying, protection, storage and reassembly make sense together.",
+        ],
+      },
+      {
+        heading: "Audit categories by limits, not vague intentions",
+        content: [
+          "For clothing, define the storage that will exist at the destination: hanging width, drawer volume and seasonal space. Keep the best items that fit those limits. For books, records and documents, allocate shelf length or archive boxes and remove duplicates, obsolete manuals and papers that can be securely destroyed.",
+          "For kitchenware, map actual cupboards and the appliances supplied with the new home. Retain complete sets and tools you use; do not move duplicate small appliances or unmatched containers merely because they fit a box. Check electrical compatibility and condition before moving devices.",
+          "For balcony, garage and hobby items, confirm that the next property permits and accommodates them. Plan specialist routes for paint, batteries, chemicals and gas cylinders rather than placing them in mover boxes or a general junk load.",
+        ],
+      },
+      {
+        heading: "Create five physical decision zones",
+        content: [
+          "Use zones for move, sell, confirmed donation, specialist recycling and residual removal. An item enters the move zone only after it has a destination. Donation requires recipient acceptance; a posted listing stays in sell until collection. Specialist items remain separate and visible.",
+          "Keep undecided items in one capped review zone, not scattered through every room. Give each a named decision owner and deadline. When the deadline passes, apply the pre-agreed fallback rather than extending the debate into moving day.",
+          "In a compact [Business Bay](/areas/business-bay) apartment, zones may be a colour-coded digital inventory rather than floor piles. In a [Dubai Hills Estate](/areas/dubai-hills-estate) villa, use rooms or wall sections while keeping exits and carry paths clear. Labels should indicate ownership and outcome without exposing personal information in common areas.",
+        ],
+      },
+      {
+        heading: "Do not pack an unresolved decision",
+        content: [
+          "Pack only the move zone. Number boxes by destination room and record high-level contents; avoid labels such as ‘miscellaneous’ that hide unfinished sorting. Photograph valuable or fragile items before sealing and keep documents, medication, keys and essential electronics in a separately controlled bag.",
+          "When a category exceeds its destination limit, choose the best examples first. Stop when the allocated shelf, wardrobe or cupboard capacity is reached. This reverses the usual process of packing everything and hoping the new home absorbs it.",
+          "Keep fixtures, landlord items and move-out supplies visibly separate. Cleaning products, handover documents, basic tools and final-night bedding may remain in the old property after most boxes leave; mark them as stay-until-handover rather than remove.",
+        ],
+      },
+      {
+        heading: "Set decision deadlines around external dependencies",
+        content: [
+          "Sales need time for viewings and failed pickups. Donations need screening and availability. Building management may need advance documents for movers or removal crews. Specialist recycling and municipal services have their own eligibility and lead times. Work backward from the mover survey and handover rather than using one final deadline for every route.",
+          "Freeze the large-item move list before the mover's final survey so vehicle space, dismantling and protection reflect the actual scope. Close selling and donation early enough to activate a fallback. Reserve the last days for small residual items, cleaning and handover—not a wardrobe that still has no recipient.",
+          "If the move date changes, update both the moving manifest and exit lists. A buyer collecting after keys are returned is not a plan unless the landlord or manager has agreed in writing.",
+        ],
+      },
+      {
+        heading: "Keep removal separate from the mover manifest",
+        content: [
+          "Create two signed-off inventories: items crossing into the new home and items leaving through other routes. Provide the removal crew only its list and identify retained boxes or landlord property clearly. Walk through both scopes before either team begins.",
+          "Use [house clearance in Dubai](/services/house-clearance-dubai) for a larger multi-room exit plan or [junk removal](/services/junk-removal-dubai) for a defined mixed load. Send photos after donation and sale collections are complete so the quote reflects what truly remains.",
+          "For quote consistency, use the [junk-removal estimating worksheet](/blog/how-to-estimate-junk-removal-cost-in-dubai). The moving company and removal provider should not unknowingly price the same item or assume the other team will dismantle it.",
+        ],
+      },
+      {
+        heading: "Run the threshold check before handover",
+        content: [
+          "At the final review, every object should be on the move manifest, a confirmed handover, a specialist route or the removal scope. Check cupboards, storage beds, balcony cabinets, utility areas, ceiling storage and the space behind doors. Compare the destination plan with the packed inventory and resolve duplicates before loading.",
+          "To scope the items that failed the new-home fit test, [contact EcoHaul](/contact) with the exit inventory, photos, access information and deadline. A disciplined declutter ends with fewer paid cubic metres, fewer new-home obstructions and no abandoned decisions.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "junk-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["business-bay", "dubai-hills-estate", "dubai-marina", "jumeirah-village-circle"],
+  },
 ];
 
 export const getBlogPost = (slug: string): BlogPost | null =>

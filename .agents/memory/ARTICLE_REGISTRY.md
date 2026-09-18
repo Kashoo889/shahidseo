@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-17**
+Last synchronized: **2026-09-18**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -54,15 +54,18 @@ Canonical implementation: `data/blog.ts`
 |  47 | `how to estimate junk removal cost`            | Informational / Pricing    | `/blog/how-to-estimate-junk-removal-cost-in-dubai`                    | 2026-09-17 | Published |
 |  48 | `where to dispose of old appliances dubai`     | Informational              | `/blog/where-to-recycle-and-dispose-appliances-in-dubai`              | 2026-09-17 | Published |
 |  49 | `eco friendly ways to get rid of junk`         | Informational              | `/blog/eco-friendly-ways-to-dispose-of-household-junk-dubai`          | 2026-09-17 | Published |
+|  50 | `where to dispose old furniture in dubai`      | Informational              | `/blog/where-to-dispose-and-donate-old-furniture-dubai`               | 2026-09-18 | Published |
+|  51 | `charity furniture collection dubai`           | Informational              | `/blog/charity-furniture-collection-and-donation-dubai`               | 2026-09-18 | Published |
+|  52 | `declutter before moving dubai`                | Informational              | `/blog/how-to-declutter-before-moving-in-dubai`                       | 2026-09-18 | Published |
 
 ## Current counts
 
-- Published: **49**
-- Published on 2026-09-17: **3**
+- Published: **52**
+- Published on 2026-09-18: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **19**
-- Next approved supplemental priority: **None cleared; remaining P1 supplemental keywords require consolidation review against existing owners.**
+- Supplemental approved articles published: **22**
+- Next approved supplemental priority: **None cleared; the remaining P1 checklist keyword already belongs to `/blog/villa-move-out-clearance-checklist-dubai`.**
 
 ## Cannibalization notes for 2026-09-09 batch
 
@@ -117,3 +120,9 @@ Canonical implementation: `data/blog.ts`
 - The cost-estimation guide owns the pre-quote worksheet from inventory and approximate volume through access, labour, special handling and low/base/high scenarios; `/blog/how-much-does-junk-removal-cost-in-dubai` retains actual price bands and truck tiers, `/blog/what-factors-affect-junk-removal-prices-in-dubai` retains the diagnostic explanation of quote variables, and `/blog/item-by-item-junk-removal-pricing-dubai` retains per-item planning bands and bundling.
 - The old-appliance disposal guide owns the non-working appliance decision tree by technology and condition—white goods, refrigerant equipment, data-bearing electronics, small electricals and batteries; `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains working-appliance donation acceptance, `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains data-safe commercial e-waste, and `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant-specific technical handling.
 - The eco-friendly junk guide owns the mixed-household waste hierarchy and the test for environmental marketing claims; `/blog/how-to-recycle-household-waste-in-dubai` retains recurring household recycling routes, `/blog/how-to-sort-junk-for-maximum-recycling-dubai` retains source-separation technique, `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai` retains the diversion concept, and `/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it` retains documentary evidence review.
+
+## Cannibalization notes for 2026-09-18 batch
+
+- The old-furniture destination guide owns the condition-and-material decision for non-reusable furniture, including composite separation, destination confirmation and rejected-item fallback; `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the broad sell/donate/municipal/private route overview, `/blog/where-to-donate-used-furniture-in-dubai` retains recipient discovery, and `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains sofa-specific recovery.
+- The charity furniture collection guide owns the operational request from organisation verification and photo screening through building access, collection-day handover and no-show or rejection fallback; `/blog/where-to-donate-used-furniture-in-dubai` retains the charity and recipient discovery layer, while `/blog/how-to-sell-or-donate-used-furniture-in-dubai` retains marketplace pricing and the sale-to-donation decision.
+- The pre-move decluttering guide owns the destination-first new-home fit test, furniture decision score, capacity limits and separate move-versus-exit manifests; `/blog/junk-removal-before-moving-house-in-dubai` retains the removal timeline and mover-cost equation, while `/blog/how-to-declutter-your-home-room-by-room-dubai` retains the general room sequence.

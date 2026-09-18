@@ -133,18 +133,18 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-17)
+## 4. Publication Progress (Updated 2026-09-18)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **19**
-- Total published blog articles: **49**
-- Published on 2026-09-17: **3**
+- Published supplemental approved articles: **22**
+- Total published blog articles: **52**
+- Published on 2026-09-18: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None cleared; remaining P1 supplemental keywords require consolidation review against existing owners.**
+- Next approved supplemental priority: **None cleared; `checklist for house clearance dubai` already belongs to `/blog/villa-move-out-clearance-checklist-dubai`.**
 
 | Roadmap item | Primary keyword                                | Status    | Published  |
 | ------------ | ---------------------------------------------- | --------- | ---------- |
@@ -175,3 +175,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Supplemental | `how to estimate junk removal cost`            | Published | 2026-09-17 |
 | Supplemental | `where to dispose of old appliances dubai`     | Published | 2026-09-17 |
 | Supplemental | `eco friendly ways to get rid of junk`         | Published | 2026-09-17 |
+| Supplemental | `where to dispose old furniture in dubai`      | Published | 2026-09-18 |
+| Supplemental | `charity furniture collection dubai`           | Published | 2026-09-18 |
+| Supplemental | `declutter before moving dubai`                | Published | 2026-09-18 |
