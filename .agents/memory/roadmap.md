@@ -133,18 +133,18 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-18)
+## 4. Publication Progress (Updated 2026-09-19)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **22**
-- Total published blog articles: **52**
-- Published on 2026-09-18: **3**
+- Published supplemental approved articles: **25**
+- Total published blog articles: **55**
+- Published on 2026-09-19: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None cleared; `checklist for house clearance dubai` already belongs to `/blog/villa-move-out-clearance-checklist-dubai`.**
+- Next approved supplemental priority: **None queued; the three user-approved expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item | Primary keyword                                | Status    | Published  |
 | ------------ | ---------------------------------------------- | --------- | ---------- |
@@ -178,3 +178,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Supplemental | `where to dispose old furniture in dubai`      | Published | 2026-09-18 |
 | Supplemental | `charity furniture collection dubai`           | Published | 2026-09-18 |
 | Supplemental | `declutter before moving dubai`                | Published | 2026-09-18 |
+| Approved expansion | `how to dispose of garden waste in dubai` | Published | 2026-09-19 |
+| Approved expansion | `how to clear an office while staff keep working` | Published | 2026-09-19 |
+| Approved expansion | `what to remove before rental handover dubai` | Published | 2026-09-19 |

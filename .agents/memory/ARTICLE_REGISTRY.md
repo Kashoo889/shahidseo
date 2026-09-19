@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-18**
+Last synchronized: **2026-09-19**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -57,15 +57,26 @@ Canonical implementation: `data/blog.ts`
 |  50 | `where to dispose old furniture in dubai`      | Informational              | `/blog/where-to-dispose-and-donate-old-furniture-dubai`               | 2026-09-18 | Published |
 |  51 | `charity furniture collection dubai`           | Informational              | `/blog/charity-furniture-collection-and-donation-dubai`               | 2026-09-18 | Published |
 |  52 | `declutter before moving dubai`                | Informational              | `/blog/how-to-declutter-before-moving-in-dubai`                       | 2026-09-18 | Published |
+|  53 | `how to dispose of garden waste in dubai` | Informational | `/blog/how-to-dispose-of-garden-waste-in-dubai` | 2026-09-19 | Published |
+|  54 | `how to clear an office while staff keep working` | Informational | `/blog/how-to-clear-an-office-while-staff-work-dubai` | 2026-09-19 | Published |
+|  55 | `what to remove before rental handover dubai` | Informational | `/blog/what-to-remove-before-rental-handover-dubai` | 2026-09-19 | Published |
 
 ## Current counts
 
-- Published: **52**
-- Published on 2026-09-18: **3**
+- Published: **55**
+- Published on 2026-09-19: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **22**
-- Next approved supplemental priority: **None cleared; the remaining P1 checklist keyword already belongs to `/blog/villa-move-out-clearance-checklist-dubai`.**
+- Supplemental approved articles published: **25**
+- Next approved supplemental priority: **None queued; the three user-approved expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-19 expansion
+
+- User approved these additional topics after the original keyword queue was exhausted; target phrases were added to `keywords.md` before drafting. No search-volume claims are made.
+- Garden disposal owns horticultural material sorting, pruning scope, frond handling and destination acceptance. The spring-cleaning guide retains seasonal garage and terrace decluttering. `/services/garden-waste-removal-dubai` retains commercial booking intent. Links: garden and general collection services; Arabian Ranches and The Springs; seasonal checklist and source-sorting guides.
+- Occupied-office clearance owns staged area release, business dependencies, IT sign-off and reopening checks. The office-relocation article retains whole-office asset disposition and lease handover. `/services/office-cleanout-dubai` retains commercial intent. Links: office and general collection services; Business Bay and Dubai Internet City; office relocation, e-waste and job-duration guides.
+- Rental handover owns item ownership, retention agreements and fixture-versus-belonging decisions. The villa checklist retains the room sequence and the pre-move decluttering article retains next-home fit decisions. `/services/house-clearance-dubai` retains commercial intent. Links: house and furniture services; Dubai Marina and The Springs; villa checklist, charity collection and garden disposal guides.
+- All three are included by the existing blog hub; each also has one contextual inbound link from a relevant earlier article. Implementation is local until deployed.
 
 ## Cannibalization notes for 2026-09-09 batch
 

@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 292  
-**Total Topic Clusters**: 18  
+**Total Target Keywords**: 295
+**Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-09-19
+
+User approved researching and writing these three additional topics after the original queue was exhausted. These are editorial target phrases, not claims of measured search volume. Existing commercial terms retain their service-page owners. The original cluster tables below are retained; the three additions belong to clusters 07, 06 and 18 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of garden waste in dubai` | Informational | `/blog/how-to-dispose-of-garden-waste-in-dubai` | Blog Guide | Approved expansion |
+| `how to clear an office while staff keep working` | Informational | `/blog/how-to-clear-an-office-while-staff-work-dubai` | Blog Guide | Approved expansion |
+| `what to remove before rental handover dubai` | Informational | `/blog/what-to-remove-before-rental-handover-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the garden guide owns material-specific horticultural disposal, not seasonal decluttering; the occupied-office guide owns staged releases and work continuity, not relocation asset disposal; the rental guide owns item ownership and agreed retention, not a room-by-room clearance checklist. Contextual links will connect each to two relevant services, two areas, two to four supporting guides and one contact action.
 **Cannibalization Policy**: Single primary URL mapping per search intent.
 
 **Publication sync (2026-09-02)**: 10 blog articles are live in `data/blog.ts`. Newly published primary mappings: `how to dispose of old furniture in dubai` → `/blog/how-to-dispose-of-large-furniture-in-dubai`; `where to dispose e waste in dubai` → `/blog/dubai-sustainable-waste-management-and-e-waste-guide`; `waste disposal rules dubai` → `/blog/dubai-municipality-waste-disposal-rules-and-regulations`. These informational URLs support, and do not replace, their commercial service-page mappings.
