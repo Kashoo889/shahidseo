@@ -15,6 +15,18 @@ User approved researching and writing these three additional topics after the or
 | `what to remove before rental handover dubai` | Informational | `/blog/what-to-remove-before-rental-handover-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the garden guide owns material-specific horticultural disposal, not seasonal decluttering; the occupied-office guide owns staged releases and work continuity, not relocation asset disposal; the rental guide owns item ownership and agreed retention, not a room-by-room clearance checklist. Contextual links will connect each to two relevant services, two areas, two to four supporting guides and one contact action.
+
+## Approved editorial expansion — 2026-09-21
+
+Three further item-specific informational topics. These are editorial target phrases, not claims of measured search volume. The matching commercial head terms (`carpet removal dubai`, `gym equipment removal dubai`, `cardboard removal dubai`) stay with `/services/bulky-item-removal-dubai`; the blog targets only the informational variants. The additions belong to cluster 08 (first two) and cluster 18 (third).
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of old carpets and rugs in dubai` | Informational | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of gym equipment in dubai` | Informational | `/blog/how-to-dispose-of-home-gym-equipment-dubai` | Blog Guide | Approved expansion |
+| `what to do with moving boxes in dubai` | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the carpet guide owns floor-covering condition tests, roll geometry and the carpet/underlay/gripper separation, not the general furniture route decision; the gym guide owns weight-per-piece planning, dismantling order and the powered-machine electronics split, not per-item price bands; the packing-waste guide owns the post-arrival packaging surge, carton contamination and film/foam/timber separation, not the recurring household recycling routine or pre-move decluttering.
 **Cannibalization Policy**: Single primary URL mapping per search intent.
 
 **Publication sync (2026-09-02)**: 10 blog articles are live in `data/blog.ts`. Newly published primary mappings: `how to dispose of old furniture in dubai` → `/blog/how-to-dispose-of-large-furniture-in-dubai`; `where to dispose e waste in dubai` → `/blog/dubai-sustainable-waste-management-and-e-waste-guide`; `waste disposal rules dubai` → `/blog/dubai-municipality-waste-disposal-rules-and-regulations`. These informational URLs support, and do not replace, their commercial service-page mappings.

@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-19**
+Last synchronized: **2026-09-21**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -60,15 +60,27 @@ Canonical implementation: `data/blog.ts`
 |  53 | `how to dispose of garden waste in dubai` | Informational | `/blog/how-to-dispose-of-garden-waste-in-dubai` | 2026-09-19 | Published |
 |  54 | `how to clear an office while staff keep working` | Informational | `/blog/how-to-clear-an-office-while-staff-work-dubai` | 2026-09-19 | Published |
 |  55 | `what to remove before rental handover dubai` | Informational | `/blog/what-to-remove-before-rental-handover-dubai` | 2026-09-19 | Published |
+|  56 | `how to dispose of old carpets and rugs in dubai` | Informational | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai` | 2026-09-21 | Published |
+|  57 | `how to dispose of gym equipment in dubai` | Informational | `/blog/how-to-dispose-of-home-gym-equipment-dubai` | 2026-09-21 | Published |
+|  58 | `what to do with moving boxes in dubai` | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | 2026-09-21 | Published |
 
 ## Current counts
 
-- Published: **55**
-- Published on 2026-09-19: **3**
+- Published: **58**
+- Published on 2026-09-21: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **25**
-- Next approved supplemental priority: **None queued; the three user-approved expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **28**
+- Next approved supplemental priority: **None queued; the 2026-09-21 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-21 batch
+
+- User approved three further item-specific informational topics after the 2026-09-19 expansion was exhausted; target phrases were added to `keywords.md` before drafting. No search-volume claims are made. The matching commercial head terms (`carpet removal dubai`, `gym equipment removal dubai`, `cardboard removal dubai`) remain owned by `/services/bulky-item-removal-dubai`.
+- Carpet and rug disposal owns floor-covering condition tests (damp, pests, backing delamination), roll geometry against lift and stair access, and the separation of carpet, underlay and gripper rods. `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the top-level furniture route decision, `/blog/where-to-dispose-and-donate-old-furniture-dubai` retains non-reusable furniture destinations, and `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains sofa-specific recovery. Links: bulky-item and furniture services; Dubai Marina and Arabian Ranches; large-furniture, renovation-debris, charity-collection and free-versus-paid guides.
+- Home gym equipment owns weight-per-piece planning against lift and floor limits, resale value by equipment type, the powered-machine electronics split and the dismantling order. `/blog/item-by-item-junk-removal-pricing-dubai` retains per-item planning bands, `/blog/what-factors-affect-junk-removal-prices-in-dubai` retains the diagnostic quote variables, and `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains electronics routing. Links: bulky-item and general services; Dubai Hills Estate and Jumeirah Lake Towers; charity-collection, battery, e-waste, price-factors and item-pricing guides.
+- Moving boxes and packing waste owns the post-arrival packaging surge, carton contamination and preparation, and the separation of film, moulded foam and timber crating. `/blog/how-to-recycle-household-waste-in-dubai` retains the recurring household routing routine, `/blog/how-to-sort-junk-for-maximum-recycling-dubai` retains source-separation technique, `/blog/junk-removal-before-moving-house-in-dubai` retains the pre-move removal timeline, and `/blog/how-to-declutter-before-moving-in-dubai` retains the new-home fit test. Links: general and rubbish-removal services; Dubai Marina and Jumeirah Village Circle; pre-move decluttering, household recycling and sorting guides.
+- All three are included by the existing blog hub and each carries one contextual inbound link from an earlier article: the old-furniture route guide points to the carpet guide, the item-pricing guide points to the gym guide, and the pre-move junk removal article points to the packing-waste guide.
+- Images were not generated for this batch. Per the instruction for this batch, both slots in each article reuse existing project assets; alt text was rewritten to describe what those images actually show. See `docs/article-images-2026-09-21.md`.
 
 ## Cannibalization notes for 2026-09-19 expansion
 
