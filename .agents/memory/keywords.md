@@ -27,6 +27,18 @@ Three further item-specific informational topics. These are editorial target phr
 | `what to do with moving boxes in dubai` | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the carpet guide owns floor-covering condition tests, roll geometry and the carpet/underlay/gripper separation, not the general furniture route decision; the gym guide owns weight-per-piece planning, dismantling order and the powered-machine electronics split, not per-item price bands; the packing-waste guide owns the post-arrival packaging surge, carton contamination and film/foam/timber separation, not the recurring household recycling routine or pre-move decluttering.
+
+## Approved editorial expansion — 2026-09-22
+
+Three further material-specific informational topics. These are editorial target phrases, not claims of measured search volume. The matching commercial head terms (`tyre disposal dubai`, `document destruction dubai`) stay with `/services/bulky-item-removal-dubai` and `/services/office-cleanout-dubai`; the blog targets only the informational variants. The additions belong to cluster 08, cluster 15 and cluster 13 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of old tyres in dubai` | Informational | `/blog/how-to-dispose-of-old-tyres-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old clothes and textiles in dubai` | Informational | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old documents in dubai` | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the tyre guide owns the separated-stream explanation, garage take-back and stored-tyre risks, not the general acceptability inventory or disposal-site access; the textiles guide owns the wearable test, category bagging and fibre recovery, not drop-off location discovery or the charity collection request mechanics; the documents guide owns the keep/shred/recycle split and identifying-page test, not data-bearing hardware handling. No document retention periods are stated; readers are directed to the issuing body.
 **Cannibalization Policy**: Single primary URL mapping per search intent.
 
 **Publication sync (2026-09-02)**: 10 blog articles are live in `data/blog.ts`. Newly published primary mappings: `how to dispose of old furniture in dubai` → `/blog/how-to-dispose-of-large-furniture-in-dubai`; `where to dispose e waste in dubai` → `/blog/dubai-sustainable-waste-management-and-e-waste-guide`; `waste disposal rules dubai` → `/blog/dubai-municipality-waste-disposal-rules-and-regulations`. These informational URLs support, and do not replace, their commercial service-page mappings.

@@ -176,6 +176,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Back up what you need, sign out of cloud and device accounts, remove SIM and memory cards, disable activation locks, then use the manufacturer's supported erase process. Photograph the serial number and record who received the device. For a personal phone this is sensible housekeeping; for office equipment it may be part of a formal retention and destruction policy.",
           "A factory reset is not a universal certificate of destruction. Companies clearing desktops, servers, access-control units or multifunction printers should ask their IT owner what evidence is required. Some devices store address books, scanned files or credentials outside the obvious hard drive.",
+          "The paper alongside the hardware deserves the same treatment, because a filing drawer usually holds the same names, numbers and signatures as the drives. The [documents and paperwork guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) covers the keep, shred and recycle split.",
         ],
         image: {
           src: "/images/blog/secure-electronics-recycling-dubai.webp",
@@ -2191,6 +2192,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Some items fall into a grey area where collection depends on their condition and preparation. Liquid latex paint is banned, but cans where the paint has dried to a completely solid puck are classified as non-hazardous and can be hauled away.",
           "Large plate-glass mirrors and tempered shower screens can be taken, but they must be declared in advance so crews can apply cross-hatched safety tape and protective wrapping to prevent shattering in transit. Similarly, built-in wardrobes and wall-mounted shelving must be completely detached and dismantled before collection unless you have booked disassembly labour as part of your service.",
+          "Vehicle tyres sit outside the household stream entirely and need a separate route rather than a place on a mixed truck, which is why they should always be named at the quote stage. The [old tyre disposal guide](/blog/how-to-dispose-of-old-tyres-in-dubai) explains where they can legally go.",
         ],
         callout: {
           title: "The liquid test",
@@ -3568,6 +3570,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Use the building collection for routine material only when the item appears on its accepted list. For additional dry-recycling options, Dubai Municipality has described public recyclable-material collection centres and Smart Sustainability Oasis facilities. Check the [Municipality's current waste guidance](https://www.dm.gov.ae/municipality-business/waste-department-2/) before travelling because location, access and material rules can change.",
           "Small electronics and batteries need a specialist collection point; do not hide them inside a bag of cans or cardboard. Our guide to [disposing of batteries and small electronics in Dubai](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains safe terminal protection, storage and handover. Larger electrical items may require booked [appliance removal in Dubai](/services/appliance-removal-dubai), particularly when they are heavy, disconnected or inside a tower.",
+          "Clothing, shoes and household fabric follow their own split between donation and textile recovery, and mixing the two is what gets a bag rejected. The [clothes and textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) covers the wearable test and the routes for each.",
           "For a mixed household clear-out, a [junk-removal service in Dubai](/services/junk-removal-dubai) can remove reusable, recyclable and residual items in one coordinated visit. Ask how the provider separates the load and which destinations it uses; the word ‘eco-friendly’ is not a substitute for a clear process.",
         ],
       },
@@ -5703,6 +5706,314 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["junk-removal-dubai", "rubbish-removal-dubai"],
     relatedAreas: ["dubai-marina", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-old-tyres-in-dubai",
+    title: "How to Dispose of Old Tyres in Dubai",
+    seoTitle: "Old Tyre Disposal in Dubai: Where They Can Legally Go",
+    excerpt:
+      "How to dispose of old tyres in Dubai: why they are a separate waste stream, the garage take-back route, and what to do with tyres already in your garage.",
+    category: "Eco & Recycling",
+    tags: ["Tyre Disposal", "Special Waste", "Recycling", "Vehicles"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Organised garage clear-out in a Dubai villa with items sorted into separate piles for donation and disposal",
+    publishedAt: "2026-09-22",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Tyres are a separated waste stream, not general or bulky household waste, and routing them correctly is most of the job.",
+      "The easiest disposal is the one you never take home: leave the old tyres with the fitter at the point of replacement.",
+      "Open burning of tyres is prohibited under UAE environmental law, and leaving them on open ground risks enforcement.",
+      "Stacked tyres in a villa garden collect rainwater and sand, which turns a storage problem into a pest problem.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old tyres in Dubai",
+        content: [
+          "To dispose of old tyres in Dubai, treat them as a separate stream from household waste. Leave replaced tyres with the fitting centre wherever possible, confirm acceptance with Dubai Municipality or a licensed collector for tyres already at home, and never burn them or leave them on open ground. Checked on 22/09/2026.",
+          "Tyres are one of the few everyday items where the disposal decision is made months before you think about it — at the moment a garage swaps them and asks whether you want the old set. Say yes, and a problem that belonged to a licensed workshop becomes four heavy objects in your garage with no obvious route out.",
+          "Everything below assumes ordinary passenger car, 4x4 or bike tyres from a household. Commercial fleet volumes, truck tyres and workshop quantities are a different arrangement and should be handled through a licensed commercial waste contract.",
+        ],
+        callout: {
+          title: "Decide at the garage, not at home",
+          text: "Ask the fitter before the job starts what happens to the old set. Taking them home for a spare you will never mount is how most household tyre piles begin.",
+        },
+      },
+      {
+        heading: "Why tyres are handled separately from household waste",
+        content: [
+          "A tyre is not one material. It is vulcanised rubber bonded to steel belting and textile cord, engineered specifically not to break down. That is excellent in service and inconvenient afterwards: tyres do not compact, do not degrade in landfill and cannot be processed on the same line as mixed household waste.",
+          "They also behave badly in bulk. Stacked tyres trap air, which makes them awkward to load efficiently, and a tyre fire is notoriously difficult to extinguish and produces heavy smoke. Those two properties are why disposal routes for tyres are defined separately almost everywhere, including the UAE.",
+          "Recovery is genuinely possible once they reach the right facility. Shredding and granulation turn scrap rubber into crumb used in surfacing, matting and construction products, and the steel belting is recovered separately. None of that happens if the tyre goes into a general bin.",
+        ],
+      },
+      {
+        heading: "The route most people skip without realising",
+        content: [
+          "Tyre fitting centres replace tyres all day and already have a disposal arrangement for the ones they take off. Leaving your old set with them is the cleanest outcome available to a private motorist, and it costs you nothing but a sentence at the counter.",
+          "Ask explicitly rather than assuming. Some workshops itemise a disposal charge and some absorb it; either way, having the conversation before the wheels come off avoids the situation where the old tyres are already loaded into your boot before anyone mentions it.",
+          "Keep a spare only if you can actually use it. A matching tyre with legal tread, stored out of direct sun, is a reasonable thing to hold onto. Four worn tyres kept because they were free are not a spare — they are a future clearance job.",
+        ],
+        image: {
+          src: "/images/blog/acceptable-vs-prohibited-waste-sorting-dubai.webp",
+          alt: "Dubai waste facility with accepted materials sorted onto pallets while restricted items are kept clearly isolated",
+        },
+      },
+      {
+        heading: "Tyres already sitting in your garage, garden or store",
+        content: [
+          "Start by counting them and checking what is inside. Tyres stored outdoors in a villa garden fill with rainwater, blown sand and leaf litter, and standing water in a tyre is a textbook mosquito breeding site. Empty and drain them before they are moved, because a water-filled tyre is far heavier than it looks and will soak whatever it is loaded next to.",
+          "Check whether they are still on rims. A tyre on a rim is a different item to a loose tyre: it is heavier, it takes up more space, and some routes price or accept the two differently. Say which you have when you ask anyone to take them.",
+          "Stack them flat rather than standing them on edge, keep them out of direct sun where the rubber degrades and marks the floor, and keep them clear of the electrical distribution board, water heater and anything else in a garage you would rather not have a rubber pile against.",
+        ],
+      },
+      {
+        heading: "What not to do with an old tyre",
+        content: [
+          "Do not burn them. Open incineration of tyres is not permitted under UAE environmental law, and it is one of the more visible things a resident can do wrong.",
+          "Do not leave them on open ground, in a desert lot, beside a communal bin or in a building's waste room. That is fly-tipping regardless of how few items are involved, and the [illegal dumping guide](/blog/dubai-illegal-dumping-laws-and-fines-guide) covers how that is treated and what to do if material has already been placed outside.",
+          "Do not slide them into a mixed load without saying so. A crew that has quoted for household furniture may not have the route or the licence for tyres, and burying them under a sofa means they come back off the truck. Declaring them costs nothing; hiding them wastes everybody's morning.",
+          "Repurposing into planters or play equipment is popular and is genuinely better than disposal when it is done deliberately. Just make sure the tyre is drilled to drain rather than left to hold water, and that you are not simply relocating the pile to the garden.",
+        ],
+      },
+      {
+        heading: "Municipal and licensed collection routes",
+        content: [
+          "Dubai Municipality runs household waste services and recycling drop-off points, but acceptance varies by material and by site, and tyres are not an ordinary household stream. Confirm the current position for your address and item before you load a car: the [Dubai Municipality services directory](https://www.dm.gov.ae/dubai-municipality-services/) and 800900 are the right starting points, and the [recycling centre directory](/blog/complete-list-of-recycling-centers-in-dubai) covers what neighbourhood drop-offs generally handle.",
+          "A licensed private collector is the practical answer for a stack of tyres that has accumulated, particularly alongside other garage material. What matters is that the provider names the destination rather than just quoting a price to make them disappear — the same test set out in the [where to legally dump junk guide](/blog/where-to-legally-dump-junk-and-waste-in-dubai).",
+          "Be specific in the request. Quantity, whether they are on rims, car or 4x4 size, and where they are stored are the four details that let a collector confirm in advance whether they can take them at all. The broader question of which items a collection crew can and cannot accept is covered in the [items accepted guide](/blog/what-items-can-junk-removal-companies-take-in-dubai).",
+        ],
+      },
+      {
+        heading: "Access and timing for a villa or community collection",
+        content: [
+          "Garage clear-outs in villa communities are usually the easy case: the vehicle reaches the driveway and the carry is short. Confirm where the truck may stop and whether community security needs vehicle details in advance. Residents in [Arabian Ranches](/areas/arabian-ranches) and similar developments should expect that gate registration, not the loading, is the part that takes time.",
+          "Around workshop and automotive clusters such as [Dubai Motor City](/areas/dubai-motor-city), the sensible move is to deal with tyres at the point of service instead of transporting them home first. If they are already at home, group them with the rest of the garage clear-out rather than arranging a trip for four tyres alone.",
+          "Do not stage tyres in a shared corridor, stairwell or parking bay while you wait for a collection. In apartment buildings in particular, anything left in common areas becomes the building's problem and, quickly, yours.",
+        ],
+      },
+      {
+        heading: "Booking a collection that includes tyres",
+        content: [
+          "Send a photograph of the stack, state the count, say whether any are on rims, and mention anything else in the garage going at the same time — oil containers, batteries and paint all need declaring separately, and the [paint and hazardous liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) covers those.",
+          "For a handful of tyres alongside general garage material, our [bulky item collection](/services/bulky-item-removal-dubai) is the usual fit; where the garage is part of a wider household clear-out, the [general junk removal service](/services/junk-removal-dubai) covers the mixed load in one visit.",
+          "[Send us the photo and the count](/contact) and you will get a fixed price with the tyres named in the scope, rather than a quote that quietly excludes them.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-motor-city"],
+  },
+  {
+    slug: "how-to-dispose-of-old-clothes-and-textiles-dubai",
+    title: "How to Dispose of Old Clothes and Textiles in Dubai",
+    seoTitle: "Old Clothes and Textiles in Dubai: Disposal Routes",
+    excerpt:
+      "How to dispose of old clothes and textiles in Dubai: an honest wearable test, donation and pickup routes, and what happens to fabric nobody can wear.",
+    category: "Eco & Recycling",
+    tags: ["Textiles", "Clothing Donation", "Recycling", "Decluttering"],
+    coverImage: "/images/blog/apartment-closet-storage-declutter-dubai.webp",
+    coverImageAlt:
+      "Walk-in wardrobe and storage room in a Dubai residence being sorted and reorganised",
+    publishedAt: "2026-09-22",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Wearable and unwearable fabric go different ways; sorting them yourself is what makes either route work.",
+      "Bag by category — clothing, shoes, bed linen, bags — because every recipient sorts by category anyway.",
+      "Damp or mildewed fabric contaminates the whole bag and is the most common reason a donation is rejected on arrival.",
+      "Shoes must be paired and tied together, or they separate in transit and become waste individually.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old clothes and textiles in Dubai",
+        content: [
+          "To dispose of old clothes and textiles in Dubai, split them honestly into wearable and unwearable. Clean, complete garments go to a donation bank, a charity drop-off or a scheduled textile pickup; torn, stained and worn-out fabric goes to a textile recycling route that accepts it. Keep everything dry and bagged by category. Checked on 22/09/2026.",
+          "Wardrobes here fill faster than they do in most places. Year-round heat means light clothing wears out quickly, the expat cycle brings in winter clothing that never gets used, and a two-year posting can generate more surplus fabric than a decade somewhere with four seasons. Most Dubai households have more to move than they expect once they actually start.",
+          "The mistake is treating it as one decision. A bag holding a wearable dress, a single sock and a mildewed towel is not a donation and is not clean recycling — it is a bag that gets rejected as a whole.",
+        ],
+        callout: {
+          title: "The honest wearable test",
+          text: "Would you hand this to a friend without explaining it first? If the answer needs a sentence about the stain, the stretched neckline or the broken zip, it is a textile recycling item, not a donation.",
+        },
+      },
+      {
+        heading: "Sort against condition, not sentiment",
+        content: [
+          "Work through the pile once, quickly, and put each item in one of three places: wearable, recycling, and a small third pile for things you are genuinely unsure about. Do not let the third pile become the largest one — anything still in it at the end of the session goes to recycling.",
+          "The disqualifiers are consistent: visible staining that has already survived a wash, holes and tears beyond a simple repair, heavy pilling, stretched elastic, broken zips and missing fastenings, and anything that smells of damp or storage. None of those make an item worthless as material; they make it unwearable, which is a different route.",
+          "Treat footwear on its own terms. Shoes are judged on the sole and the upper, not the brand — separated soles, collapsed heels and split uppers are recycling. Whatever you do, keep pairs together and tie them by the laces or band them, because loose shoes get separated during handling and then neither one is useful.",
+        ],
+        listItems: [
+          "Clothing — sorted roughly by adult, children and outerwear if the volume justifies it.",
+          "Shoes — paired and tied, kept out of the clothing bags so they do not mark fabric.",
+          "Bed linen, towels and curtains — usually wanted, but only clean and dry.",
+          "Bags, belts and accessories — small, easily lost, worth their own bag.",
+        ],
+      },
+      {
+        heading: "Keep it dry, and bag it the way it will be sorted",
+        content: [
+          "Damp is the single biggest destroyer of donated textiles in this climate. A bag left in a car boot or on a balcony for two days in humidity can come back smelling of mildew, and mildew spreads through everything it is packed against. Bag fabric dry, seal it, and keep it indoors until it goes.",
+          "Use bags you can actually carry. Textiles are deceptively heavy in bulk, and an over-filled bag splits at exactly the wrong moment — usually in a car park. Several medium bags beat two enormous ones.",
+          "Label them. A marker line saying 'clothes', 'shoes' or 'linen' takes two seconds and saves the receiving end from opening and re-sorting everything, which is the difference between a donation that gets used and one that sits in a queue.",
+        ],
+        image: {
+          src: "/images/blog/recycle-household-waste-dubai-hero.webp",
+          alt: "Dubai family separating clean household recyclables, reusable clothing and small electronics at home",
+        },
+      },
+      {
+        heading: "Donation banks, drop-offs and scheduled pickups",
+        content: [
+          "Three routes exist for wearable clothing in Dubai, and they suit different volumes. Charity donation banks sit outside many supermarkets, community retail strips and mosques and are ideal for a few bags. Staffed drop-off points and social enterprises take larger quantities and can advise on what they actually need. Scheduled pickups collect from your address, which matters when you have a wardrobe rather than a bag.",
+          "Textile collectors such as Kiswa operate collection services in the UAE and publish their own booking channels; the [recycling centre directory](/blog/complete-list-of-recycling-centers-in-dubai) covers where neighbourhood drop-off points and textile banks generally sit. Confirm the current arrangement with the organisation directly rather than relying on a bin you saw last year, because locations and operators change.",
+          "If you are arranging a collection from your home, the practical mechanics are the same as any other charity pickup — confirmed acceptance, a booked window and building access. The [charity collection checklist](/blog/charity-furniture-collection-and-donation-dubai) sets that out, and it applies to bagged textiles as much as to furniture.",
+        ],
+      },
+      {
+        heading: "What happens to fabric nobody can wear",
+        content: [
+          "Unwearable textiles are not automatically landfill. Sorted material is graded, and the lower grades go into industrial wiping cloths, shoddy fibre for insulation and padding, and filling material — the same downstream logic that turns mattress ticking and foam into new products, described in the [post-pickup journey guide](/blog/what-happens-to-your-junk-after-pickup-dubai).",
+          "Be realistic about it, though. Fibre recovery depends on the material being clean, dry and sorted, and mixed synthetic blends are harder to process than cotton or wool. Some textile collectors accept unwearable fabric explicitly and some only want wearable clothing, so ask before you deliver a bag of rags to a donation bank.",
+          "One genuinely useful household habit: keep a small bag of cut-up cotton offcuts for cleaning rather than buying cloths. It is a modest saving and it keeps a little material in use without needing any route at all.",
+        ],
+      },
+      {
+        heading: "What most routes will not take",
+        content: [
+          "Underwear and socks are generally not accepted for reuse, though some textile recycling routes will take them as material. Single socks, single shoes and single gloves have no reuse value at all and should go straight to recycling rather than being hopefully bagged.",
+          "Anything mouldy, pest-affected or contaminated with chemicals, oil or paint is out of scope for both donation and ordinary textile recycling, and mixing it in risks the rest of the bag. Fabric that has been stored in a damp villa store or a garage for years needs checking before it is bagged, not after.",
+          "Branded work uniforms, security clothing and anything carrying an employer's identification are usually returned to the employer rather than donated. Passing on identifiable uniform is not a waste question, and it is worth a message to the company instead.",
+        ],
+      },
+      {
+        heading: "Doing it at scale: a full wardrobe or an end-of-tenancy clear-out",
+        content: [
+          "A single wardrobe clear-out is a car boot and an afternoon. A whole household leaving the country is a different job — several rooms, storage boxes, bedding, curtains and years of accumulated clothing, usually against a handover date. At that point the constraint is time and access rather than sorting.",
+          "Do the wearable sort first even when the volume is large, because it is the part nobody else can do for you, and it decides how much actually needs a collection. The room-by-room sequence in the [decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) works well for clothing, and the [pre-move decluttering guide](/blog/how-to-declutter-before-moving-in-dubai) covers deciding what travels.",
+          "In a tower apartment in [Downtown Dubai](/areas/downtown-dubai), confirm the service-lift and loading arrangements before booking a pickup for a large number of bags. In [Jumeirah Village Circle](/areas/jumeirah-village-circle) and similar mid-rise communities, check the loading point and whether reception needs notice of a collection vehicle.",
+        ],
+      },
+      {
+        heading: "When to book a collection instead",
+        content: [
+          "Book a removal when the volume is beyond what donation routes will take, when unwearable material is the majority of it, or when a handover deadline leaves no time for drop-off trips. There is no reason to pay to move clothing that a charity bank would have taken for free — but equally, three weeks of failed pickups before an inspection is its own cost.",
+          "Say what is in the bags when you ask. Textiles, shoes and linen are light but bulky, and a collector who knows that brings the right vehicle space rather than pricing it like furniture.",
+          "For bagged textiles alongside general household items, our [general collection service](/services/junk-removal-dubai) handles it in one visit, and for a full property at the end of a tenancy the [house clearance service](/services/house-clearance-dubai) is the better fit. [Send a photo of the bags](/contact) for a fixed price before anything is booked.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-old-documents-and-paperwork-dubai",
+    title: "How to Dispose of Old Documents and Paperwork in Dubai",
+    seoTitle: "Disposing of Old Documents in Dubai: Keep or Shred?",
+    excerpt:
+      "How to dispose of old documents in Dubai: what to keep, what to shred, how to handle boxes of paperwork, and the devices holding the same records.",
+    category: "Guides",
+    tags: ["Document Disposal", "Shredding", "Paper Recycling", "Moving Out"],
+    coverImage: "/images/blog/landfill-diversion-certificate-dubai-hero.webp",
+    coverImageAlt:
+      "Two colleagues reviewing printed records together after a clearance in a Dubai office",
+    publishedAt: "2026-09-22",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Sort into keep, shred and clean recycling before anything moves; the bulk paper is easy, the identifying pages are not.",
+      "Anything pairing your name with an ID number, account number or signature belongs in the shred pile.",
+      "Shredded paper is still recyclable, but it must be bagged separately or it contaminates a mixed load.",
+      "Paper is rarely the only copy — the same records usually sit on a laptop, a phone or a drive in a drawer.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old documents and paperwork in Dubai",
+        content: [
+          "To dispose of old documents in Dubai, sort them into three piles: what you must keep, what carries personal identifiers and needs shredding, and clean paper that can go straight to recycling. Shred the middle pile, bag the shred separately, and deal with the devices holding the same records at the same time. Checked on 22/09/2026.",
+          "This lands on almost every expat household eventually, usually at the end of a tenancy or a posting. Years of tenancy contracts, utility bills, salary certificates, insurance paperwork, medical letters and photocopies of everyone's identity documents accumulate in a drawer that nobody opens until the property has to be emptied.",
+          "The volume is not the hard part. A file box of paper is a twenty-minute job to move and a straightforward recycling item. The hard part is that a small fraction of those pages should not go into a communal bin intact, and separating that fraction is work only you can do.",
+        ],
+        callout: {
+          title: "The one-line shred test",
+          text: "Does the page put your name next to an identity number, an account number, a salary figure, a signature or a medical detail? If yes, it goes in the shred pile — regardless of how old it is.",
+        },
+      },
+      {
+        heading: "Decide what you actually need to keep",
+        content: [
+          "Before anything is destroyed, set aside the records you may still need to produce: tenancy contracts and their registration, final utility settlement and clearance letters, visa and immigration paperwork, employment and end-of-service documents, insurance policies, vehicle paperwork, warranties still in force, and medical records you would not easily obtain again.",
+          "Retention requirements differ by document type, by employer and by the body that issued it, and they change. Rather than working from a rule of thumb, check with the issuing authority, your employer, your bank or your insurer for anything you are genuinely unsure about — particularly if you are closing accounts or leaving the country. This guide covers the disposal mechanics, not what any specific record must be kept for.",
+          "Scan the keepers before the originals are boxed. A dated digital copy stored somewhere you will still have access to after the move is worth far more than a box of paper in a shipping container, and it makes the decision about the physical copy much easier.",
+        ],
+      },
+      {
+        heading: "The three-pile sort, done once",
+        content: [
+          "Work from one box at a time rather than emptying everything onto a table. Each page goes into keep, shred or clean recycling, and nothing goes back into the source box. Momentum matters here more than precision — the pile you agonise over is almost always a shred-pile item.",
+          "Clean recycling is the largest pile in most households and the least interesting: marketing mail, catalogues, expired manuals, envelopes, drafts, school notices, old magazines. Remove plastic windows where they lift out easily, and keep the paper dry and flat.",
+          "Ring binders, lever-arch files and plastic document sleeves are not paper. Strip the contents, keep the binders if they are reusable, and set the plastic aside separately — a box of intact lever-arch files is a common reason a paper load gets rejected as mixed waste.",
+          "Watch the weight. Paper is far denser than people expect, and a filled archive box can be genuinely difficult to lift safely. Fill boxes to about two-thirds and use more of them rather than making one that nobody can carry down a stairwell.",
+        ],
+      },
+      {
+        heading: "What belongs in the shred pile",
+        content: [
+          "The obvious ones: copies of passports, Emirates ID cards, visas and driving licences. Households here generate an extraordinary number of these photocopies over a few years, for tenancy applications, school admissions, deliveries, registrations and utility accounts, and they rarely get collected back up.",
+          "Then the financial and contractual layer: bank and credit card statements, salary certificates and payslips, loan and tenancy documents, insurance schedules, anything carrying an account number or an IBAN, and anything with a wet signature. Medical letters and test results belong here too.",
+          "Do not assume age makes a document harmless. An old tenancy contract still shows a name, a signature, an identity number and an address history, which is exactly the combination worth protecting. Date is not a reason to downgrade a page from shred to recycling.",
+        ],
+      },
+      {
+        heading: "Shredding at home versus a bulk service",
+        content: [
+          "A domestic shredder is fine for a folder and frustrating for a box. Small machines are rated for short duty cycles, they overheat, and cross-cut models jam on staples and glossy paper. If the shred pile is a few hundred pages, it is an evening; if it is several boxes, a home shredder is the wrong tool.",
+          "For larger volumes — a home office, a professional practice wound down, or a business closing a lease — a commercial document destruction service is the appropriate route, and it should provide a certificate of destruction for records where you need evidence that the material was destroyed rather than merely collected. Ask about that before booking, not after.",
+          "Bag the shredded output separately and keep it sealed. Loose shred is light, escapes everywhere, and mixed into a general load it contaminates otherwise clean recyclable paper. Kept apart and bagged, it still has a recycling route.",
+        ],
+      },
+      {
+        heading: "Paper is rarely the only copy",
+        content: [
+          "The same records that fill a filing drawer usually also sit on an old laptop in a cupboard, a previous phone in a drawer, a USB stick in a desk tidy, a memory card in a camera, and sometimes on the router or the network drive nobody has logged into for two years. Shredding the paper while leaving the devices in a box is half a job.",
+          "Deal with them in the same sitting. Back up anything you still need, then wipe or physically destroy the storage before the hardware leaves your control, and keep those items separated from the general load so their route stays documented. The [electronics recycling guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers how data-bearing equipment should be handled, and the [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers the phones, power banks and loose cells that come out of the same drawers.",
+          "One practical warning: printers and multifunction devices in home offices can retain scanned and printed documents in internal memory. Check the manufacturer's guidance for clearing it before the machine is collected.",
+        ],
+        image: {
+          src: "/images/blog/secure-electronics-recycling-dubai.webp",
+          alt: "Technician removing a hard drive from a computer before the equipment goes for electronics recycling in Dubai",
+        },
+      },
+      {
+        heading: "Fitting it into a move or a handover",
+        content: [
+          "Do the paperwork early rather than on packing day. It is the one category that cannot be dealt with quickly by someone else, and it is the category most likely to hide something you will need at the handover inspection — a tenancy registration, a utility clearance, a warranty for an appliance that stays with the property.",
+          "Keep a clearly marked folder of documents you need during the move itself and label it as retained so it does not join the shred boxes. The same discipline described in the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) applies: what stays and what goes should both be written down before a crew arrives.",
+          "For a home office in a tower in [Dubai Marina](/areas/dubai-marina), a few sealed boxes are light work but still need a booked lift slot like anything else. For a small business closing an office in [Business Bay](/areas/business-bay), agree which files are archived, which are destroyed and who authorises each before collection day — that decision is not the crew's to make.",
+        ],
+      },
+      {
+        heading: "Booking a clearance that includes paperwork",
+        content: [
+          "Say what the boxes contain when you ask for a price. 'Six archive boxes of paper' tells a collector about weight and handling; 'some boxes' does not. If any of it is confidential material requiring destruction rather than recycling, name it separately so the right route is arranged from the start.",
+          "For an office, a practice or a commercial tenancy, our [office clearance service](/services/office-cleanout-dubai) covers document boxes, filing units and the electronics that come with them. For a household clearing years of accumulated paperwork alongside everything else, the [house clearance service](/services/house-clearance-dubai) handles it in the same visit.",
+          "[Tell us what the boxes hold](/contact) and you will get a fixed price with the paper, the confidential material and any data-bearing devices each named in the scope.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "business-bay"],
   },
 ];
 

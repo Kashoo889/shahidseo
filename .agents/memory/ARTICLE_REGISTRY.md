@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-21**
+Last synchronized: **2026-09-22**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -63,15 +63,27 @@ Canonical implementation: `data/blog.ts`
 |  56 | `how to dispose of old carpets and rugs in dubai` | Informational | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai` | 2026-09-21 | Published |
 |  57 | `how to dispose of gym equipment in dubai` | Informational | `/blog/how-to-dispose-of-home-gym-equipment-dubai` | 2026-09-21 | Published |
 |  58 | `what to do with moving boxes in dubai` | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | 2026-09-21 | Published |
+|  59 | `how to dispose of old tyres in dubai` | Informational | `/blog/how-to-dispose-of-old-tyres-in-dubai` | 2026-09-22 | Published |
+|  60 | `how to dispose of old clothes and textiles in dubai` | Informational | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` | 2026-09-22 | Published |
+|  61 | `how to dispose of old documents in dubai` | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | 2026-09-22 | Published |
 
 ## Current counts
 
-- Published: **58**
-- Published on 2026-09-21: **3**
+- Published: **61**
+- Published on 2026-09-22: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **28**
-- Next approved supplemental priority: **None queued; the 2026-09-21 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **31**
+- Next approved supplemental priority: **None queued; the 2026-09-22 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-22 batch
+
+- Three further material-specific informational topics, approved after the 2026-09-21 expansion was exhausted; target phrases were added to `keywords.md` before drafting. No search-volume claims are made. The matching commercial head terms (`tyre disposal dubai`, `document destruction dubai`) remain owned by `/services/bulky-item-removal-dubai` and `/services/office-cleanout-dubai` respectively.
+- Tyre disposal owns the separated-stream explanation, the garage take-back decision, water and pest risk in stored tyres, the on-rim distinction and the prohibition on burning. `/blog/what-items-can-junk-removal-companies-take-in-dubai` retains the general acceptability inventory, `/blog/where-to-legally-dump-junk-and-waste-in-dubai` retains disposal-site access, and `/blog/dubai-illegal-dumping-laws-and-fines-guide` retains the enforcement framing. Links: bulky-item and general services; Arabian Ranches and Dubai Motor City; items-accepted, legal-dumping, illegal-dumping, recycling-centre and paint guides.
+- Clothes and textiles owns the wearable test, category bagging, damp and mildew contamination, footwear pairing, the unwearable fibre-recovery route and the items reuse routes decline. `/blog/complete-list-of-recycling-centers-in-dubai` retains drop-off location discovery, `/blog/charity-furniture-collection-and-donation-dubai` retains the collection request mechanics, `/blog/how-to-recycle-household-waste-in-dubai` retains the recurring household routing routine, and `/blog/how-to-declutter-your-home-room-by-room-dubai` retains the room sequence. Links: general and house-clearance services; Downtown Dubai and JVC; recycling-centre, charity-collection, post-pickup, decluttering and pre-move guides.
+- Documents and paperwork owns the keep/shred/recycle split, what counts as an identifying page, home versus bulk shredding, binder and weight handling, and the boundary with the devices holding the same records. `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains data-bearing hardware handling, `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains cells and small devices, and `/blog/what-to-remove-before-rental-handover-dubai` retains the handover retention decision. No retention periods are stated; readers are directed to the issuing body. Links: office-cleanout and house-clearance services; Dubai Marina and Business Bay; e-waste, battery and rental-handover guides.
+- Each new article carries one contextual inbound link from an earlier article: the items-accepted guide points to the tyre guide, the household recycling guide points to the textiles guide, and the e-waste guide points to the documents guide.
+- Images were not generated for this batch. Per the instruction for this batch, both slots in each article reuse existing project assets, with alt text rewritten to describe what those images actually show. See `docs/article-images-2026-09-22.md`.
 
 ## Cannibalization notes for 2026-09-21 batch
 
