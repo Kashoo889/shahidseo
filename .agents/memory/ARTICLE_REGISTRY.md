@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-22**
+Last synchronized: **2026-09-23**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -66,15 +66,26 @@ Canonical implementation: `data/blog.ts`
 |  59 | `how to dispose of old tyres in dubai` | Informational | `/blog/how-to-dispose-of-old-tyres-in-dubai` | 2026-09-22 | Published |
 |  60 | `how to dispose of old clothes and textiles in dubai` | Informational | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` | 2026-09-22 | Published |
 |  61 | `how to dispose of old documents in dubai` | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | 2026-09-22 | Published |
+|  62 | `what can't junk removal take` | Informational | `/blog/items-junk-removal-companies-cannot-take-dubai` | 2026-09-23 | Published |
+|  63 | `how to dispose of used cooking oil in dubai` | Informational | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai` | 2026-09-23 | Published |
+|  64 | `how to dispose of gas cylinders in dubai` | Informational | `/blog/how-to-dispose-of-gas-cylinders-in-dubai` | 2026-09-23 | Published |
 
 ## Current counts
 
-- Published: **61**
-- Published on 2026-09-22: **3**
+- Published: **64**
+- Published on 2026-09-23: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **31**
-- Next approved supplemental priority: **None queued; the 2026-09-22 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **34**
+- Next approved supplemental priority: **None queued; the 2026-09-23 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-23 batch
+
+- The prohibited-items guide owns the boundary between an ordinary collection and a controlled or specialist route, safe pre-collection isolation, and the declaration details a collector needs. `/blog/what-items-can-junk-removal-companies-take-in-dubai` retains the positive accepted-item inventory, `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai` retains liquid-specific handling, and `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains battery chemistry and terminal protection.
+- The used-cooking-oil guide owns cooling, straining, bottling, drain avoidance, household storage and the household-versus-commercial collection boundary. `/blog/how-to-recycle-household-waste-in-dubai` retains the recurring multi-stream household routine, and `/blog/complete-list-of-recycling-centers-in-dubai` retains destination discovery.
+- The gas-cylinder guide owns supplier return, safe temporary storage, leak escalation and the boundary with gas-system disconnection. The prohibited-items guide retains the cross-category acceptance test, while `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai` retains paints, solvents and unidentified liquids.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the accepted-items, household-recycling and pre-move decluttering guides.
+- Six original images were generated, resized to 1200 × 800 WebP and compressed within the required hero/body limits. See `docs/article-images-2026-09-23.md`.
 
 ## Cannibalization notes for 2026-09-22 batch
 

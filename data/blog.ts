@@ -1019,7 +1019,7 @@ export const BLOG_POSTS: BlogPost[] = [
     author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
     takeaways: [
       "Dubai operates 13+ Dubai Municipality Smart Recycling Centers open 24/7 for automated drop-off of segregated recyclables.",
-      "Major public drop-off hubs accept cardboard, plastics, glass, metals, small electronics, fabric textiles, and used cooking oil.",
+      "Major public drop-off hubs may accept cardboard, plastics, glass, metals, small electronics, fabric textiles, and used cooking oil; confirm the current stream list first and use the [used cooking oil guide](/blog/how-to-dispose-of-used-cooking-oil-in-dubai) for cooling and bottling steps.",
       "Contaminated or non-sorted recyclables in public drop-off bins are diverted to landfills, making proper pre-cleaning essential.",
       "Large-scale household cleanouts and bulky furniture require commercial transport to licensed material recovery facilities (MRFs).",
     ],
@@ -2139,7 +2139,7 @@ export const BLOG_POSTS: BlogPost[] = [
     author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
     takeaways: [
       "Junk removal companies in Dubai take almost all non-hazardous residential and commercial items: furniture, white goods, mattresses, electronics, garden cuttings, and renovation rubble.",
-      "Private haulers are legally prohibited by Dubai Municipality from transporting hazardous materials such as wet chemical paint, industrial solvents, gas cylinders, car batteries, and bio-medical waste.",
+      "Private haulers are legally prohibited by Dubai Municipality from transporting hazardous materials such as wet chemical paint, industrial solvents, gas cylinders, car batteries, and bio-medical waste. The [prohibited-items guide](/blog/items-junk-removal-companies-cannot-take-dubai) explains how to isolate and declare those streams before booking.",
       "White goods and cooling units require eco-friendly refrigerant recovery; appliances are 100% accepted and routed to licensed electrical recycling facilities.",
       "Gray-area items like dried latex paint tins, gym mirrors, and disassembled built-in wardrobes can be collected if properly declared and pre-packaged.",
     ],
@@ -5024,7 +5024,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "For clothing, define the storage that will exist at the destination: hanging width, drawer volume and seasonal space. Keep the best items that fit those limits. For books, records and documents, allocate shelf length or archive boxes and remove duplicates, obsolete manuals and papers that can be securely destroyed.",
           "For kitchenware, map actual cupboards and the appliances supplied with the new home. Retain complete sets and tools you use; do not move duplicate small appliances or unmatched containers merely because they fit a box. Check electrical compatibility and condition before moving devices.",
-          "For balcony, garage and hobby items, confirm that the next property permits and accommodates them. Plan specialist routes for paint, batteries, chemicals and gas cylinders rather than placing them in mover boxes or a general junk load.",
+          "For balcony, garage and hobby items, confirm that the next property permits and accommodates them. Plan specialist routes for paint, batteries and chemicals rather than placing them in mover boxes or a general junk load, and arrange an unwanted cylinder through the [gas-cylinder return guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai).",
         ],
       },
       {
@@ -6014,6 +6014,282 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["office-cleanout-dubai", "house-clearance-dubai"],
     relatedAreas: ["dubai-marina", "business-bay"],
+  },
+  {
+    slug: "items-junk-removal-companies-cannot-take-dubai",
+    title: "What Can’t Junk Removal Companies Take in Dubai?",
+    seoTitle: "What Can’t Junk Removal Take in Dubai? Safe Routes",
+    excerpt:
+      "What junk removal companies cannot take in Dubai, why controlled items need separate routes, and what to tell a collector before collection day.",
+    category: "Guides",
+    tags: ["Prohibited Items", "Hazardous Waste", "Pickup Planning", "Dubai"],
+    coverImage: "/images/blog/prohibited-junk-items-dubai-20260923-hero.webp",
+    coverImageAlt:
+      "Dubai resident and collection assessor separating furniture and cardboard from paint, a battery and an LPG cylinder",
+    publishedAt: "2026-09-23",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "A normal junk collection is not a universal waste service: liquids, chemicals, medical waste and pressurised containers need a confirmed specialist route.",
+      "Refrigerators, electronics, batteries and sharp glass may be collectable, but only when declared and separated before the crew arrives.",
+      "Never hide an uncertain item inside a box or drawer; one undeclared container can make an otherwise straightforward load unsafe.",
+      "Send photos and the exact item list before booking so accepted goods and controlled material can be routed separately.",
+    ],
+    sections: [
+      {
+        heading: "What can’t junk removal companies take in Dubai?",
+        content: [
+          "Most general junk removal companies cannot place wet paint, solvents, pesticides, unknown chemicals, medical or clinical waste, LPG cylinders, fuel, explosives or other pressurised containers into an ordinary household load. These materials need a supplier return, an approved specialist or direct advice from the relevant authority. Checked on 23/09/2026.",
+          "The important word is ordinary. A collector may have a separate approved route for one controlled stream, or may coordinate a licensed partner, but that does not make every truck suitable for every item. Dubai Municipality publishes separate technical guidance for municipal waste, hazardous-waste transport, used oils and pressurised containers because the storage, vehicle and receiving facility are not interchangeable.",
+          "Ask about the material, not simply whether the company ‘takes rubbish’. A crew that can remove a sofa, wardrobe and twenty boxes safely may still have to refuse the half-full paint tin or gas bottle found behind them.",
+        ],
+        callout: {
+          title: "Declare it before the truck moves",
+          text: "If an item can leak, burn, react, puncture, carry infection, store pressure or retain personal data, photograph it and name it before collection day.",
+        },
+      },
+      {
+        heading: "The clear no-go group for a general household load",
+        content: [
+          "Do not put fuels, thinners, solvents, pool chemicals, pesticides or unidentified liquids into bags or furniture drawers. Keep each product in its original closed container where possible, do not mix residues, and ask Dubai Municipality or an approved hazardous-waste operator for the current route. The [paint and hazardous-liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) explains the same rule in more detail.",
+          "Medical waste also stays out. Needles, lancets and other sharps need a rigid approved container and a healthcare or specialist route; medicines should follow current pharmacy or health-authority advice. A taped cardboard box is not a sharps container, and a black bag does not make clinical material ordinary waste.",
+          "Explosives, ammunition, fireworks and suspected asbestos are not clearance items. Stop moving them, keep people away and contact the appropriate authority or qualified specialist. A removal crew should never improvise around an unknown cylinder, damaged chemical container or suspect building material.",
+        ],
+      },
+      {
+        heading: "Items that are conditional rather than automatically refused",
+        content: [
+          "Some items are accepted only after a proper description. Refrigerators and air-conditioning components can contain refrigerant and need an appliance route; lithium batteries can short or enter thermal runaway; computers and phones carry data; large mirrors and shower screens need protective wrapping. None belongs loose in a mixed truck.",
+          "The distinction matters because a phone, a car battery and an LPG cylinder are all ‘small enough to lift’ but create completely different risks. The [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers terminal protection and damaged cells, while the [appliance disposal guide](/blog/where-to-recycle-and-dispose-appliances-in-dubai) covers refrigeration equipment and working appliances.",
+          "Renovation debris is conditional too. Clean timber offcuts, bagged plaster and tiles may have an agreed construction-waste route, but unknown powders, adhesive tubs, contaminated insulation and mixed liquids do not become acceptable because they came from the same room. Describe the renovation material and approximate weight separately from household contents.",
+        ],
+        image: {
+          src: "/images/blog/controlled-waste-separation-dubai-20260923-body.webp",
+          alt: "LPG cylinder, sealed household chemicals, taped battery and wrapped broken glass separated from general waste at a Dubai villa",
+        },
+      },
+      {
+        heading: "Why crews cannot just take everything and sort it later",
+        content: [
+          "Sorting later is too late when a leaking bottle has soaked cardboard, a battery terminal has contacted metal, or broken glass has torn through a bag. The first safe separation happens at the property, before anyone lifts or loads the item.",
+          "Transport is part of the waste route. Dubai Municipality’s published guidance distinguishes ordinary solid-waste collection from hazardous-waste handling and lists approved operators and facilities for controlled streams. That means a willing driver is not enough; the vehicle, documentation and destination also have to fit the material.",
+          "This protects the rest of the load as well. Dry cardboard, reusable furniture and electronics lose their recovery value once contaminated by oil, chemicals, damp or loose fragments. Honest separation is what makes reuse and recycling possible rather than merely moving the problem.",
+        ],
+      },
+      {
+        heading: "How to stage uncertain items without creating a new risk",
+        content: [
+          "Leave products in their original containers with caps closed and labels visible. Stand liquids upright in a robust tray, protect battery terminals against contact, keep sharp material in a rigid container, and keep all of it away from children, pets, heat and the general pickup pile. Do not open a container to identify it by smell.",
+          "Do not move an LPG cylinder into a bedroom, lift lobby or car boot merely to clear the work area. Keep it upright in a ventilated safe location and contact the supplier or authorised distributor. If it is leaking or damaged, avoid switches and ignition sources, move people away and use the emergency contact provided by the supplier or emergency services.",
+          "In a tower in [Dubai Marina](/areas/dubai-marina), tell building management if a specialist collection needs loading access rather than carrying a controlled item through a public lobby unannounced. At a villa in [Arabian Ranches](/areas/arabian-ranches), keep the general clearance and controlled-material pickup as two named scopes even if they happen on the same day.",
+        ],
+      },
+      {
+        heading: "The five details a collector needs before quoting",
+        content: [
+          "Send a clear photograph, the product or item name, whether the container is full or partly full, its condition, and where it is stored. For renovation material, include the number and approximate size of bags. For electronics, say whether batteries are installed, loose, swollen or damaged.",
+          "Also disclose access. A sealed tin on a villa driveway is different from an unknown liquid in a basement store; a wrapped mirror beside a service lift is different from a cracked panel still fixed to a wall. A useful quote names exclusions and preparation requirements rather than hiding them in a vague promise to take everything.",
+          "Use the broader [accepted-items guide](/blog/what-items-can-junk-removal-companies-take-in-dubai) to inventory ordinary furniture, appliances and household contents. Put every uncertain item on a separate line and wait for written confirmation before adding it to the collection zone.",
+        ],
+      },
+      {
+        heading: "Book the ordinary clearance without mixing the controlled route",
+        content: [
+          "A rejected item does not have to stop the whole job. Separate the accepted furniture, boxes and dry household material, then arrange the controlled items through their supplier, Dubai Municipality guidance or an approved specialist. The two routes can be coordinated without pretending they are the same service.",
+          "Our [general junk-removal service](/services/junk-removal-dubai) handles declared household contents, while the [bulky-item service](/services/bulky-item-removal-dubai) is suited to large accepted pieces and planned lifting. Neither page should be read as blanket acceptance of hazardous or pressurised material.",
+          "[Send photos of the full load](/contact), including anything uncertain. We will identify what fits the quoted collection and what needs a separate confirmed route before the crew arrives.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-dispose-of-used-cooking-oil-in-dubai",
+    title: "How to Dispose of Used Cooking Oil in Dubai",
+    seoTitle: "Used Cooking Oil Disposal Dubai: Bottle It Safely",
+    excerpt:
+      "How to dispose of used cooking oil in Dubai without pouring it into a drain: cool it, bottle it, store it safely and confirm a recycling route.",
+    category: "Eco & Recycling",
+    tags: ["Cooking Oil", "Household Recycling", "Drain Protection", "Dubai"],
+    coverImage: "/images/blog/used-cooking-oil-disposal-dubai-20260923-hero.webp",
+    coverImageAlt:
+      "Dubai apartment resident pouring cooled used cooking oil through a funnel into a screw-cap bottle",
+    publishedAt: "2026-09-23",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Let cooking oil cool completely, strain out food residue and pour it into a clean, dry screw-cap container.",
+      "Never pour oil into a sink, toilet, floor drain or storm drain; it can harden with other fats and obstruct the system.",
+      "Confirm that a drop-off point or collector currently accepts household quantities before travelling.",
+      "Keep bottled oil separate from glass, cardboard and general junk so a leak cannot contaminate recyclable material.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of used cooking oil in Dubai",
+        content: [
+          "To dispose of used cooking oil in Dubai, allow it to cool, strain out crumbs, transfer it into a clean dry bottle with a secure screw cap, and take it only to a collection point or licensed route that confirms it accepts household cooking oil. Never pour it into a sink, toilet or outdoor drain. Checked on 23/09/2026.",
+          "A small amount after one meal is easy to wipe from a pan. The problem begins when deep frying, batch cooking or a move-out kitchen produces litres at once. Liquid oil looks harmless, but pouring it away shifts the work into the drainage system and throwing an open container into a bin spreads it through everything around it.",
+          "Dubai Municipality lists used cooking oil as its own recycling activity and announced a 2025 partnership to turn collected waste oils and fats into renewable biodiesel. The practical household job is therefore containment first, route confirmation second.",
+        ],
+        callout: {
+          title: "Cool, contain, confirm",
+          text: "Do not handle oil while it is hot. Bottle it only when fully cool, close the cap, then confirm the receiving point before leaving home.",
+        },
+      },
+      {
+        heading: "Why the sink is the wrong route",
+        content: [
+          "Hot cooking oil is liquid, which makes the drain feel like an obvious exit. As it cools, it coats pipes and combines with other fats and solids. Detergent may move the problem farther down the line, but it does not turn the oil into water or make the disposal route appropriate.",
+          "Do not use the toilet, balcony drain, car-park drain or landscaping as alternatives. A floor or storm drain may lead somewhere different from the kitchen wastewater system, and oil on soil attracts dirt, creates odour and is difficult to recover.",
+          "For the film left after ordinary frying, let the pan cool and wipe it with a small amount of paper before washing. For any quantity that can be poured, start a storage bottle rather than soaking up litres with paper and turning a recyclable liquid into a large bag of residual waste.",
+        ],
+      },
+      {
+        heading: "Prepare the oil so it can travel without leaking",
+        content: [
+          "Wait until the pan and oil are completely cool. Place a funnel in a clean, dry plastic bottle or other container accepted by the intended collector, pour slowly over a tray, and leave enough space to close the cap without forcing oil out. Glass can break during transport, so a robust screw-cap plastic bottle is usually easier for household storage unless the receiving point instructs otherwise.",
+          "Strain out food crumbs because water and food residue reduce storage quality and create odour. Do not mix cooking oil with engine oil, cleaning chemicals, paint, water or grease-trap waste. They are different streams with different collectors.",
+          "Wipe the outside, tighten the cap and stand the bottle upright in a washable crate or tray. A thin carrier bag is backup containment, not the primary container. Label it plainly for the household so nobody mistakes it for fresh oil or pours it away.",
+        ],
+        image: {
+          src: "/images/blog/used-cooking-oil-bottles-dubai-20260923-body.webp",
+          alt: "Sealed bottles of used cooking oil kept upright in a crate and separate from other recycling in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Find a route that accepts household quantities today",
+        content: [
+          "Acceptance changes by operator and site. Some recycling centres or community campaigns accept bottled household cooking oil, while commercial collectors may work only with restaurants, hotels and larger scheduled volumes. Check the current material list, quantity threshold, container requirement and opening hours before travelling.",
+          "Start with Dubai Municipality’s current waste and recycling information or the contact details published by the facility. The [Dubai recycling-centre directory](/blog/complete-list-of-recycling-centers-in-dubai) helps you identify likely hubs, but a directory is not a substitute for same-day confirmation of a specific stream.",
+          "Residents in [Jumeirah Village Circle](/areas/jumeirah-village-circle) should ask the building or community operator whether cooking oil has a separate channel rather than leaving a bottle beside the dry-recycling bins. In [Business Bay](/areas/business-bay), office kitchens and food businesses should follow their facilities contract and commercial collection arrangement, not a household workaround.",
+        ],
+      },
+      {
+        heading: "Apartment storage and move-out timing",
+        content: [
+          "Keep the bottle indoors in a cool cupboard or utility area, upright and away from food intended for use. A hot balcony or car boot is poor storage: heat expands contents, weakens some containers and turns a small cap failure into a difficult clean-up.",
+          "Do not accumulate more than you can carry safely. Several smaller bottles in a crate are easier to control than one improvised large container. If a bottle bulges, leaks or has an uncertain mixture, place it in secondary containment and ask the receiving operator what to do rather than transferring it repeatedly.",
+          "Before a tenancy handover, clear the oil before the final kitchen clean. Moving sealed bottles after the floors and lift have been signed off creates unnecessary spill risk. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) gives the wider stay/remove sequence for the rest of the property.",
+        ],
+      },
+      {
+        heading: "Restaurants and large volumes need a commercial arrangement",
+        content: [
+          "A restaurant’s output is not a larger version of a household bottle. Repeated volumes need suitable storage, scheduled collection, records and a collector authorised for that activity. Keep used cooking oil separate from grease-trap waste and from lubricating or engine oils, and ask the operator what documentation is provided.",
+          "Dubai Municipality maintains technical guidance and information on companies permitted to collect and transport waste oils for recycling. A business should verify the collector’s current authorisation and scope rather than choosing only on price or accepting an unrecorded cash pickup.",
+          "For an office or commercial tenancy, our [office-clearance service](/services/office-cleanout-dubai) can remove accepted furniture and equipment, but bottled cooking oil should remain a named separate stream. General [rubbish removal](/services/rubbish-removal-dubai) is not permission to mix oil into bins or clearance bags.",
+        ],
+      },
+      {
+        heading: "Keep the oil out of a general junk load",
+        content: [
+          "Tell a clearance crew that bottled oil is present even if you have arranged another collector. Do not hide it in a kitchen cabinet or sealed moving box. If it leaks, it can ruin cardboard, textiles, furniture and the clean dry materials that would otherwise follow a recycling route.",
+          "Use the [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai) for cans, bottles, paper and packaging, and keep the oil beside—not inside—that sorted group until its own route is confirmed.",
+          "If you are clearing a kitchen with furniture, appliances and sealed dry contents, [send us the inventory](/contact). We will quote the accepted clearance separately and flag the oil for a confirmed specialist or drop-off route.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "business-bay"],
+  },
+  {
+    slug: "how-to-dispose-of-gas-cylinders-in-dubai",
+    title: "How to Dispose of Gas Cylinders in Dubai Safely",
+    seoTitle: "Gas Cylinder Disposal in Dubai: Safe Return Guide",
+    excerpt:
+      "How to dispose of gas cylinders in Dubai: isolate the cylinder, contact the supplier or authorised distributor, and avoid unsafe transport or scrap routes.",
+    category: "Guides",
+    tags: ["LPG Cylinders", "Controlled Waste", "Home Safety", "Dubai"],
+    coverImage: "/images/blog/lpg-cylinder-return-dubai-20260923-hero.webp",
+    coverImageAlt:
+      "Authorised gas technician inspecting an upright LPG cylinder with a resident in a shaded Dubai villa service area",
+    publishedAt: "2026-09-23",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Return an unwanted LPG cylinder through its supplier or an authorised distributor; do not put it in general waste or offer it as ordinary scrap.",
+      "Treat every cylinder as pressurised unless a qualified party has confirmed otherwise, even when it feels empty.",
+      "Keep the cylinder upright, valve closed and in a shaded ventilated location away from heat, drains and ignition sources while collection is arranged.",
+      "If you smell gas or suspect damage, do not use switches, start a vehicle or move the cylinder through the building—clear the area and call for emergency advice.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of gas cylinders in Dubai",
+        content: [
+          "To dispose of a household LPG gas cylinder in Dubai, keep it upright with the valve closed, identify the supplier or authorised distributor from the cylinder and your delivery record, and arrange a return or collection directly with that network. Do not place it in a bin, junk truck or scrap-metal pile. Checked on 23/09/2026.",
+          "A cylinder that no longer runs an appliance is not necessarily empty, depressurised or safe to dismantle. Residual LPG can remain, and gas released from a valve can find an ignition source well away from the cylinder. Treat it as live until the supplier or a qualified authorised party takes responsibility for it.",
+          "Dubai’s official waste guidance treats pressurised containers as a distinct recycling and handling activity, while local LPG suppliers use trained distributor networks and inspection systems. The safe household route begins with return, not DIY disposal.",
+        ],
+        callout: {
+          title: "Empty does not mean safe",
+          text: "Never drill, cut, crush, burn, vent or remove the valve from a cylinder yourself. Leave inspection and depressurisation to the authorised route.",
+        },
+      },
+      {
+        heading: "Start with the supplier or authorised distributor",
+        content: [
+          "Look for the supplier identity, serial details and seal information on the cylinder, then check the receipt, delivery message or building gas contact. Ask whether the cylinder is exchanged, collected, returned against a deposit or handled under another current arrangement. Do not assume a petrol station or scrap yard accepts it merely because it sells fuel or metal.",
+          "Emarat states that its domestic LPG cylinders are inspected, weighed, cleaned and sealed before delivery through trained and trusted distributors. Emirates Gas likewise directs customers to authorised distributors and publishes safety contacts. That closed supply chain is the right first call for an unwanted cylinder bearing its identity.",
+          "If ownership is unclear—for example, the cylinder was left by a previous tenant—send photographs of the whole cylinder, valve guard and any markings to the likely supplier or building manager. Do not scrape off paint, alter markings or pass it to an informal collector to make the problem disappear.",
+        ],
+      },
+      {
+        heading: "Store it safely while collection is arranged",
+        content: [
+          "Keep the cylinder upright on firm level ground in a shaded, well-ventilated location away from flames, smoking, electrical sparks and direct heat. Prevent it from falling or being struck, and keep it out of routes used by children, pets, vehicles and clearance crews.",
+          "Do not store it in a cellar, closed cupboard or unventilated room. LPG is heavier than air and can collect at low level, which is also why a drain, service pit or basement is the wrong staging point. Do not lay the cylinder on its side or roll it to move it.",
+          "A villa service enclosure in [Arabian Ranches](/areas/arabian-ranches) may offer an appropriate temporary ventilated position if the supplier agrees. In a [Dubai Marina](/areas/dubai-marina) tower, contact management and the supplier before moving a cylinder from its installed or approved location; public lifts and corridors are not improvised storage.",
+        ],
+        image: {
+          src: "/images/blog/lpg-cylinder-storage-dubai-20260923-body.webp",
+          alt: "Closed LPG cylinder stored upright on level ground inside a shaded ventilated Dubai villa enclosure",
+        },
+      },
+      {
+        heading: "What to do if the cylinder leaks or looks damaged",
+        content: [
+          "If you smell gas, hear a leak or see serious valve or cylinder damage, stop treating it as a routine return. Do not operate electrical switches, use a flame, smoke, start a nearby vehicle or create a spark. Move people away and call the supplier’s emergency number or emergency services from a safe location.",
+          "Do not carry a leaking cylinder through a home, lobby or lift in an attempt to put it outside. Do not test for a leak with a match or lighter. Emirates Gas advises closing the regulator where this can be done safely, avoiding electrical switching, evacuating people and using its emergency contact for help.",
+          "Heat exposure, deep corrosion, a damaged valve guard or a cylinder that has fallen should all be declared even when no leak is obvious. Send a photograph from a safe distance and follow the supplier’s instructions; appearance alone cannot prove the cylinder is sound.",
+        ],
+      },
+      {
+        heading: "Do not turn a cylinder into a transport experiment",
+        content: [
+          "A private car is not the default return method. A cylinder can move, heat up and release gas into an enclosed passenger space, and parking it in a car while you ask around is especially risky in Dubai temperatures. Ask the supplier to confirm collection or the exact authorised handover method.",
+          "Never place a cylinder loose in a moving van with furniture, tools or metal. It can be struck, its valve can be damaged, and a crew expecting ordinary contents may not have the vehicle or authority for a pressurised container. The [prohibited-items guide](/blog/items-junk-removal-companies-cannot-take-dubai) explains why route and transport approval matter as much as lifting ability.",
+          "Fire extinguishers, camping cartridges, helium bottles and industrial cylinders are not automatically the same return network as domestic LPG. Identify the product and supplier, keep it isolated, and ask the correct provider for its own route rather than grouping all cylinders together.",
+        ],
+      },
+      {
+        heading: "Gas connections and central systems are not junk-removal work",
+        content: [
+          "If the cylinder is still connected, do not ask a furniture crew to disconnect it. Use the gas supplier or a qualified technician. Hoses, regulators, cabinets and fixed gas lines are part of a safety system, not ordinary removable contents.",
+          "The same boundary applies in restaurant kitchens and commercial properties. Bulk tanks, manifolds and central gas systems require their operator and maintenance process. A lease deadline does not authorise a clearance team to isolate or alter them.",
+          "Our [house-clearance service](/services/house-clearance-dubai) can remove accepted household contents around the gas equipment once the cylinder route and disconnection are resolved. The [bulky-item service](/services/bulky-item-removal-dubai) handles suitable large items, not undeclared pressurised containers.",
+        ],
+      },
+      {
+        heading: "Plan the cylinder return before the final clearance",
+        content: [
+          "Contact the supplier early, particularly before an end-of-tenancy handover. Collection availability, ownership checks and building access can take longer than moving the furniture. Keep the cylinder on the written remove list so it is not discovered after the last truck has gone.",
+          "Tell every contractor working at the property that the cylinder is excluded from the general load. Mark the surrounding zone as out of scope without attaching anything to the valve or obscuring cylinder markings. Once the authorised party has collected it, record the date and any receipt or reference provided.",
+          "For the remaining furniture, boxes and appliances, [send us photos for a fixed clearance quote](/contact). We will keep the cylinder explicitly outside the ordinary collection and help sequence the accepted items around its confirmed return.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-marina"],
   },
 ];
 

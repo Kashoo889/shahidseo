@@ -133,18 +133,18 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-09-22)
+## 4. Publication Progress (Updated 2026-09-23)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **31**
-- Total published blog articles: **61**
-- Published on 2026-09-22: **3**
+- Published supplemental approved articles: **34**
+- Total published blog articles: **64**
+- Published on 2026-09-23: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-09-22 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-09-23 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item | Primary keyword                                | Status    | Published  |
 | ------------ | ---------------------------------------------- | --------- | ---------- |
@@ -184,3 +184,9 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of old carpets and rugs in dubai` | Published | 2026-09-21 |
 | Approved expansion | `how to dispose of gym equipment in dubai` | Published | 2026-09-21 |
 | Approved expansion | `what to do with moving boxes in dubai` | Published | 2026-09-21 |
+| Approved expansion | `how to dispose of old tyres in dubai` | Published | 2026-09-22 |
+| Approved expansion | `how to dispose of old clothes and textiles in dubai` | Published | 2026-09-22 |
+| Approved expansion | `how to dispose of old documents in dubai` | Published | 2026-09-22 |
+| Approved expansion | `what can't junk removal take` | Published | 2026-09-23 |
+| Approved expansion | `how to dispose of used cooking oil in dubai` | Published | 2026-09-23 |
+| Approved expansion | `how to dispose of gas cylinders in dubai` | Published | 2026-09-23 |

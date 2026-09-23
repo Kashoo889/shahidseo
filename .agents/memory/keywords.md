@@ -39,6 +39,18 @@ Three further material-specific informational topics. These are editorial target
 | `how to dispose of old documents in dubai` | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the tyre guide owns the separated-stream explanation, garage take-back and stored-tyre risks, not the general acceptability inventory or disposal-site access; the textiles guide owns the wearable test, category bagging and fibre recovery, not drop-off location discovery or the charity collection request mechanics; the documents guide owns the keep/shred/recycle split and identifying-page test, not data-bearing hardware handling. No document retention periods are stated; readers are directed to the issuing body.
+
+## Approved editorial expansion — 2026-09-23
+
+Three further safety-led informational topics approved after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each blog owns only its decision and handling question.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `what can't junk removal take` | Informational | `/blog/items-junk-removal-companies-cannot-take-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of used cooking oil in dubai` | Informational | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of gas cylinders in dubai` | Informational | `/blog/how-to-dispose-of-gas-cylinders-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the prohibited-items guide owns the general/controlled boundary and pre-booking declaration test, while the existing accepted-items article retains the positive inventory; the cooking-oil guide owns cooling, bottling, drain avoidance and household-versus-commercial routes, while the recycling-centre article retains destination discovery; the cylinder guide owns supplier return, temporary storage and leak escalation, while the hazardous-liquids guide retains paints, solvents and chemical routing.
 **Cannibalization Policy**: Single primary URL mapping per search intent.
 
 **Publication sync (2026-09-02)**: 10 blog articles are live in `data/blog.ts`. Newly published primary mappings: `how to dispose of old furniture in dubai` → `/blog/how-to-dispose-of-large-furniture-in-dubai`; `where to dispose e waste in dubai` → `/blog/dubai-sustainable-waste-management-and-e-waste-guide`; `waste disposal rules dubai` → `/blog/dubai-municipality-waste-disposal-rules-and-regulations`. These informational URLs support, and do not replace, their commercial service-page mappings.
