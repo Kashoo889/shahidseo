@@ -3777,7 +3777,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Dismantling and protection can be the right kind of extra time",
         content: [
-          "A wardrobe that leaves in panels may take longer to prepare but move more safely through a narrow doorway. Bed frames, modular desks and large tables may also need planned dismantling. Share photographs of fixings and dimensions; built-in joinery, plumbing, gas lines, hard-wired appliances and structural work are not ordinary junk-removal tasks and may require another trade.",
+          "A wardrobe that leaves in panels may take longer to prepare but move more safely through a narrow doorway; a practical walkthrough on [checking a wardrobe's mirrors, fixings and exit route before collection](https://www.junkservicesdubai.com/blog/wardrobe-removal-dubai) shows what to record so that time is planned rather than discovered on the day. Bed frames, modular desks and large tables may also need planned dismantling. Share photographs of fixings and dimensions; built-in joinery, plumbing, gas lines, hard-wired appliances and structural work are not ordinary junk-removal tasks and may require another trade.",
           "Protection is part of the job, not an avoidable delay. Floor runners, corner guards, wrapped edges and controlled lift loading reduce damage risk. In a villa community such as [Arabian Ranches](/areas/arabian-ranches), the route may be shorter, but staircases, garden gates and long driveways still affect the handling plan.",
           "If the property must be fully cleared, [house clearance in Dubai](/services/house-clearance-dubai) should be scoped room by room rather than treated as an oversized single-item pickup.",
         ],
