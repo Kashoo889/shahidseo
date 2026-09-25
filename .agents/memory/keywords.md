@@ -40,6 +40,18 @@ Three further material-specific informational topics. These are editorial target
 
 Overlap review before drafting: the tyre guide owns the separated-stream explanation, garage take-back and stored-tyre risks, not the general acceptability inventory or disposal-site access; the textiles guide owns the wearable test, category bagging and fibre recovery, not drop-off location discovery or the charity collection request mechanics; the documents guide owns the keep/shred/recycle split and identifying-page test, not data-bearing hardware handling. No document retention periods are stated; readers are directed to the issuing body.
 
+## Approved editorial expansion — 2026-09-24
+
+Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `what to do with items left by previous tenant dubai` | Informational | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai` | Blog Guide | Approved expansion |
+| `how to clear out a storage unit in dubai` | Informational | `/blog/how-to-clear-out-a-storage-unit-in-dubai` | Blog Guide | Approved expansion |
+| `how to clear a deceased person's home in dubai` | Informational | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the previous-tenant guide owns the landlord's handling of abandoned belongings, not the tenant's handover decisions; the storage-unit guide owns facility terms and single-visit loading, not general volume estimation or in-home decluttering; the bereavement guide owns decision authority and staged family clearance, not the commercial estate-clearance service.
+
 ## Approved editorial expansion — 2026-09-23
 
 Three further safety-led informational topics approved after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each blog owns only its decision and handling question.

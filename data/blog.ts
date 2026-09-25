@@ -841,7 +841,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "The short answer: how much does house and villa clearance cost in Dubai?",
         content: [
           "A complete property clearance in Dubai costs between AED 500 and AED 1,200 for apartments (studios to 2-bedroom units) and AED 1,800 to AED 4,500+ for 3 to 6-bedroom villas. The total depends on overall truckload volume, outdoor garden structures, garage workshops, and dismantling requirements.",
-          "Unlike a standard junk pickup of a few unwanted items, a house or villa clearance means systematically stripping the entire property so it is broom-clean and compliant for a landlord tenancy handover, sale, or major renovation. Here is what you should expect to pay across different property sizes in Dubai.",
+          "Unlike a standard junk pickup of a few unwanted items, a house or villa clearance means systematically stripping the entire property so it is broom-clean and compliant for a landlord tenancy handover, sale, or major renovation. Here is what you should expect to pay across different property sizes in Dubai. Families clearing a relative's home should first read the [guide to clearing a loved one's home](/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai), which covers the steps that come before any quote.",
         ],
       },
       {
@@ -3078,7 +3078,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "The zero-balcony dilemma: tackling flats without external storage",
         content: [
           "Many newer residential towers in Dubai prioritize interior living space over spacious balconies or external basement storage units. Without a garage or outdoor shed, clutter inevitably migrates into visible living corners.",
-          "Spare guest mattresses lean against bedroom walls, empty delivery boxes from online purchases fill the wardrobe floor, and laundry drying racks permanently block living room windows. The first step in decluttering a small Dubai flat is acknowledging that your apartment cannot serve as a secondary warehouse.",
+          "Spare guest mattresses lean against bedroom walls, empty delivery boxes from online purchases fill the wardrobe floor, and laundry drying racks permanently block living room windows. The first step in decluttering a small Dubai flat is acknowledging that your apartment cannot serve as a secondary warehouse. If the overflow has already moved into a paid facility, the [storage unit clearance guide](/blog/how-to-clear-out-a-storage-unit-in-dubai) shows how to empty it in one visit.",
         ],
       },
       {
@@ -5377,7 +5377,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Walk through with the inventory, remove list and retention agreements. Record what is present, what has been removed and any remaining issue. Take dated room photographs and close-ups of agreed work without including the next occupant's or manager's personal information.",
           "Record the return of keys, remotes, access cards and any other listed accessories separately from furniture. Keep the acknowledgement of possession and the inspection record with collection confirmations. A disposal receipt proves collection, not agreement on every aspect of the property condition.",
           "If a disagreement remains, note the precise item or condition and the supporting evidence rather than signing an inaccurate statement. Seek advice from the appropriate rental dispute channel or a qualified adviser for unresolved contractual questions.",
-          "Do not treat a clearance booking as a deposit guarantee. The collection team can complete its agreed item scope, while the landlord and tenant still need to settle inspection and tenancy matters.",
+          "Do not treat a clearance booking as a deposit guarantee. The collection team can complete its agreed item scope, while the landlord and tenant still need to settle inspection and tenancy matters. Landlords already facing belongings a tenant has left behind should follow the [previous-tenant leftovers guide](/blog/what-to-do-with-items-left-by-previous-tenant-dubai) instead.",
         ],
       },
       {
@@ -6290,6 +6290,301 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["house-clearance-dubai", "bulky-item-removal-dubai"],
     relatedAreas: ["arabian-ranches", "dubai-marina"],
+  },
+  {
+    slug: "what-to-do-with-items-left-by-previous-tenant-dubai",
+    title: "What to Do With Items Left by a Previous Tenant in Dubai",
+    seoTitle: "Items Left by a Previous Tenant in Dubai: What to Do",
+    excerpt:
+      "What to do with items left by a previous tenant in Dubai: record everything, contact them in writing, set a collection window and clear only what is confirmed.",
+    category: "Moving & Clearance",
+    tags: ["Landlords", "Abandoned Belongings", "Tenancy Handover", "Dubai"],
+    coverImage: "/images/blog/junk-removal-scope-estimate-workbook-dubai.webp",
+    coverImageAlt:
+      "Empty Dubai apartment with leftover boxes, a washing machine and furniture, with an inventory clipboard, laser measure and tape on a table",
+    publishedAt: "2026-09-24",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Photograph and list every leftover item before anything is moved, and compare it with the move-in inventory.",
+      "Contact the former tenant in writing, name a specific collection window and ask for written confirmation of anything they abandon.",
+      "Set aside documents, valuables, data-bearing devices and hazardous items; they never belong in a general clearance load.",
+      "Keep the quote, invoice and photographs if clearance costs may be raised with the tenant, and take legal advice where ownership is disputed.",
+    ],
+    sections: [
+      {
+        heading: "What to do with items left by a previous tenant in Dubai",
+        content: [
+          "When a previous tenant leaves belongings behind in a Dubai property, photograph and list everything first, then contact the tenant in writing with a clear date by which they must collect it. Clear the unit only after they confirm in writing that the items are abandoned, or after you have taken advice on a disputed case. Checked on 24/09/2026.",
+          "The mistake landlords and property managers most often make is treating leftovers as rubbish on the day the keys come back. A sofa that looks worthless may be a disputed item, and a cardboard box in a cupboard may hold a passport, a cheque book or a laptop full of someone else's data. Speed feels efficient until a former tenant asks where their belongings went.",
+          "Dubai tenancies are governed by the tenancy contract and the emirate's rental law, and disputes between landlords and tenants are heard by the Rental Disputes Center at Dubai Land Department. That is the right forum—not a clearance crew—for deciding who owns something contested.",
+        ],
+        callout: {
+          title: "Record, contact, then clear",
+          text: "Nothing leaves the property until it has been photographed, listed and either released by the former tenant in writing or cleared on advice.",
+        },
+      },
+      {
+        heading: "Record the unit before anything moves",
+        content: [
+          "Walk the property room by room with a phone and take wide shots followed by close-ups of each item. Open wardrobes, kitchen cabinets, bed storage, balcony cupboards and the storeroom or parking cage if the unit has one. Date-stamped photographs are the evidence you will rely on if the tenant later disputes what was left or what condition it was in.",
+          "Turn the photos into a simple numbered list: item, room, rough size and condition. Then set it against the move-in inventory or the furnished-property schedule. Anything on the original schedule is landlord property and stays; anything that was not there at the start is a candidate leftover.",
+          "Do not open sealed boxes to sort them at this stage beyond what is needed to identify obvious valuables or hazards. Note the box, its location and any label. Handling the contents more than necessary makes it harder to show that you treated the tenant's belongings with care.",
+        ],
+      },
+      {
+        heading: "Contact the former tenant in writing and set a collection window",
+        content: [
+          "Use the email, phone number and forwarding details in the tenancy contract or your agency file. Send the photo list, name a specific date and time window for collection and explain how access will be arranged. A written message sets out exactly what was offered; a phone call alone does not.",
+          "Ask for one of three written answers per item: they will collect it, they have arranged someone to collect it, or they abandon it and consent to its removal. A short reply such as 'I do not want any of the items in your list dated 24 September' is far more useful than silence or a vague 'throw it away' voice note.",
+          "If the tenant does not respond, disputes ownership or claims something valuable is missing, stop and take advice before disposing of anything. The tenancy contract, the correspondence and your photographs will matter to that conversation. This article does not state a fixed legal waiting period, because the correct approach depends on the contract and circumstances.",
+        ],
+      },
+      {
+        heading: "Separate valuables, documents and hazards first",
+        content: [
+          "Before any clearance is booked, pull out anything with identity or financial value: passports, Emirates ID cards, bank papers, cheques, jewellery, keys, watches and cash. Photograph them, bag them, record who holds them and keep them secure until the tenant or their representative collects them against a signature.",
+          "Phones, laptops, hard drives and cameras need the same treatment. They carry personal data, so they must not be sold, wiped or recycled by the landlord without the owner's agreement. Paperwork follows the logic in the [old documents disposal guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai), but only once the tenant has released it.",
+          "Paint tins, gas cylinders, batteries, cleaning chemicals and medications are a separate problem. A general clearance crew cannot take them in the ordinary load, and the [guide to items junk removal companies cannot take](/blog/items-junk-removal-companies-cannot-take-dubai) explains the routes. Keep them in their original containers, upright and away from the pickup area.",
+        ],
+        image: {
+          src: "/images/blog/household-junk-triage-sorting-dubai.webp",
+          alt: "Assessor with a clipboard reviewing boxes, a desk, flattened cardboard and a separate e-waste bin grouped on a Dubai villa driveway",
+        },
+      },
+      {
+        heading: "Clearance costs and the security deposit",
+        content: [
+          "If the tenancy contract allows removal costs to be deducted, the deduction has to be supportable. Keep the written quote, the final invoice, your photographs and the correspondence showing the tenant was given a chance to collect. A fixed, itemised quote from a clearance company is easier to justify than a round number written on a handover form.",
+          "Charge for what was actually left. A landlord who adds unrelated maintenance to the clearance line, or bills an inflated rate for a single chair, invites a dispute that costs more time than the item is worth. Our [house-clearance cost guide](/blog/house-and-villa-clearance-cost-guide-dubai) explains how volume, access and labour usually drive the price.",
+          "Tenants reading this from the other side should note the lesson: the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) shows how to leave nothing ambiguous behind, which avoids this entire process.",
+        ],
+      },
+      {
+        heading: "Tower and villa logistics are different",
+        content: [
+          "In an apartment tower in [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), the landlord or agent usually still needs the building's move-out or contractor permit and a service-lift booking, even though the tenant has left. Management may also ask who is authorised to instruct the removal. Arrange this before booking a crew so the slot is not lost at the security desk. The [permit guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) sets out what buildings commonly ask for.",
+          "A villa in [Dubai Hills Estate](/areas/dubai-hills-estate) brings different leftovers: garden furniture, planters, a garage of tools, gym equipment and sometimes a stripped-out garden. Walk the outside spaces as carefully as the rooms. Items in the garage or on the roof terrace are the ones most often missed on the list and then found after the collection vehicle has left.",
+          "In both cases, mark anything that is staying—landlord appliances, fitted blinds, agreed retained items—so the crew can see the boundary without guesswork.",
+        ],
+      },
+      {
+        heading: "Choose a route for each released item",
+        content: [
+          "Once items are formally released, sort them by destination rather than sending everything to landfill. Usable furniture can go to a charity collection; the [charity furniture collection guide](/blog/charity-furniture-collection-and-donation-dubai) explains what charities typically accept and how to book them. Appliances, mattresses and broken furniture each have their own routes.",
+          "Do not sell a former tenant's belongings to offset what they owe unless you have clear written agreement or advice that you may do so. Selling property you do not own creates a new problem rather than solving the old one.",
+          "For the remaining mixed leftovers, a [house clearance](/services/house-clearance-dubai) priced from the photographed list keeps the scope fixed. If only a few large pieces remain, a [furniture removal](/services/furniture-removal-dubai) booking is usually quicker and cheaper.",
+        ],
+      },
+      {
+        heading: "Book the clearance with the list, not a guess",
+        content: [
+          "Send the numbered list and photographs when you ask for a quote, mark anything excluded, and state the building's access rules and the date the unit must be ready for the next tenant. A crew that knows exactly what it may take works faster and leaves nothing ambiguous behind.",
+          "[Message us the photo list](/contact) and we will send a fixed price for the released items, schedule around the building's lift booking and provide the paperwork you need for the tenant file.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-clear-out-a-storage-unit-in-dubai",
+    title: "How to Clear Out a Storage Unit in Dubai Before the Next Bill",
+    seoTitle: "How to Clear Out a Storage Unit in Dubai: Step Plan",
+    excerpt:
+      "How to clear out a storage unit in Dubai in one visit: check the notice terms, inventory from photos, decide every destination and size the vehicle correctly.",
+    category: "Guides",
+    tags: ["Self Storage", "Decluttering", "Collection Planning", "Dubai"],
+    coverImage: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+    coverImageAlt:
+      "Crew member measuring an armchair beside boxes, a bed frame and a small fridge while colleagues load a truck outside a Dubai building",
+    publishedAt: "2026-09-24",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Read the storage contract first: notice period, billing date, loading-bay hours and whether outside crews are admitted.",
+      "Decide the destination of every item before the loading day so one visit and one vehicle can finish the job.",
+      "Check stored upholstery, mattresses and electronics for heat, humidity and pest damage before assuming they are worth keeping.",
+      "Declare fuel, paint, gas cartridges and batteries in advance; facilities and crews treat them differently from ordinary contents.",
+    ],
+    sections: [
+      {
+        heading: "How to clear out a storage unit in Dubai",
+        content: [
+          "To clear out a storage unit in Dubai, confirm the contract's notice period and move-out rules, build an inventory from photos, decide where every item is going, then book one loading slot with a vehicle sized for what will not come home. Sweep the empty unit, photograph it and return the key or remove your lock. Checked on 24/09/2026.",
+          "Storage units rarely get cleared on impulse. They get cleared because a monthly bill finally feels unjustifiable, a move is ending, or the items were meant to be temporary two years ago. The goal is to do it in a single, well-organised visit rather than three trips spread across another billing cycle.",
+          "Most of the work happens before you reach the facility. A crew can empty a unit quickly; what slows the day is deciding item by item, in a corridor, what should happen to each box.",
+        ],
+        callout: {
+          title: "Decide at home, load on site",
+          text: "Every item should already have a destination—home, donation, sale, recycling or disposal—before the vehicle arrives.",
+        },
+      },
+      {
+        heading: "Read the facility terms before booking anything",
+        content: [
+          "Find the rental agreement and check four things: how much notice the facility needs to end the rental, whether billing runs to the end of a month or a notice date, the hours the loading bay and lifts are available, and whether a third-party removal crew may enter without the account holder. Policies differ between operators, so check your own contract rather than assuming.",
+          "Ask whether the facility provides trolleys or pallet jacks, whether vehicles above a certain size can use the loading bay, and whether you must remove your own lock on the final day. A few questions by email save a crew standing at the gate.",
+          "Time the notice carefully. Giving notice too late means paying for another period; clearing too early means paying for storage you have already emptied. Book the loading slot a few days before the rental ends so there is room to handle a delay.",
+        ],
+      },
+      {
+        heading: "Build the inventory without opening every box on site",
+        content: [
+          "If you photographed the unit when you filled it, start there. If not, make one short visit: photograph the unit from the door, then each stack, and read the labels on boxes. Note the large pieces—sofas, bed frames, wardrobes, appliances, bikes—because they drive the vehicle size.",
+          "Count boxes by size rather than listing contents. Twenty medium boxes and a disassembled wardrobe describe the load better than an itemised list of crockery. The [junk removal cost estimate guide](/blog/how-to-estimate-junk-removal-cost-in-dubai) shows how to convert that list into approximate volume so you can compare quotes on the same basis.",
+          "Label the boxes you already know are coming home with a single colour of tape. Everything else is a decision for the next step.",
+        ],
+      },
+      {
+        heading: "Sort by destination and check for storage damage",
+        content: [
+          "Split the inventory into five groups: coming home, selling, donating, recycling and disposal. Be honest about the 'coming home' group. Items that stayed in storage for over a year while you lived without them are candidates for sale or donation, not for a new home's spare room.",
+          "Dubai's heat and humidity change what stored items are worth. In units without climate control, mattresses and upholstery can develop mould or odour, wooden furniture can warp, candles and some plastics soften, and electronics may not survive long periods of high temperature. Inspect before assuming something is saleable or donatable, because charities cannot accept damaged soft furnishings.",
+          "Clothes, books and toys often make up much of a storage unit. The [clothes and textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) covers what charities can reuse; furniture follows the routes in the [charity furniture collection guide](/blog/charity-furniture-collection-and-donation-dubai).",
+        ],
+        image: {
+          src: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+          alt: "Couple sorting stored belongings into labelled donation, tools, storage and disposal groups in a Dubai villa garage",
+        },
+      },
+      {
+        heading: "Declare the items crews and facilities treat differently",
+        content: [
+          "Storage units collect things that should not have gone in: part-used paint, garden equipment with fuel still in the tank, camping gas cartridges, aerosols, car batteries and pool chemicals. Many facility agreements prohibit them in the first place, and a removal crew cannot add them to an ordinary load.",
+          "Put these on a separate list with photographs and ask for a route before the day. The [prohibited items guide](/blog/items-junk-removal-companies-cannot-take-dubai) explains why they are handled separately and where they usually go. Empty fuel from equipment only if you can do it safely and legally; otherwise declare the item as it is.",
+          "Also flag anything that needs two people or special care: glass-topped tables, mirrors, large televisions and safes. Accurate warnings stop the quote changing at the unit door.",
+        ],
+      },
+      {
+        heading: "Plan a single loading day",
+        content: [
+          "Choose a vehicle based on the non-home volume, and if items are coming home, decide whether they travel on the same vehicle or a separate one. Mixing a home delivery with a disposal run can work, but only if the drop order is planned and the home building's lift is booked for the same window.",
+          "Storage facilities cluster in industrial and mixed-use districts; a unit near [Dubai Investment Park](/areas/dubai-investment-park) may involve a long walk from an upper-floor unit to the loading bay, while residents moving items back to homes in [Al Barsha](/areas/al-barsha) need that building's access rules too. Tell the crew the unit floor, the distance to the bay and any lift limits.",
+          "Before handing the unit back, sweep it, remove any tape or hooks you added, photograph the empty space and keep the facility's confirmation that the rental has ended.",
+        ],
+      },
+      {
+        heading: "Is it cheaper to keep paying?",
+        content: [
+          "A quick test: multiply the monthly fee by the number of months you realistically expect to keep the items, and compare it with the cost of replacing only the pieces you genuinely need. For most mixed household units, a year of rent is more than the replacement value of anything except a few key pieces of furniture.",
+          "Keep storage when items have a planned use with a date attached—a confirmed move, a renovation finishing, a child returning home. Without a date, storage is usually a delay rather than a plan.",
+        ],
+      },
+      {
+        heading: "Book one collection for the leftover volume",
+        content: [
+          "For large pieces and mixed boxes, our [bulky-item service](/services/bulky-item-removal-dubai) handles the heavy lifting from unit to vehicle, and the [general junk removal service](/services/junk-removal-dubai) covers the smaller mixed load that follows. Donation and recycling routes are sorted from the same collection wherever items qualify.",
+          "[Send us photos of the unit](/contact), its floor and the facility's loading hours. We will quote a fixed price for everything that is not coming home and book a slot that fits your notice date.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-investment-park", "al-barsha"],
+  },
+  {
+    slug: "how-to-clear-a-loved-ones-home-after-a-death-dubai",
+    title: "How to Clear a Loved One's Home After a Death in Dubai",
+    seoTitle: "Clearing a Loved One's Home in Dubai: A Calm Guide",
+    excerpt:
+      "How to clear a deceased person's home in Dubai: confirm who can decide, secure documents and valuables, share an inventory with family, then clear in stages.",
+    category: "Moving & Clearance",
+    tags: ["Bereavement", "Estate Clearance", "Family Planning", "Dubai"],
+    coverImage: "/images/blog/move-out-junk-sorting-dubai.webp",
+    coverImageAlt:
+      "Labelled boxes for the bedroom, books, kitchen and electronics stacked beside a dismantled bed frame and recycling crates in a Dubai villa",
+    publishedAt: "2026-09-24",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Do not remove or give away belongings until it is clear who has the authority to make decisions about the estate.",
+      "Secure identity documents, financial papers, valuables, keys and devices first; they may be needed for legal and administrative steps.",
+      "Share a photo inventory with relatives, including those abroad, and set a realistic date for choices before any clearance is booked.",
+      "Clear in stages—family items, donations, then the remainder—and keep an authorised person present or reachable on the day.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a deceased person's home in Dubai",
+        content: [
+          "To clear a deceased person's home in Dubai, first confirm who has authority to decide what happens to the belongings, then secure documents and valuables, share a photo inventory with the family and agree a date for choices. Only then distribute keepsakes, arrange donations and book a clearance for what remains. Checked on 24/09/2026.",
+          "This is one of the few clearance jobs where speed is not the main goal. Families are dealing with grief, paperwork and often relatives flying in from abroad, while a landlord or building may be asking when the property will be free. A clear order of steps protects both the family's relationships and the belongings that matter.",
+          "We have worked in homes where a well-meaning relative cleared the wardrobes in the first week and a document everyone needed later was in a coat pocket. Nothing in this guide requires rushing.",
+        ],
+        callout: {
+          title: "Authority before action",
+          text: "Until the person entitled to act for the estate is confirmed, limit yourself to securing the property and recording what is there.",
+        },
+      },
+      {
+        heading: "Confirm who can make decisions",
+        content: [
+          "Who can deal with a deceased person's belongings in the UAE depends on the applicable law, the person's circumstances and whether a will was registered—for example with the courts or with the DIFC Wills Service. Families should take advice from a lawyer or the relevant court before distributing or disposing of possessions, especially items of value.",
+          "Write down, once agreed, who is authorised to make decisions and who will be the point of contact for the landlord, building management and any contractors. A clearance company should take instructions from that person only, and should ask for a signed list rather than acting on a phone call from someone else in the family.",
+          "If the home is rented, speak to the landlord or agent early about the tenancy. They can explain the steps for ending it, the handover date and access for the family. In many cases they will allow reasonable time once they know what is happening.",
+        ],
+      },
+      {
+        heading: "Secure what must not be lost",
+        content: [
+          "Before any sorting, collect passports, Emirates ID cards, residence documents, birth and marriage certificates, property papers, bank and insurance documents, cheque books, jewellery, watches, cash and keys. Keep them together in one secure place and record who holds them.",
+          "Phones, laptops and tablets need to be kept, charged and left unaltered. They may contain contacts, account details and records needed later, and wiping or recycling them early can make administration much harder. The [old documents guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) explains shredding and recycling routes, but none of the deceased's papers should be destroyed until the family and its adviser agree.",
+          "Check the places things hide: coat pockets, handbags, bedside drawers, the backs of wardrobes, books and the car. A slow search once is better than discovering something after a load has gone.",
+        ],
+      },
+      {
+        heading: "Give the family time without paying for empty time",
+        content: [
+          "Relatives abroad often cannot visit in person. Walk the home with a phone, photograph each room and significant item, and share the album with numbered labels. Ask everyone to reply with the numbers they would like, by an agreed date, and record who asked for what.",
+          "Setting a date is kinder than leaving it open. It gives everyone a fair chance while stopping the rent, service charges and utility bills from running indefinitely. If two relatives want the same item, park it until the date passes and resolve it together rather than on the day of collection.",
+          "Label chosen items with names and move them to one room. Shipping or delivering them is a separate job; a clearance crew should never have to guess which cabinet belongs to a cousin in another country.",
+        ],
+      },
+      {
+        heading: "Sort personal belongings with care",
+        content: [
+          "Clothing is often the hardest part emotionally and the largest by volume. Many families keep a few pieces, pass wearable items to a charity and send the rest to textile recovery. The [clothes and textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) explains what charities can reuse and how to bag it.",
+          "Furniture, kitchenware and books in good condition can help another household. The [charity furniture collection guide](/blog/charity-furniture-collection-and-donation-dubai) covers what charities usually accept and how to arrange a pickup, which some families find more meaningful than selling.",
+          "Medicines and rented medical equipment need separate handling. Ask a pharmacy or the healthcare provider how to return unused medication, and contact the supplier of any hired bed, wheelchair or oxygen equipment to arrange collection rather than including it in a clearance.",
+        ],
+        image: {
+          src: "/images/blog/apartment-closet-storage-declutter-dubai.webp",
+          alt: "Woman folding clothing into a box beside labelled donate and keep containers in a Dubai walk-in wardrobe",
+        },
+      },
+      {
+        heading: "Arranging the final clearance",
+        content: [
+          "Once family choices and donations are done, what remains is usually a mix of furniture, appliances, household goods and a few items no one can place. Walk the home with the clearance company, point out rooms or cupboards that are off-limits, and give them a written list signed by the authorised person.",
+          "A villa in [The Springs](/areas/the-springs) may have a garage, storeroom and garden to clear alongside the house; an apartment on [Palm Jumeirah](/areas/palm-jumeirah) usually needs a building permit and a service-lift booking in the name of whoever now manages the tenancy or property. Tell the company which applies so the paperwork is ready.",
+          "A [house clearance](/services/house-clearance-dubai) suits apartments and townhouses, while a [villa clearance](/services/villa-clearance-dubai) is scoped for larger homes with outdoor spaces. Either should be priced as a fixed amount from photographs and a walkthrough, with donations and recycling separated where items qualify.",
+        ],
+      },
+      {
+        heading: "On the day, keep one person in charge",
+        content: [
+          "Have the authorised person, or someone they nominate in writing, present or reachable by phone throughout the job. Crews regularly find things during clearance—an envelope in a drawer, a box of photographs at the back of a cupboard—and need someone who can decide immediately.",
+          "Agree in advance that anything personal found during the work will be set aside rather than loaded. A good crew does this automatically, but saying it at the start removes any doubt.",
+          "When the home is empty, photograph each room for the landlord or new owner and keep the clearance invoice with the estate papers.",
+        ],
+      },
+      {
+        heading: "When you are ready to talk",
+        content: [
+          "There is no need to book anything until the family is ready. When you are, [send us photos and a short note](/contact) about the property and any deadlines. We will give a fixed price, work around the family's schedule and set aside anything personal found during the clearance.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["the-springs", "palm-jumeirah"],
   },
 ];
 

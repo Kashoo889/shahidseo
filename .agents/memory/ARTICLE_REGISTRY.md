@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-23**
+Last synchronized: **2026-09-24**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -69,15 +69,26 @@ Canonical implementation: `data/blog.ts`
 |  62 | `what can't junk removal take` | Informational | `/blog/items-junk-removal-companies-cannot-take-dubai` | 2026-09-23 | Published |
 |  63 | `how to dispose of used cooking oil in dubai` | Informational | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai` | 2026-09-23 | Published |
 |  64 | `how to dispose of gas cylinders in dubai` | Informational | `/blog/how-to-dispose-of-gas-cylinders-in-dubai` | 2026-09-23 | Published |
+|  65 | `what to do with items left by previous tenant dubai` | Informational | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai` | 2026-09-24 | Published |
+|  66 | `how to clear out a storage unit in dubai` | Informational | `/blog/how-to-clear-out-a-storage-unit-in-dubai` | 2026-09-24 | Published |
+|  67 | `how to clear a deceased person's home in dubai` | Informational | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai` | 2026-09-24 | Published |
 
 ## Current counts
 
-- Published: **64**
-- Published on 2026-09-23: **3**
+- Published: **67**
+- Published on 2026-09-24: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **34**
-- Next approved supplemental priority: **None queued; the 2026-09-23 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **37**
+- Next approved supplemental priority: **None queued; the 2026-09-24 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-24 batch
+
+- The previous-tenant guide owns the landlord/property-manager side of abandoned belongings: recording, written contact, collection windows, valuables isolation and supportable deposit deductions. `/blog/what-to-remove-before-rental-handover-dubai` retains the outgoing tenant's stay/remove decisions. No legal waiting period is stated; disputes are directed to the Rental Disputes Center or legal advice.
+- The storage-unit guide owns facility contract checks, off-site inventory, storage-damage inspection and single-visit loading. `/blog/how-to-estimate-junk-removal-cost-in-dubai` retains volume estimation, and `/blog/decluttering-tips-for-small-apartments-in-dubai` retains in-home decluttering.
+- The bereavement guide owns authority-before-action, securing documents and devices, family inventory sharing and staged clearance. `estate clearance dubai` stays with `/services/villa-clearance-dubai`; the blog targets only the informational question. No inheritance-law specifics are stated beyond directing families to legal advice, the courts or the DIFC Wills Service.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the rental handover, small-apartment decluttering and house/villa clearance cost guides.
+- Images reuse existing assets from `public/images/blog/` at the user's request (no new generation or stock sourcing). See `docs/article-images-2026-09-24.md`.
 
 ## Cannibalization notes for 2026-09-23 batch
 
