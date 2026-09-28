@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-24**
+Last synchronized: **2026-09-28**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -72,15 +72,26 @@ Canonical implementation: `data/blog.ts`
 |  65 | `what to do with items left by previous tenant dubai` | Informational | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai` | 2026-09-24 | Published |
 |  66 | `how to clear out a storage unit in dubai` | Informational | `/blog/how-to-clear-out-a-storage-unit-in-dubai` | 2026-09-24 | Published |
 |  67 | `how to clear a deceased person's home in dubai` | Informational | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai` | 2026-09-24 | Published |
+|  68 | `how to dispose of mirrors and glass in dubai` | Informational | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` | 2026-09-28 | Published |
+|  69 | `how to dispose of baby items in dubai` | Informational | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai` | 2026-09-28 | Published |
+|  70 | `how to help someone clear a hoarded home in dubai` | Informational | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai` | 2026-09-28 | Published |
 
 ## Current counts
 
-- Published: **67**
-- Published on 2026-09-24: **3**
+- Published: **70**
+- Published on 2026-09-28: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **37**
-- Next approved supplemental priority: **None queued; the 2026-09-24 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **40**
+- Next approved supplemental priority: **None queued; the 2026-09-28 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-28 batch
+
+- The mirrors-and-glass guide owns the flat-glass versus container-glass distinction, wrapping and carrying method, bonded/fixed glass boundary and broken-glass containment. `/blog/how-to-recycle-household-waste-in-dubai` retains bottles and jars; `/blog/post-renovation-junk-and-debris-cleanup-guide-dubai` retains contractor-generated glass.
+- The baby-items guide owns reuse safety tests for car seats, cots, high chairs and strollers, plus toy material sorting. `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains garment sorting, `/blog/how-to-dispose-of-an-old-mattress-in-dubai` retains mattress routes and the battery guide retains battery handling. No specific charity acceptance policies or car-seat lifespans are stated.
+- The hoarding guide owns the person-led, safety-first staged approach and crew briefing. `/blog/how-to-declutter-your-home-room-by-room-dubai` retains ordinary decluttering. No clinical claims beyond hoarding disorder being a recognised condition; readers are directed to licensed mental-health professionals.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the spring-cleaning, textiles and room-by-room decluttering guides.
+- Images reuse existing assets from `public/images/blog/` at the user's request. See `docs/article-images-2026-09-28.md`.
 
 ## Cannibalization notes for 2026-09-24 batch
 

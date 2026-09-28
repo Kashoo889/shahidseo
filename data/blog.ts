@@ -1603,7 +1603,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Decluttering a home in Dubai is most effective when executed room by room rather than attempting a whole-property purge in one exhausting weekend. Start with high-impact, low-emotional areas (such as the storage closet or balcony) before tackling personal spaces (wardrobes and living rooms), using a structured 'Keep, Donate, Recycle, Dump' framework.",
           "Dubai's expat lifestyle often leads to rapid item accumulation: online shopping deliveries, imported furnishings, seasonal holiday gear, and surplus gym or hobby equipment. In high-density apartments across Downtown, JVC, and Dubai Marina, unmanaged clutter quickly encroaches on valuable square footage.",
-          "Here is the room-by-room guide tailored specifically to Dubai residential layouts and storage realities.",
+          "Here is the room-by-room guide tailored specifically to Dubai residential layouts and storage realities. If the clutter has reached the point where a relative is struggling to discard anything at all, the [guide to helping someone clear a hoarded home](/blog/how-to-help-someone-clear-a-hoarded-home-dubai) sets out a slower, person-led approach.",
         ],
       },
       {
@@ -2191,7 +2191,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Grey-area items: paint tins, large mirrors, and built-in fixtures",
         content: [
           "Some items fall into a grey area where collection depends on their condition and preparation. Liquid latex paint is banned, but cans where the paint has dried to a completely solid puck are classified as non-hazardous and can be hauled away.",
-          "Large plate-glass mirrors and tempered shower screens can be taken, but they must be declared in advance so crews can apply cross-hatched safety tape and protective wrapping to prevent shattering in transit. Similarly, built-in wardrobes and wall-mounted shelving must be completely detached and dismantled before collection unless you have booked disassembly labour as part of your service.",
+          "Large plate-glass mirrors and tempered shower screens can be taken, but they must be declared in advance so crews can apply cross-hatched safety tape and protective wrapping to prevent shattering in transit; the [mirror and glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) shows how to prepare them. Similarly, built-in wardrobes and wall-mounted shelving must be completely detached and dismantled before collection unless you have booked disassembly labour as part of your service.",
           "Vehicle tyres sit outside the household stream entirely and need a separate route rather than a place on a mixed truck, which is why they should always be named at the quote stage. The [old tyre disposal guide](/blog/how-to-dispose-of-old-tyres-in-dubai) explains where they can legally go.",
         ],
         callout: {
@@ -5852,7 +5852,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Treat footwear on its own terms. Shoes are judged on the sole and the upper, not the brand — separated soles, collapsed heels and split uppers are recycling. Whatever you do, keep pairs together and tie them by the laces or band them, because loose shoes get separated during handling and then neither one is useful.",
         ],
         listItems: [
-          "Clothing — sorted roughly by adult, children and outerwear if the volume justifies it.",
+          "Clothing — sorted roughly by adult, children and outerwear if the volume justifies it; outgrown cots, car seats and toys follow the separate [baby and children's items guide](/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai).",
           "Shoes — paired and tied, kept out of the clothing bags so they do not mark fabric.",
           "Bed linen, towels and curtains — usually wanted, but only clean and dry.",
           "Bags, belts and accessories — small, easily lost, worth their own bag.",
@@ -6585,6 +6585,294 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["house-clearance-dubai", "villa-clearance-dubai"],
     relatedAreas: ["the-springs", "palm-jumeirah"],
+  },
+  {
+    slug: "how-to-dispose-of-mirrors-and-glass-in-dubai",
+    title: "How to Dispose of Mirrors and Glass in Dubai Without Injury",
+    seoTitle: "How to Dispose of Mirrors and Glass in Dubai Safely",
+    excerpt:
+      "How to dispose of mirrors and glass in Dubai: why flat glass is not bottle recycling, how to wrap it, and how to handle broken pieces safely.",
+    category: "Guides",
+    tags: ["Mirrors", "Glass Tables", "Broken Glass", "Dubai"],
+    coverImage: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+    coverImageAlt:
+      "Resident photographing a sofa, washing machine and boxes beside a cross-taped wrapped mirror while a crew member tapes the service-lift door in a Dubai tower lobby",
+    publishedAt: "2026-09-28",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Mirrors, tabletops, shower screens and window panes are flat glass; they do not belong in the bottle-and-jar recycling bin.",
+      "Wrap intact glass with cardboard corners, cross-taping and a blanket, and declare its size before the collection is quoted.",
+      "Put broken glass in a rigid, sealed and labelled box—never loose in a bin bag or down a chute.",
+      "Leave bonded wall mirrors and fixed shower screens to a handyman or the landlord's contractor; removal is where most breakages happen.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of mirrors and glass in Dubai",
+        content: [
+          "To dispose of mirrors and glass in Dubai, keep intact pieces whole, protect the edges and face with cardboard and tape, and either donate them or book a collection that knows the size in advance. Broken glass goes into a rigid sealed box labelled as glass. None of it belongs in household bottle recycling or a waste chute. Checked on 28/09/2026.",
+          "Glass is one of the few household items where the risk is not weight but edges. A full-length mirror is easy for one person to lift and very easy to crack against a lift door. Most of the injuries and damage we see happen in the ten metres between the wall and the vehicle, not at the disposal site.",
+          "The approach below separates three situations: intact glass that could be reused, intact glass that has to go, and glass that is already broken.",
+        ],
+        callout: {
+          title: "Whole is safer than broken",
+          text: "Never break a mirror or tabletop to make it fit a bin or a car. Intact glass can be wrapped and carried; shards cannot.",
+        },
+      },
+      {
+        heading: "Flat glass is not bottle recycling",
+        content: [
+          "The glass banks and recycling bins in Dubai communities are designed for containers: bottles and jars. Mirrors carry a reflective coating and backing paint, tabletops and shower screens are usually toughened, and window panes are made to a different specification. Mixing them into container glass contaminates the stream, and the sheer size of a panel can injure whoever empties the bin.",
+          "Keep the two apart. Bottles and jars follow the routine in the [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai). Mirrors, glass shelves, tabletops, picture-frame glass and cabinet doors are bulky household items that need a collection or a facility that accepts them.",
+          "Glass cookware, drinking glasses and ceramics are also not container glass. Small quantities that are intact can go to donation; broken pieces are handled like any other broken glass below.",
+        ],
+      },
+      {
+        heading: "Can someone else use it first?",
+        content: [
+          "Framed mirrors, glass dining tables and display cabinets in good condition are easy to pass on. Clean the glass, photograph it with the dimensions, and offer it through a community group or a charity that accepts furniture. Ask the charity before you deliver, because some do not take glass-topped pieces or unframed mirrors.",
+          "Separate the glass top from a table base before anyone moves it, and keep any clips, pads or brackets taped to the base. A buyer or charity is far more likely to accept a table that arrives in two protected pieces than one carried assembled.",
+          "The [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) lists the questions to ask before arranging a handover. If the glass is scratched, chipped at the edge or de-silvering at the back, treat it as disposal rather than donation.",
+        ],
+      },
+      {
+        heading: "Wrap intact glass before it moves",
+        content: [
+          "Fit cardboard corner protectors or folded cardboard over every corner, then run tape diagonally across the face in a cross or star pattern. Tape does not stop glass breaking, but it helps hold the pieces together if it does. Finish with a moving blanket or a double layer of cardboard over both faces and tape it closed.",
+          "Carry glass on its edge, never flat, and with two people for anything taller than waist height. Flat panels flex under their own weight and can crack when lifted from one end. In a tower, stand the wrapped panel against a padded wall of the service lift rather than leaning it on a trolley.",
+          "Write the dimensions on the wrapping and send them with your photographs when you ask for a quote. A crew that knows it is collecting a two-metre mirror brings blankets and a second person; one that finds out on arrival may have to leave it.",
+        ],
+        image: {
+          src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp",
+          alt: "Crew member wheeling a tall flat panel on a padded trolley towards a protected service lift while a colleague measures a Dubai apartment doorway",
+        },
+      },
+      {
+        heading: "Bonded mirrors and fixed glass need the right person",
+        content: [
+          "Many bathroom and wardrobe mirrors in Dubai apartments are glued directly to the wall or cabinet rather than hung. Pulling one off can crack it in place or tear the plaster behind it. Fixed shower screens, glass balustrades and glazed partitions are part of the building fabric.",
+          "Ask the landlord or building before removing anything fixed, and use a handyman or fit-out contractor for the removal itself. Once it is off the wall and wrapped, it can join a normal collection. In rented homes, the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains why fixtures need written agreement before they leave.",
+          "Glass generated by a renovation—old shower screens, window units, partition panels—is usually part of the contractor's waste scope, not a household pickup. The [post-renovation cleanup guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai) covers who should remove it.",
+        ],
+      },
+      {
+        heading: "What to do with glass that is already broken",
+        content: [
+          "Wear thick gloves and closed shoes. Pick up the large pieces by hand, then use a dustpan for the rest and a damp paper towel for fine splinters. Keep children and pets out of the room until the floor has been checked in good light.",
+          "Put everything into a sturdy cardboard box or rigid container, seal it with tape and write 'broken glass' on at least two sides. Do not use a thin bin bag, where edges cut through and injure whoever lifts it, and never put glass down a waste chute. Building cleaners and collection crews handle bags by hand.",
+          "A large shattered tabletop or mirror may need several boxes. Keep them together, tell the collection company in advance, and do not bury them inside a mixed load where they cannot be seen. The [guide to items junk removal companies cannot take](/blog/items-junk-removal-companies-cannot-take-dubai) explains why declaring awkward items up front matters.",
+        ],
+      },
+      {
+        heading: "Tower and villa differences",
+        content: [
+          "In [Downtown Dubai](/areas/downtown-dubai) towers, large glass pieces usually have to travel in the service lift with a booked slot, and some buildings ask for protection on lift walls and corridor corners. Glass wider than the service-lift door cannot be tilted like a sofa; measure the lift before the day.",
+          "Villas in [Mudon](/areas/mudon) and similar communities often have glass dining tables, outdoor tabletops and garden mirrors that have been in the sun for years. Weathered glass and brittle frames are more likely to fail during lifting, so wrap them where they stand rather than carrying them bare to the driveway first.",
+        ],
+      },
+      {
+        heading: "Book a collection that knows what is coming",
+        content: [
+          "Our [bulky-item service](/services/bulky-item-removal-dubai) collects mirrors, glass tables and display cabinets that have been declared and wrapped, and the [furniture removal service](/services/furniture-removal-dubai) handles the frames, bases and cabinets they belong to. Donation-grade pieces are set aside where a charity will accept them.",
+          "[Send us photos with dimensions](/contact), and say whether any glass is fixed to the wall or already broken. We will quote a fixed price and bring the right protection for the pieces you describe.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "mudon"],
+  },
+  {
+    slug: "how-to-dispose-of-baby-and-childrens-items-in-dubai",
+    title: "How to Dispose of Baby and Children's Items in Dubai",
+    seoTitle: "Baby Items Disposal in Dubai: Donate, Recycle or Bin",
+    excerpt:
+      "How to dispose of baby items in Dubai: which cots, car seats, strollers and toys can be passed on safely, and which should be recycled instead.",
+    category: "Eco & Recycling",
+    tags: ["Baby Gear", "Toys", "Donation", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Couple sorting belongings in a Dubai villa garage into labelled boxes for donated toys, clothing and books beside camping gear and a disposal pile",
+    publishedAt: "2026-09-28",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Pass on a car seat only when you know its full history, it is within the manufacturer's use-by date and it has never been in a collision.",
+      "Check cots, high chairs and strollers for recalls, missing hardware and damage before offering them to another family.",
+      "Remove batteries from electronic toys and send them to a battery route; soft toys and clothing follow textile routes.",
+      "Ask a charity what it accepts before delivering; many decline car seats and used cot mattresses.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of baby items in Dubai",
+        content: [
+          "To dispose of baby items in Dubai, sort them by safety first: equipment with a known, undamaged history can be sold or donated, while car seats of unknown history, recalled products and damaged gear should be taken apart and recycled or disposed of. Toys, clothes and batteries each go to their own route. Checked on 28/09/2026.",
+          "Children outgrow things faster than anything else in a household. A family can move through a bassinet, a cot, a toddler bed, three strollers and several car seats in a few years, often in apartments with little storage. The instinct is to give everything away, which is usually right—but not for every item.",
+          "The difference between baby gear and ordinary furniture is that someone else's child will rely on it. That makes history and condition more important than appearance.",
+        ],
+        callout: {
+          title: "If you would not use it, do not pass it on",
+          text: "A product that has been in a crash, recalled or repaired with improvised parts should leave the reuse chain, however clean it looks.",
+        },
+      },
+      {
+        heading: "Car seats: the item to be strict about",
+        content: [
+          "Car seats are designed to protect a child once in a collision. After a crash, the shell or harness can be weakened in ways that are not visible. Manufacturers also print a manufacture date and often a use-by period on the seat or in the manual, because plastics degrade—and a car parked in Dubai summer heat is a hard environment for plastic.",
+          "Only pass on a car seat when you know it has never been in a collision, it is within its use-by period, every part and the manual are present, and it has not been recalled. If any of those is uncertain, do not donate or sell it. Many charities decline car seats for exactly this reason.",
+          "To dispose of one, cut the harness straps so it cannot be pulled from a bin and reused, remove fabric covers and foam where they come off easily, and mark the shell as unsafe. The plastic shell and metal parts can then go with a household collection or a facility that accepts mixed plastics.",
+        ],
+      },
+      {
+        heading: "Cots, high chairs and strollers",
+        content: [
+          "Look up the brand and model to check for safety recalls before offering any sleep or feeding product. Then check the practical things: all bolts and slats present, no cracks, the drop side or gate working as designed, and the instructions available or downloadable. A cot with a missing fixing should not be handed on with a promise to find a screw.",
+          "Cot and crib mattresses are harder to reuse. Families receiving donations usually prefer a new mattress for hygiene, and some charities will not accept used ones. If the mattress is not taken, it follows the same route as an adult mattress in the [mattress disposal guide](/blog/how-to-dispose-of-an-old-mattress-in-dubai).",
+          "Strollers and prams are often perfectly reusable. Test the brakes, folding lock and harness, clean the fabric, and include the rain cover and adaptors. A stroller with a failed brake or cracked frame joint should be dismantled and disposed of instead.",
+        ],
+      },
+      {
+        heading: "Toys: sort by material, not by age",
+        content: [
+          "Complete, clean toys with no loose small parts are welcome at many charities, nurseries and community groups. Bag sets together so pieces are not lost, and check that nothing is marketed for a younger age than it is safe for.",
+          "Electronic and battery-powered toys need the batteries out first. Coin and button batteries in particular must be kept away from small children and taped at the terminals before they go to a battery collection point. The [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains where they go; the toy itself then follows small-electronics recycling.",
+          "Soft toys follow the textile route if they are clean and intact; heavily worn ones are general waste. Broken plastic toys usually cannot be recycled with household plastics because the plastic type is rarely marked, so they go to general waste unless a facility confirms otherwise.",
+        ],
+        image: {
+          src: "/images/blog/circular-furniture-reuse-charity-dubai.webp",
+          alt: "Charity refurbishment workshop in Dubai where a staff member and a coordinator inspect and tag donated chairs and tables before reuse",
+        },
+      },
+      {
+        heading: "Clothes, bedding and feeding equipment",
+        content: [
+          "Baby clothes are the easiest donation. Wash them, fold them by size and bag them with a label. Swaddles, sleeping bags and cot sheets can go too if they are clean and unstained. Anything torn or stained goes to textile recovery, as set out in the [clothes and textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai).",
+          "Bottles, teats, breast-pump parts and dummies are personal hygiene items and are not normally donated. Clean plastic bottles may go into household plastic recycling if the local stream accepts them; silicone teats and pump tubing go to general waste.",
+          "Electric breast pumps, baby monitors and bottle sterilisers are small electrical items. Donate them only if they are working and the charity accepts electricals; otherwise use an e-waste route.",
+        ],
+      },
+      {
+        heading: "Timing and space in Dubai homes",
+        content: [
+          "Most families clear baby gear in waves: when a child moves to a bed, when a second child arrives, or before a move. Setting aside one cupboard or corner as a 'passing on' zone stops outgrown things spreading through the home and makes a single charity drop or collection easy.",
+          "In townhouse communities such as [Arabian Ranches 2](/areas/arabian-ranches-2), large outdoor play equipment—slides, playhouses and trampolines—often comes up at the same time. These are bulky, sun-weathered and usually need dismantling. In [Jumeirah Village Triangle](/areas/jumeirah-village-triangle) and similar villa areas, check whether community groups run swap days before booking a collection.",
+          "If you are selling, list items with the brand, age and any known history. Being honest about a car seat's history protects the buyer and you.",
+        ],
+      },
+      {
+        heading: "Book one collection for what is left",
+        content: [
+          "After donations, what remains is often a mix of cots, play equipment and small furniture. Our [furniture removal service](/services/furniture-removal-dubai) handles cots, beds and wardrobes, and the [general junk removal service](/services/junk-removal-dubai) takes the mixed smaller items, with reusable pieces set aside for charity where they qualify.",
+          "[Send us photos of the items](/contact) and tell us which ones are damaged, recalled or of unknown history. We will quote a fixed price and keep those pieces out of the donation pile.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["arabian-ranches-2", "jumeirah-village-triangle"],
+  },
+  {
+    slug: "how-to-help-someone-clear-a-hoarded-home-dubai",
+    title: "How to Help Someone Clear a Hoarded Home in Dubai",
+    seoTitle: "Helping Someone Clear a Hoarded Home in Dubai",
+    excerpt:
+      "How to help someone clear a hoarded home in Dubai: put the person in control, deal with safety first, clear in small stages and arrange support that lasts.",
+    category: "Moving & Clearance",
+    tags: ["Hoarding", "Home Safety", "Family Support", "Dubai"],
+    coverImage: "/images/blog/declutter-before-moving-dubai-hero.webp",
+    coverImageAlt:
+      "Crew member carrying a chair out of a Dubai apartment while a colleague holds a box beside stacked boxes labelled living room, bedroom and books",
+    publishedAt: "2026-09-28",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Hoarding is recognised as a mental-health condition; a surprise clear-out often causes distress and the space refills.",
+      "Deal with safety first: blocked exits, fire risk, pests and anything obstructing the AC or electrics.",
+      "Agree the rules for each category in advance and let the person make the decisions, room by room.",
+      "Involve a licensed mental-health professional where possible, and keep the clearance crew small, calm and discreet.",
+    ],
+    sections: [
+      {
+        heading: "How to help someone clear a hoarded home in Dubai",
+        content: [
+          "To help someone clear a hoarded home in Dubai, start with a conversation, not a truck. Agree safety priorities together, clear one small area at a time with the person making the decisions, and arrange support from a licensed mental-health professional so the change lasts. Book removal only for what has been agreed. Checked on 28/09/2026.",
+          "Hoarding disorder is recognised in international diagnostic manuals as a mental-health condition, not a matter of laziness or untidiness. People who hoard usually feel strong distress at the thought of discarding, and many feel ashamed of the state of their home. A relative who arrives with a crew and clears everything in a day may leave a clean flat and a person in crisis—and the space often fills again.",
+          "This guide is written for family members, friends and landlords who want to help. It is not a substitute for clinical advice, but it reflects how a clearance can be organised so that it supports the person rather than overriding them.",
+        ],
+        callout: {
+          title: "Their home, their decisions",
+          text: "Unless there is an immediate danger, nothing should leave the property without the person's agreement.",
+        },
+      },
+      {
+        heading: "Start with safety, not tidiness",
+        content: [
+          "The first goal is a home that is safe to live in, not a home that looks empty. Walk through with the person and agree the non-negotiables: a clear route from every bedroom to the front door, nothing stacked against the electrical board or cooker, AC units and vents unobstructed, and no rotting food or signs of pests.",
+          "In Dubai apartment towers, blocked exits and heavy stacks of paper and cardboard can concern building management for fire-safety reasons, and neighbours may already have reported smells or pests. Addressing those points first often relieves the most urgent pressure from the building without forcing wider decisions.",
+          "If there is structural damage, water leaks, mould across walls or evidence of vermin, involve the landlord or building maintenance and a pest-control company before any clearance crew works inside. Some of these issues are hazards for everyone entering.",
+        ],
+      },
+      {
+        heading: "Agree the rules before the first bag",
+        content: [
+          "Sit down away from the clutter and agree simple rules for categories rather than arguing over individual items. For example: all expired food goes; newspapers older than a month go; duplicate kitchen items are limited to what fits one cupboard; photographs and personal documents are always kept.",
+          "Write the rules down and let the person amend them. Rules they helped make are far easier to follow than rules imposed on the day. Include what happens to items they are unsure about—a single 'decide later' box with a date on it works better than an open-ended pile.",
+          "Decide in advance where things will go. Many people who hoard find it easier to let items leave if they know they will be used: donated clothes, books to a library sale, furniture to a charity. The [eco-friendly junk disposal guide](/blog/eco-friendly-ways-to-dispose-of-household-junk-dubai) and the [guide to what happens to junk after pickup](/blog/what-happens-to-your-junk-after-pickup-dubai) can help reassure them about where things end up.",
+        ],
+      },
+      {
+        heading: "Clear in small stages",
+        content: [
+          "Choose one small, achievable area first—a hallway, the path to a window, one kitchen counter—and finish it completely. A visible result in a couple of hours builds more confidence than a half-cleared living room after a full day.",
+          "Keep sessions short, with breaks, and stop when the person is exhausted or distressed. Two or three hours several times a week is often more productive than one exhausting weekend. Let the person handle and decide on items; helpers carry, bag and label.",
+          "Move agreed items out of the home the same day. Bags left by the door are often reopened. A small, booked collection at the end of each session—or at least at the end of each week—keeps progress real.",
+        ],
+        image: {
+          src: "/images/blog/decluttering-small-apartments-dubai-hero.webp",
+          alt: "Resident labelling storage boxes for books, cables and decor while a crew member carries out a wooden table in a Dubai Marina apartment",
+        },
+      },
+      {
+        heading: "Choosing and briefing a clearance crew",
+        content: [
+          "Tell the clearance company in advance that the job involves hoarding. A good crew will send fewer people, work quietly, follow the resident's instructions and never comment on the home. Ask them to take only what is bagged and agreed, and to check with the resident before lifting anything that is not.",
+          "Ask for a price per session or per load rather than a single 'clear everything' quote. That lets the clearance follow the person's pace. The [junk removal preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) explains how to stage items so each visit is short.",
+          "Book service-lift slots at quiet times in towers, such as mid-morning on weekdays, so the person is not facing neighbours in the lobby. In low-rise areas such as [International City](/areas/international-city) or villa areas like [Mirdif](/areas/mirdif), ask the crew to park close and load quickly.",
+        ],
+      },
+      {
+        heading: "Hidden items and hazardous finds",
+        content: [
+          "Hoarded homes often contain important things buried under everything else: passports, bank cards, cash, jewellery, medication and legal letters. Agree that anything like this is set aside in one box for the person, never discarded, and that bags are checked before they leave.",
+          "Expect some items that cannot go in a normal collection: old paint, aerosols, gas cartridges, batteries, cleaning chemicals, medicines and sometimes sharps. Keep them in a separate labelled area and use the routes in the [guide to items junk removal companies cannot take](/blog/items-junk-removal-companies-cannot-take-dubai).",
+          "Wear gloves and closed shoes when handling unknown piles, and use masks where there is dust or mould.",
+        ],
+      },
+      {
+        heading: "Support that lasts beyond the clearance",
+        content: [
+          "Without support, a cleared home often refills. A psychologist or psychiatrist licensed in Dubai who has experience with hoarding can help the person understand the urge to keep things and build new habits; cognitive behavioural approaches are commonly used. Encourage this gently—pressure rarely works.",
+          "Plan a regular check-in: a short visit every week or two, a standing collection for recycling and donations, and one rule for new items coming in. Celebrate what has been achieved, not what remains.",
+          "If you are a landlord or building manager, give written notice of specific safety concerns and reasonable time to address them, and consider whether a family member or support service can be involved. Enforcement without support rarely solves the underlying problem.",
+        ],
+      },
+      {
+        heading: "When you are ready to start",
+        content: [
+          "For agreed items, our [house clearance service](/services/house-clearance-dubai) can work in short, scheduled sessions, and the [junk removal service](/services/junk-removal-dubai) suits small regular collections as the work continues. We brief the crew in advance and follow the resident's instructions.",
+          "[Contact us privately](/contact) with a short description and any safety concerns. We will suggest a pace and price that fits the person, not just the property.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "junk-removal-dubai"],
+    relatedAreas: ["international-city", "mirdif"],
   },
 ];
 
