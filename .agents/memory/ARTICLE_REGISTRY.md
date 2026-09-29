@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-28**
+Last synchronized: **2026-09-29**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -75,15 +75,26 @@ Canonical implementation: `data/blog.ts`
 |  68 | `how to dispose of mirrors and glass in dubai` | Informational | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` | 2026-09-28 | Published |
 |  69 | `how to dispose of baby items in dubai` | Informational | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai` | 2026-09-28 | Published |
 |  70 | `how to help someone clear a hoarded home in dubai` | Informational | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai` | 2026-09-28 | Published |
+|  71 | `how to dispose of expired medicines in dubai` | Informational | `/blog/how-to-dispose-of-expired-medicines-in-dubai` | 2026-09-29 | Published |
+|  72 | `how to dispose of light bulbs in dubai` | Informational | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` | 2026-09-29 | Published |
+|  73 | `how to recycle printer cartridges in dubai` | Informational | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai` | 2026-09-29 | Published |
 
 ## Current counts
 
-- Published: **70**
-- Published on 2026-09-28: **3**
+- Published: **73**
+- Published on 2026-09-29: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **40**
-- Next approved supplemental priority: **None queued; the 2026-09-28 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **43**
+- Next approved supplemental priority: **None queued; the 2026-09-29 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-29 batch
+
+- The expired-medicine guide owns the household medicine-cabinet audit, secure return preparation and pharmacy confirmation. `/blog/items-junk-removal-companies-cannot-take-dubai` retains the cross-category prohibited-items boundary; healthcare-facility pharmaceutical waste stays outside this household guide.
+- The bulbs guide owns the LED, incandescent, CFL and fluorescent-tube distinction, intact packing and mercury-lamp breakage precautions. `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains general e-waste routing, and the post-renovation guide retains contractor-generated debris.
+- The cartridge guide owns ink and toner identification, manufacturer or supplier take-back, dry packing and bulk-office inventory. The e-waste guide retains whole printers and data-bearing equipment; the occupied-office guide retains live-workplace staging.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the e-waste, small-apartment and occupied-office guides.
+- Six original images were generated, resized to 1200 × 800 WebP and compressed within the required limits. See `docs/article-images-2026-09-29.md`.
 
 ## Cannibalization notes for 2026-09-28 batch
 

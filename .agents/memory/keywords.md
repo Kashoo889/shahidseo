@@ -52,6 +52,18 @@ Three further item- and situation-led informational topics requested by the user
 
 Overlap review before drafting: the glass guide owns flat glass and broken-glass handling, not container recycling; the baby-items guide owns child-product reuse safety, not general clothing or furniture donation; the hoarding guide owns the person-led staged clearance, not ordinary room-by-room decluttering.
 
+## Approved editorial expansion — 2026-09-29
+
+Three further specialist-disposal topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each guide owns its material-specific decision and handling process.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of expired medicines in dubai` | Informational | `/blog/how-to-dispose-of-expired-medicines-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of light bulbs in dubai` | Informational | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` | Blog Guide | Approved expansion |
+| `how to recycle printer cartridges in dubai` | Informational | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the medicine guide owns household medicine identification, secure storage and pharmacy-return preparation, not clinical-facility waste; the lamp guide owns bulb identification, mercury-lamp precautions and breakage containment, not general e-waste; the cartridge guide owns ink and toner consumables, manufacturer take-back and packing, not disposal of whole printers.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.
