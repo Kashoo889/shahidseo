@@ -5158,7 +5158,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A villa in [Arabian Ranches](/areas/arabian-ranches) may have driveway access but a narrow side gate between the back garden and vehicle. Photograph that gate, changes in level and any passage beside outdoor equipment. Make clear whether the pile is already near the front or still spread across the property.",
           "For a townhouse in [The Springs](/areas/the-springs), confirm community entry and where a collection vehicle may stop. Shared paths should not become a holding area for cuttings. These are property-specific checks; obtain the current instructions from management rather than relying on a general neighbourhood rule.",
-          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible.",
+          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs.",
         ],
       },
       {
@@ -5962,7 +5962,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "The three-pile sort, done once",
         content: [
           "Work from one box at a time rather than emptying everything onto a table. Each page goes into keep, shred or clean recycling, and nothing goes back into the source box. Momentum matters here more than precision — the pile you agonise over is almost always a shred-pile item.",
-          "Clean recycling is the largest pile in most households and the least interesting: marketing mail, catalogues, expired manuals, envelopes, drafts, school notices, old magazines. Remove plastic windows where they lift out easily, and keep the paper dry and flat.",
+          "Clean recycling is the largest pile in most households and the least interesting: marketing mail, catalogues, expired manuals, envelopes, drafts, school notices, old magazines. Remove plastic windows where they lift out easily, and keep the paper dry and flat. Whole books follow a different decision; the [old books guide](/blog/how-to-dispose-of-old-books-in-dubai) covers reuse and recycling preparation.",
           "Ring binders, lever-arch files and plastic document sleeves are not paper. Strip the contents, keep the binders if they are reusable, and set the plastic aside separately — a box of intact lever-arch files is a common reason a paper load gets rejected as mixed waste.",
           "Watch the weight. Paper is far denser than people expect, and a filled archive box can be genuinely difficult to lift safely. Fill boxes to about two-thirds and use more of them rather than making one that nobody can carry down a stairwell.",
         ],
@@ -6627,7 +6627,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "The glass banks and recycling bins in Dubai communities are designed for containers: bottles and jars. Mirrors carry a reflective coating and backing paint, tabletops and shower screens are usually toughened, and window panes are made to a different specification. Mixing them into container glass contaminates the stream, and the sheer size of a panel can injure whoever empties the bin.",
           "Keep the two apart. Bottles and jars follow the routine in the [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai). Mirrors, glass shelves, tabletops, picture-frame glass and cabinet doors are bulky household items that need a collection or a facility that accepts them.",
-          "Glass cookware, drinking glasses and ceramics are also not container glass. Small quantities that are intact can go to donation; broken pieces are handled like any other broken glass below.",
+          "Glass cookware, drinking glasses and ceramics are also not container glass. Small quantities that are intact can go to donation; broken pieces are handled like any other broken glass below. The [kitchenware disposal guide](/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai) covers the rest of a kitchen clear-out.",
         ],
       },
       {
@@ -7156,6 +7156,282 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["office-cleanout-dubai", "junk-removal-dubai"],
     relatedAreas: ["business-bay", "difc"],
+  },
+  {
+    slug: "how-to-dispose-of-old-books-in-dubai",
+    title: "How to Dispose of Old Books in Dubai Without Wasting Them",
+    seoTitle: "How to Dispose of Old Books in Dubai: Reuse First",
+    excerpt:
+      "How to dispose of old books in Dubai: test their condition, find readers for good copies, prepare damaged ones for paper recycling and pack heavy boxes safely.",
+    category: "Guides",
+    tags: ["Books", "Paper Recycling", "Donation", "Decluttering"],
+    coverImage: "/images/blog/eco-friendly-junk-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Boy stacking hardback books into a clear storage box while his family sorts clothes, tins and electronics into separate containers in a Dubai living room",
+    publishedAt: "2026-09-30",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Check every shelf for damp, mould, insects and loose papers before deciding a book’s route; a single mouldy box can ruin a donation.",
+      "Clean, current books are worth passing on; outdated textbooks, encyclopaedias and damaged copies usually are not.",
+      "Books headed for paper recycling must be dry, and a recycler may ask for hard covers, plastic jackets and spiral bindings to be removed.",
+      "Pack books in small boxes only: a large carton of hardbacks becomes too heavy to lift safely long before it is full.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old books in Dubai",
+        content: [
+          "To dispose of old books in Dubai, sort them into three piles before anything is boxed: books someone else will genuinely read, books that are too damaged or outdated to pass on but are clean and dry enough for paper recycling, and books affected by mould or pests, which should be sealed and collected as general waste. Checked on 30/09/2026.",
+          "That order matters because books are one of the few household items where condition, not age, decides everything. A twenty-year-old novel in good shape can find a reader in a week. A two-year-old textbook that has sat in a humid storeroom can be unusable for anyone.",
+          "The rest of this guide covers how to make that call quickly, where each pile can go, and how to move a book collection out of a tower or villa without injuring whoever carries it.",
+        ],
+        callout: {
+          title: "Open the book before you box it",
+          text: "Flick through each book held by the spine. Cash, letters, photographs, receipts and ID copies turn up inside books during nearly every home clearance.",
+        },
+      },
+      {
+        heading: "Check condition before you decide the route",
+        content: [
+          "Dubai homes are air-conditioned most of the year, but books stored in maid’s rooms, garages, balcony cupboards or storage units often sit in heat and humidity when the AC is off. Look for a musty smell, grey or white bloom on the edges, rippled pages, dark spotting and tiny holes or trails that suggest silverfish or other paper pests.",
+          "Any book with visible mould belongs in its own sealed bag, away from the rest. Mould spores travel, and one affected carton packed with clean books can spoil the whole donation or recycling load. Do not try to wipe mould off and pass the book on; the recipient inherits the problem.",
+          "Also flag books with heavy water damage, torn-out sections, extensive writing or loose bindings. These are not unusable for recycling if they are dry, but nobody will want to read them.",
+        ],
+      },
+      {
+        heading: "Which books other people actually want",
+        content: [
+          "Readable fiction, children’s picture books in good condition, cookbooks, well-kept reference titles and current-edition language or exam guides tend to find new homes. Community book-swap shelves, school or nursery libraries, used-book sellers and neighbourhood online groups are the usual routes. Ask the recipient before you deliver, because many have limited space and specific wants.",
+          "Outdated textbooks, old encyclopaedias, superseded travel guides, software manuals and magazine runs are the hardest to place. A school will rarely take a syllabus it no longer teaches. Be realistic and move these straight to recycling rather than letting them sit in a donation pile for months.",
+          "If you are also clearing clothes or toys, keep the book boxes separate. Mixed donation boxes create sorting work for volunteers and are more likely to be turned away. The [textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) explains how to prepare clothing for its own route.",
+        ],
+      },
+      {
+        heading: "Prepare damaged books for paper recycling",
+        content: [
+          "Paperbacks, magazines and softcover manuals are mostly paper and can usually go into paper recycling when they are dry. Hardbacks are different: the rigid board cover, cloth binding and plastic dust jackets are not the same material as the pages. Many recyclers prefer the hard cover to be torn off and the text block recycled on its own. Ask the building’s recycling operator or the collector what they accept before stripping a whole shelf.",
+          "Remove spiral bindings, plastic sleeves, CDs in pockets and any metal clips. Keep the paper flat and dry; wet paper is heavier, can tear during handling and is often rejected. The [household sorting guide](/blog/how-to-sort-junk-for-maximum-recycling-dubai) explains why a clean, single-material stream is worth the extra few minutes.",
+          "Diaries, address books, annotated work files and books with personal documents tucked inside need a different decision. Anything that identifies you or someone else should follow the keep, shred or recycle method in the [documents and paperwork guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) rather than going into an open recycling bin.",
+        ],
+        image: {
+          src: "/images/blog/what-items-junk-removal-take-dubai-hero.webp",
+          alt: "Crew member checking a tablet beside boxes labelled books and kitchen, a microwave box, a rolled rug and a chair staged in a Dubai tower lobby for pickup",
+        },
+      },
+      {
+        heading: "Pack books so they can be lifted safely",
+        content: [
+          "Books are dense. A large moving carton that looks half-empty can already be too heavy for one person to lift, and a full one will often split at the base. Use small or book-sized cartons, fill them to the top so they do not crush when stacked, and tape the bottom with a cross of tape rather than a single strip.",
+          "Label each box by its route, not its contents: ‘donate’, ‘recycle’ or ‘waste – mould’. The crew or the recipient then knows what to do with it without opening it. Keep donation boxes on top of the stack and recycling boxes underneath, where the weight does less damage.",
+          "Empty bookshelves are often part of the same job. Decide whether the shelving stays, goes to a new home or leaves as bulky waste before anyone starts carrying boxes, so the room is cleared in one pass.",
+        ],
+      },
+      {
+        heading: "Tower and villa logistics for a book collection",
+        content: [
+          "In mid-rise buildings such as those in [The Greens](/areas/the-greens), a large book collection usually means many trips in the service lift. Stack boxes on a trolley close to the lift before the booked slot starts, and never send heavy book boxes down a waste chute; they jam it and can injure building staff.",
+          "Villas and townhouses in [Al Barsha](/areas/al-barsha) often have the opposite problem: books spread across a study, children’s rooms and a storeroom. Consolidate everything in one ground-floor room first, sorted by route. That turns a slow room-by-room collection into a single loading run.",
+          "If the books are part of a move, finish the sort before the packers arrive. Moving books you will give away costs time, boxes and lift slots twice. The [moving boxes guide](/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai) covers what to do with the cartons once the new home is unpacked.",
+        ],
+      },
+      {
+        heading: "When to book a collection",
+        content: [
+          "A shelf or two is easy to handle yourself. A study, a home library, an office archive or a book collection inherited with a property is a different scale of lifting. Our [general junk-removal service](/services/junk-removal-dubai) collects boxed books alongside other household items, and the [house-clearance team](/services/house-clearance-dubai) handles whole rooms when books are only part of what needs to go.",
+          "[Send us a photo of the shelves or the stacked boxes](/contact) and tell us which piles are for donation and which are for recycling. We will quote a fixed price and keep the routes separate on the day.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["the-greens", "al-barsha"],
+  },
+  {
+    slug: "how-to-dispose-of-old-pots-pans-and-kitchenware-dubai",
+    title: "How to Dispose of Old Pots, Pans and Kitchenware in Dubai",
+    seoTitle: "How to Dispose of Old Pots and Pans in Dubai Safely",
+    excerpt:
+      "How to dispose of old pots and pans in Dubai: sort by material, pass on usable cookware, route metal to scrap, wrap knives and split out kitchen electricals.",
+    category: "Eco & Recycling",
+    tags: ["Kitchenware", "Cookware", "Scrap Metal", "Recycling"],
+    coverImage: "/images/blog/sort-junk-recycling-dubai-hero.webp",
+    coverImageAlt:
+      "Crew member stacking flattened cardboard while a resident folds towels beside separate bins of metal kitchenware and small electronics in a Dubai villa garage",
+    publishedAt: "2026-09-30",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Sort kitchenware by material first: metal cookware, ceramics and glass, plastics, and anything with a plug are four separate routes.",
+      "Usable pots, pans and utensils can be passed on; pans with flaking non-stick coating should not be.",
+      "All-metal cookware has value as scrap once plastic handles and glass lids are removed, and a magnet helps sort the metals.",
+      "Wrap every knife and blade before it leaves the kitchen, and never put crockery or sharp items down a waste chute.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old pots and pans in Dubai",
+        content: [
+          "To dispose of old pots and pans in Dubai, separate them by material before anything leaves the kitchen. Pass on cookware that is still safe to use, send all-metal pieces to a scrap-metal or recycling route, wrap knives and broken crockery before they go in a bag, and move anything with a plug into the electrical stream. Checked on 30/09/2026.",
+          "Kitchen clear-outs usually happen at the worst possible moment: during a move-out, with packers on the way and a handover inspection booked. That is when a drawer of mixed utensils gets tipped into one bin bag, and when collectors and building staff get cut. A ten-minute sort avoids both.",
+          "This guide deals with the cookware and utensils themselves. Leftover cooking oil has its own routine in the [used cooking oil guide](/blog/how-to-dispose-of-used-cooking-oil-in-dubai); drain and wipe pans before they are sorted.",
+        ],
+        callout: {
+          title: "Four piles, not one bag",
+          text: "Metal cookware, ceramics and glass, plastics, and electricals. Everything in a kitchen cupboard fits one of those four, and each goes somewhere different.",
+        },
+      },
+      {
+        heading: "Decide what is still worth passing on",
+        content: [
+          "Stainless-steel pots, cast-iron pans, baking trays, cutlery sets and uncracked crockery have long working lives. If they are clean and complete, offer them to a neighbour, a community group, a new arrival setting up a first apartment or a charity that accepts household goods. Ask first; many charities have limited storage for kitchenware.",
+          "Non-stick pans are the exception. Once the coating is visibly flaking, blistered or scratched through to the metal, manufacturers generally advise replacing the pan, so it should not be passed on to someone else to cook with. The same applies to warped pans that no longer sit flat on an induction or ceramic hob.",
+          "Cast iron that has only surface rust can often be scrubbed and re-seasoned. It is worth offering as-is to someone who will restore it rather than scrapping a pan that could last decades.",
+        ],
+      },
+      {
+        heading: "Route metal cookware to scrap or recycling",
+        content: [
+          "Pots, pans, trays, colanders and metal utensils are mostly steel, aluminium or copper, which makes them useful to a scrap-metal dealer or a recycler that accepts metal. They are not the same as drinks cans, so check the building or community recycling rules before dropping a heavy pan into a can bin.",
+          "Remove what is not metal. Unscrew plastic or wooden handles where you can, take off glass lids and silicone seals, and pull rubber gaskets out of pressure cookers. A pan that is all metal is far easier for a recycler to accept than one with a melted handle attached.",
+          "A fridge magnet makes the first sort quick. If it sticks, the item is mostly iron or carbon steel, such as cast iron and many baking trays. If it does not, it is likely aluminium, copper or certain grades of stainless steel. Keeping those groups apart helps if a scrap dealer prices them differently.",
+        ],
+      },
+      {
+        heading: "Crockery, glassware and plastic containers",
+        content: [
+          "Plates, mugs, ceramic bowls, oven dishes and drinking glasses are not container glass and should not go into the bottle and jar recycling bin. Intact pieces can be donated in sets; chipped or cracked ones go into general waste once they are wrapped. The [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) explains how to box broken glass and ceramic safely.",
+          "Plastic food containers, chopping boards and utensils are recyclable only where the recycler accepts that plastic type and the item is clean. Stained, warped or cracked containers usually belong in general waste. Check the recycling symbol and the operator’s list rather than assuming every plastic item is accepted.",
+        ],
+      },
+      {
+        heading: "Wrap knives and sharp items before they move",
+        content: [
+          "Knives, graters, mandoline blades, skewers, broken glass lids and chipped ceramic edges are the items most likely to cut a collector through a bin bag. Wrap each blade in thick cardboard folded over the edge, tape it closed and write ‘sharp’ on the outside. Bundle several wrapped knives together in a small box rather than leaving them loose.",
+          "Never throw sharp items or crockery down a waste chute. Chute bags are handled by building cleaners who cannot see what is inside, and heavy ceramics can break open a bag on impact. In a tower, carry them down with the rest of the sorted kitchen items or hand them to the collection crew with a warning.",
+        ],
+      },
+      {
+        heading: "Keep small kitchen electricals separate",
+        content: [
+          "Kettles, toasters, blenders, rice cookers, microwaves, coffee machines and air fryers are electrical items, not kitchenware. Working ones may be donated; faulty ones need an electronics or e-waste route rather than general waste or metal scrap. Remove any removable batteries and keep cables attached to their appliance.",
+          "The [appliance donation guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) explains how to check that a working appliance is worth offering, and our [appliance-removal service](/services/appliance-removal-dubai) collects kitchen electricals alongside larger white goods when both are leaving.",
+        ],
+        image: {
+          src: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+          alt: "Crew loading a fridge and washing machine while toasters, kettles and a blender sit in a separate crate beside boxed monitors at a Dubai building loading bay",
+        },
+      },
+      {
+        heading: "Apartments, villas and move-out timing",
+        content: [
+          "In [Jumeirah Village Circle](/areas/jumeirah-village-circle) apartments, the kitchen is often the last room cleared before a handover. Do the four-pile sort a day or two earlier so the final morning is only about cleaning, not deciding what to do with a drawer of utensils.",
+          "Family villas and townhouses in [Dubai Silicon Oasis](/areas/dubai-silicon-oasis) tend to accumulate duplicate sets, catering trays and seasonal cookware in storerooms. Bring everything to one worktop, keep one working set of each item, and route the rest in a single session.",
+        ],
+      },
+      {
+        heading: "When to book a collection",
+        content: [
+          "A few pans can go with your own recycling. A full kitchen clear-out, especially alongside furniture and appliances during a move, is easier to hand over in one visit. Our [rubbish-removal service](/services/rubbish-removal-dubai) collects sorted household items, and we keep metal, electricals and donation-grade pieces apart on the truck.",
+          "[Send us a photo of the sorted piles](/contact) and mention any knives or broken crockery. We will give you a fixed price and bring boxes for anything sharp.",
+        ],
+      },
+    ],
+    relatedServices: ["rubbish-removal-dubai", "appliance-removal-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "dubai-silicon-oasis"],
+  },
+  {
+    slug: "how-to-dispose-of-outdoor-and-patio-furniture-dubai",
+    title: "How to Dispose of Outdoor and Patio Furniture in Dubai",
+    seoTitle: "How to Dispose of Outdoor Furniture in Dubai by Material",
+    excerpt:
+      "How to dispose of outdoor furniture in Dubai: judge sun damage, split frames from cushions and glass, empty parasol bases and prepare BBQs before collection.",
+    category: "Guides",
+    tags: ["Outdoor Furniture", "Patio", "Villa Clearance", "Bulky Items"],
+    coverImage: "/images/blog/spring-cleaning-junk-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Crew member carrying a wooden folding patio chair up the ramp of a removal truck loaded with folding chairs, boxes and garden tools outside a Dubai villa",
+    publishedAt: "2026-09-30",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Sun-damaged plastic and synthetic rattan can snap when lifted; test each piece gently before carrying it and wrap brittle items where they stand.",
+      "Split every set into frames, cushions, glass and hardware; each part has a different route and weight.",
+      "Empty water- or sand-filled parasol bases, and declare solid stone or concrete bases before the collection is quoted.",
+      "Disconnect and return BBQ and patio-heater gas cylinders separately, and make sure charcoal ash is completely cold.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of outdoor furniture in Dubai",
+        content: [
+          "To dispose of outdoor furniture in Dubai, first check how much the sun has weakened it, then break each set down by material: metal or timber frames, cushions and fabric, glass tabletops, and heavy accessories such as parasol bases and BBQs. Reusable pieces can be passed on; the rest goes as a declared bulky collection, with gas cylinders handled separately. Checked on 30/09/2026.",
+          "Outdoor furniture looks like ordinary furniture but behaves differently. Years on a terrace or rooftop change the materials: resin chairs turn brittle, rattan weave loosens, steel rusts from inside the tube and cushions hold moisture. Pieces that were light to put out can fail in someone’s hands on the way back in.",
+          "The steps below cover patios, balconies and roof terraces. Plant waste, soil and pots are covered in the [garden waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai); keep them out of the furniture load.",
+        ],
+        callout: {
+          title: "Move it early in the day",
+          text: "Metal frames and glass tops left in the afternoon sun can be too hot to hold without gloves. Schedule outdoor clearances for the morning.",
+        },
+      },
+      {
+        heading: "Check sun damage before anyone lifts it",
+        content: [
+          "Press gently on the seat and arms of plastic or resin chairs. A chalky surface, fine cracks or a creaking flex means the plastic has degraded under UV and may snap when carried. Synthetic rattan sets usually have an aluminium or steel frame under the weave; if the weave is brittle and unravelling, the frame may still be sound but the piece is no longer donation grade.",
+          "Tap steel and wrought-iron frames near the feet and welded joints, where rust starts. Check timber for grey, split or soft sections, especially where legs have stood on wet tiles or irrigation runoff. Loose or rusted bolts often need cutting rather than undoing.",
+          "Anything that fails the check should be wrapped or bundled where it stands rather than carried bare across the garden. A brittle chair that shatters on the driveway leaves sharp plastic across the paving.",
+        ],
+      },
+      {
+        heading: "Which pieces are worth passing on",
+        content: [
+          "Solid teak and hardwood sets, powder-coated aluminium furniture and rattan with an intact weave keep their value well. Clean them, photograph the set with measurements and offer it through a community group or a buyer who collects. Villas downsizing to apartments often have more outdoor furniture than any new balcony will hold, so there is usually demand.",
+          "Cushions are the part most often rejected. Faded fabric is fine, but a musty smell, dark spotting or crumbling foam means the cushions should leave separately, even if the frame is passed on. Buyers and charities are far more likely to take a clean frame alone than a set with damp cushions.",
+          "If a glass tabletop is part of the set, lift it off and wrap it before the frame moves. The [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) shows how to protect toughened glass for transport.",
+        ],
+      },
+      {
+        heading: "Split each set by material",
+        content: [
+          "Break outdoor furniture into four groups before collection day: frames, soft parts, glass, and fixings. Aluminium and steel frames can go to metal recycling, sound timber can be reused or recycled where accepted, and cushions, covers and hammocks go as textiles or general waste depending on condition.",
+          "Keep screws, bolts, feet and glides in a labelled bag taped to the frame they came from. If the piece is being passed on, the new owner needs them; if it is being scrapped, loose hardware lying in the grass is a hazard for mowers and bare feet.",
+          "Stackable chairs and folding loungers are easiest to move nested and strapped together. Large corner sofas and daybeds usually come apart into modules; unclip them rather than carrying a full L-shape through a villa’s side gate.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Supervisor with a tablet checking timber panels, racks of metal furniture frames, a cage of cushions and foam and a rack of glass panels sorted separately in a Dubai warehouse",
+        },
+      },
+      {
+        heading: "Parasols, bases, BBQs and patio heaters",
+        content: [
+          "Parasol and umbrella bases are often much heavier than they look. Plastic bases filled with water or sand should be emptied before collection, and the sand spread on a garden bed rather than washed into a drain. Granite, concrete and cast-iron bases cannot be emptied; tell the collector their approximate size and number so enough people come to lift them.",
+          "Gas BBQs and patio heaters must have their cylinders disconnected, closed and set aside. The cylinder does not go with the furniture; return it through the supplier route described in the [gas cylinder guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai). Scrape off grease and remove loose grill plates so the BBQ body can be carried upright.",
+          "Charcoal BBQs and fire pits need their ash completely cold, ideally left overnight, before it is bagged. Warm ash in a plastic bag inside a hot truck is a genuine fire risk.",
+        ],
+      },
+      {
+        heading: "Villas, balconies and roof terraces",
+        content: [
+          "Villas in [Jumeirah Golf Estates](/areas/jumeirah-golf-estates) often have large dining sets, loungers and heavy planters around the pool. Move the pieces to one staging point near the gate, clear of the pool edge, and check the side-gate width before collection day. Wide sofa modules may need to go through the garage instead.",
+          "Townhouses and apartments in [DAMAC Hills](/areas/damac-hills) bring balcony and roof-terrace furniture back through the home. Protect door frames, lay a sheet along the route and book the service lift if the building requires it. Never lower furniture over a balcony edge; it is dangerous and breaches building rules.",
+        ],
+      },
+      {
+        heading: "When to book a collection",
+        content: [
+          "A single chair can go with other household waste. A full patio set, loungers, parasol bases and a BBQ are a bulky load best handled in one visit. Our [furniture removal service](/services/furniture-removal-dubai) dismantles and carries outdoor sets, and the [bulky-item service](/services/bulky-item-removal-dubai) handles heavy bases, BBQ bodies and awkward pieces.",
+          "[Send us photos of the outdoor furniture](/contact) with rough sizes and any heavy bases or gas equipment. We will give you a fixed price and bring the tools to take the sets apart on site.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["jumeirah-golf-estates", "damac-hills"],
   },
 ];
 

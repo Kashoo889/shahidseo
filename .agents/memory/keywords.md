@@ -64,6 +64,18 @@ Three further specialist-disposal topics requested after the previous queue was 
 
 Overlap review before drafting: the medicine guide owns household medicine identification, secure storage and pharmacy-return preparation, not clinical-facility waste; the lamp guide owns bulb identification, mercury-lamp precautions and breakage containment, not general e-waste; the cartridge guide owns ink and toner consumables, manufacturer take-back and packing, not disposal of whole printers.
 
+## Approved editorial expansion — 2026-09-30
+
+Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`furniture removal dubai`, `bulky waste removal dubai`, `rubbish removal dubai`) stay with the existing service pages. The additions belong to cluster 15, cluster 15 and cluster 08 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of old books in dubai` | Informational | `/blog/how-to-dispose-of-old-books-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old pots and pans in dubai` | Informational | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of outdoor furniture in dubai` | Informational | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the books guide owns book condition, reader-demand triage and binding preparation, not identifying paperwork or shredding; the kitchenware guide owns cookware, utensils and the kitchen-electricals split, not cooking oil, broken-glass containment or appliance donation; the outdoor-furniture guide owns sun-damaged frames, cushions, parasol bases and BBQ preparation, not plant waste or seasonal terrace decluttering.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.

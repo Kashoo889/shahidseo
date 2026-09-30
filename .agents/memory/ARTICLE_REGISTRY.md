@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-29**
+Last synchronized: **2026-09-30**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -78,15 +78,26 @@ Canonical implementation: `data/blog.ts`
 |  71 | `how to dispose of expired medicines in dubai` | Informational | `/blog/how-to-dispose-of-expired-medicines-in-dubai` | 2026-09-29 | Published |
 |  72 | `how to dispose of light bulbs in dubai` | Informational | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` | 2026-09-29 | Published |
 |  73 | `how to recycle printer cartridges in dubai` | Informational | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai` | 2026-09-29 | Published |
+|  74 | `how to dispose of old books in dubai` | Informational | `/blog/how-to-dispose-of-old-books-in-dubai` | 2026-09-30 | Published |
+|  75 | `how to dispose of old pots and pans in dubai` | Informational | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai` | 2026-09-30 | Published |
+|  76 | `how to dispose of outdoor furniture in dubai` | Informational | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` | 2026-09-30 | Published |
 
 ## Current counts
 
-- Published: **73**
-- Published on 2026-09-29: **3**
+- Published: **76**
+- Published on 2026-09-30: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **43**
-- Next approved supplemental priority: **None queued; the 2026-09-29 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **46**
+- Next approved supplemental priority: **None queued; the 2026-09-30 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-09-30 batch
+
+- The old-books guide owns the book condition test (damp, mould, pests, loose papers), reader-demand triage, hardback and binding preparation for paper recycling, and dense-box packing. `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` retains identifying papers and shredding; `/blog/how-to-sort-junk-for-maximum-recycling-dubai` retains general source separation. No specific charity or bookseller acceptance policies are stated.
+- The kitchenware guide owns the four-pile kitchen sort, cookware reuse limits (flaking non-stick, warped pans), metal cookware preparation for scrap, sharp-item wrapping and the kitchen-electricals split. `/blog/how-to-dispose-of-used-cooking-oil-in-dubai` retains oil, `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains broken glass and ceramic containment, and `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains appliance donation checks.
+- The outdoor-furniture guide owns UV and rust condition checks, frame/cushion/glass/fixings separation, parasol-base handling and BBQ or patio-heater preparation. `/blog/how-to-dispose-of-garden-waste-in-dubai` retains plant material, soil and pots; `/blog/how-to-dispose-of-gas-cylinders-in-dubai` retains cylinder return; `/blog/spring-cleaning-junk-removal-checklist-dubai` retains seasonal terrace decluttering.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the documents, mirrors-and-glass and garden-waste guides.
+- Images reuse existing assets from `public/images/blog/` at the user's request (no generation or stock sourcing). See `docs/article-images-2026-09-30.md`.
 
 ## Cannibalization notes for 2026-09-29 batch
 
