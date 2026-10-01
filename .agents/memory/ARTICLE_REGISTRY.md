@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-09-30**
+Last synchronized: **2026-10-01**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -81,15 +81,26 @@ Canonical implementation: `data/blog.ts`
 |  74 | `how to dispose of old books in dubai` | Informational | `/blog/how-to-dispose-of-old-books-in-dubai` | 2026-09-30 | Published |
 |  75 | `how to dispose of old pots and pans in dubai` | Informational | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai` | 2026-09-30 | Published |
 |  76 | `how to dispose of outdoor furniture in dubai` | Informational | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` | 2026-09-30 | Published |
+|  77 | `how to dispose of cleaning products in dubai` | Informational | `/blog/how-to-dispose-of-household-cleaning-products-dubai` | 2026-10-01 | Published |
+|  78 | `how to dispose of old camping gear in dubai` | Informational | `/blog/how-to-dispose-of-old-camping-gear-in-dubai` | 2026-10-01 | Published |
+|  79 | `how to dispose of curtains and blinds in dubai` | Informational | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai` | 2026-10-01 | Published |
 
 ## Current counts
 
-- Published: **76**
-- Published on 2026-09-30: **3**
+- Published: **79**
+- Published on 2026-10-01: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **46**
-- Next approved supplemental priority: **None queued; the 2026-09-30 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **49**
+- Next approved supplemental priority: **None queued; the 2026-10-01 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-01 batch
+
+- The cleaning-products guide owns household cleaner identification, original-container storage, incompatibility precautions and specialist-route confirmation. `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai` retains paint and renovation liquids; `/blog/items-junk-removal-companies-cannot-take-dubai` retains the cross-category acceptance boundary.
+- The camping-gear guide owns the complete outdoor-equipment audit across tents, sleeping gear, folding furniture, tools, fuel and electronics. `/blog/how-to-dispose-of-gas-cylinders-in-dubai` retains supplier return and cylinder incidents; `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains battery chemistry and terminal protection.
+- The curtains-and-blinds guide owns the ownership check, paired fabric reuse, safe track dismantling, material separation and powered-blind split. `/blog/what-to-remove-before-rental-handover-dubai` retains the whole-property handover decision; `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains general clothing and linen sorting.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the prohibited-items, spring-cleaning and rental-handover guides.
+- Images reuse six existing 1200 × 800 WebP assets from `public/images/blog/` at the user's request; no images were generated or sourced externally. See `docs/article-images-2026-10-01.md`.
 
 ## Cannibalization notes for 2026-09-30 batch
 

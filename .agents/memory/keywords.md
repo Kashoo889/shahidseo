@@ -76,6 +76,18 @@ Three further item-specific informational topics requested after the previous qu
 
 Overlap review before drafting: the books guide owns book condition, reader-demand triage and binding preparation, not identifying paperwork or shredding; the kitchenware guide owns cookware, utensils and the kitchen-electricals split, not cooking oil, broken-glass containment or appliance donation; the outdoor-furniture guide owns sun-damaged frames, cushions, parasol bases and BBQ preparation, not plant waste or seasonal terrace decluttering.
 
+## Approved editorial expansion — 2026-10-01
+
+Three further household-item informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each guide owns its specific sorting and safe-handover decision.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of cleaning products in dubai` | Informational | `/blog/how-to-dispose-of-household-cleaning-products-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old camping gear in dubai` | Informational | `/blog/how-to-dispose-of-old-camping-gear-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of curtains and blinds in dubai` | Informational | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the cleaning-products guide owns the household cupboard audit, original-container rule and specialist handover, not paint or the cross-category prohibited-items inventory; the camping guide owns tents, sleeping gear, outdoor furniture, fuel and powered equipment as one pre-collection audit, while the gas-cylinder and battery guides retain their specialist streams; the curtains-and-blinds guide owns tenancy authority, reusable fabric, tracks and powered systems, not general textiles or the full rental handover.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.

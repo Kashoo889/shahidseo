@@ -2069,7 +2069,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Stage 1: The garage junk removal checklist for villa owners",
         content: [
           "For villa communities such as [Arabian Ranches](/areas/arabian-ranches) and [The Springs](/areas/the-springs), garages rarely stay two-car parking bays for long. They inevitably absorb broken children's bicycles, cracked desert camping chairs, deflated paddleboards, discarded packaging from appliance purchases, and half-empty paint tins left by maintenance teams.",
-          "Treat garage junk removal in Dubai as a zone-by-zone purge rather than pulling everything out at once. Start by clearing the floor perimeter so you have a safe walking lane. Inspect your desert and barbecue equipment honestly: if a tent has dry-rotted canvas or bent poles from last winter's dune trip, it is taking up valuable real estate.",
+          "Treat garage junk removal in Dubai as a zone-by-zone purge rather than pulling everything out at once. Start by clearing the floor perimeter so you have a safe walking lane. Inspect your desert and barbecue equipment honestly: if a tent has dry-rotted canvas or bent poles from last winter's dune trip, it is taking up valuable real estate. Use the [camping-gear disposal guide](/blog/how-to-dispose-of-old-camping-gear-in-dubai) to separate tents and furniture from fuel, batteries and powered equipment.",
         ],
         listItems: [
           "Empty and recycle flattened cardboard boxes that attract silverfish and moisture.",
@@ -5356,7 +5356,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Treat curtains, brackets and installed additions individually",
         content: [
-          "Curtains, blinds, light fittings, TV brackets and extra shelves often create uncertainty because they can be personal purchases yet attached to the building. Locate the permission or retention agreement and ask what the landlord expects for that particular item. Avoid a blanket assumption that every removable object should leave.",
+          "Curtains, blinds, light fittings, TV brackets and extra shelves often create uncertainty because they can be personal purchases yet attached to the building. Locate the permission or retention agreement and ask what the landlord expects for that particular item. Avoid a blanket assumption that every removable object should leave. If removal is approved, the [curtains-and-blinds disposal guide](/blog/how-to-dispose-of-old-curtains-and-blinds-dubai) covers fabric reuse, tracks, motors and safe dismantling.",
           "Separate detachment from repair. If removal is agreed, specify who disconnects services, takes down the fitting and completes any approved making-good work. A waste collection quote should not silently include electrical work, plumbing changes or wall repairs.",
           "Garden additions need the same discipline. Check permission for sheds, pergolas, planted features and irrigation equipment before organising dismantling. For loose cuttings produced by agreed work, the [garden-waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) covers sorting and collection.",
           "Photograph the item before work and the area after completion. Keep any approval with those images so the inspection can be compared with the agreed instruction.",
@@ -6054,7 +6054,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "The clear no-go group for a general household load",
         content: [
-          "Do not put fuels, thinners, solvents, pool chemicals, pesticides or unidentified liquids into bags or furniture drawers. Keep each product in its original closed container where possible, do not mix residues, and ask Dubai Municipality or an approved hazardous-waste operator for the current route. The [paint and hazardous-liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) explains the same rule in more detail.",
+          "Do not put fuels, thinners, solvents, pool chemicals, pesticides or unidentified liquids into bags or furniture drawers. Keep each product in its original closed container where possible, do not mix residues, and ask Dubai Municipality or an approved hazardous-waste operator for the current route. The [paint and hazardous-liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) covers renovation products, while the [household cleaning-product guide](/blog/how-to-dispose-of-household-cleaning-products-dubai) covers bleach, disinfectants, drain cleaners and the cupboard audit.",
           "Medical waste also stays out. Needles, lancets and other sharps need a rigid approved container and a healthcare or specialist route; medicines should follow current pharmacy or health-authority advice. A taped cardboard box is not a sharps container, and a black bag does not make clinical material ordinary waste.",
           "Explosives, ammunition, fireworks and suspected asbestos are not clearance items. Stop moving them, keep people away and contact the appropriate authority or qualified specialist. A removal crew should never improvise around an unknown cylinder, damaged chemical container or suspect building material.",
         ],
@@ -7432,6 +7432,290 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
     relatedAreas: ["jumeirah-golf-estates", "damac-hills"],
+  },
+  {
+    slug: "how-to-dispose-of-household-cleaning-products-dubai",
+    title: "How to Dispose of Household Cleaning Products in Dubai",
+    seoTitle: "Cleaning Product Disposal Dubai: A Safe Home Guide",
+    excerpt:
+      "How to dispose of cleaning products in Dubai: identify the contents, keep chemicals in original containers and confirm a specialist route before collection.",
+    category: "Eco & Recycling",
+    tags: ["Cleaning Products", "Household Chemicals", "Hazardous Waste", "Home Safety"],
+    coverImage: "/images/blog/controlled-waste-separation-dubai-20260923-body.webp",
+    coverImageAlt:
+      "Sealed household chemical containers isolated in a rigid tray beside other controlled items outside a Dubai villa",
+    publishedAt: "2026-10-01",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Read the label before moving a product and keep every cleaner in its original closed container.",
+      "Never mix leftover cleaners, pour them into drinks bottles or empty them into a sink, toilet, drain or street gutter.",
+      "Separate leaking, unlabelled, corrosive, flammable, pesticide and aerosol products from ordinary household contents.",
+      "Confirm the receiving facility or specialist collector before transport; a normal junk load is not a chemical-disposal route.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of household cleaning products in Dubai",
+        content: [
+          "To dispose of household cleaning products in Dubai, keep each product in its original labelled container, separate anything leaking or unidentifiable, and ask your building, community waste operator or an approved hazardous-waste collector for the correct route before moving it. Never combine products or pour them into a drain. Checked on 01/10/2026.",
+          "Dubai Municipality describes discarded cleaning fluids and pesticides as examples of materials that can fall within hazardous waste because unwanted chemicals may be toxic, reactive, ignitable or corrosive. That does not mean every half-used bottle follows one identical route. The label, ingredients, condition, quantity and source all affect what a collector can accept.",
+          "The safest household method is an inventory, not a bin bag. Photograph labels, count the containers and disclose damaged packaging before collection. That gives the operator enough information to say yes, refuse it or direct you to a specialist route without anyone opening containers at the doorstep.",
+        ],
+        callout: {
+          title: "Do not create an unknown mixture",
+          text: "Bleach, acids, ammonia cleaners, drain openers and solvents can react dangerously. Leave every product separate and follow its label rather than trying to reduce the number of bottles.",
+        },
+      },
+      {
+        heading: "Start with a label-by-label cupboard audit",
+        content: [
+          "Work in a ventilated area away from children, pets, food and ignition sources. Check kitchen cupboards, bathrooms, utility rooms, balcony cabinets and the garage. Sort products into current-use items, sealed usable surplus, expired or unwanted products, damaged containers and unknown liquids. Wear the protection stated on each label; do not sniff an unknown bottle to identify it.",
+          "Keep disinfectants, bleach products, toilet cleaners, oven cleaners, drain openers, descalers, solvents, polishes, pesticides and pool chemicals in separate groups. Aerosols and pressurised cans need their own group because heat or puncture changes the risk. Dubai summer temperatures make a parked car or sunny balcony a poor temporary storage place.",
+          "If a label is faded, keep the container isolated and describe it as unknown. Guessing that a clear liquid is water or transferring it to a fresh bottle removes the warnings a specialist needs. The [guide to items ordinary junk collections cannot take](/blog/items-junk-removal-companies-cannot-take-dubai) explains why unidentified liquids stay outside a mixed load.",
+        ],
+      },
+      {
+        heading: "Keep containers closed, upright and separated",
+        content: [
+          "Tighten the original cap only if it can be done without touching residue or forcing damaged threads. Stand bottles upright in a rigid plastic tray with enough separation to prevent them striking each other. Keep incompatible product groups apart and leave powders dry. Do not tape over safety information or wrap a leaking bottle so completely that the collector cannot inspect it.",
+          "For a minor external drip, place the entire original container into compatible secondary containment and ask the receiver how it should be transported. If a container is swollen, hot, hissing, heavily corroded or releasing strong fumes, move people away and contact building security or emergency services as appropriate; do not carry it through a lobby or put it in a vehicle.",
+          "Never use food jars, water bottles or soft-drink containers for unwanted chemicals. UAE public-health guidance warns against transferring household products into food or drink containers because another person can mistake the contents. Keep the original label with the product all the way to handover.",
+        ],
+        image: {
+          src: "/images/blog/prohibited-junk-items-dubai-20260923-hero.webp",
+          alt: "Dubai waste worker separating paint tins, a battery and a gas cylinder from ordinary furniture and cardboard outside a villa",
+        },
+      },
+      {
+        heading: "Do not use sinks, drains, toilets or outdoor ground",
+        content: [
+          "Pouring a cleaner away is still disposal. The product can react with something already in the pipe, expose maintenance workers or enter a system that was not designed for concentrated chemical waste. Do not use the kitchen sink, toilet, floor drain, storm-water grate, garden soil or an empty plot as a shortcut.",
+          "Do not deliberately evaporate liquids, burn packaging or rinse a bottle merely to place it with plastic recycling. Dubai waste rules prohibit disposal that can harm public health, the environment, containers or collection workers, and open burning is prohibited. Contaminated chemical packaging may also require a different route from clean household packaging.",
+          "If the product is still usable and in sound, in-date packaging, the least wasteful option may be to use it exactly as directed or offer it to someone who has confirmed they need that exact product. Never pass on an unlabelled, leaking, recalled or restricted product.",
+        ],
+      },
+      {
+        heading: "Confirm who will accept the exact products",
+        content: [
+          "Ask your building or community facilities team which operator manages household chemicals, then verify the acceptance list directly. Give the product names, approximate sizes, count, condition and whether anything is aerosolised, flammable, corrosive, pesticide-based or unknown. A recycling centre that accepts paper, cans and electronics is not automatically authorised to receive chemical liquids.",
+          "Businesses, cleaning contractors and facilities teams should use their approved commercial process rather than presenting stock as household waste. Dubai Municipality’s hazardous-waste system uses classification, approved transport and specified disposal facilities; incompatible wastes should not be transported together. Retain the collector’s record where compliance evidence matters.",
+          "Ask what the receiver needs on collection day: an inventory, photographs, safety data sheets for commercial products, sealed secondary containers or a minimum quantity. Do not package first and ask later. A collector may need different containers or separate visits for aerosols, pesticides and corrosive liquids, even when they were stored in the same cupboard.",
+          "In a [Dubai Marina](/areas/dubai-marina) tower, agree how a specialist collector reaches the service area without leaving products in a waste room. At an [Arabian Ranches](/areas/arabian-ranches) villa, keep them shaded and secured until the confirmed handover rather than staging them at the roadside.",
+        ],
+      },
+      {
+        heading: "Cleaning products during a move or house clearance",
+        content: [
+          "Remove chemical products from cupboards before packers or a clearance crew starts. Mark one no-load zone for the cleaners that still need a confirmed route, and keep current products for the final clean in a separate carry box. This prevents a sealed bottle from disappearing into a carton of kitchenware or tipping inside a furniture truck.",
+          "The [paint and hazardous-liquids guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) covers paints, solvents and renovation products in more detail. Medicines have a pharmacy-led route described in the [expired-medicine guide](/blog/how-to-dispose-of-expired-medicines-in-dubai). Keep those streams separate even if they are discovered in the same cupboard.",
+          "Our [house-clearance service](/services/house-clearance-dubai) can remove the accepted furniture and contents around the controlled items, while the [rubbish-removal service](/services/rubbish-removal-dubai) suits smaller ordinary loads. Chemical products remain excluded until an appropriate receiver has confirmed them.",
+        ],
+      },
+      {
+        heading: "Prepare a clear collection brief",
+        content: [
+          "Send one photograph showing all containers upright, plus close photographs of the readable labels and any damage. State whether the items come from a home, holiday rental, cleaning store or business, because source and quantity matter. Keep children and pets away from the staging area and do not move the products again after the specialist has approved the setup.",
+          "[Send us the ordinary clearance inventory](/contact) and identify the chemical group separately. We will quote the furniture and household contents without hiding restricted products inside the load, and help keep the two collection scopes clear.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-dispose-of-old-camping-gear-in-dubai",
+    title: "How to Dispose of Old Camping Gear in Dubai Responsibly",
+    seoTitle: "Old Camping Gear Disposal Dubai: Reuse and Safety",
+    excerpt:
+      "How to dispose of camping gear in Dubai: clean reusable equipment, separate fuel and batteries, sort mixed materials and prepare a safe collection.",
+    category: "Eco & Recycling",
+    tags: ["Camping Gear", "Outdoor Equipment", "Reuse", "Specialist Waste"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Dubai residents sorting folded camping chairs, fabric outdoor gear, tools and donation boxes in a villa garage",
+    publishedAt: "2026-10-01",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Clean sand and moisture from tents, chairs and sleeping gear before judging whether another camper can use them.",
+      "Fuel canisters, cylinders, batteries, lamps and powered coolers must be removed from the ordinary equipment pile.",
+      "Do not puncture, crush, burn or conceal camping fuel containers, even when they feel empty.",
+      "Bundle poles, pegs and sharp tools securely and tell the collection crew about every heavy or pressurised item.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old camping gear in Dubai",
+        content: [
+          "To dispose of old camping gear in Dubai, unpack and clean everything first, pass on equipment that is complete and safe, separate textiles from metal and rigid plastic, and remove fuel, batteries and electronics for their own confirmed routes. Never place a gas cylinder or camping canister inside a general junk bag. Checked on 01/10/2026.",
+          "A camping cupboard is rarely one waste stream. A tent combines fabric, mesh, zips, fibreglass or aluminium poles and steel pegs. A camp kitchen may add a stove, gas supply, battery lantern, electrical cooler, knives and chemical toilet products. Loading it all as ‘outdoor gear’ hides the parts that determine safe handling.",
+          "The practical order is clean, test, match the pieces, separate controlled items, then choose reuse or disposal. Doing this at home is quicker than discovering loose pegs, leaking batteries or an attached gas bottle beside the truck.",
+        ],
+        callout: {
+          title: "Open every bag before it leaves",
+          text: "Tent bags and camp-kitchen boxes often hide gas canisters, batteries, matches, knives and medicines. Check every pocket rather than trusting the label on the bag.",
+        },
+      },
+      {
+        heading: "Clean and dry gear before deciding its condition",
+        content: [
+          "Shake sand outdoors, brush dried mud from poles and chairs, and air tents, sleeping bags and fabric storage in shade. Do not pack damp textiles. A tent that smells musty or shows black spotting may have mould through the coating, while a sleeping bag stored compressed in heat may have lost loft even if the shell looks clean.",
+          "Inspect tent seams, zips, pole sleeves and the waterproof floor. Match every pole section, guy line and peg to the correct tent. For folding chairs and tables, test locks, hinges and fabric stitching without putting full body weight on sun-damaged parts. Dubai heat can make plastic feet and woven seats brittle.",
+          "Complete, clean equipment is easier to sell or give away before the winter camping season. Photograph it assembled, state any repair honestly and include dimensions. A recipient can judge a working tent; a bag of unmatched poles and fabric is usually a disposal problem transferred to someone else.",
+          "Small repairs can preserve useful gear, but safety parts need a firmer standard. Replace an ordinary guy line or missing peg if the correct part is available; do not improvise repairs to stove valves, fuel hoses, electrical wiring or load-bearing chair joints. If safe performance is uncertain, keep the item out of the reuse pile and disclose the defect to the collector.",
+        ],
+      },
+      {
+        heading: "Separate gas, fuel and anything pressurised",
+        content: [
+          "Remove refillable gas cylinders, disposable stove canisters, liquid fuel bottles, firelighters, charcoal and aerosols before sorting the remaining gear. Keep valves closed, caps fitted and products upright in the safe storage arrangement specified by the supplier. Do not test whether a canister is empty by puncturing, drilling, burning or crushing it.",
+          "Return refillable cylinders through the supplier process. The [Dubai gas-cylinder disposal guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai) explains why ownership, valve condition and supplier identification come before movement. Ask the stove or canister supplier about non-refillable cartridges; do not assume a metal-recycling bin accepts a pressurised container.",
+          "If you smell gas, hear a leak or see severe corrosion, keep people away, avoid switches, flames and engines, and call the supplier or emergency services from a safe location. A household removal crew is not equipped to investigate a leaking fuel container.",
+        ],
+        image: {
+          src: "/images/blog/lpg-cylinder-storage-dubai-20260923-body.webp",
+          alt: "Closed gas cylinder standing upright inside a protected and ventilated storage bay at a Dubai villa",
+        },
+      },
+      {
+        heading: "Remove batteries and powered equipment",
+        content: [
+          "Lanterns, head torches, pumps, fans, radios, power banks, GPS units and powered coolers belong in the electrical check. Remove ordinary replaceable batteries where the design allows it, tape exposed terminals when appropriate and keep damaged or swollen cells isolated. Do not leave batteries inside a device that may be crushed with metal frames.",
+          "A working 12-volt fridge or cooler can be passed on with its leads and instructions. A failed unit needs an e-waste route; its compressor, circuit board or battery means it is not just a plastic box. Use the [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) for the detailed separation steps.",
+          "Check rechargeable lanterns for built-in cells before donation. Tell the recipient if the battery no longer holds charge, and do not give away a device with heat damage, swelling, exposed wiring or a cracked charger.",
+        ],
+      },
+      {
+        heading: "Sort tents, sleeping gear, furniture and tools",
+        content: [
+          "Clean tents, sleeping bags, blankets and ground sheets can follow a textile reuse route when complete and dry. Torn coated fabric, foam sleeping mats and insulated pads are mixed materials, so ask the receiving recycler before putting them with clothing. The [textile disposal guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) covers condition and bagging without treating every fabric as recyclable.",
+          "Aluminium tent poles, steel pegs, grills and unpowered frames can be grouped as metal after fabric, rubber and plastic parts are removed where practical. Bundle poles and pegs so their ends cannot pierce a bag. Wrap axes, saws, knives and skewers in rigid protection, label them and hand them over directly rather than leaving them loose in a box.",
+          "Broken folding tables, cool boxes and plastic crates may be bulky residual items if their polymer is not accepted locally. Do not force them into a packaging-recycling bin simply because they are plastic. Ask the operator about the item, not only the material name.",
+          "Keep first-aid supplies, sunscreen, insect repellent and water-treatment chemicals out of the gear bag as well. In-date sealed products can stay with your active kit; expired medicines need the pharmacy-led route, while leaking or unidentified chemicals need specialist advice. Check cookware for grease, knives for protective sheaths and water containers for odour before offering any camp-kitchen set for reuse.",
+        ],
+      },
+      {
+        heading: "Plan the pickup around garage and building access",
+        content: [
+          "Villa garages in [Arabian Ranches](/areas/arabian-ranches) often hold camping equipment behind tools, bicycles and seasonal furniture. Bring the approved gear to one shaded staging zone without blocking the car or exit, and register the collection vehicle with community security where required.",
+          "Apartments around [Dubai Sports City](/areas/dubai-sports-city) may store gear in balcony cabinets or basement lockers. Check the tenancy or storage rules, reserve the service lift for larger coolers and tables, and keep fuel items outside the general building collection until their supplier route is confirmed.",
+          "A small set of reusable gear is easy to hand over yourself. For a full garage or storeroom, our [house-clearance service](/services/house-clearance-dubai) can remove the accepted household and outdoor items, while the [bulky-item service](/services/bulky-item-removal-dubai) handles heavy tables, coolers and broken furniture after controlled items are separated.",
+        ],
+      },
+      {
+        heading: "Make the collection list specific",
+        content: [
+          "Count tents, chairs, tables, coolers and storage crates separately, photograph them open and declare sharp tools, electrical items and any fuel equipment. Say which pieces are for reuse and which are damaged. That lets the crew preserve working sets instead of compressing them with broken frames.",
+          "[Send us photos of the sorted camping equipment](/contact) for a fixed quote. We will price the accepted gear and keep gas, fuel, batteries and other specialist items outside the general load unless their route is confirmed in advance.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-sports-city"],
+  },
+  {
+    slug: "how-to-dispose-of-old-curtains-and-blinds-dubai",
+    title: "How to Dispose of Old Curtains and Blinds in Dubai",
+    seoTitle: "Curtains and Blinds Disposal Dubai: A Practical Guide",
+    excerpt:
+      "How to dispose of curtains and blinds in Dubai: confirm ownership, clean reusable fabric, dismantle tracks safely and separate motors, metal and textiles.",
+    category: "Moving & Clearance",
+    tags: ["Curtains", "Blinds", "Textile Reuse", "Rental Handover"],
+    coverImage: "/images/blog/move-out-junk-sorting-dubai.webp",
+    coverImageAlt:
+      "Curtains hanging beside labelled move-out boxes, dismantled furniture and sorted electronics in a Dubai apartment",
+    publishedAt: "2026-10-01",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Tenants should confirm in writing whether curtains, blinds, tracks and motors stay with the property before removing them.",
+      "Clean, complete curtains can be reused; sun-rotted, mouldy or permanently stained fabric should not be passed on.",
+      "Separate fabric, tracks, brackets, weights, chains, motors and batteries instead of treating a window covering as one material.",
+      "Qualified help may be needed for high windows, powered blinds and any fitting connected to mains electricity.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old curtains and blinds in Dubai",
+        content: [
+          "To dispose of curtains and blinds in Dubai, first confirm who owns them and whether they must remain at handover. Then take down reusable curtains clean and complete, separate damaged textiles from metal tracks and plastic fittings, and have powered systems disconnected safely. Do not remove landlord fixtures or leave bare brackets without written agreement. Checked on 01/10/2026.",
+          "Window coverings sit awkwardly between furnishing and fixture. Curtains may belong to the tenant, while the track, blackout blind or motor was installed with the property. In another home, the whole system may have been fitted by the tenant under an alteration approval that requires reinstatement at move-out.",
+          "That ownership question comes before recycling. A perfectly sorted blind can still create a deposit dispute if it should have stayed, and a tenant can waste money removing a track only to be told to install a replacement before inspection.",
+        ],
+        callout: {
+          title: "Photograph the window before dismantling",
+          text: "Capture the curtain or blind, brackets, wall condition, controls and any inventory reference. Agree what stays and what must be made good before tools come out.",
+        },
+      },
+      {
+        heading: "Confirm ownership and the handover requirement",
+        content: [
+          "Check the tenancy contract, move-in inventory, alteration approval and recent messages with the landlord or property manager. Ask one direct written question for each element: fabric, blind, track, brackets, pelmet, motor, remote and wall switch. Do not rely on a verbal instruction from building security or a maintenance technician who does not represent the owner.",
+          "If the covering stays, clean it and leave controls together in a labelled place. If it leaves, agree whether holes must be filled, damaged paint repaired or the original system reinstalled. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains how to record those stay-or-remove decisions without guessing.",
+          "Owners replacing blinds between tenancies should also photograph the old system before disposal. Measurements, motor labels and bracket positions can help the installer specify a replacement even after the original has gone.",
+        ],
+      },
+      {
+        heading: "Decide whether the fabric is genuinely reusable",
+        content: [
+          "Take curtains down in pairs and keep hooks, tiebacks and matching panels together. Check the care label before washing or steaming; lined, interlined and blackout curtains can shrink, delaminate or mark if treated like ordinary clothing. Vacuum surface dust first and use professional cleaning where the construction requires it.",
+          "Pass on curtains only when they are clean, dry, odour-free and free from mould, pest damage and severe sun weakening. Record the drop, width and heading type—eyelet, pencil pleat, pinch pleat or wave—because a recipient needs to know whether they fit. Fold each pair with its accessories in one labelled bag.",
+          "Fabric that tears when gently tensioned at the hem has usually lost strength from UV exposure. Permanent mildew, crumbling blackout backing and heavy smoke odour also make reuse unrealistic. The [old textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) covers clean textile recovery, but acceptance must be checked because coated curtain material is not the same as clothing.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Dubai recovery facility separating soft furnishings, metal frames, timber panels and glass into different material routes",
+        },
+      },
+      {
+        heading: "Take down tracks and manual blinds safely",
+        content: [
+          "Use a stable platform suited to the window height and have a second person support long tracks. Remove the fabric or blind first so the headrail is lighter, then bag small screws, end stops, runners and brackets. Long aluminium rails can spring or scratch walls when one end is released unexpectedly, so support the full length before undoing the final fixing.",
+          "Roller, Roman, Venetian and vertical blinds each come apart differently. Keep beaded chains, cords and loose loops secured because they can entangle children, pets and workers. Do not cut a tensioned mechanism or dismantle a spring cassette unless the manufacturer’s instructions say it is safe.",
+          "Very high atrium windows, stairwell curtains and heavy hotel-style tracks need trained access equipment. A normal chair or stacked boxes are not a substitute for a proper platform. Stop if the fitting is beyond comfortable reach or if you cannot tell how it is fixed.",
+        ],
+      },
+      {
+        heading: "Powered blinds are electrical equipment",
+        content: [
+          "A motorised blind may use a plug-in transformer, rechargeable battery, removable cells, solar pack or mains connection. Identify the system before dismantling. Switch off and isolate it according to the manufacturer’s instructions, and use a qualified electrician for anything hard-wired. Do not cut a cable to make the blind easier to carry.",
+          "Keep motors, controls, remotes and chargers together if the system will be reused. Remove accessible batteries only where the product instructions allow, protect their terminals and use the correct battery route. Failed motors and control boards belong with electrical waste, not in the metal track pile.",
+          "The [small-electronics and battery guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains that separation. Tell a recycler the system is a powered blind rather than describing it only as aluminium or fabric.",
+        ],
+      },
+      {
+        heading: "Separate the materials after dismantling",
+        content: [
+          "Create groups for reusable complete sets, clean textile, aluminium or steel rails, timber or rigid-plastic slats, electrical parts and residual mixed material. Remove loose hooks and weights from fabric, but do not spend hours stripping a bonded blackout blind unless a confirmed recycler asks for that preparation.",
+          "Metal tracks and headrails may suit a scrap route once plastic end caps, cords and motors are removed. Wooden Venetian slats are often coated, drilled and threaded, so their route may differ from clean timber. PVC and composite slats should not enter packaging-plastic recycling without the operator’s approval.",
+          "Bundle long rails, wrap sharp cut ends and write the length on the outside. Never leave tracks leaning in a corridor or beside a communal bin; they can fall, block an exit or damage a collection vehicle when loaded without warning.",
+        ],
+      },
+      {
+        heading: "Plan the removal around the property",
+        content: [
+          "In [Downtown Dubai](/areas/downtown-dubai) apartments, curtains and blinds are often removed during the final cleaning window. Confirm the service-lift slot before adding long tracks to a clearance, protect lift walls and keep the windows covered until privacy is no longer needed.",
+          "Villas in [Dubai Hills Estate](/areas/dubai-hills-estate) may have double-height glazing, several matching rooms and motorised systems. Inventory by room and finish one complete window at a time so remotes, brackets and paired panels do not become mixed across the house.",
+          "Our [house-clearance service](/services/house-clearance-dubai) can collect approved curtains, blinds and other move-out contents once ownership and disconnection are settled. The [furniture-removal service](/services/furniture-removal-dubai) suits a smaller load when window coverings leave with beds, wardrobes or other furnishings.",
+        ],
+      },
+      {
+        heading: "Include the details in the collection request",
+        content: [
+          "Photograph every window, then the dismantled piles. State the number and length of tracks, whether blinds are manual or powered, and whether any access equipment is required. Separate reusable sets from damaged material before the crew arrives and identify anything that still belongs to the landlord.",
+          "[Send us the window-covering inventory](/contact) with the rest of the clearance photos. We will quote the accepted removal scope and flag any high-level, electrical or ownership issue that must be resolved first.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-hills-estate"],
   },
 ];
 
