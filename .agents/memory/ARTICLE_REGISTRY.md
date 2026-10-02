@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-01**
+Last synchronized: **2026-10-02**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -84,15 +84,26 @@ Canonical implementation: `data/blog.ts`
 |  77 | `how to dispose of cleaning products in dubai` | Informational | `/blog/how-to-dispose-of-household-cleaning-products-dubai` | 2026-10-01 | Published |
 |  78 | `how to dispose of old camping gear in dubai` | Informational | `/blog/how-to-dispose-of-old-camping-gear-in-dubai` | 2026-10-01 | Published |
 |  79 | `how to dispose of curtains and blinds in dubai` | Informational | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai` | 2026-10-01 | Published |
+|  80 | `how to dispose of a washing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` | 2026-10-02 | Published |
+|  81 | `how to dispose of an old tv in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | 2026-10-02 | Published |
+|  82 | `how to dispose of an old wardrobe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` | 2026-10-02 | Published |
 
 ## Current counts
 
-- Published: **79**
-- Published on 2026-10-01: **3**
+- Published: **82**
+- Published on 2026-10-02: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **49**
-- Next approved supplemental priority: **None queued; the 2026-10-01 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **52**
+- Next approved supplemental priority: **None queued; the 2026-10-02 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-02 batch
+
+- The washing-machine guide owns the ownership check, residual-water draining, hose disconnection, drum securing and the reuse-or-recycle test for a single washer. `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains cross-appliance donation routes; `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant equipment, referenced only for heat-pump washer-dryers. Commercial `washing machine removal/disposal dubai` stays with `/services/appliance-removal-dubai`.
+- The TV guide owns smart-TV account sign-out, wall-mount removal, bracket ownership, screen protection and the reuse test for televisions. `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the general e-waste stream; `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains battery handling. Commercial `tv disposal dubai` stays with its service page.
+- The wardrobe guide owns the fitted-versus-freestanding ownership decision, emptying checks, the dismantling-survival test, dismantling order and lift measurement for wardrobes. `/blog/how-to-dispose-of-large-furniture-in-dubai` retains the general furniture route comparison; `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains broken-glass containment. Commercial `wardrobe removal dubai` stays with `/services/furniture-removal-dubai`.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the appliance-donation, appliance-disposal and old-furniture guides.
+- Images reuse six existing 1200 × 800 WebP assets from `public/images/blog/` at the user's request; no images were generated or sourced externally. See `docs/article-images-2026-10-02.md`.
 
 ## Cannibalization notes for 2026-10-01 batch
 

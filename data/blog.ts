@@ -101,7 +101,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Route 3: book removal when access or timing is the real problem",
         content: [
-          "Paid removal makes sense when a wardrobe must be dismantled, a sectional sofa will not pass through the door, several rooms are being cleared, or a handover deadline leaves no margin for failed collections. A useful quote should cover the actual load, labour, dismantling, carrying distance and disposal route—not just a truck arriving outside.",
+          "Paid removal makes sense when a wardrobe must be dismantled, a sectional sofa will not pass through the door, several rooms are being cleared, or a handover deadline leaves no margin for failed collections. A useful quote should cover the actual load, labour, dismantling, carrying distance and disposal route—not just a truck arriving outside. The [wardrobe disposal guide](/blog/how-to-dispose-of-an-old-wardrobe-in-dubai) explains how to tell whether a unit will survive dismantling.",
           "Send photographs that show every item plus the route out. Mention stairs, narrow doors, lift dimensions, parking restrictions and the permitted work window. For a single sofa or mixed household load, our [furniture clearance team](/services/furniture-removal-dubai) can quote from photos; larger move-outs may fit the [house-clearance service](/services/house-clearance-dubai) better.",
         ],
       },
@@ -3848,7 +3848,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Where to donate old appliances in Dubai: the short answer",
         content: [
           "If you are deciding where to donate old appliances in Dubai, start with the organisation or recipient—not the appliance. Ask a registered charity, community reuse programme or confirmed private recipient whether it currently accepts that exact item, whether it collects from your area, and what proof of working condition it needs. Acceptance policies, storage capacity and pickup coverage can change. This guide was checked on 15/09/2026.",
-          "A donation is suitable only when the appliance is safe, clean, complete and useful without an undisclosed repair. A washing machine that leaks, a microwave with a damaged door, or a refrigerator that no longer cools is not a responsible gift. Route unsafe or non-working equipment to repair, recycling or booked disposal instead.",
+          "A donation is suitable only when the appliance is safe, clean, complete and useful without an undisclosed repair. A washing machine that leaks, a microwave with a damaged door, or a refrigerator that no longer cools is not a responsible gift. Route unsafe or non-working equipment to repair, recycling or booked disposal instead. If you are passing on a washer, the [washing machine disposal guide](/blog/how-to-dispose-of-an-old-washing-machine-in-dubai) explains how to drain and disconnect it first.",
           "This guide owns appliance reuse eligibility and handover. For computers, phones and data-bearing devices, use our [Dubai e-waste disposal guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide). For refrigerant equipment, follow the [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai).",
         ],
         callout: {
@@ -4593,7 +4593,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Prepare appliances without creating a new hazard",
         content: [
           "Remove food and personal contents, defrost only according to manufacturer-safe practice, and clean loose residue. Drain hoses into an appropriate outlet, secure cables and removable shelves, and keep doors controlled during movement. Never seal a child-accessible appliance in a place where it can be entered; storage safety and transport security are separate concerns.",
-          "Back up files, sign out of accounts and perform the correct data-erasure process for computers, televisions, printers, routers and connected appliances. Removing a visible profile is not always the same as erasing storage. If the device cannot power on, use a recycler that can document data-bearing equipment handling.",
+          "Back up files, sign out of accounts and perform the correct data-erasure process for computers, televisions, printers, routers and connected appliances. Removing a visible profile is not always the same as erasing storage. If the device cannot power on, use a recycler that can document data-bearing equipment handling. For a smart set, the [old TV disposal guide](/blog/how-to-dispose-of-an-old-tv-in-dubai) covers account sign-out, wall-mount removal and screen protection.",
           "Do not move a heavy appliance alone or improvise with unsuitable trolleys. Protect floors, measure the narrowest doorway and keep fire exits clear. The crew should know the weight clues, stairs and turns before arrival.",
         ],
         image: {
@@ -7716,6 +7716,282 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["house-clearance-dubai", "furniture-removal-dubai"],
     relatedAreas: ["downtown-dubai", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-washing-machine-in-dubai",
+    title: "How to Dispose of a Washing Machine in Dubai Without a Leak",
+    seoTitle: "Washing Machine Disposal Dubai: Drain, Disconnect, Recycle",
+    excerpt:
+      "How to dispose of a washing machine in Dubai: confirm who owns it, drain the sump and pump filter, lock the drum and choose reuse or appliance recycling.",
+    category: "Guides",
+    tags: ["Washing Machine", "Appliance Recycling", "Disconnection", "Dubai"],
+    coverImage: "/images/blog/appliance-donation-condition-check-dubai.webp",
+    coverImageAlt:
+      "Technician checking a disconnected front-loading washing machine while a resident photographs it, with the hoses laid out on the floor",
+    publishedAt: "2026-10-02",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Check whether the machine came with the apartment before arranging any removal; many Dubai rentals include it in the inventory.",
+      "A washing machine that looks empty still holds water in the sump, pump filter and hoses, so drain it before it is tilted or moved.",
+      "Close both supply valves, cap or plug the drain point and keep the hoses with the machine if it is going to be reused.",
+      "A working, clean machine can be passed on; a leaking or failed one belongs in an appliance recycling route, not beside a communal bin.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of a washing machine in Dubai",
+        content: [
+          "To dispose of a washing machine in Dubai, confirm it belongs to you, close the water supply, drain the residual water through the pump filter, disconnect and bag the hoses, then choose between reuse and a licensed appliance recycling route. Book removal around the building’s service-lift slot and never leave the unit in a corridor or bin room. Checked on 02/10/2026.",
+          "The step people skip is draining. A front loader that finished its last cycle weeks ago still carries water in the bottom of the tub, the pump housing and the drain hose. Tilt it onto a trolley and that water runs across the floor, into the lift and down the corridor—usually at the worst possible moment.",
+          "The second surprise is weight. Front-loading machines carry concrete or cast counterweights to stop them walking during the spin cycle, so even a compact model is a two-person lift. Planning the route out matters as much as the disconnection.",
+        ],
+        callout: {
+          title: "Run a final rinse-free check first",
+          text: "Open the door, remove any forgotten laundry, wipe the door seal and leave the door ajar for a day. A dry, odour-free drum makes the difference between a machine someone wants and one that has to be scrapped.",
+        },
+      },
+      {
+        heading: "Check who owns the machine before it leaves",
+        content: [
+          "Many Dubai apartments are let with a washing machine already installed, and it is often listed on the move-in inventory alongside the cooker and refrigerator. Removing a landlord’s appliance—even a tired one—can turn into a deduction or a dispute at handover. Look at the inventory and ask the landlord or agent in writing before anything is disconnected.",
+          "If the landlord wants to replace a failed machine, agree who arranges the removal and whether the replacement goes in on the same day. Leaving a laundry space with open valves and no appliance can cause a leak if someone turns the wrong tap. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers how to record those stay-or-remove decisions.",
+          "Owners and tenants who bought the machine themselves should keep the purchase details if they plan to sell it. A model number and age give a buyer far more confidence than a photo alone.",
+        ],
+      },
+      {
+        heading: "Drain the water before anyone tilts it",
+        content: [
+          "Switch the machine off at the socket, then close the cold supply valve behind it—and the hot valve if one is connected. Most front loaders have a small access panel at the lower front that hides the pump filter and, on many models, a short emergency drain tube. Lay towels down, put a shallow tray under the outlet and release the water slowly. Expect more than the tray holds; empty and repeat.",
+          "Once the flow stops, unscrew the filter, remove any coins, hair grips or lint, and refit it. Then lower the end of the drain hose into a bucket to let it empty. Top loaders and washer-dryers drain differently, so check the manual or the manufacturer’s website for the model number printed inside the door or on the back.",
+          "Leave the machine standing for an hour afterwards. A little more water often finds its way to the filter as the tub settles, and it is better caught on a towel than in a lift car.",
+        ],
+      },
+      {
+        heading: "Disconnect the hoses and secure the drum",
+        content: [
+          "Undo the inlet hose at the valve end first, keeping a cloth ready for the small amount trapped in it. Pull the drain hose out of the standpipe or sink trap and fit a cap or plug to the open waste point so drain odours cannot enter the flat. Bag both hoses and any washers and tape the bag to the top of the machine.",
+          "If you still have the transit bolts that came with the machine, refit them. They lock the drum against its suspension so it cannot swing and damage the springs or dampers during the move—important if the machine is going to a new owner. If the bolts are long gone, a reuse buyer should know the drum travelled unsecured.",
+          "Built-in machines behind a kitchen door, stacked washer-dryer towers and units connected to a fixed waste pipe may need a plumber or the original installer. Do not force a seized valve or cut a hose to get the machine free; a dripping valve left behind is the next tenant’s problem and possibly your deposit.",
+        ],
+        image: {
+          src: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+          alt: "Crew moving a washing machine on a pallet with its drain hose attached, beside a strapped refrigerator and crates of small electronics at a loading bay",
+        },
+      },
+      {
+        heading: "Decide between reuse and recycling",
+        content: [
+          "A machine is worth passing on when it fills, heats, drains and spins without error codes, the door seal is intact and the drum is clean. Run one empty short cycle before listing it so you can describe it honestly. A buyer or charity will ask about leaks, noise and age; vague answers usually mean the collection never happens.",
+          "Recycling is the right route for a machine that leaks, trips the electrics, shows a recurring fault or has a cracked drum or perished seal. Washing machines contain a steel cabinet, a stainless drum, a motor with copper windings, a circuit board and the counterweight, so they should go to a facility that handles electrical appliances. The [appliance donation and recycling guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) explains how those two routes differ.",
+          "A washer-dryer with a heat-pump dryer section is different from a standard condenser model, because heat-pump units contain a sealed refrigerant circuit. Treat that type with the same caution as a refrigerator—our [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) explains why the circuit must not be punctured.",
+        ],
+      },
+      {
+        heading: "Move it out without damaging the building",
+        content: [
+          "Clear a path from the laundry space to the door and measure the narrowest point, including any kitchen island or shoe cabinet near the entrance. Use a strapped appliance trolley rather than walking the machine on its corners, which can crack tiles and damage the feet. Keep it upright throughout so any water you missed stays inside.",
+          "In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), most residential towers expect large appliances to go through a booked service lift with protection on the walls. Ask security whether a move-out or removal permit is required for a single appliance and which hours apply, then book the crew inside that window.",
+          "Townhouses and villas in [Al Furjan](/areas/al-furjan) are usually easier for access, but laundry rooms are often at the back of the house or on an upper floor. Plan the carry route through the house rather than assuming the machine will leave through the nearest door.",
+        ],
+      },
+      {
+        heading: "Arrange collection with the right details",
+        content: [
+          "Send a photo of the machine in place, a photo of the label inside the door, and say whether it is working, drained and disconnected. Mention the floor, the lift booking and any stairs. If it is part of a larger clear-out, list the other appliances so they can be separated for the right destination on one visit.",
+          "Our [appliance removal service](/services/appliance-removal-dubai) collects drained and disconnected washing machines and routes them for reuse or recycling. When the washer leaves with a bed frame, desk or other awkward items, the [bulky item removal service](/services/bulky-item-removal-dubai) can quote the whole load together.",
+          "[Message us the photos and access details](/contact) and we will confirm a fixed price, plus anything that should be sorted out—such as a seized valve—before the crew arrives.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "al-furjan"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-tv-in-dubai",
+    title: "How to Dispose of an Old TV in Dubai Safely and Privately",
+    seoTitle: "Old TV Disposal Dubai: Reset, Remove and Recycle It",
+    excerpt:
+      "How to dispose of an old TV in Dubai: sign out and reset smart sets, take it off the wall safely, protect the screen and choose reuse or e-waste recycling.",
+    category: "Eco & Recycling",
+    tags: ["TV Disposal", "E-Waste", "Data Privacy", "Wall Mounts"],
+    coverImage: "/images/blog/old-appliance-disposal-routes-dubai-hero.webp",
+    coverImageAlt:
+      "Worker kneeling beside a flat-screen television and a crate of small electronics while a colleague records the items next to a washing machine and refrigerator",
+    publishedAt: "2026-10-02",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "A smart TV holds signed-in streaming, email and payment accounts, so sign out and factory reset it before it leaves your home.",
+      "Large flat screens should be lifted by two people, carried upright and never pressed on the panel or laid face down with weight on top.",
+      "Agree with the landlord whether the wall bracket stays, and what making good the holes involves, before anyone unscrews it.",
+      "Working sets with remotes can be reused; cracked, dead or older tube and early LCD sets belong with a licensed e-waste recycler.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old TV in Dubai",
+        content: [
+          "To dispose of an old TV in Dubai, sign out of every app and factory reset a smart set, unplug and remove it from the wall with two people, protect the screen, then sell or donate a working television or send a broken one to a licensed e-waste recycler. Never put a TV in a household bin or leave it beside a communal bin area. Checked on 02/10/2026.",
+          "People tend to think of an old television as a bulky object. In practice it raises three separate questions: what personal data it still holds, how it comes off the wall without damaging the screen or the property, and which route suits its condition.",
+          "Getting the order right saves trouble. Reset before you dismantle, because once a set is boxed or cracked it becomes much harder to power on and clear.",
+        ],
+        callout: {
+          title: "Reset while it still turns on",
+          text: "If the TV still powers up, do the account sign-out and factory reset today—even if the collection is next week. A screen that fails in the meantime leaves your accounts sitting on the set.",
+        },
+      },
+      {
+        heading: "Clear your accounts before anything else",
+        content: [
+          "Smart TVs keep logins for streaming services, video platforms, music apps, and often a manufacturer account linked to your email. Some also store payment details for rentals, voice-assistant settings and the home Wi-Fi password. Sign out of each app individually, then use the settings menu to remove the TV from your manufacturer account and run a full factory reset.",
+          "Afterwards, visit each streaming service from your phone or laptop and check its list of signed-in devices. Remove the old television there as well. This catches any app that kept a session alive through the reset and stops someone else watching on your subscription.",
+          "Unplug and remove any USB drive, external hard drive or set-top box connected to the TV. Those devices may hold recordings or files, and they need their own decision. The [e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing devices beyond the television itself.",
+        ],
+      },
+      {
+        heading: "Take it off the wall without damage",
+        content: [
+          "Wall-mounted televisions are where most injuries and cracked screens happen. Switch off and unplug the set and any soundbar first, then label and disconnect the cables. Have one person support each side of the screen before the safety screws or locking strap on the bracket are released; most brackets need the TV lifted upwards to clear the hooks.",
+          "Hold the television by its frame, not the panel. Thin screens flex easily, and pressing on the middle can crack the display layer even when the glass looks fine. Lay a blanket on a clear floor and rest the set screen-down on it only briefly to remove the bracket arms, with nothing placed on top.",
+          "Large sets above a fireplace, high in a double-height living room or mounted on a swing-arm bracket may need a platform and a trained installer. If the TV feels heavier than you expected once it is off the hooks, put it back and get help rather than walking backwards with it.",
+        ],
+      },
+      {
+        heading: "Decide what happens to the bracket and the wall",
+        content: [
+          "The bracket is a separate question from the television. A landlord may want a fitted bracket left in place for the next tenant, or may expect it removed and the holes filled and painted. Check the tenancy contract and ask in writing before taking it down; a bare wall with six large rawl-plug holes is a common handover deduction.",
+          "If the bracket goes, keep the bolts, spacers and instructions together in a bag taped to it. A complete bracket is easy to reuse; a loose arm with missing fixings rarely is. Any cables chased into the wall or run through conduit usually stay, but coil and tape the ends neatly rather than leaving them hanging.",
+          "The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains how to record what stays and what must be made good, so the wall is not left to a last-day judgement.",
+        ],
+      },
+      {
+        heading: "Work out whether it can be reused",
+        content: [
+          "A television is worth passing on when it powers up cleanly, shows no lines, dead pixels, dark patches or burn-in, and still has its remote and stand or feet. Take a photo of the screen showing a bright, colourful image and note the model number from the label on the back. That is what a buyer or charity will ask for first.",
+          "A cracked or internally damaged panel is rarely worth repairing on a domestic set; replacing the display often costs close to a new television. Sets with a working screen but a faulty power board or speaker can sometimes be repaired, but only pass them on with an honest description. Do not give away a TV that trips the electrics or smells of burning.",
+          "Older equipment needs extra care. Deep cathode-ray tube televisions contain leaded glass, and many early LCD screens use backlight tubes with a small amount of mercury. Those sets should go intact to an e-waste recycler, never broken open at home.",
+        ],
+        image: {
+          src: "/images/blog/old-furniture-removal-tower.webp",
+          alt: "Staff in an electronics recycling facility sorting flat-screen monitors, keyboards, cables and small appliances on long tables",
+        },
+      },
+      {
+        heading: "Protect the screen for collection",
+        content: [
+          "If you still have the original box and foam, use it. Otherwise, wrap the screen face in a blanket or moving pad, tape it at the back rather than across the panel, and stand the television upright against an inside wall. Keep it out of the main walkway so nobody knocks it while carrying other items.",
+          "Take the batteries out of the remote and tape the remote to the back of the set if the TV is going for reuse. Loose batteries should go to a battery collection point; the [batteries and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains how to store them safely. A cracked screen should be wrapped firmly so no fragments can fall out.",
+          "In [Jumeirah Beach Residence](/areas/jumeirah-beach-residence), large televisions usually travel in a booked service lift with protected walls, so mention the size when you ask building management about access. Townhouses in [Town Square](/areas/town-square) are simpler to reach, but tight internal staircases still need the screen carried upright by two people.",
+        ],
+      },
+      {
+        heading: "Book the collection with the right details",
+        content: [
+          "Tell us the screen size, whether the TV is working, cracked or dead, whether it is still on the wall and whether the bracket stays. Include any soundbar, set-top box or older equipment in the same message so it can be separated for the right recycling stream.",
+          "Our [appliance removal service](/services/appliance-removal-dubai) collects televisions and other electrical items for reuse or licensed recycling. If the TV is one part of a wider clear-out, the [general junk removal service](/services/junk-removal-dubai) can include it in a single mixed load.",
+          "[Send us a photo of the TV and its setting](/contact), and we will confirm a fixed price and flag anything—such as a high mount—that needs a different plan.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["jumeirah-beach-residence", "town-square"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-wardrobe-in-dubai",
+    title: "How to Dispose of an Old Wardrobe in Dubai: Fitted or Freestanding",
+    seoTitle: "Old Wardrobe Disposal Dubai: Dismantle, Reuse or Remove",
+    excerpt:
+      "How to dispose of an old wardrobe in Dubai: confirm it is not a fitted fixture, test whether it will survive dismantling and plan the lift before collection.",
+    category: "Guides",
+    tags: ["Wardrobe Disposal", "Furniture Reuse", "Dismantling", "Dubai"],
+    coverImage: "/images/blog/safe-furniture-removal-service-lift-dubai.webp",
+    coverImageAlt:
+      "Crew member measuring an apartment doorway while another wheels a tall wooden wardrobe panel on a padded trolley towards a protected service lift",
+    publishedAt: "2026-10-02",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Fitted and built-in wardrobes normally belong to the property; only freestanding units you bought are yours to remove.",
+      "Solid wood wardrobes usually survive dismantling and resale; chipboard flat-pack units often do not, especially after a previous move.",
+      "Empty every shelf, drawer and top cupboard and check behind the drawers before the wardrobe is taken apart.",
+      "Measure the service lift and doorways against the longest panel, and treat mirrored doors as fragile glass, not timber.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old wardrobe in Dubai",
+        content: [
+          "To dispose of an old wardrobe in Dubai, first confirm it is freestanding furniture rather than a fitted fixture, empty it completely, then decide whether it can be dismantled and reused or should go for recycling. Wrap any mirrored doors, measure the lift against the tallest panel and book removal for the building’s service-lift window. Checked on 02/10/2026.",
+          "Wardrobes cause more access problems than almost any other bedroom furniture. A full-height unit fits through a bedroom door only because it was assembled inside the room, and a three-door model can weigh more than the bed beside it. Moving it whole is rarely an option in an apartment.",
+          "The useful question is not just how to get rid of it, but whether it can come apart in one piece of value or will collapse into a pile of panels. That decides almost everything that follows.",
+        ],
+        callout: {
+          title: "Photograph it before the first screw comes out",
+          text: "Take pictures of the front, the inside layout and the back. They help a buyer, a charity or a removal crew decide quickly, and they record the wall condition behind it.",
+        },
+      },
+      {
+        heading: "Fitted or freestanding: decide what is yours",
+        content: [
+          "Most Dubai apartments and villas come with built-in wardrobes fixed to the walls, floor or ceiling. Those are part of the property and stay at handover unless the landlord agrees otherwise in writing. Removing a fitted unit without permission leaves exposed walls, ceiling marks and a strong case for a deduction.",
+          "A freestanding wardrobe you bought and assembled is yours, even if it has been strapped to the wall with an anti-tip bracket. Remove the strap screws, then fill and touch up the holes if the tenancy requires the wall to be made good. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains how to agree those details with the landlord.",
+          "Landlords refurbishing between tenancies sometimes want old fitted wardrobes taken out. That is a joinery job first and a removal job second; carcasses fixed to walls need careful separation to avoid damaging plaster, tiles or skirting.",
+        ],
+      },
+      {
+        heading: "Empty it properly before it comes apart",
+        content: [
+          "Remove clothes, shoes, boxes and hangers, then check the top cupboards, the back of each shelf and behind or under the drawers. Passports, jewellery, cash envelopes and old documents turn up in wardrobes more often than anywhere else in a clearance. Pull each drawer fully out to see what has fallen behind it.",
+          "Sort the contents as you go rather than piling them on the bed. The [clothes and textiles guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) covers what can be donated or recycled, and metal hangers can go to scrap or be offered to a local laundry. Plastic hangers in good condition are easy to pass on.",
+          "Unscrew the clothes rail, door handles and any internal lighting before dismantling. Battery-powered sensor lights should have their batteries removed; mains-wired lighting inside a wardrobe needs to be isolated by an electrician first.",
+        ],
+      },
+      {
+        heading: "Will it survive dismantling?",
+        content: [
+          "Solid wood and good-quality veneered wardrobes with bolted or dowelled joints usually come apart and go back together several times. They are worth photographing for resale or donation, and the [guide to selling or donating furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai) explains which buyers look for them.",
+          "Chipboard flat-pack is different. Its cam locks and screws grip the board by a few millimetres, and once those holes have been used, or the board has absorbed moisture from a leak or air-conditioning condensation, they often crumble. A wardrobe that already survived one move rarely survives a second, so be honest with a recipient about its history.",
+          "Look for swelling along the bottom edges, sagging shelves, doors that no longer close square and a hardboard back panel that has torn away from its nails. Any one of those usually means the unit belongs in recycling rather than reuse.",
+        ],
+        image: {
+          src: "/images/blog/dispose-old-furniture-dubai-hero.webp",
+          alt: "Collection worker and resident assessing worn furniture including a chipboard cabinet with a detached panel, a stained sofa and a damaged office chair",
+        },
+      },
+      {
+        heading: "Dismantle in the right order",
+        content: [
+          "Take the doors off first and lean them against a wall on a blanket. Then remove drawers, shelves and the back panel, and finally separate the sides from the top and base. Bag each set of screws and fittings and label it, because a reuse recipient cannot rebuild a wardrobe with a mixed jar of fixings.",
+          "Sliding-door wardrobes have top and bottom tracks; lift each door up into the top track to release it, with one person on each side. Tall side panels are top-heavy once the frame is open, so keep one person supporting them while the other undoes the last fixings.",
+          "Treat mirrored doors as glass. Tape a cross over the mirror face, wrap it in a blanket or cardboard and carry it upright. A cracked mirror panel needs the extra containment described in the [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) before it goes anywhere.",
+        ],
+      },
+      {
+        heading: "Plan the route through the building",
+        content: [
+          "Measure the service-lift car diagonally as well as height and depth, then compare it with the tallest wardrobe panel. Full-height sides often only fit when tilted, and sometimes not at all, in older towers. Protect corridor corners and the lift walls, and stack panels flat on a trolley rather than dragging them.",
+          "In [Remraam](/areas/remraam), low-rise apartment buildings have shorter lift runs but compact cars, so tall panels are usually the deciding measurement. Ask management whether a removal needs a permit and which hours apply.",
+          "Villas in [The Meadows](/areas/the-meadows) often have larger wardrobes in upstairs bedrooms with turning staircases. Dismantle in the room rather than trying to carry a half-assembled carcass down the stairs.",
+        ],
+      },
+      {
+        heading: "Book the removal with useful details",
+        content: [
+          "Send photos of the wardrobe assembled and, if possible, the inside. Say whether it is freestanding, how many doors it has, whether any are mirrored and whether you want it dismantled for you. Mention the floor, lift size and any parking restrictions at the building.",
+          "Our [furniture removal service](/services/furniture-removal-dubai) dismantles and collects wardrobes and routes the panels for reuse or recycling. If the wardrobe leaves with a bed frame, mattress and other large pieces, the [bulky item removal service](/services/bulky-item-removal-dubai) can price the whole load together. The [old furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) compares the other options.",
+          "[Send us the photos and access details](/contact) and we will confirm a fixed price before the crew arrives.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["remraam", "the-meadows"],
   },
 ];
 

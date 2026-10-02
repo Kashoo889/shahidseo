@@ -88,6 +88,18 @@ Three further household-item informational topics requested after the previous q
 
 Overlap review before drafting: the cleaning-products guide owns the household cupboard audit, original-container rule and specialist handover, not paint or the cross-category prohibited-items inventory; the camping guide owns tents, sleeping gear, outdoor furniture, fuel and powered equipment as one pre-collection audit, while the gas-cylinder and battery guides retain their specialist streams; the curtains-and-blinds guide owns tenancy authority, reusable fabric, tracks and powered systems, not general textiles or the full rental handover.
 
+## Approved editorial expansion — 2026-10-02
+
+Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`washing machine removal dubai`, `washing machine disposal dubai`, `tv disposal dubai`, `wardrobe removal dubai`) stay with their existing service pages. The additions belong to cluster 03, cluster 04 and cluster 02 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of a washing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old tv in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old wardrobe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the washing-machine guide owns draining, disconnection, drum securing and the single-washer reuse test, not cross-appliance donation or refrigerant equipment; the TV guide owns account reset, wall-mount removal and screen protection, not the general e-waste stream or battery handling; the wardrobe guide owns fitted-versus-freestanding ownership, the dismantling-survival test and lift measurement, not the general furniture route comparison or broken-glass containment.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.
