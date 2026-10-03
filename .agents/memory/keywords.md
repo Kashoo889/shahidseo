@@ -100,6 +100,18 @@ Three further item-specific informational topics requested after the previous qu
 
 Overlap review before drafting: the washing-machine guide owns draining, disconnection, drum securing and the single-washer reuse test, not cross-appliance donation or refrigerant equipment; the TV guide owns account reset, wall-mount removal and screen protection, not the general e-waste stream or battery handling; the wardrobe guide owns fitted-versus-freestanding ownership, the dismantling-survival test and lift measurement, not the general furniture route comparison or broken-glass containment.
 
+## Approved editorial expansion — 2026-10-03
+
+Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`dishwasher removal dubai`, `bed removal dubai`, `piano removal dubai`) stay with their existing service pages (`/services/appliance-removal-dubai`, `/services/furniture-removal-dubai`, `/services/bulky-item-removal-dubai`). The additions belong to cluster 03, cluster 02 and cluster 08 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old dishwasher in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old bed frame in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old piano in dubai` | Informational | `/blog/how-to-dispose-of-an-old-piano-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the dishwasher guide owns under-sink water isolation, base pan and sump draining, spigot capping, and the single-machine reuse or appliance-scrap decision, not cross-appliance donation or washing-machine spin drums; the bed-frame guide owns in-room dismantling sequence, gas-lift Ottoman piston safety, hardware bagging, and tower lift clearance, not mattress disposal or wardrobe joinery; the piano guide owns acoustic soundboard/pinblock condition assessment, string tension safety warnings, and heavy-duty dolly/ramp rigging, not digital e-waste keyboards or standard bulky furniture transport.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.

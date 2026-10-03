@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-02**
+Last synchronized: **2026-10-03**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -87,15 +87,26 @@ Canonical implementation: `data/blog.ts`
 |  80 | `how to dispose of a washing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` | 2026-10-02 | Published |
 |  81 | `how to dispose of an old tv in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | 2026-10-02 | Published |
 |  82 | `how to dispose of an old wardrobe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` | 2026-10-02 | Published |
+|  83 | `how to dispose of an old dishwasher in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` | 2026-10-03 | Published |
+|  84 | `how to dispose of an old bed frame in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai` | 2026-10-03 | Published |
+|  85 | `how to dispose of an old piano in dubai` | Informational | `/blog/how-to-dispose-of-an-old-piano-in-dubai` | 2026-10-03 | Published |
 
 ## Current counts
 
-- Published: **82**
-- Published on 2026-10-02: **3**
+- Published: **85**
+- Published on 2026-10-03: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **52**
-- Next approved supplemental priority: **None queued; the 2026-10-02 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **55**
+- Next approved supplemental priority: **None queued; the 2026-10-03 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-03 batch
+
+- The dishwasher guide owns the lease inventory check, under-sink water isolation, sump and base pan residual water draining, spigot capping, salt reservoir care, and the single-machine reuse or appliance-scrap decision. `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` retains washing-machine draining and drum securing; `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains cross-appliance donation discovery. Commercial `dishwasher removal dubai` stays with `/services/appliance-removal-dubai`.
+- The bed-frame guide owns frame construction identification, hydraulic gas-lift Ottoman piston safety, in-room slat and rail dismantling sequence, hardware bagging, and elevator diagonal clearance. `/blog/how-to-dispose-of-an-old-mattress-in-dubai` retains mattress wrapping and disposal; `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` retains wardrobe joinery and mirror panels. Commercial `bed removal dubai` stays with `/services/furniture-removal-dubai`.
+- The piano guide owns acoustic upright and grand condition assessment, soundboard and pinblock split checking, string tension safety warnings, lead key-counterweight isolation, and heavy-duty dolly/ramp rigging. `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains digital keyboards and electronic synthesizers; `/blog/what-items-can-junk-removal-companies-take-in-dubai` retains general bulky acceptance criteria. Commercial `piano removal dubai` stays with `/services/bulky-item-removal-dubai`.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the washing-machine, wardrobe, and items-accepted guides.
+- Six original images were generated via subagent ImageGen, converted with Sharp to 1200 × 800 WebP assets, and compressed within the required hero/body limits. See `docs/article-images-2026-10-03.md`.
 
 ## Cannibalization notes for 2026-10-02 batch
 

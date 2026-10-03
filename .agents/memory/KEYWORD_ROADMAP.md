@@ -1,12 +1,12 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-10-02**
+Last synchronized: **2026-10-03**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
 ## Current editorial queue
 
-The three expansion topics requested on 2026-10-02 are written in `data/blog.ts`: washing machines, old TVs, and old wardrobes. No additional new article is queued. The checklist mapping below remains an existing-page topic.
+The three expansion topics requested on 2026-10-03 are written in `data/blog.ts`: dishwashers, bed frames, and old pianos. No additional new article is queued. The checklist mapping below remains an existing-page topic.
 
 | Priority | Primary keyword                         | Target URL                                           | Status                  |
 | -------: | --------------------------------------- | ---------------------------------------------------- | ----------------------- |
@@ -17,9 +17,10 @@ The three expansion topics requested on 2026-10-02 are written in `data/blog.ts`
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **52**
-- Total published articles: **82**
+- Supplemental approved articles published: **55**
+- Total published articles: **85**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**
 - Phase 6: **100% (7/7)**
+
