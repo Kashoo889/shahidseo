@@ -7297,7 +7297,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Pots, pans, trays, colanders and metal utensils are mostly steel, aluminium or copper, which makes them useful to a scrap-metal dealer or a recycler that accepts metal. They are not the same as drinks cans, so check the building or community recycling rules before dropping a heavy pan into a can bin.",
           "Remove what is not metal. Unscrew plastic or wooden handles where you can, take off glass lids and silicone seals, and pull rubber gaskets out of pressure cookers. A pan that is all metal is far easier for a recycler to accept than one with a melted handle attached.",
-          "A fridge magnet makes the first sort quick. If it sticks, the item is mostly iron or carbon steel, such as cast iron and many baking trays. If it does not, it is likely aluminium, copper or certain grades of stainless steel. Keeping those groups apart helps if a scrap dealer prices them differently.",
+          "A fridge magnet makes the first sort quick. If it sticks, the item is mostly iron or carbon steel, such as cast iron and many baking trays. If it does not, it is likely aluminium, copper or certain grades of stainless steel. Keeping those groups apart helps if a scrap dealer prices them differently. For larger renovation offcuts, copper pipes and structural metal, our [scrap metal disposal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) details ferrous and non-ferrous handling, transport permits and municipal weighbridge rules.",
         ],
       },
       {
@@ -7892,7 +7892,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Book the collection with the right details",
         content: [
-          "Tell us the screen size, whether the TV is working, cracked or dead, whether it is still on the wall and whether the bracket stays. Include any soundbar, set-top box or older equipment in the same message so it can be separated for the right recycling stream.",
+          "Tell us the screen size, whether the TV is working, cracked or dead, whether it is still on the wall and whether the bracket stays. Include any soundbar, set-top box or older equipment in the same message so it can be separated for the right recycling stream. For PC workstations, monitors, and data-bearing drives, our [computer and laptop disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) details drive sanitization and e-waste rules.",
           "Our [appliance removal service](/services/appliance-removal-dubai) collects televisions and other electrical items for reuse or licensed recycling. If the TV is one part of a wider clear-out, the [general junk removal service](/services/junk-removal-dubai) can include it in a single mixed load.",
           "[Send us a photo of the TV and its setting](/contact), and we will confirm a fixed price and flag anything—such as a high mount—that needs a different plan.",
         ],
@@ -8083,7 +8083,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Arranging collection with full appliance details",
         content: [
           "When requesting a collection quote, send clear photographs of the dishwasher, indicate whether it is freestanding or fully integrated behind a wooden cabinet door, and confirm that water lines are isolated. Mention your community, building name, floor level, and whether a service elevator is available.",
-          "Our [appliance removal service](/services/appliance-removal-dubai) collects drained and disconnected dishwashers, washing machines, and cookers, ensuring traceable sorting and maximum landfill diversion. When clearing a whole home or vacating a tenancy, our [bulky item removal service](/services/bulky-item-removal-dubai) combines furniture and appliances in one consolidated vehicle visit.",
+          "Our [appliance removal service](/services/appliance-removal-dubai) collects drained and disconnected dishwashers, washing machines, and cookers, ensuring traceable sorting and maximum landfill diversion. If you are also replacing cooking equipment, our [oven disposal guide](/blog/how-to-dispose-of-an-old-oven-in-dubai) details gas line capping and 32-amp electrical circuit safety. When clearing a whole home or vacating a tenancy, our [bulky item removal service](/services/bulky-item-removal-dubai) combines furniture and appliances in one consolidated vehicle visit.",
           "[Send us your appliance photos on WhatsApp or web](/contact) to receive a transparent, fixed-price quote and ensure your kitchen is cleared without fuss.",
         ],
       },
@@ -8289,6 +8289,325 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["bulky-item-removal-dubai", "same-day-junk-removal-dubai"],
     relatedAreas: ["arabian-ranches", "emirates-hills"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-oven-in-dubai",
+    title: "How to Dispose of an Old Oven or Cooker in Dubai Safely",
+    seoTitle: "Old Oven Disposal Dubai: Disconnect, Donate or Scrap",
+    excerpt:
+      "How to dispose of an old oven or cooker in Dubai: isolate gas lines and 32A power safely, verify landlord tenancy fixtures, and choose reuse or white-goods scrap recycling.",
+    category: "Guides",
+    tags: [
+      "Oven Disposal",
+      "Cooking Range",
+      "White Goods",
+      "Appliance Removal",
+      "Dubai",
+    ],
+    coverImage: "/images/blog/donate-old-appliances-dubai-hero.webp",
+    coverImageAlt:
+      "EcoHaul technician evaluating a disconnected freestanding kitchen cooking range in a Dubai villa kitchen",
+    publishedAt: "2026-10-05",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Verify whether an integrated oven or fitted hob is listed on your tenancy contract move-in inventory before disconnecting.",
+      "Isolate central gas valves or disconnect LPG cylinders and seal the supply line with a brass threaded blanking plug.",
+      "Electric cookers operate on high-amperage (32A) radial circuits; trip the kitchen consumer breaker before unscrewing terminal blocks.",
+      "Remove heavy cast-iron pan supports and glass trays first; tape oven doors firmly shut so tempered glass cannot drop during transport.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old oven in Dubai",
+        content: [
+          "To dispose of an old oven or cooker in Dubai, check your lease inventory to confirm ownership, shut off the gas supply cock or 32-amp electrical isolator switch, remove internal racks and trivets, and route the appliance for working donation or certified metal reclamation. Coordinate disposal through your building’s freight lift and never leave an uncollected stove in communal bin rooms or parking bays. Checked on 05/10/2026.",
+          "A cooking range or built-in oven is among the heaviest and most hazardous kitchen appliances to remove. A standard 60-centimetre freestanding cooker weighs between 45 and 65 kilograms, while wide 90-centimetre dual-fuel range cookers easily exceed 85 kilograms due to their cast-iron burners, enamelled steel frames, and triple-glazed doors.",
+          "Beyond sheer weight, moving an old cooker involves live municipal natural gas feeds, pressurized LPG cylinders, or high-current electrical cables. Rushing disconnection without following proper safety procedures risks gas leaks, short circuits, or cracked marble counter edges.",
+        ],
+        callout: {
+          title: "Cap the gas line with a brass threaded plug",
+          text: "Simply closing an inline gas valve is not enough when removing a gas oven permanently. Always thread a certified brass blanking plug over the supply pipe outlet. This prevents leaks if someone accidentally bumps the valve handle while cleaning or moving other appliances.",
+        },
+      },
+      {
+        heading: "Check tenancy fixtures: integrated oven vs freestanding cooker",
+        content: [
+          "In Dubai residential communities such as [Dubai Marina](/areas/dubai-marina) and Downtown Dubai, kitchens are commonly fitted with built-in appliances supplied by the developer or landlord. If an integrated eye-level oven, microwave combination unit, or under-counter hob was present when you signed your tenancy agreement, it constitutes a permanent landlord fixture.",
+          "Removing a landlord-supplied oven without written consent—even if the heating element has burnt out and you intend to purchase a replacement—can trigger severe deposit disputes under Rental Dispute Center guidelines. Always obtain written approval from your landlord or property management company confirming who arranges the replacement and who retains the defunct unit. Our [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) details how to record appliance retention agreements cleanly.",
+          "Freestanding cookers purchased by tenants remain personal property. However, when sliding a freestanding range out from between modular cabinets, take care not to scratch heat-softened laminate edging or gouge porcelain floor tiles with the unit's rear levelling feet.",
+        ],
+      },
+      {
+        heading: "Gas line isolation: LPG cylinders and central gas feeds",
+        content: [
+          "Dubai residences use two main gas arrangements: central gas infrastructure (common in high-rise towers and master-planned developments) or individual liquefied petroleum gas (LPG) cylinders stored in external ventilated cupboards.",
+          "For central gas, locate the dedicated yellow brass isolation cock located on the kitchen wall or within the adjacent sink cupboard. Turn the lever a quarter-turn perpendicular to the pipe until it locks shut. Before unscrewing the flexible reinforced gas hose, apply a mild soapy water solution to the joint; any bubbling indicates that the valve is passing gas and requires immediate facilities management attention.",
+          "If your villa in [Al Barsha](/areas/al-barsha) operates on an LPG cylinder, close the valve on the cylinder head, disengage the high-pressure regulator, and move the gas cylinder to a well-ventilated outdoor storage area. Our [gas cylinder disposal guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai) explains supplier return policies and safe transport restrictions.",
+        ],
+      },
+      {
+        heading: "Electric cookers: 32-amp radial circuits and terminal boxes",
+        content: [
+          "Electric ovens and ceramic induction ranges draw substantial current and are never connected via standard 13-amp domestic pin plugs. Instead, they are hardwired into a dedicated 32-amp cooker connection unit mounted on the tiled splashback, wired directly to a high-amperage circuit breaker on your main distribution board.",
+          "Before loosening any fixing screws, switch off the cooker control switch on the wall and trip the corresponding circuit breaker in your electrical distribution board. Use an insulated voltage tester to confirm that terminals are completely dead.",
+          "Unscrew the faceplate of the connection outlet, release the live, neutral, and earth cable clamps holding the heat-resistant flex, and replace the blanking cover neatly over the exposed wall box. Never leave bare electrical wires exposed in an empty kitchen cavity.",
+        ],
+        image: {
+          src: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+          alt: "Large kitchen appliances including an oven and cooktop palletized for metal reclamation at a Dubai facility",
+        },
+      },
+      {
+        heading: "Degreasing and oven tray preparation before lifting",
+        content: [
+          "Attempting to carry an oven full of loose accessories is a recipe for broken glass and floor damage. Open the oven door and remove every internal accessory: wire baking racks, enamelled roasting tins, glass turntables, and telescopic shelf runners. Bundle these pieces in a separate cardboard carton or recycle them with other metal cookware.",
+          "Remove heavy cast-iron pan support trivets and brass burner crowns from the top hob. Bag them separately to immediately reduce the lifting weight of the range by 8 to 12 kilograms.",
+          "Check the interior for baked grease and cooking residue. While you do not need to perform a showroom detailing on a discarded oven, wiping down pooled oil from the bottom tray prevents greasy liquid from leaking onto apartment rugs, loading bays, or removal vehicle floors. Secure the oven door shut with two wraps of heavy-duty pallet wrap or duct tape so the door cannot swing open during stair carries.",
+        ],
+      },
+      {
+        heading: "Testing for donation versus white-goods scrap recycling",
+        content: [
+          "Before arranging disposal, evaluate whether the cooker has second-hand utility. An oven is viable for donation or resale if all heating elements function, the thermostat regulates temperature accurately, the door seal creates a tight thermal barrier, and the glass pane is unblemished. Community charities and worker housing initiatives welcome clean, operational cooking equipment. Our [appliance donation guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) details donation eligibility criteria.",
+          "If the oven has failed thermostatic controls, shattered ceramic glass, rusted chassis panels, or obsolete wiring, it belongs in a certified white-goods recycling stream. In Dubai, discarded ovens are dismantled by specialized recyclers who recover heavy steel carcasses, copper heating elements, aluminium burner manifolds, and high-temperature rockwool insulation.",
+          "Never abandon an old stove beside community trash enclosures or desert tracks. Dubai Municipality enforces stringent fines against unauthorized appliance dumping, and building managers monitor loading docks via CCTV.",
+        ],
+      },
+      {
+        heading: "Navigating service elevators and villa entrance steps",
+        content: [
+          "Moving a heavy cooker through an apartment building requires strict planning. High-rise buildings require booking the service lift 24 to 48 hours in advance and issuing a move-out contractor gate pass. Never attempt to transport a full-size range cooker in a standard passenger elevator, as the sharp metal bottom frame will damage decorative floor borders.",
+          "Professional crews slide heavy-duty furniture sliders under the cooker feet, walk it gently out from the cabinetry cavity, and lever it onto a rubber-cushioned appliance dolly with pneumatic wheels. If the cooker must navigate exterior villa steps, two technicians secure lifting straps underneath the chassis while a third guides the front dolly down an aluminium ramp.",
+          "Our [dishwasher disposal guide](/blog/how-to-dispose-of-an-old-dishwasher-in-dubai) discusses similar water and drainage access precautions when vacating kitchen spaces.",
+        ],
+      },
+      {
+        heading: "Booking old oven and cooker removal in Dubai",
+        content: [
+          "When requesting a cooker collection quote, send our team a clear photograph of the unit, indicate whether it is gas, electric, or dual-fuel, and confirm whether it has already been disconnected from utility supplies. State your building name, floor number, and whether elevator access is available.",
+          "Our dedicated [appliance removal service](/services/appliance-removal-dubai) handles the careful extraction, loading, and responsible recycling of domestic and commercial kitchen appliances. If you are conducting a wider home clearance or tenancy cleanout, our [bulky item removal service](/services/bulky-item-removal-dubai) can collect sofas, beds, wardrobes, and kitchen equipment in a single organized trip.",
+          "[Contact our team on WhatsApp or submit our quote form](/contact) to arrange a punctual, professional appliance pickup anywhere in Dubai.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "al-barsha"],
+  },
+  {
+    slug: "how-to-dispose-of-old-computers-and-laptops-in-dubai",
+    title: "How to Dispose of Old Computers and Laptops in Dubai Securely",
+    seoTitle: "Computer & Laptop Disposal Dubai: Data Wipe & E-Waste Guide",
+    excerpt:
+      "How to dispose of old computers and laptops in Dubai: sanitize hard drives and SSDs, handle lithium-ion batteries safely, and arrange certified e-waste recycling.",
+    category: "Commercial & Office",
+    tags: [
+      "Computer Disposal",
+      "Laptop Recycling",
+      "E-Waste",
+      "Data Destruction",
+      "Dubai",
+    ],
+    coverImage: "/images/blog/e-waste-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Technician organizing old desktop computers and decommissioned laptop units for secure e-waste disposal in Dubai",
+    publishedAt: "2026-10-05",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Standard operating system formatting does not delete data; use certified cryptographic erasure or physical drive destruction.",
+      "Swollen lithium-ion laptop batteries pose severe fire hazards; isolate them in fireproof containers and never puncture the casing.",
+      "Separate external power adapters, docking stations, and monitors to maximize component-specific recycling recovery.",
+      "Corporate IT decommissioning requires serial number logging and certified certificates of destruction for audit compliance.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old computers and laptops in Dubai",
+        content: [
+          "To dispose of old computers and laptops in Dubai, back up vital files, perform NIST SP 800-88 compliant data sanitization or remove the physical storage drives, isolate swollen lithium batteries, and hand over the equipment to a licensed e-waste recycler or certified IT asset disposal provider. Businesses must maintain chain-of-custody documentation and disposal certificates. Checked on 05/10/2026.",
+          "Desktop computers, office workstations, and portable laptops are packed with hazardous heavy metals—such as lead solder, mercury backlights, and brominated flame retardants—alongside valuable recoverable commodities like gold, silver, and copper. Throwing an old PC into general municipal rubbish chutes or skip bins is illegal in Dubai and exposes personal or corporate information to data harvesting.",
+          "Whether you are retiring a single home laptop or clearing hundreds of corporate workstations from a commercial office, systematic data destruction and responsible hardware routing protect your privacy and the environment.",
+        ],
+        callout: {
+          title: "Factory reset does not permanently erase data",
+          text: "Clicking 'Reset this PC' or quick-formatting a hard disk leaves the underlying raw data blocks completely intact. Anyone using inexpensive file-recovery software can recover sensitive financial records, passwords, and scanned Emirates IDs in minutes. Always perform cryptographic erasure or physically shred the storage media.",
+        },
+      },
+      {
+        heading: "Data sanitization: why formatting is not enough",
+        content: [
+          "Before any computer leaves your custody, data sanitization must be your top priority. In the UAE, Federal Decree-Law No. 45 of 2021 on Personal Data Protection establishes strict penalties for failing to safeguard personal identifiers and corporate records.",
+          "For modern laptops equipped with Solid State Drives (NVMe or SATA SSDs), standard multi-pass magnetic overwriting tools are ineffective and can wear out memory cells prematurely. Instead, initiate a hardware-level ATA Secure Erase or NVMe Cryptographic Erase through your computer's BIOS/UEFI settings, which permanently discards the master encryption keys.",
+          "For legacy mechanical hard disk drives (HDDs) containing rotating magnetic platters, run an approved erasure utility adhering to NIST SP 800-88 Rev. 1 standards (such as DBAN). If the machine cannot power on or motherboard components have failed, unfasten the casing, extract the hard drive, and physically destroy it by drilling three holes straight through the circular platters or subjecting it to a commercial degausser.",
+        ],
+      },
+      {
+        heading: "Handling swollen or degraded lithium-ion laptop batteries",
+        content: [
+          "Older laptops that have spent years plugged into wall chargers in hot Dubai office environments frequently suffer from lithium-ion pouch cell degradation. If your laptop touchpad is lifting, the keyboard is bulging upwards, or the bottom casing seams are splitting apart, the internal battery has developed internal gas buildup.",
+          "A swollen battery is under internal pressure and carries an elevated risk of thermal runaway and chemical fire. Disconnect the charger immediately and power down the device. Never attempt to press, squeeze, pierce, or tap down a swollen battery with tools.",
+          "If the battery is modular and can be unlatched safely, remove it wearing safety glasses and place it in a non-conductive, non-combustible container (such as a metal biscuit tin with sand). Keep it in a cool, shaded area away from direct sunlight. Our [battery and small electronics disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) details terminal insulation and safe drop-off methods.",
+        ],
+      },
+      {
+        heading: "Peripherals, cables and CRT vs LCD monitors",
+        content: [
+          "A complete workstation disposal involves multiple accessory streams. Group your equipment into distinct sub-categories: system towers, laptops, flat-screen monitors, and accessories (keyboards, optical mice, power bricks, and cable harnesses).",
+          "Copper cabling and AC power adapters represent high-value recycling material and should be untangled, coiled, and bagged separately rather than tangled around metal chassis. Flat-panel LCD and LED monitors should have their screens protected with cardboard to avoid panel shattering during loading.",
+          "If dealing with antique cathode-ray tube (CRT) monitors or heavy glass displays, handle them with extreme care. The glass funnel contains up to two kilograms of lead to shield radiation, and the vacuum tube can implode violently if struck. Similar precautions for flat display panels are outlined in our [old TV disposal guide](/blog/how-to-dispose-of-an-old-tv-in-dubai).",
+        ],
+        image: {
+          src: "/images/blog/secure-electronics-recycling-dubai.webp",
+          alt: "Data sanitization and electronics component recovery area at an accredited Dubai e-waste recycling centre",
+        },
+      },
+      {
+        heading: "Corporate IT asset decommissioning in Business Bay and DIFC",
+        content: [
+          "Commercial enterprises operating in financial and commercial districts such as [Business Bay](/areas/business-bay) and [DIFC](/areas/difc) face stringent corporate governance and regulatory compliance rules when refreshing technology assets.",
+          "Corporate decommissioning begins with a comprehensive asset register: documenting equipment serial numbers, MAC addresses, employee assignments, and hard drive ID tags. When decommissioning server racks, network switches, and desktop rows, work must often be scheduled outside normal office hours to prevent disruptions to neighbouring office tenancies. Our [occupied office clearance guide](/blog/how-to-clear-an-office-while-staff-work-dubai) provides a proven blueprint for staged workplace clearances.",
+          "Always partner with a licensed collector capable of issuing a formal Certificate of Destruction (CoD) and a Waste Transfer Manifest verified under Dubai Municipality waste management systems. These documents protect your company during annual ISO 27001 data security audits and local environmental inspections.",
+        ],
+      },
+      {
+        heading: "Refurbishment and digital charity donation in the UAE",
+        content: [
+          "Computers less than four to five years old that remain fully operational should ideally be refurbished for educational or charitable reuse. Many charitable initiatives in the UAE collect functional laptops, wipe them securely, install licensed educational software, and distribute them to underprivileged students across the region.",
+          "To qualify for donation, laptops should feature functioning displays, working keyboards and trackpads, operational Wi-Fi chips, and original power adapters. Desktops should include clean cases with intact motherboard capacitors and minimum specifications capable of running modern operating systems.",
+          "Our [sustainable waste management and e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers how circular reuse programmes support Dubai’s integrated sustainability initiatives.",
+        ],
+      },
+      {
+        heading: "Downstream material recovery: gold, copper and circuit boards",
+        content: [
+          "When computer hardware reaches end-of-life, specialized e-waste facilities in Dubai shred and process the components using mechanical separation and chemical reclamation.",
+          "Printed circuit boards (motherboards, RAM sticks, and graphics cards) contain concentrated precious metals: microscopic gold plating on connector pins, silver in solder traces, and palladium in multi-layer ceramic capacitors. A metric ton of sorted circuit boards yields significantly more gold than several tons of mined raw ore.",
+          "Steel tower cases and aluminium heat sinks are separated using eddy current separators and high-gradient magnets for smelting, while clean ABS plastic casings are shredded into pellets for secondary manufacturing. This closed-loop recovery prevents toxic heavy metals from contaminating groundwater.",
+        ],
+      },
+      {
+        heading: "Booking secure computer and e-waste pickup in Dubai",
+        content: [
+          "To schedule computer collection, compile an approximate count of machines: number of desktop towers, laptops, flat-panel monitors, and peripheral boxes. Let us know if you require on-site drive extraction or physical drive crushing before collection.",
+          "Our dedicated [office cleanout service](/services/office-cleanout-dubai) specializes in end-to-end commercial IT decommissioning, cubicle dismantling, and certified electronic waste recycling. For residential clients needing fast collection alongside household furniture, our [same-day junk removal service](/services/same-day-junk-removal-dubai) provides swift, reliable service across the emirate.",
+          "[Contact our team on WhatsApp or web](/contact) to receive a transparent quote and ensure your old computers are retired securely and sustainably.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["business-bay", "difc"],
+  },
+  {
+    slug: "how-to-dispose-of-scrap-metal-in-dubai",
+    title: "How to Dispose of Scrap Metal in Dubai: Ferrous, Copper and Aluminium",
+    seoTitle: "Scrap Metal Disposal Dubai: Sorting, Weighbridges & Pickup",
+    excerpt:
+      "How to dispose of scrap metal in Dubai: separate ferrous and non-ferrous alloys, navigate municipal transport permits and weighbridges, and book licensed collection.",
+    category: "Eco & Recycling",
+    tags: [
+      "Scrap Metal",
+      "Metal Recycling",
+      "Bulky Waste",
+      "Industrial Waste",
+      "Dubai",
+    ],
+    coverImage: "/images/blog/construction-debris-sorting-facility-dubai.webp",
+    coverImageAlt:
+      "Sorted ferrous and non-ferrous scrap metal offcuts arranged in heavy-duty containment bays at a Dubai recycling yard",
+    publishedAt: "2026-10-05",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Use the magnet test: ferrous metals (iron, steel, rebar) attract magnets, while valuable non-ferrous metals (copper, brass, aluminium) do not.",
+      "Informal pickup trucks collecting scrap in residential areas lack municipal transport permits and often dump unsellable insulation illegally.",
+      "Drain oils, fluids, and refrigerants from metal pumps, AC compressors, and engines before handing them over for scrap recovery.",
+      "Transporting bulk scrap requires licensed commercial vehicles with load containment and official Dubai weighbridge documentation.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of scrap metal in Dubai",
+        content: [
+          "To dispose of scrap metal in Dubai, separate ferrous alloys (iron and mild steel) from high-value non-ferrous metals (copper, brass, and aluminium), strip off plastic or timber contaminants, and transfer the material to a licensed recycling yard or book a permitted commercial collection crew. Ensure loads are covered and documented through Dubai Municipality weighbridges. Checked on 05/10/2026.",
+          "Renovating a villa, refurbishing an office, or clearing out a workshop generates heavy metal offcuts: discarded copper plumbing pipes, aluminium window extrusions, corrugated iron roofing sheets, steel rebar, and cast-iron fittings. Because metal is infinitely recyclable without loss of structural strength, virtually 100% of clean scrap can be diverted from landfill.",
+          "However, metal disposal in Dubai is strictly governed by local environmental and transport regulations. Failing to manage sharp edges, overloaded vehicles, or hazardous residues can result in substantial municipal fines and community access bans.",
+        ],
+        callout: {
+          title: "Never mix copper and brass with general steel scrap",
+          text: "Non-ferrous metals like copper pipe, clean brass fittings, and aluminium profiles command significantly higher market value than heavy ferrous iron. Mixing them into a single unsorted pile causes recyclers to classify the entire load as mixed low-grade scrap, reducing material recovery efficiency.",
+        },
+      },
+      {
+        heading: "The magnet test: ferrous versus non-ferrous metals",
+        content: [
+          "The fastest and most reliable way to categorize scrap metal is the simple magnet test. Take a common kitchen magnet and touch it to each metal item:",
+          "Ferrous metals (contain iron): The magnet will snap firmly to the surface. Common examples in Dubai homes include structural steel beams, corrugated decking, concrete reinforcement mesh (rebar), galvanized steel pipes, cast-iron bathtubs, and appliance panels. Ferrous scrap is heavy, magnetic, and prone to brown oxidation (rust).",
+          "Non-ferrous metals (contain no iron): The magnet will not stick. These include bright copper electrical wiring, copper plumbing tubes, brass sanitary fittings, aluminium window frames, bronze hardware, and zinc sheets. Non-ferrous metals are highly corrosion-resistant and form the backbone of circular manufacturing.",
+          "Certain grades of stainless steel (such as 304 and 316 austenitic stainless) are only weakly magnetic or non-magnetic due to high nickel and chromium content, but are priced separately from ordinary carbon steel.",
+        ],
+      },
+      {
+        heading: "Construction offcuts, pipes and renovation fixtures",
+        content: [
+          "Residential renovations in communities like [Al Furjan](/areas/al-furjan) produce substantial quantities of specialized architectural scrap. During bathroom remodelling, copper water feed lines and brass mixer valves should be cut away cleanly from masonry rubble.",
+          "Air conditioning retrofits yield aluminium condenser fins, steel compressor housings, and long copper refrigerant lines. Remember that AC components containing trapped freon gas cannot be scrapped until certified technicians evacuate the refrigerant into recovery cylinders as detailed in our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai).",
+          "For exterior villa clearances, metal shade pergola frames, chain-link fencing, and galvanized gate hardware should be disassembled into manageable lengths (under 2.5 metres) so they can be loaded safely into transport vehicles without overhanging tailgates.",
+        ],
+      },
+      {
+        heading: "The dangers of informal scrap hawkers in residential communities",
+        content: [
+          "Residents are often approached by informal operators driving unbadged pickup trucks offering to take away scrap metal for free or small cash sums. While handing scrap to these collectors may seem convenient, it presents serious legal and community risks.",
+          "Informal hawkers lack Dubai Municipality waste transport permits and trade licensing. They routinely park in remote desert tracts or empty industrial plots to strip copper wiring by burning plastic sheathing—a major environmental hazard that releases toxic dioxins into the air. They dump non-metallic portions (such as fiberglass insulation and contaminated drywall) illegally on roadsides.",
+          "Furthermore, community security gates across Dubai gated developments will deny entry to unlicensed vehicles, leaving scrap sitting outside your property and exposing you to municipal fly-tipping citations outlined in our [illegal dumping laws guide](/blog/dubai-illegal-dumping-laws-and-fines-guide).",
+        ],
+        image: {
+          src: "/images/blog/waste-weighbridge-diversion-evidence-dubai.webp",
+          alt: "Commercial collection truck laden with salvaged scrap metal crossing a certified Dubai municipal weighbridge",
+        },
+      },
+      {
+        heading: "Transport regulations and Dubai Municipality waste tracking",
+        content: [
+          "Commercial scrap metal hauling in Dubai is strictly monitored by the Dubai Municipality Waste Management Department. Collection vehicles must be registered under the Dubai Waste Tracking system and carry heavy-duty cargo nets, rated ratchet tie-downs, and side-wall retention barriers.",
+          "Vehicles carrying commercial scrap are routed through municipal transfer stations and accredited material recovery facilities equipped with certified weighbridges in industrial zones such as Al Quoz, Ras Al Khor, and [Dubai Investment Park](/areas/dubai-investment-park).",
+          "At the weighbridge, the gross vehicle weight is logged upon entry and the tare weight is recorded after tipping. This provides an indisputable, audit-ready diversion manifest confirming that the metal was sent directly to licensed foundries rather than landfill. Our [landfill diversion guide](/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai) details the legal importance of these certificates.",
+        ],
+      },
+      {
+        heading: "Preparing scrap metal safely for collection",
+        content: [
+          "Handling raw scrap metal carries significant risk of puncture wounds and lacerations. Always wear heavy-duty leather or cut-resistant Kevlar work gloves, steel-toed boots, and safety glasses when sorting metal debris.",
+          "Strip non-metallic contaminants wherever possible. Remove rubber gaskets, wooden table frames, and plastic trim from metal components; cleaner scrap streams allow recyclers to process batches faster and prevent contamination in induction furnaces.",
+          "Ensure that all motor housings, hydraulic jacks, or mechanical pumps are completely drained of lubricating motor oil, fuel, or hydraulic fluids. Enclosed pressure vessels, small fuel canisters, and fire extinguishers must never be placed into mixed scrap without certified de-pressurization and valve removal, as covered in our [prohibited items guide](/blog/items-junk-removal-companies-cannot-take-dubai).",
+        ],
+      },
+      {
+        heading: "Circular metallurgy: how scrap metal is reprocessed in the UAE",
+        content: [
+          "Once collected and sorted at licensed Dubai recovery facilities, scrap metals enter advanced circular industrial loops across the UAE.",
+          "Ferrous scrap is shredded, magnetically separated, and fed into electric arc furnaces (EAF) located in local industrial hubs. These facilities melt scrap steel to manufacture high-tensile construction rebar and structural sections used in new Dubai development projects. Recycling steel requires 75% less energy than producing virgin steel from mined iron ore.",
+          "Non-ferrous copper and brass are smelted into secondary ingots and extruded into electrical busbars and plumbing fittings, while aluminium scrap is melted into foundry alloys for automotive and architectural profiles. This closed-loop process directly advances the UAE Circular Economy Policy 2021–2031.",
+        ],
+      },
+      {
+        heading: "Booking scrap metal collection across Dubai",
+        content: [
+          "To book a scrap metal pickup, take wide photographs of your metal piles, estimate the general composition (such as light sheet metal, structural steel, or copper pipes), and mention if specialized tools are needed for on-site cutting or dismantling.",
+          "Our [bulky item removal service](/services/bulky-item-removal-dubai) and [full junk removal service](/services/junk-removal-dubai) dispatch trained, insured crews equipped with safety gear, heavy-duty trolleys, and permitted vehicles to handle heavy metal loads safely from villas, apartments, and commercial facilities.",
+          "[Contact our team on WhatsApp or web](/contact) to arrange a punctual scrap collection and ensure your metals are recycled in full compliance with Dubai regulations.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-investment-park", "al-furjan"],
   },
 ];
 

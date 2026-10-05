@@ -112,6 +112,18 @@ Three further item-specific informational topics requested after the previous qu
 
 Overlap review before drafting: the dishwasher guide owns under-sink water isolation, base pan and sump draining, spigot capping, and the single-machine reuse or appliance-scrap decision, not cross-appliance donation or washing-machine spin drums; the bed-frame guide owns in-room dismantling sequence, gas-lift Ottoman piston safety, hardware bagging, and tower lift clearance, not mattress disposal or wardrobe joinery; the piano guide owns acoustic soundboard/pinblock condition assessment, string tension safety warnings, and heavy-duty dolly/ramp rigging, not digital e-waste keyboards or standard bulky furniture transport.
 
+## Approved editorial expansion — 2026-10-05
+
+Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`oven removal dubai`, `computer disposal dubai`, `scrap metal removal dubai`) stay with their existing service pages (`/services/appliance-removal-dubai`, `/services/office-cleanout-dubai`, `/services/bulky-item-removal-dubai`). The additions belong to cluster 03, cluster 04 and cluster 08 respectively.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old oven in dubai` | Informational | `/blog/how-to-dispose-of-an-old-oven-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old computers and laptops in dubai` | Informational | `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of scrap metal in dubai` | Informational | `/blog/how-to-dispose-of-scrap-metal-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the oven guide owns central/LPG gas isolation, brass blanking capping, 32-amp electrical circuit safety, and kitchen appliance scrap recycling, not cross-appliance donation or dishwasher drainage; the computer and laptop guide owns NIST SP 800-88 data sanitization, SSD/HDD physical destruction, swollen lithium battery isolation, and corporate IT asset decommissioning, not general consumer electronics or TV screen resetting; the scrap metal guide owns the magnet test (ferrous vs non-ferrous), copper piping, aluminium profiles, municipal transport permits, and certified weighbridge procedures, not mixed renovation rubble or kitchenware disposal.
+
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.

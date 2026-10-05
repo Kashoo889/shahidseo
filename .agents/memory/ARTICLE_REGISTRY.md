@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-03**
+Last synchronized: **2026-10-05**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                | Intent                     | URL                                                                | Published  | Status    |
@@ -90,15 +90,26 @@ Canonical implementation: `data/blog.ts`
 |  83 | `how to dispose of an old dishwasher in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` | 2026-10-03 | Published |
 |  84 | `how to dispose of an old bed frame in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai` | 2026-10-03 | Published |
 |  85 | `how to dispose of an old piano in dubai` | Informational | `/blog/how-to-dispose-of-an-old-piano-in-dubai` | 2026-10-03 | Published |
+|  86 | `how to dispose of an old oven in dubai` | Informational | `/blog/how-to-dispose-of-an-old-oven-in-dubai` | 2026-10-05 | Published |
+|  87 | `how to dispose of old computers and laptops in dubai` | Informational | `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` | 2026-10-05 | Published |
+|  88 | `how to dispose of scrap metal in dubai` | Informational | `/blog/how-to-dispose-of-scrap-metal-in-dubai` | 2026-10-05 | Published |
 
 ## Current counts
 
-- Published: **85**
-- Published on 2026-10-03: **3**
+- Published: **88**
+- Published on 2026-10-05: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **55**
-- Next approved supplemental priority: **None queued; the 2026-10-03 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **58**
+- Next approved supplemental priority: **None queued; the 2026-10-05 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-05 batch
+
+- The old-oven guide owns kitchen cooking range assessment, central gas shut-off cock isolation, brass blanking capping, 32-amp radial cooker circuit electrical isolation, trivet/rack removal, and white-goods scrap recycling. `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` retains water drainage and spigot capping; `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant compressor gas. Commercial `oven removal dubai` stays with `/services/appliance-removal-dubai`.
+- The computer and laptop guide owns NIST SP 800-88 data sanitization standards, SSD cryptographic erase, mechanical HDD physical destruction, swollen lithium-ion pouch cell isolation, and corporate IT asset decommissioning in Business Bay/DIFC. `/blog/how-to-dispose-of-an-old-tv-in-dubai` retains consumer TV displays; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains general municipal e-waste policy. Commercial `computer disposal dubai` stays with `/services/office-cleanout-dubai`.
+- The scrap metal guide owns the magnet test (ferrous vs non-ferrous), copper piping and brass valves, aluminium extrusions, municipal waste transport permits, and certified weighbridge procedures in Al Quoz, Ras Al Khor, and DIP. `/blog/construction-and-renovation-waste-removal-dubai` retains general mixed renovation rubble; `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai` retains domestic cookware. Commercial `scrap metal removal dubai` stays with `/services/bulky-item-removal-dubai`.
+- Each article contains two service links, two area links, contextual sibling links and a `/contact` action. Inbound links were added from the dishwasher, TV, and kitchenware guides.
+- Images reuse existing assets from `public/images/blog/` at the user's request (no external outsourcing, downloading, or generation). See `docs/article-images-2026-10-05.md`.
 
 ## Cannibalization notes for 2026-10-03 batch
 
