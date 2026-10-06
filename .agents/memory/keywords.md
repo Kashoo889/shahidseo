@@ -8,11 +8,11 @@
 
 User approved researching and writing these three additional topics after the original queue was exhausted. These are editorial target phrases, not claims of measured search volume. Existing commercial terms retain their service-page owners. The original cluster tables below are retained; the three additions belong to clusters 07, 06 and 18 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of garden waste in dubai` | Informational | `/blog/how-to-dispose-of-garden-waste-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                   | Intent        | Target URL                                            | Page type  | Priority           |
+| ------------------------------------------------- | ------------- | ----------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of garden waste in dubai`         | Informational | `/blog/how-to-dispose-of-garden-waste-in-dubai`       | Blog Guide | Approved expansion |
 | `how to clear an office while staff keep working` | Informational | `/blog/how-to-clear-an-office-while-staff-work-dubai` | Blog Guide | Approved expansion |
-| `what to remove before rental handover dubai` | Informational | `/blog/what-to-remove-before-rental-handover-dubai` | Blog Guide | Approved expansion |
+| `what to remove before rental handover dubai`     | Informational | `/blog/what-to-remove-before-rental-handover-dubai`   | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the garden guide owns material-specific horticultural disposal, not seasonal decluttering; the occupied-office guide owns staged releases and work continuity, not relocation asset disposal; the rental guide owns item ownership and agreed retention, not a room-by-room clearance checklist. Contextual links will connect each to two relevant services, two areas, two to four supporting guides and one contact action.
 
@@ -20,11 +20,11 @@ Overlap review before drafting: the garden guide owns material-specific horticul
 
 Three further item-specific informational topics. These are editorial target phrases, not claims of measured search volume. The matching commercial head terms (`carpet removal dubai`, `gym equipment removal dubai`, `cardboard removal dubai`) stay with `/services/bulky-item-removal-dubai`; the blog targets only the informational variants. The additions belong to cluster 08 (first two) and cluster 18 (third).
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of old carpets and rugs in dubai` | Informational | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of gym equipment in dubai` | Informational | `/blog/how-to-dispose-of-home-gym-equipment-dubai` | Blog Guide | Approved expansion |
-| `what to do with moving boxes in dubai` | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                   | Intent        | Target URL                                                   | Page type  | Priority           |
+| ------------------------------------------------- | ------------- | ------------------------------------------------------------ | ---------- | ------------------ |
+| `how to dispose of old carpets and rugs in dubai` | Informational | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai`         | Blog Guide | Approved expansion |
+| `how to dispose of gym equipment in dubai`        | Informational | `/blog/how-to-dispose-of-home-gym-equipment-dubai`           | Blog Guide | Approved expansion |
+| `what to do with moving boxes in dubai`           | Informational | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the carpet guide owns floor-covering condition tests, roll geometry and the carpet/underlay/gripper separation, not the general furniture route decision; the gym guide owns weight-per-piece planning, dismantling order and the powered-machine electronics split, not per-item price bands; the packing-waste guide owns the post-arrival packaging surge, carton contamination and film/foam/timber separation, not the recurring household recycling routine or pre-move decluttering.
 
@@ -32,11 +32,11 @@ Overlap review before drafting: the carpet guide owns floor-covering condition t
 
 Three further material-specific informational topics. These are editorial target phrases, not claims of measured search volume. The matching commercial head terms (`tyre disposal dubai`, `document destruction dubai`) stay with `/services/bulky-item-removal-dubai` and `/services/office-cleanout-dubai`; the blog targets only the informational variants. The additions belong to cluster 08, cluster 15 and cluster 13 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of old tyres in dubai` | Informational | `/blog/how-to-dispose-of-old-tyres-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old clothes and textiles in dubai` | Informational | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old documents in dubai` | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                       | Intent        | Target URL                                                  | Page type  | Priority           |
+| ----------------------------------------------------- | ------------- | ----------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of old tyres in dubai`                | Informational | `/blog/how-to-dispose-of-old-tyres-in-dubai`                | Blog Guide | Approved expansion |
+| `how to dispose of old clothes and textiles in dubai` | Informational | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai`    | Blog Guide | Approved expansion |
+| `how to dispose of old documents in dubai`            | Informational | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the tyre guide owns the separated-stream explanation, garage take-back and stored-tyre risks, not the general acceptability inventory or disposal-site access; the textiles guide owns the wearable test, category bagging and fibre recovery, not drop-off location discovery or the charity collection request mechanics; the documents guide owns the keep/shred/recycle split and identifying-page test, not data-bearing hardware handling. No document retention periods are stated; readers are directed to the issuing body.
 
@@ -44,11 +44,11 @@ Overlap review before drafting: the tyre guide owns the separated-stream explana
 
 Three further item- and situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial terms (`bulky waste removal dubai`, `furniture removal dubai`, `house clearance dubai`) stay with the existing service pages. The additions belong to cluster 08, cluster 15 and cluster 05 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of mirrors and glass in dubai` | Informational | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of baby items in dubai` | Informational | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai` | Blog Guide | Approved expansion |
-| `how to help someone clear a hoarded home in dubai` | Informational | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                     | Intent        | Target URL                                                  | Page type  | Priority           |
+| --------------------------------------------------- | ------------- | ----------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of mirrors and glass in dubai`      | Informational | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai`        | Blog Guide | Approved expansion |
+| `how to dispose of baby items in dubai`             | Informational | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai` | Blog Guide | Approved expansion |
+| `how to help someone clear a hoarded home in dubai` | Informational | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai`      | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the glass guide owns flat glass and broken-glass handling, not container recycling; the baby-items guide owns child-product reuse safety, not general clothing or furniture donation; the hoarding guide owns the person-led staged clearance, not ordinary room-by-room decluttering.
 
@@ -56,11 +56,11 @@ Overlap review before drafting: the glass guide owns flat glass and broken-glass
 
 Three further specialist-disposal topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each guide owns its material-specific decision and handling process.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of expired medicines in dubai` | Informational | `/blog/how-to-dispose-of-expired-medicines-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of light bulbs in dubai` | Informational | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` | Blog Guide | Approved expansion |
-| `how to recycle printer cartridges in dubai` | Informational | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                | Intent        | Target URL                                                        | Page type  | Priority           |
+| ---------------------------------------------- | ------------- | ----------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of expired medicines in dubai` | Informational | `/blog/how-to-dispose-of-expired-medicines-in-dubai`              | Blog Guide | Approved expansion |
+| `how to dispose of light bulbs in dubai`       | Informational | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` | Blog Guide | Approved expansion |
+| `how to recycle printer cartridges in dubai`   | Informational | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai`     | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the medicine guide owns household medicine identification, secure storage and pharmacy-return preparation, not clinical-facility waste; the lamp guide owns bulb identification, mercury-lamp precautions and breakage containment, not general e-waste; the cartridge guide owns ink and toner consumables, manufacturer take-back and packing, not disposal of whole printers.
 
@@ -68,11 +68,11 @@ Overlap review before drafting: the medicine guide owns household medicine ident
 
 Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`furniture removal dubai`, `bulky waste removal dubai`, `rubbish removal dubai`) stay with the existing service pages. The additions belong to cluster 15, cluster 15 and cluster 08 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of old books in dubai` | Informational | `/blog/how-to-dispose-of-old-books-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                | Intent        | Target URL                                                    | Page type  | Priority           |
+| ---------------------------------------------- | ------------- | ------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of old books in dubai`         | Informational | `/blog/how-to-dispose-of-old-books-in-dubai`                  | Blog Guide | Approved expansion |
 | `how to dispose of old pots and pans in dubai` | Informational | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of outdoor furniture in dubai` | Informational | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of outdoor furniture in dubai` | Informational | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai`   | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the books guide owns book condition, reader-demand triage and binding preparation, not identifying paperwork or shredding; the kitchenware guide owns cookware, utensils and the kitchen-electricals split, not cooking oil, broken-glass containment or appliance donation; the outdoor-furniture guide owns sun-damaged frames, cushions, parasol bases and BBQ preparation, not plant waste or seasonal terrace decluttering.
 
@@ -80,11 +80,11 @@ Overlap review before drafting: the books guide owns book condition, reader-dema
 
 Three further household-item informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each guide owns its specific sorting and safe-handover decision.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of cleaning products in dubai` | Informational | `/blog/how-to-dispose-of-household-cleaning-products-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old camping gear in dubai` | Informational | `/blog/how-to-dispose-of-old-camping-gear-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of curtains and blinds in dubai` | Informational | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                  | Intent        | Target URL                                                  | Page type  | Priority           |
+| ------------------------------------------------ | ------------- | ----------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of cleaning products in dubai`   | Informational | `/blog/how-to-dispose-of-household-cleaning-products-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old camping gear in dubai`    | Informational | `/blog/how-to-dispose-of-old-camping-gear-in-dubai`         | Blog Guide | Approved expansion |
+| `how to dispose of curtains and blinds in dubai` | Informational | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai`     | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the cleaning-products guide owns the household cupboard audit, original-container rule and specialist handover, not paint or the cross-category prohibited-items inventory; the camping guide owns tents, sleeping gear, outdoor furniture, fuel and powered equipment as one pre-collection audit, while the gas-cylinder and battery guides retain their specialist streams; the curtains-and-blinds guide owns tenancy authority, reusable fabric, tracks and powered systems, not general textiles or the full rental handover.
 
@@ -92,11 +92,11 @@ Overlap review before drafting: the cleaning-products guide owns the household c
 
 Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`washing machine removal dubai`, `washing machine disposal dubai`, `tv disposal dubai`, `wardrobe removal dubai`) stay with their existing service pages. The additions belong to cluster 03, cluster 04 and cluster 02 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
+| Primary keyword                                | Intent        | Target URL                                                | Page type  | Priority           |
+| ---------------------------------------------- | ------------- | --------------------------------------------------------- | ---------- | ------------------ |
 | `how to dispose of a washing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old tv in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old wardrobe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old tv in dubai`         | Informational | `/blog/how-to-dispose-of-an-old-tv-in-dubai`              | Blog Guide | Approved expansion |
+| `how to dispose of an old wardrobe in dubai`   | Informational | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai`        | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the washing-machine guide owns draining, disconnection, drum securing and the single-washer reuse test, not cross-appliance donation or refrigerant equipment; the TV guide owns account reset, wall-mount removal and screen protection, not the general e-waste stream or battery handling; the wardrobe guide owns fitted-versus-freestanding ownership, the dismantling-survival test and lift measurement, not the general furniture route comparison or broken-glass containment.
 
@@ -104,11 +104,11 @@ Overlap review before drafting: the washing-machine guide owns draining, disconn
 
 Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`dishwasher removal dubai`, `bed removal dubai`, `piano removal dubai`) stay with their existing service pages (`/services/appliance-removal-dubai`, `/services/furniture-removal-dubai`, `/services/bulky-item-removal-dubai`). The additions belong to cluster 03, cluster 02 and cluster 08 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
+| Primary keyword                                | Intent        | Target URL                                           | Page type  | Priority           |
+| ---------------------------------------------- | ------------- | ---------------------------------------------------- | ---------- | ------------------ |
 | `how to dispose of an old dishwasher in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old bed frame in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old piano in dubai` | Informational | `/blog/how-to-dispose-of-an-old-piano-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old bed frame in dubai`  | Informational | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai`  | Blog Guide | Approved expansion |
+| `how to dispose of an old piano in dubai`      | Informational | `/blog/how-to-dispose-of-an-old-piano-in-dubai`      | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the dishwasher guide owns under-sink water isolation, base pan and sump draining, spigot capping, and the single-machine reuse or appliance-scrap decision, not cross-appliance donation or washing-machine spin drums; the bed-frame guide owns in-room dismantling sequence, gas-lift Ottoman piston safety, hardware bagging, and tower lift clearance, not mattress disposal or wardrobe joinery; the piano guide owns acoustic soundboard/pinblock condition assessment, string tension safety warnings, and heavy-duty dolly/ramp rigging, not digital e-waste keyboards or standard bulky furniture transport.
 
@@ -116,23 +116,35 @@ Overlap review before drafting: the dishwasher guide owns under-sink water isola
 
 Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`oven removal dubai`, `computer disposal dubai`, `scrap metal removal dubai`) stay with their existing service pages (`/services/appliance-removal-dubai`, `/services/office-cleanout-dubai`, `/services/bulky-item-removal-dubai`). The additions belong to cluster 03, cluster 04 and cluster 08 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old oven in dubai` | Informational | `/blog/how-to-dispose-of-an-old-oven-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                        | Intent        | Target URL                                                   | Page type  | Priority           |
+| ------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ---------- | ------------------ |
+| `how to dispose of an old oven in dubai`               | Informational | `/blog/how-to-dispose-of-an-old-oven-in-dubai`               | Blog Guide | Approved expansion |
 | `how to dispose of old computers and laptops in dubai` | Informational | `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of scrap metal in dubai` | Informational | `/blog/how-to-dispose-of-scrap-metal-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of scrap metal in dubai`               | Informational | `/blog/how-to-dispose-of-scrap-metal-in-dubai`               | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the oven guide owns central/LPG gas isolation, brass blanking capping, 32-amp electrical circuit safety, and kitchen appliance scrap recycling, not cross-appliance donation or dishwasher drainage; the computer and laptop guide owns NIST SP 800-88 data sanitization, SSD/HDD physical destruction, swollen lithium battery isolation, and corporate IT asset decommissioning, not general consumer electronics or TV screen resetting; the scrap metal guide owns the magnet test (ferrous vs non-ferrous), copper piping, aluminium profiles, municipal transport permits, and certified weighbridge procedures, not mixed renovation rubble or kitchenware disposal.
+
+## Approved editorial expansion — 2026-10-06
+
+Three further item-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial terms (`appliance removal dubai`, `bulky item removal dubai`, `furniture removal dubai`) stay with their existing service pages (`/services/appliance-removal-dubai`, `/services/bulky-item-removal-dubai`, `/services/furniture-removal-dubai`). The additions belong to cluster 03, cluster 08 and cluster 02 respectively.
+
+| Primary keyword                                             | Intent        | Target URL                                                        | Page type  | Priority           |
+| ----------------------------------------------------------- | ------------- | ----------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old water heater in dubai`            | Informational | `/blog/how-to-dispose-of-an-old-water-heater-in-dubai`            | Blog Guide | Approved expansion |
+| `how to dispose of wood waste in dubai`                     | Informational | `/blog/how-to-dispose-of-wood-waste-in-dubai`                     | Blog Guide | Approved expansion |
+| `how to dispose of an old dining table and chairs in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the water heater guide owns domestic electric boiler/geyser tank assessment, 20A double-pole electrical isolation, mains cold feed stopcock closure, draining 50–100 litres of sediment sludge, ceiling hatch maneuvering, and scrap copper/steel reclamation, not general refrigerator coolant or washing machine drainage; the wood waste guide owns grading untreated lumber/pallets versus engineered MDF/melamine, de-nailing and screw extraction, strict municipal bans on open burning, and Dubai Municipality bio-mulch and chipping routes in Warsan/Quoz, not general construction rubble or domestic furniture reuse; the dining table and chairs guide owns table apron/leg unbolting, heavy marble and tempered glass top detachment, chair nesting/stacking, fabric vs faux-leather upholstery assessment for humanitarian donation, and tower freight lift diagonal calculations, not general bulky furniture overview or sofa deconstruction.
 
 ## Approved editorial expansion — 2026-09-24
 
 Three further situation-led informational topics requested by the user after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial clearance intent (`house clearance dubai`, `estate clearance dubai`, `bulky waste removal dubai`) stays with the existing service pages. The additions belong to cluster 18, cluster 17 and cluster 05 respectively.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
+| Primary keyword                                       | Intent        | Target URL                                                  | Page type  | Priority           |
+| ----------------------------------------------------- | ------------- | ----------------------------------------------------------- | ---------- | ------------------ |
 | `what to do with items left by previous tenant dubai` | Informational | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai` | Blog Guide | Approved expansion |
-| `how to clear out a storage unit in dubai` | Informational | `/blog/how-to-clear-out-a-storage-unit-in-dubai` | Blog Guide | Approved expansion |
-| `how to clear a deceased person's home in dubai` | Informational | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai` | Blog Guide | Approved expansion |
+| `how to clear out a storage unit in dubai`            | Informational | `/blog/how-to-clear-out-a-storage-unit-in-dubai`            | Blog Guide | Approved expansion |
+| `how to clear a deceased person's home in dubai`      | Informational | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai`  | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the previous-tenant guide owns the landlord's handling of abandoned belongings, not the tenant's handover decisions; the storage-unit guide owns facility terms and single-visit loading, not general volume estimation or in-home decluttering; the bereavement guide owns decision authority and staged family clearance, not the commercial estate-clearance service.
 
@@ -140,11 +152,11 @@ Overlap review before drafting: the previous-tenant guide owns the landlord's ha
 
 Three further safety-led informational topics approved after the prior queue was exhausted. These are editorial target phrases, not claims of measured search volume. Commercial collection intent remains with the existing service pages; each blog owns only its decision and handling question.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `what can't junk removal take` | Informational | `/blog/items-junk-removal-companies-cannot-take-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of used cooking oil in dubai` | Informational | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of gas cylinders in dubai` | Informational | `/blog/how-to-dispose-of-gas-cylinders-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                               | Intent        | Target URL                                             | Page type  | Priority           |
+| --------------------------------------------- | ------------- | ------------------------------------------------------ | ---------- | ------------------ |
+| `what can't junk removal take`                | Informational | `/blog/items-junk-removal-companies-cannot-take-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of used cooking oil in dubai` | Informational | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai`    | Blog Guide | Approved expansion |
+| `how to dispose of gas cylinders in dubai`    | Informational | `/blog/how-to-dispose-of-gas-cylinders-in-dubai`       | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the prohibited-items guide owns the general/controlled boundary and pre-booking declaration test, while the existing accepted-items article retains the positive inventory; the cooking-oil guide owns cooling, bottling, drain avoidance and household-versus-commercial routes, while the recycling-centre article retains destination discovery; the cylinder guide owns supplier return, temporary storage and leak escalation, while the hazardous-liquids guide retains paints, solvents and chemical routing.
 **Cannibalization Policy**: Single primary URL mapping per search intent.

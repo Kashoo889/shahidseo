@@ -133,84 +133,87 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-05)
+## 4. Publication Progress (Updated 2026-10-06)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **58**
-- Total published blog articles: **88**
-- Published on 2026-10-05: **3**
+- Published supplemental approved articles: **61**
+- Total published blog articles: **91**
+- Published on 2026-10-06: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-05 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-06 expansion topics are complete. The checklist keyword retains its existing owner.**
 
-| Roadmap item | Primary keyword                                | Status    | Published  |
-| ------------ | ---------------------------------------------- | --------- | ---------- |
-| Phase 5 #23  | `spring cleaning junk removal dubai`           | Published | 2026-09-09 |
-| Phase 6 #24  | `what items do junk removal companies take`    | Published | 2026-09-09 |
-| Phase 6 #25  | `do you need a permit to remove junk in dubai` | Published | 2026-09-09 |
-| Phase 6 #26  | `is junk removal worth it`                     | Published | 2026-09-10 |
-| Phase 6 #27  | `how to prepare for junk removal`              | Published | 2026-09-10 |
-| Phase 6 #28  | `what affects junk removal price`              | Published | 2026-09-10 |
-| Phase 6 #29  | `how to sort junk for recycling`               | Published | 2026-09-11 |
-| Phase 6 #30  | `best time to book junk removal dubai`         | Published | 2026-09-11 |
-| Supplemental | `how to dispose of paint in dubai`             | Published | 2026-09-11 |
-| Supplemental | `how to dispose of batteries in dubai`         | Published | 2026-09-12 |
-| Supplemental | `decluttering tips for small apartments dubai` | Published | 2026-09-12 |
-| Supplemental | `what happens to junk after removal`           | Published | 2026-09-12 |
-| Supplemental | `how to dispose of junk in dubai`              | Published | 2026-09-12 |
-| Supplemental | `where to dump junk in dubai`                  | Published | 2026-09-12 |
-| Supplemental | `free bulky waste collection dubai`            | Published | 2026-09-12 |
-| Supplemental | `how to recycle in dubai`                      | Published | 2026-09-14 |
-| Supplemental | `what is a landfill diversion certificate`    | Published | 2026-09-14 |
-| Supplemental | `how long does junk removal take`              | Published | 2026-09-14 |
-| Supplemental | `where to donate old appliances dubai`         | Published | 2026-09-15 |
-| Supplemental | `recycle old sofa dubai`                       | Published | 2026-09-15 |
-| Supplemental | `tipping junk removal in dubai`                | Published | 2026-09-15 |
-| Supplemental | `junk removal cost per item dubai`             | Published | 2026-09-16 |
-| Supplemental | `is it illegal to dump furniture in dubai`     | Published | 2026-09-16 |
-| Supplemental | `dubai waste management 2030`                  | Published | 2026-09-16 |
-| Supplemental | `how to estimate junk removal cost`            | Published | 2026-09-17 |
-| Supplemental | `where to dispose of old appliances dubai`     | Published | 2026-09-17 |
-| Supplemental | `eco friendly ways to get rid of junk`         | Published | 2026-09-17 |
-| Supplemental | `where to dispose old furniture in dubai`      | Published | 2026-09-18 |
-| Supplemental | `charity furniture collection dubai`           | Published | 2026-09-18 |
-| Supplemental | `declutter before moving dubai`                | Published | 2026-09-18 |
-| Approved expansion | `how to dispose of garden waste in dubai` | Published | 2026-09-19 |
-| Approved expansion | `how to clear an office while staff keep working` | Published | 2026-09-19 |
-| Approved expansion | `what to remove before rental handover dubai` | Published | 2026-09-19 |
-| Approved expansion | `how to dispose of old carpets and rugs in dubai` | Published | 2026-09-21 |
-| Approved expansion | `how to dispose of gym equipment in dubai` | Published | 2026-09-21 |
-| Approved expansion | `what to do with moving boxes in dubai` | Published | 2026-09-21 |
-| Approved expansion | `how to dispose of old tyres in dubai` | Published | 2026-09-22 |
-| Approved expansion | `how to dispose of old clothes and textiles in dubai` | Published | 2026-09-22 |
-| Approved expansion | `how to dispose of old documents in dubai` | Published | 2026-09-22 |
-| Approved expansion | `what can't junk removal take` | Published | 2026-09-23 |
-| Approved expansion | `how to dispose of used cooking oil in dubai` | Published | 2026-09-23 |
-| Approved expansion | `how to dispose of gas cylinders in dubai` | Published | 2026-09-23 |
-| Approved expansion | `what to do with items left by previous tenant dubai` | Published | 2026-09-24 |
-| Approved expansion | `how to clear out a storage unit in dubai` | Published | 2026-09-24 |
-| Approved expansion | `how to clear a deceased person's home in dubai` | Published | 2026-09-24 |
-| Approved expansion | `how to dispose of mirrors and glass in dubai` | Published | 2026-09-28 |
-| Approved expansion | `how to dispose of baby items in dubai` | Published | 2026-09-28 |
-| Approved expansion | `how to help someone clear a hoarded home in dubai` | Published | 2026-09-28 |
-| Approved expansion | `how to dispose of expired medicines in dubai` | Published | 2026-09-29 |
-| Approved expansion | `how to dispose of light bulbs in dubai` | Published | 2026-09-29 |
-| Approved expansion | `how to recycle printer cartridges in dubai` | Published | 2026-09-29 |
-| Approved expansion | `how to dispose of old books in dubai` | Published | 2026-09-30 |
-| Approved expansion | `how to dispose of old pots and pans in dubai` | Published | 2026-09-30 |
-| Approved expansion | `how to dispose of outdoor furniture in dubai` | Published | 2026-09-30 |
-| Approved expansion | `how to dispose of cleaning products in dubai` | Published | 2026-10-01 |
-| Approved expansion | `how to dispose of old camping gear in dubai` | Published | 2026-10-01 |
-| Approved expansion | `how to dispose of curtains and blinds in dubai` | Published | 2026-10-01 |
-| Approved expansion | `how to dispose of a washing machine in dubai` | Published | 2026-10-02 |
-| Approved expansion | `how to dispose of an old tv in dubai` | Published | 2026-10-02 |
-| Approved expansion | `how to dispose of an old wardrobe in dubai` | Published | 2026-10-02 |
-| Approved expansion | `how to dispose of an old dishwasher in dubai` | Published | 2026-10-03 |
-| Approved expansion | `how to dispose of an old bed frame in dubai` | Published | 2026-10-03 |
-| Approved expansion | `how to dispose of an old piano in dubai` | Published | 2026-10-03 |
-| Approved expansion | `how to dispose of an old oven in dubai` | Published | 2026-10-05 |
-| Approved expansion | `how to dispose of old computers and laptops in dubai` | Published | 2026-10-05 |
-| Approved expansion | `how to dispose of scrap metal in dubai` | Published | 2026-10-05 |
+| Roadmap item       | Primary keyword                                             | Status    | Published  |
+| ------------------ | ----------------------------------------------------------- | --------- | ---------- |
+| Phase 5 #23        | `spring cleaning junk removal dubai`                        | Published | 2026-09-09 |
+| Phase 6 #24        | `what items do junk removal companies take`                 | Published | 2026-09-09 |
+| Phase 6 #25        | `do you need a permit to remove junk in dubai`              | Published | 2026-09-09 |
+| Phase 6 #26        | `is junk removal worth it`                                  | Published | 2026-09-10 |
+| Phase 6 #27        | `how to prepare for junk removal`                           | Published | 2026-09-10 |
+| Phase 6 #28        | `what affects junk removal price`                           | Published | 2026-09-10 |
+| Phase 6 #29        | `how to sort junk for recycling`                            | Published | 2026-09-11 |
+| Phase 6 #30        | `best time to book junk removal dubai`                      | Published | 2026-09-11 |
+| Supplemental       | `how to dispose of paint in dubai`                          | Published | 2026-09-11 |
+| Supplemental       | `how to dispose of batteries in dubai`                      | Published | 2026-09-12 |
+| Supplemental       | `decluttering tips for small apartments dubai`              | Published | 2026-09-12 |
+| Supplemental       | `what happens to junk after removal`                        | Published | 2026-09-12 |
+| Supplemental       | `how to dispose of junk in dubai`                           | Published | 2026-09-12 |
+| Supplemental       | `where to dump junk in dubai`                               | Published | 2026-09-12 |
+| Supplemental       | `free bulky waste collection dubai`                         | Published | 2026-09-12 |
+| Supplemental       | `how to recycle in dubai`                                   | Published | 2026-09-14 |
+| Supplemental       | `what is a landfill diversion certificate`                  | Published | 2026-09-14 |
+| Supplemental       | `how long does junk removal take`                           | Published | 2026-09-14 |
+| Supplemental       | `where to donate old appliances dubai`                      | Published | 2026-09-15 |
+| Supplemental       | `recycle old sofa dubai`                                    | Published | 2026-09-15 |
+| Supplemental       | `tipping junk removal in dubai`                             | Published | 2026-09-15 |
+| Supplemental       | `junk removal cost per item dubai`                          | Published | 2026-09-16 |
+| Supplemental       | `is it illegal to dump furniture in dubai`                  | Published | 2026-09-16 |
+| Supplemental       | `dubai waste management 2030`                               | Published | 2026-09-16 |
+| Supplemental       | `how to estimate junk removal cost`                         | Published | 2026-09-17 |
+| Supplemental       | `where to dispose of old appliances dubai`                  | Published | 2026-09-17 |
+| Supplemental       | `eco friendly ways to get rid of junk`                      | Published | 2026-09-17 |
+| Supplemental       | `where to dispose old furniture in dubai`                   | Published | 2026-09-18 |
+| Supplemental       | `charity furniture collection dubai`                        | Published | 2026-09-18 |
+| Supplemental       | `declutter before moving dubai`                             | Published | 2026-09-18 |
+| Approved expansion | `how to dispose of garden waste in dubai`                   | Published | 2026-09-19 |
+| Approved expansion | `how to clear an office while staff keep working`           | Published | 2026-09-19 |
+| Approved expansion | `what to remove before rental handover dubai`               | Published | 2026-09-19 |
+| Approved expansion | `how to dispose of old carpets and rugs in dubai`           | Published | 2026-09-21 |
+| Approved expansion | `how to dispose of gym equipment in dubai`                  | Published | 2026-09-21 |
+| Approved expansion | `what to do with moving boxes in dubai`                     | Published | 2026-09-21 |
+| Approved expansion | `how to dispose of old tyres in dubai`                      | Published | 2026-09-22 |
+| Approved expansion | `how to dispose of old clothes and textiles in dubai`       | Published | 2026-09-22 |
+| Approved expansion | `how to dispose of old documents in dubai`                  | Published | 2026-09-22 |
+| Approved expansion | `what can't junk removal take`                              | Published | 2026-09-23 |
+| Approved expansion | `how to dispose of used cooking oil in dubai`               | Published | 2026-09-23 |
+| Approved expansion | `how to dispose of gas cylinders in dubai`                  | Published | 2026-09-23 |
+| Approved expansion | `what to do with items left by previous tenant dubai`       | Published | 2026-09-24 |
+| Approved expansion | `how to clear out a storage unit in dubai`                  | Published | 2026-09-24 |
+| Approved expansion | `how to clear a deceased person's home in dubai`            | Published | 2026-09-24 |
+| Approved expansion | `how to dispose of mirrors and glass in dubai`              | Published | 2026-09-28 |
+| Approved expansion | `how to dispose of baby items in dubai`                     | Published | 2026-09-28 |
+| Approved expansion | `how to help someone clear a hoarded home in dubai`         | Published | 2026-09-28 |
+| Approved expansion | `how to dispose of expired medicines in dubai`              | Published | 2026-09-29 |
+| Approved expansion | `how to dispose of light bulbs in dubai`                    | Published | 2026-09-29 |
+| Approved expansion | `how to recycle printer cartridges in dubai`                | Published | 2026-09-29 |
+| Approved expansion | `how to dispose of old books in dubai`                      | Published | 2026-09-30 |
+| Approved expansion | `how to dispose of old pots and pans in dubai`              | Published | 2026-09-30 |
+| Approved expansion | `how to dispose of outdoor furniture in dubai`              | Published | 2026-09-30 |
+| Approved expansion | `how to dispose of cleaning products in dubai`              | Published | 2026-10-01 |
+| Approved expansion | `how to dispose of old camping gear in dubai`               | Published | 2026-10-01 |
+| Approved expansion | `how to dispose of curtains and blinds in dubai`            | Published | 2026-10-01 |
+| Approved expansion | `how to dispose of a washing machine in dubai`              | Published | 2026-10-02 |
+| Approved expansion | `how to dispose of an old tv in dubai`                      | Published | 2026-10-02 |
+| Approved expansion | `how to dispose of an old wardrobe in dubai`                | Published | 2026-10-02 |
+| Approved expansion | `how to dispose of an old dishwasher in dubai`              | Published | 2026-10-03 |
+| Approved expansion | `how to dispose of an old bed frame in dubai`               | Published | 2026-10-03 |
+| Approved expansion | `how to dispose of an old piano in dubai`                   | Published | 2026-10-03 |
+| Approved expansion | `how to dispose of an old oven in dubai`                    | Published | 2026-10-05 |
+| Approved expansion | `how to dispose of old computers and laptops in dubai`      | Published | 2026-10-05 |
+| Approved expansion | `how to dispose of scrap metal in dubai`                    | Published | 2026-10-05 |
+| Approved expansion | `how to dispose of an old water heater in dubai`            | Published | 2026-10-06 |
+| Approved expansion | `how to dispose of wood waste in dubai`                     | Published | 2026-10-06 |
+| Approved expansion | `how to dispose of an old dining table and chairs in dubai` | Published | 2026-10-06 |
