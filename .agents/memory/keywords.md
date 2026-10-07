@@ -1,7 +1,7 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 295
+**Total Target Keywords**: 298
 **Total Topic Clusters**: 18
 
 ## Approved editorial expansion — 2026-09-19
@@ -135,6 +135,18 @@ Three further item-specific informational topics requested after the previous qu
 | `how to dispose of an old dining table and chairs in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the water heater guide owns domestic electric boiler/geyser tank assessment, 20A double-pole electrical isolation, mains cold feed stopcock closure, draining 50–100 litres of sediment sludge, ceiling hatch maneuvering, and scrap copper/steel reclamation, not general refrigerator coolant or washing machine drainage; the wood waste guide owns grading untreated lumber/pallets versus engineered MDF/melamine, de-nailing and screw extraction, strict municipal bans on open burning, and Dubai Municipality bio-mulch and chipping routes in Warsan/Quoz, not general construction rubble or domestic furniture reuse; the dining table and chairs guide owns table apron/leg unbolting, heavy marble and tempered glass top detachment, chair nesting/stacking, fabric vs faux-leather upholstery assessment for humanitarian donation, and tower freight lift diagonal calculations, not general bulky furniture overview or sofa deconstruction.
+
+## Approved editorial expansion — 2026-10-07
+
+Three further fixture-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial removal intent stays with the existing service pages. The additions belong to the furniture, renovation and material-recovery clusters.
+
+| Primary keyword                                    | Intent        | Target URL                                               | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | -------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of old kitchen cabinets in dubai`  | Informational | `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai`  | Blog Guide | Approved expansion |
+| `how to dispose of old doors in dubai`             | Informational | `/blog/how-to-dispose-of-old-doors-in-dubai`             | Blog Guide | Approved expansion |
+| `how to dispose of old bathroom fixtures in dubai` | Informational | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the kitchen-cabinet guide owns service isolation, cabinet dismantling order and component separation, not general furniture donation or construction-waste handling; the door guide owns fixture authority, fire-rating checks, hinge removal and upright transport, not general wood grading; the bathroom-fixture guide owns plumbing handover, sanitary-ware lifting and rigid containment of ceramic fragments, not whole-project renovation sequencing.
 
 ## Approved editorial expansion — 2026-09-24
 

@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-06**
+Last synchronized: **2026-10-07**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -96,15 +96,26 @@ Canonical implementation: `data/blog.ts`
 |  89 | `how to dispose of an old water heater in dubai`            | Informational              | `/blog/how-to-dispose-of-an-old-water-heater-in-dubai`               | 2026-10-06 | Published |
 |  90 | `how to dispose of wood waste in dubai`                     | Informational              | `/blog/how-to-dispose-of-wood-waste-in-dubai`                        | 2026-10-06 | Published |
 |  91 | `how to dispose of an old dining table and chairs in dubai` | Informational              | `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai`    | 2026-10-06 | Published |
+|  92 | `how to dispose of old kitchen cabinets in dubai`           | Informational              | `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai`              | 2026-10-07 | Published |
+|  93 | `how to dispose of old doors in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-doors-in-dubai`                         | 2026-10-07 | Published |
+|  94 | `how to dispose of old bathroom fixtures in dubai`          | Informational              | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai`             | 2026-10-07 | Published |
 
 ## Current counts
 
-- Published: **91**
-- Published on 2026-10-06: **3**
+- Published: **94**
+- Published on 2026-10-07: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **61**
-- Next approved supplemental priority: **None queued; the 2026-10-06 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **64**
+- Next approved supplemental priority: **None queued; the 2026-10-07 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-07 batch
+
+- The kitchen-cabinet guide owns pre-removal service isolation, top-down cabinet dismantling, stone-worktop handling and cabinet-component separation. The general furniture, wood-waste and renovation guides retain their broader route decisions. Commercial collection intent remains with the bulky-item and house-clearance services.
+- The old-door guide owns landlord/fixture authority, fire-rating checks, hinge removal, glass protection and upright transport. The wood-waste guide retains grading and downstream processing; the rental-handover guide retains the whole-property fixture decision.
+- The bathroom-fixture guide owns plumbing handover, residual water, sanitary-ware lifting, shower-glass handling and rigid containment for broken ceramic. The construction-waste guide retains whole-project sequencing and mixed-debris transport.
+- Each article links to two services, two areas, relevant sibling guides and `/contact`. Inbound links were added from the old-furniture destination, wood-waste and waste-rules guides.
+- Six original images were generated directly with built-in ImageGen, resized to 1200 × 800 WebP and compressed within the hero/body limits. See `docs/article-images-2026-10-07.md`.
 
 ## Cannibalization notes for 2026-10-06 batch
 

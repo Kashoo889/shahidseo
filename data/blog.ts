@@ -289,7 +289,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Hazardous and renovation waste need separate instructions",
         content: [
           "Do not pour paint, oil, solvent or chemicals into drains or hide them in general-waste bags. Keep products in their original sealed containers where safe, do not mix substances, and request current instructions from the authority or an appropriate specialist. Likewise, isolate batteries and disclose damaged lithium packs.",
-          "Broken tiles, plasterboard, sanitaryware, timber offcuts and rubble are not an ordinary household clear-out. Ask the contractor who generated the waste to state its removal plan. If you appoint a collector directly, describe every material and quantity so the vehicle and destination are appropriate.",
+          "Broken tiles, plasterboard, sanitaryware, timber offcuts and rubble are not an ordinary household clear-out. Ask the contractor who generated the waste to state its removal plan. If you appoint a collector directly, describe every material and quantity so the vehicle and destination are appropriate. For toilets, sinks, baths and shower panels, use the [bathroom-fixture disposal guide](/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai) before the strip-out starts.",
         ],
         callout: {
           title: "No mystery bags",
@@ -4821,7 +4821,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Match difficult furniture to the right question",
         content: [
           "For upholstered furniture, ask about hygiene acceptance, foam and textile recovery, and the residual frame. For flat-pack or particleboard furniture, disclose swelling, delamination and broken connectors. For glass or mirrors, ask how panels must be protected and whether the receiving route accepts treated or backed glass.",
-          "For built-ins, distinguish removal work from disposal. Cabinets fixed to walls, stone counters, bathroom units and fitted wardrobes may involve utilities, tiles or building fabric and can become renovation waste. Obtain landlord or management approval and use appropriate trades before a waste collection.",
+          "For built-ins, distinguish removal work from disposal. Cabinets fixed to walls, stone counters, bathroom units and fitted wardrobes may involve utilities, tiles or building fabric and can become renovation waste. Obtain landlord or management approval and use appropriate trades before a waste collection; the [old kitchen cabinet guide](/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai) sets out the safe dismantling order.",
           "For large modular pieces, number components and photograph the assembled item if reuse remains possible. If it is end-of-life, ask whether controlled dismantling will reduce risk and improve material separation rather than simply reduce truck volume.",
         ],
       },
@@ -8744,7 +8744,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Common sources of wood waste across Dubai properties",
         content: [
           "Wood waste in Dubai originates from both residential properties and commercial fit-out projects. In mature villa communities such as [The Springs](/areas/the-springs) and Arabian Ranches, outdoor timber pergolas, wooden privacy fences, and poolside decking eventually succumb to intense UV radiation and termite intrusion.",
-          "Homeowners undertaking garden makeovers often replace rotting softwood structures with durable aluminium or stone. Interior renovations yield solid wood floorboards, interior hollow-core doors, architraves, and modular kitchen carcasses.",
+          "Homeowners undertaking garden makeovers often replace rotting softwood structures with durable aluminium or stone. Interior renovations yield solid wood floorboards, architraves and modular kitchen carcasses. Whole door leaves need an ownership, fire-rating and reuse check first, covered in the [old door disposal guide](/blog/how-to-dispose-of-old-doors-in-dubai).",
           "Commercial warehouses and retail businesses generate an ongoing stream of wooden shipping pallets, timber packaging crates, and broken cable drums. Each of these streams requires specific preparation before collection.",
         ],
       },
@@ -8906,6 +8906,252 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
     relatedAreas: ["downtown-dubai", "the-villa"],
+  },
+  {
+    slug: "how-to-dispose-of-old-kitchen-cabinets-in-dubai",
+    title: "How to Dispose of Old Kitchen Cabinets in Dubai",
+    seoTitle: "Old Kitchen Cabinet Disposal Dubai: A Safe Guide",
+    excerpt:
+      "How to dispose of old kitchen cabinets in Dubai: check reuse value, isolate services, dismantle units safely, separate materials, and book the correct waste route.",
+    category: "Guides",
+    tags: ["Kitchen Cabinets", "Renovation Waste", "Wood Waste", "Reuse", "Dubai"],
+    coverImage: "/images/blog/kitchen-cabinet-dismantling-dubai-hero.webp",
+    coverImageAlt:
+      "Two removal workers carefully dismantling upper kitchen cabinets in a modern Dubai apartment",
+    publishedAt: "2026-10-07",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Offer complete, dry cabinet sets for reuse before demolition; loose doors and swollen MDF have far less reuse value.",
+      "Confirm that water, electricity and gas connections are isolated by the appropriate tradesperson before removing sink, hob or appliance units.",
+      "Dismantle from the top down, support every wall cabinet, and keep stone worktops upright on padded frames.",
+      "Separate timber, engineered board, metal hardware, stone and packaging so the load can follow the correct bulky or renovation-waste route.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old kitchen cabinets in Dubai",
+        content: [
+          "To dispose of old kitchen cabinets in Dubai, first decide whether the complete kitchen can be reused. Photograph the layout and dimensions before dismantling, isolate plumbing and electrical services, remove doors and shelves, support wall units while undoing their fixings, and separate board, timber, metal and stone. Confirm the accepted route with your building, community or licensed collector before work begins. Checked on 07/10/2026.",
+          "A kitchen strip-out is not the same as collecting a freestanding cupboard. Base units may be trapped beneath a stone worktop, wall cabinets can be fixed through hanging rails, and sink or hob cabinets may surround live services. The safest plan treats disconnection, dismantling and waste transport as separate jobs with a clear handover between them.",
+        ],
+        callout: {
+          title: "Do not start with the wall units",
+          text: "Empty every cabinet and remove doors, drawers and loose shelves first. A loaded wall unit becomes unpredictable as soon as its final fixing is loosened, especially above a tiled floor or stone counter.",
+        },
+      },
+      {
+        heading: "Decide whether the kitchen is reusable before taking it apart",
+        content: [
+          "A dry, complete cabinet run with intact hinges and standard-size carcasses may suit a workshop, staff pantry, rental refresh or charity recipient. Reuse is easiest when you record the overall run length, individual unit widths, worktop depth and appliance openings before removal. Photograph each elevation and number doors, drawers and carcasses with removable tape so another installer can reconstruct the layout.",
+          "Water-swollen chipboard, delaminated MDF, mouldy sink bases and cabinets with broken joints are poor donation candidates. Be candid about defects and keep a disposal fallback; a recipient who rejects the units after dismantling can leave a large volume blocking the kitchen and service corridor. The broader [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) explains why acceptance must be confirmed rather than assumed.",
+        ],
+      },
+      {
+        heading: "Make the kitchen safe before dismantling",
+        content: [
+          "Shut the local water valves and have the sink trap, mixer hoses and any dishwasher connection disconnected. Isolate the relevant electrical circuit before removing under-cabinet lighting, an extractor, built-in oven or hob. A gas appliance or fixed gas connection needs an authorised technician; a cabinet-removal crew should not improvise work on live utilities.",
+          "Protect the finished floor, clear a route to the service lift and reserve a staging area that does not obstruct a fire exit. In an occupied apartment, seal the kitchen doorway and use controlled tool extraction because cutting laminate and engineered board creates fine dust. If the work is part of a larger refurbishment, follow the sequencing in the [post-renovation cleanup guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai).",
+        ],
+      },
+      {
+        heading: "A safe dismantling order for cabinets and worktops",
+        content: [
+          "Remove doors, drawers, shelves and kickboards, then bag hinges, shelf pins and handles by unit. Detach plinth clips and release neighbouring carcasses from one another. Wall cabinets need two people: one supports the box while the other exposes and removes rail or wall fixings. Never lever a cabinet away from a tiled wall while someone stands beneath it.",
+          "Worktops come next. Laminate sections can usually be unscrewed and cut into manageable lengths once services are clear. Granite, quartz and sintered-stone tops are different: disconnect seams carefully, keep slabs vertical on edge and use an A-frame trolley. Carrying a long stone slab flat concentrates bending stress in the middle and can cause a sudden break.",
+        ],
+        image: {
+          src: "/images/blog/kitchen-cabinet-material-sorting-dubai.webp",
+          alt: "Cabinet panels, timber trim, metal hardware and a wrapped stone worktop separated at a Dubai loading bay",
+        },
+      },
+      {
+        heading: "Separate cabinet materials instead of making one mixed pile",
+        content: [
+          "Most fitted kitchens combine several streams: MDF or chipboard carcasses, solid timber trim, aluminium profiles, steel hinges and runners, plastic feet, glass inserts and a stone or laminate worktop. Remove protruding screws and contain small hardware in rigid tubs. Keep glass doors upright and padded; do not hide broken glass between boards where loaders cannot see it.",
+          "Clean timber should remain separate from resin-bonded or laminated board because their downstream options differ. The [wood-waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains that distinction. Metal runners, handles and brackets can join a declared scrap-metal stream, while mineral worktops and broken tile belong with renovation material rather than ordinary household rubbish.",
+        ],
+      },
+      {
+        heading: "Choose the correct collection route",
+        content: [
+          "Dubai Municipality lists a household bulky-waste service for furniture and appliances, with exclusions for real-estate development zones. A complete reusable cabinet or small household set may fit a building or household bulky-item arrangement, but material produced by a contractor-led strip-out can be classed as construction and demolition waste and needs a separately approved collection route. Confirm the classification before the first panel leaves the unit.",
+          "Tower residents in [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) should ask management about contractor registration, work permits, lift padding and loading-bay times. Villa projects in [Dubai Hills Estate](/areas/dubai-hills-estate) need a secure vehicle position and contained staging so wind cannot scatter packaging or light board offcuts.",
+        ],
+      },
+      {
+        heading: "Book a cabinet collection with a clear scope",
+        content: [
+          "Send wide photographs, the approximate number of base and wall units, the worktop material and the floor or villa access details. State whether every service is already disconnected and whether the cabinets will be dismantled before arrival. Those details determine labour, tools, trolley type and vehicle space far more reliably than the phrase ‘one old kitchen’.",
+          "For dismantled household units, our [bulky-item collection team](/services/bulky-item-removal-dubai) can plan the load; for a broader property clear-out, use the [house-clearance service](/services/house-clearance-dubai). [Send the team photos and access details](/contact) for a written scope before booking.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-dispose-of-old-doors-in-dubai",
+    title: "How to Dispose of Old Doors in Dubai Safely",
+    seoTitle: "Old Door Disposal Dubai: Reuse, Remove or Recycle",
+    excerpt:
+      "How to dispose of old doors in Dubai: identify fire-rated and landlord fixtures, remove doors safely, protect glass panels, and separate reusable hardware.",
+    category: "Guides",
+    tags: ["Door Disposal", "Renovation Waste", "Wood Waste", "Property Handover", "Dubai"],
+    coverImage: "/images/blog/old-door-hinge-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers supporting a heavy wooden interior door while removing its hinges in a Dubai villa",
+    publishedAt: "2026-10-07",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Check ownership and building approval before removing an entrance, balcony or fire-rated door.",
+      "Support the full weight of the leaf before removing hinge pins or screws; solid doors can be unexpectedly heavy.",
+      "Keep reusable doors upright, padded and labelled, with hinges, handles and keys bagged together.",
+      "Separate timber, hollow-core board, metal hardware and glass so damaged doors do not become a dangerous mixed load.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old doors in Dubai",
+        content: [
+          "To dispose of old doors in Dubai, confirm that the door belongs to you and is not a required fire-rated or landlord fixture, measure and photograph it for possible reuse, remove it with a second person supporting the leaf, protect any glass, and separate hardware from the door material. Use an approved bulky or renovation-waste route instead of leaving the door beside communal bins. Checked on 07/10/2026.",
+          "An internal hollow-core door, a solid entrance door and a glazed balcony door are not interchangeable disposal jobs. Their weight, fixings, safety role and material mix differ. Identifying the door before removal prevents damage to the frame and avoids discarding a component that the building or landlord expects to remain.",
+        ],
+        callout: {
+          title: "Entrance and fire doors need approval",
+          text: "Do not replace or discard a rated corridor, stairwell or apartment entrance door simply because a new design is preferred. Confirm the approved specification with the landlord or building management first.",
+        },
+      },
+      {
+        heading: "Confirm ownership, rating and replacement requirements",
+        content: [
+          "In a rented home, internal doors, frames and ironmongery are normally part of the property unless the tenancy record says otherwise. Photograph the existing condition and obtain written approval before replacement. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers the broader distinction between personal belongings and fixtures.",
+          "Look for a rating label or plug on the door edge and check building records if the leaf opens into a shared corridor, escape route, plant room or service area. A replacement must preserve the required assembly, including compatible frame, closer, seals and latch. Keep the old leaf until management has accepted the replacement where that is part of the approval process.",
+        ],
+      },
+      {
+        heading: "Reuse works only when the dimensions and condition match",
+        content: [
+          "A sound solid-wood door can be reused as a door, refinished, or repurposed by a workshop. Record height, width, thickness, swing direction, hinge positions and lock preparation. Buyers need those measurements because trimming too much from a leaf can expose a hollow core or compromise its construction.",
+          "Reject reuse when the door is swollen, delaminated, termite-damaged, deeply split or twisted. Keep the frame in mind too: a leaf may appear sound but have non-standard hinge spacing that makes reuse impractical. Never market a door as fire-rated unless its identification and compatible assembly can be verified.",
+        ],
+      },
+      {
+        heading: "Remove a door without injuring someone or damaging the frame",
+        content: [
+          "Clear both sides, place floor protection beneath the swing and wedge the leaf so it cannot drop. One person should hold the weight while the other removes hinge pins from bottom to top, or unscrews the leaf-side hinge plates. Solid timber and rated doors often require a door lifter or two-person carry; do not rely on the final top hinge to hold the whole load.",
+          "Remove closers and electrical access-control hardware only after the relevant system has been made safe and authorised. Once the leaf is free, reinstall loose screws in the hinge or place all hardware, keys and strike plates in a labelled bag. Protect the frame if it will remain in place.",
+        ],
+        image: {
+          src: "/images/blog/old-doors-staged-collection-dubai.webp",
+          alt: "Padded reusable wooden doors and a damaged hollow-core door staged separately outside a Dubai villa",
+        },
+      },
+      {
+        heading: "Treat glass, metal and composite doors as separate loads",
+        content: [
+          "Glazed doors need edge protection and upright transport on a padded rack. If a pane is cracked, tape does not make it safe to carry; isolate the area and tell the collector before arrival so the correct rigid containment can be prepared. The [mirror and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) explains why hidden shards must never be placed in soft bags.",
+          "Strip reusable handles, locks, hinges and closers only when doing so will not create sharp projections. Aluminium-framed doors can be separated for metal recovery, while painted solid timber and hollow-core composite leaves follow different wood-waste routes. Keep treated or laminated board apart from clean untreated timber, as described in the [wood disposal guide](/blog/how-to-dispose-of-wood-waste-in-dubai).",
+        ],
+      },
+      {
+        heading: "Plan the route out of a tower or villa",
+        content: [
+          "A door leaf is awkward because its broad face catches wind and blocks sightlines. In a [Dubai Marina](/areas/dubai-marina) tower, book the service lift, pad corners and move the leaf upright on an A-frame trolley. Never lean it unattended against a lift lobby wall. In [Arabian Ranches](/areas/arabian-ranches), secure doors before crossing an exposed driveway and keep them flat or strapped upright inside the vehicle.",
+          "Dubai Municipality's bulky-waste information covers household furniture but excludes specified development zones; doors produced by alteration or contractor work may instead need a construction-waste route. Ask building management and the collector which classification applies to the actual load rather than assuming any large household object qualifies.",
+        ],
+      },
+      {
+        heading: "Arrange collection for one door or a renovation batch",
+        content: [
+          "Send photographs of both faces and the door edge, dimensions, material, glass condition and the number of leaves. Mention stairs, lift access and whether frames, architraves or rubble are included. A clean loose door is a different collection from a contractor strip-out containing plaster, tile and cut timber.",
+          "Our [furniture and large-item team](/services/furniture-removal-dubai) can assess individual household doors, while mixed renovation material may suit the [bulky-item service](/services/bulky-item-removal-dubai). [Request a collection scope from photos](/contact) so the crew arrives with the right handling equipment.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-dispose-of-old-bathroom-fixtures-in-dubai",
+    title: "How to Dispose of Old Bathroom Fixtures in Dubai",
+    seoTitle: "Bathroom Fixture Disposal Dubai: Toilets, Sinks & Tubs",
+    excerpt:
+      "How to dispose of old bathroom fixtures in Dubai: disconnect toilets, sinks and tubs safely, prevent leaks, contain broken ceramic, and route renovation waste correctly.",
+    category: "Guides",
+    tags: ["Bathroom Fixtures", "Sanitary Ware", "Renovation Waste", "Ceramics", "Dubai"],
+    coverImage: "/images/blog/bathroom-fixture-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew moving a disconnected toilet and wrapped pedestal basin from a Dubai apartment bathroom",
+    publishedAt: "2026-10-07",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Have water supplies isolated, traps drained and open pipework capped before a removal crew handles sanitary ware.",
+      "Lift toilets, basins and tubs from their fixings; hammering porcelain creates razor-sharp fragments and silica-containing dust.",
+      "Keep intact reusable fixtures padded and dry, and contain broken ceramic or tile in rigid tubs rather than sacks.",
+      "A bathroom strip-out is normally renovation material, not ordinary bin waste, so confirm the approved collection route in advance.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old bathroom fixtures in Dubai",
+        content: [
+          "To dispose of old bathroom fixtures in Dubai, have a qualified plumber isolate the water, drain cisterns and traps, disconnect supply and waste pipes, and cap every open connection. Remove toilets, basins and tubs intact where possible, pad reusable pieces, place broken ceramic in rigid containers, and book an approved renovation-waste collection. Checked on 07/10/2026.",
+          "Sanitary ware looks inert, but removal combines water damage risk, concealed fixings and brittle heavy materials. A toilet may retain water in its trap after the cistern is empty; a vanity basin can be bonded to stone; and a cast-iron bath may be too heavy for a standard apartment trolley. The collection plan starts only after the plumbing has been safely handed over.",
+        ],
+        callout: {
+          title: "Cap the services before carrying anything out",
+          text: "Closing a valve is not the same as leaving a safe work area. Supply lines and waste openings should be disconnected, checked and capped so an accidental knock cannot flood the unit or release sewer odour.",
+        },
+      },
+      {
+        heading: "Know what can be reused",
+        content: [
+          "A clean, undamaged basin, bath, mirror cabinet or premium tap set may be reusable if the recipient confirms dimensions and connection type. Photograph chips, staining and the underside, and keep mounting brackets, wastes and compatible fittings together. Used toilets face stricter hygiene and acceptance concerns, so never assume a charity or buyer will take one.",
+          "Do not offer a cracked ceramic fixture for reuse. Hairline damage can propagate during lifting, and a sharp failure under load can injure the carrier. Acrylic baths with structural cracks, swollen vanity cabinets and corroded concealed frames should move directly to an appropriate recovery or disposal route.",
+        ],
+      },
+      {
+        heading: "Disconnect toilets and basins without creating a leak",
+        content: [
+          "Turn off the local supply, flush the cistern, sponge out remaining water and disconnect the flexible inlet. A plumber can release floor or wall fixings and separate the pan connector without damaging the branch pipe. Keep the toilet upright until residual trap water is removed, then protect the ceramic on a padded trolley.",
+          "For a basin, disconnect the mixer supplies and trap, cut sealant carefully and support the bowl before loosening wall brackets or a pedestal. Wall-hung fixtures can conceal steel carrier frames behind tile; removing the visible ceramic does not authorise cutting into the wall. Building approval and a proper fit-out scope may be needed for concealed work.",
+        ],
+      },
+      {
+        heading: "Baths, shower screens and stone vanities need different handling",
+        content: [
+          "An acrylic bath is bulky but relatively light; a cast-iron bath may require several handlers and equipment rated for the weight. Disconnect waste and overflow fittings, free the rim from sealant and remove panels before lifting. Do not smash a bath inside an occupied property simply to make it fit through the door.",
+          "Treat glass shower panels like large glazing, with suction lifters, corner protectors and upright A-frame transport. Stone vanity tops should also travel vertically on edge. If either is cracked, disclose it before collection and follow the containment principles in the [glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai).",
+        ],
+        image: {
+          src: "/images/blog/sanitary-ware-material-sorting-dubai.webp",
+          alt: "Ceramic bathroom fixtures, metal taps and contained tile pieces separated at a Dubai tower loading bay",
+        },
+      },
+      {
+        heading: "Contain ceramic and tile fragments safely",
+        content: [
+          "Broken vitreous china produces edges sharper than ordinary crockery. Wear eye protection and cut-resistant gloves, damp down dust where appropriate, and place fragments directly into rigid lidded tubs that can bear the weight. Do not use thin refuse sacks or conceal shards beneath towels and cardboard.",
+          "Keep brass taps, stainless fittings and steel frames separate from mineral material. Tile, mortar, concrete, ceramic and stone form a dense renovation stream; even a small bathroom can exceed the safe payload of a casual van. The [construction-waste guide](/blog/construction-and-renovation-waste-removal-dubai) explains why volume alone is a poor way to estimate these loads.",
+        ],
+      },
+      {
+        heading: "Building permissions and the correct waste route",
+        content: [
+          "Bathroom removal creates noise, dust and wet-service risk, so a tower may require a contractor permit, approved work hours, service-lift protection and evidence that plumbing has been made safe. Residents in [Business Bay](/areas/business-bay) should confirm loading access before the strip-out date. Villa owners in [Jumeirah Village Circle](/areas/jumeirah-village-circle) should keep heavy tubs off landscaped or irrigation areas while staging.",
+          "Dubai Municipality distinguishes household bulky furniture and appliances from construction and demolition waste, for which separate collection and transport approval applies. A single loose vanity may be treated differently from a full bathroom strip-out. Give the building and collector an exact inventory and confirm the route in writing.",
+        ],
+      },
+      {
+        heading: "Book bathroom-fixture collection after disconnection",
+        content: [
+          "Photograph each fixture, the route out and any broken pieces. State whether the load includes a toilet, basin, bath, shower glass, vanity cabinet, tile or mortar; whether services are capped; and whether a lift booking is confirmed. This lets the crew allocate rigid containers, padding, trolleys and the correct vehicle payload.",
+          "Our [bulky-item collection service](/services/bulky-item-removal-dubai) can scope disconnected fixtures, while a whole-property renovation clear-out may fit the [rubbish-removal service](/services/rubbish-removal-dubai). [Send photos for a written collection plan](/contact) once the plumbing and building permissions are settled.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-village-circle"],
   },
 ];
 
