@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-07**
+Last synchronized: **2026-10-08**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -99,15 +99,26 @@ Canonical implementation: `data/blog.ts`
 |  92 | `how to dispose of old kitchen cabinets in dubai`           | Informational              | `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai`              | 2026-10-07 | Published |
 |  93 | `how to dispose of old doors in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-doors-in-dubai`                         | 2026-10-07 | Published |
 |  94 | `how to dispose of old bathroom fixtures in dubai`          | Informational              | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai`             | 2026-10-07 | Published |
+|  95 | `how to dispose of old office desks in dubai`               | Informational              | `/blog/how-to-dispose-of-old-office-desks-in-dubai`                  | 2026-10-08 | Published |
+|  96 | `how to dispose of old office chairs in dubai`              | Informational              | `/blog/how-to-dispose-of-old-office-chairs-in-dubai`                 | 2026-10-08 | Published |
+|  97 | `how to dispose of old bookshelves in dubai`                | Informational              | `/blog/how-to-dispose-of-old-bookshelves-in-dubai`                   | 2026-10-08 | Published |
 
 ## Current counts
 
-- Published: **94**
-- Published on 2026-10-07: **3**
+- Published: **97**
+- Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **64**
-- Next approved supplemental priority: **None queued; the 2026-10-07 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **67**
+- Next approved supplemental priority: **None queued; the 2026-10-08 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-08 batch
+
+- The office-desk guide owns workstation release, linked-bench dismantling, cable clearing and powered sit-stand component separation. The office-relocation article retains the whole-floor asset and handover plan.
+- The office-chair guide owns mechanical and hygiene testing, gas-lift and caster preparation, controlled batch movement and chair material separation. The furniture route guide retains the general cross-category reuse decision.
+- The bookshelf guide owns the freestanding-versus-fitted decision, anti-tip restraint release, shelf and hardware sequencing, and longest-panel access measurement. The wood-waste guide retains wood-grade and downstream routing.
+- Each new article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the office-relocation and old-furniture destination guides.
+- Six existing repository images were visually verified and reused as 1200 × 800 WebP assets. No images were generated, downloaded or sourced externally for this batch. See `docs/article-images-2026-10-08.md`.
 
 ## Cannibalization notes for 2026-10-07 batch
 

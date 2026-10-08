@@ -1,7 +1,7 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 298
+**Total Target Keywords**: 301
 **Total Topic Clusters**: 18
 
 ## Approved editorial expansion — 2026-09-19
@@ -147,6 +147,18 @@ Three further fixture-specific informational topics requested after the previous
 | `how to dispose of old bathroom fixtures in dubai` | Informational | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review before drafting: the kitchen-cabinet guide owns service isolation, cabinet dismantling order and component separation, not general furniture donation or construction-waste handling; the door guide owns fixture authority, fire-rating checks, hinge removal and upright transport, not general wood grading; the bathroom-fixture guide owns plumbing handover, sanitary-ware lifting and rigid containment of ceramic fragments, not whole-project renovation sequencing.
+
+## Approved editorial expansion — 2026-10-08
+
+Three further office- and furniture-specific informational topics requested after the previous queue was completed. These are editorial target phrases, not claims of measured search volume. Commercial office and furniture removal intent stays with the existing service pages.
+
+| Primary keyword                                | Intent        | Target URL                                           | Page type  | Priority           |
+| ---------------------------------------------- | ------------- | ---------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of old office desks in dubai`  | Informational | `/blog/how-to-dispose-of-old-office-desks-in-dubai`  | Blog Guide | Approved expansion |
+| `how to dispose of old office chairs in dubai` | Informational | `/blog/how-to-dispose-of-old-office-chairs-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old bookshelves in dubai`   | Informational | `/blog/how-to-dispose-of-old-bookshelves-in-dubai`   | Blog Guide | Approved expansion |
+
+Overlap review before drafting: the desk guide owns workstation release, linked-bench dismantling and powered sit-stand separation; the chair guide owns safety and hygiene testing, rolling-load control and mixed chair materials; the bookshelf guide owns freestanding-versus-fitted authority, anti-tip restraint release and shelf-by-shelf dismantling. The existing office-relocation article retains whole-office asset planning and the general furniture guides retain cross-category route selection.
 
 ## Approved editorial expansion — 2026-09-24
 

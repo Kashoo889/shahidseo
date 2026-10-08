@@ -133,18 +133,18 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-07)
+## 4. Publication Progress (Updated 2026-10-08)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **64**
-- Total published blog articles: **94**
-- Published on 2026-10-07: **3**
+- Published supplemental approved articles: **67**
+- Total published blog articles: **97**
+- Published on 2026-10-08: **3**
 - Phase 3 pricing and comparison layer: **6 / 6 complete**
 - Phase 4 regulatory and recycling pillars: **9 / 9 complete**
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-07 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-08 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                             | Status    | Published  |
 | ------------------ | ----------------------------------------------------------- | --------- | ---------- |
@@ -220,3 +220,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of old kitchen cabinets in dubai`           | Published | 2026-10-07 |
 | Approved expansion | `how to dispose of old doors in dubai`                      | Published | 2026-10-07 |
 | Approved expansion | `how to dispose of old bathroom fixtures in dubai`          | Published | 2026-10-07 |
+| Approved expansion | `how to dispose of old office desks in dubai`               | Published | 2026-10-08 |
+| Approved expansion | `how to dispose of old office chairs in dubai`              | Published | 2026-10-08 |
+| Approved expansion | `how to dispose of old bookshelves in dubai`                | Published | 2026-10-08 |
