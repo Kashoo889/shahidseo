@@ -1892,7 +1892,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Sort the inventory into four outcomes before you price anything",
         content: [
           "Walk the floor with the asset register and put every item into one of four groups: relocate, resell, donate, dispose. Doing this on paper first is what keeps the clearance quote accurate, because volume is the thing being priced.",
-          "Be realistic about what the Dubai second-hand market actually absorbs. Recognisable task chairs, height-adjustable desks, meeting tables, pedestals and storage units find buyers, while bench-system workstations with custom laminate tops, branded reception counters, glass partition systems and anything cut to fit the old floorplate may cost more to dismantle and reinstall than it is worth. Use the [office desk disposal guide](/blog/how-to-dispose-of-old-office-desks-in-dubai) for linked workstations and the [office chair disposal guide](/blog/how-to-dispose-of-old-office-chairs-in-dubai) for safety testing and batch handling.",
+          "Be realistic about what the Dubai second-hand market actually absorbs. Recognisable task chairs, height-adjustable desks, meeting tables, pedestals and storage units find buyers, while bench-system workstations with custom laminate tops, branded reception counters, glass partition systems and anything cut to fit the old floorplate may cost more to dismantle and reinstall than it is worth. Use the [office desk disposal guide](/blog/how-to-dispose-of-old-office-desks-in-dubai) for linked workstations, the [office chair disposal guide](/blog/how-to-dispose-of-old-office-chairs-in-dubai) for safety testing, the [meeting-table guide](/blog/how-to-dispose-of-old-meeting-tables-in-dubai) for long tops and built-in services, and the [partition guide](/blog/how-to-dispose-of-old-office-partitions-in-dubai) for fixed versus movable screens.",
           "Donation has a narrower window than most people expect. Registered charities can take usable chairs, tables and storage, but they need lead time and they refuse damaged items on sight, which is the same constraint households run into when they [donate furniture in Dubai](/blog/where-to-donate-used-furniture-in-dubai). If your handover is three weeks away, start those conversations now or plan without them.",
         ],
         image: {
@@ -6008,7 +6008,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Booking a clearance that includes paperwork",
         content: [
           "Say what the boxes contain when you ask for a price. 'Six archive boxes of paper' tells a collector about weight and handling; 'some boxes' does not. If any of it is confidential material requiring destruction rather than recycling, name it separately so the right route is arranged from the start.",
-          "For an office, a practice or a commercial tenancy, our [office clearance service](/services/office-cleanout-dubai) covers document boxes, filing units and the electronics that come with them. For a household clearing years of accumulated paperwork alongside everything else, the [house clearance service](/services/house-clearance-dubai) handles it in the same visit.",
+          "For an office, a practice or a commercial tenancy, our [office clearance service](/services/office-cleanout-dubai) covers document boxes, filing units and the electronics that come with them. Empty the furniture separately using the [filing-cabinet guide](/blog/how-to-dispose-of-old-filing-cabinets-in-dubai). For a household clearing years of accumulated paperwork alongside everything else, the [house clearance service](/services/house-clearance-dubai) handles it in the same visit.",
           "[Tell us what the boxes hold](/contact) and you will get a fixed price with the paper, the confidential material and any data-bearing devices each named in the scope.",
         ],
       },
@@ -9377,6 +9377,186 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["furniture-removal-dubai", "office-cleanout-dubai"],
     relatedAreas: ["dubai-marina", "jumeirah-lake-towers"],
+  },
+  {
+    slug: "how-to-dispose-of-old-filing-cabinets-in-dubai",
+    title: "How to Dispose of Old Filing Cabinets in Dubai",
+    seoTitle: "Old Filing Cabinet Disposal Dubai: Empty, Secure, Reuse",
+    excerpt: "How to dispose of old filing cabinets in Dubai: check every drawer, protect records, secure the cabinet for transport and choose a reuse or metal recovery route.",
+    category: "Commercial & Office",
+    tags: ["Filing Cabinets", "Office Clearance", "Records", "Metal Recovery", "Dubai"],
+    coverImage: "/images/blog/office-zone-release-dubai-20260919-body.webp",
+    coverImageAlt: "Office manager and removal worker checking a workstation before its contents and furniture are released",
+    publishedAt: "2026-10-09",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Have the records owner empty and sign off every drawer before the cabinet leaves the office.",
+      "Lock drawers or remove them and label them; a loaded drawer can slide open in a lift.",
+      "Keep usable complete cabinets together and identify mixed metal, wood and plastic units separately.",
+      "Confirm the building's commercial collection access before staging cabinets in a corridor.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old filing cabinets in Dubai",
+        content: [
+          "Empty and inspect every drawer, obtain the records owner's release, test whether the cabinet can be reused, then secure its moving parts and book the office building's approved commercial collection route. A metal cabinet with a sound frame and working runners may be reused; a damaged one may be separated for metal recovery. Never send files or keys away by accident.",
+          "The weight is easy to underestimate. Paper left in the bottom drawer shifts the balance as soon as someone tilts the unit onto a trolley. A short records check before the crew arrives saves a far harder search after collection.",
+        ],
+        callout: { title: "The cabinet is empty only after a drawer-by-drawer check", text: "Open each drawer to its stop, check behind hanging folders and beneath drawer liners, and have the responsible team confirm that no records remain." },
+      },
+      {
+        heading: "Release records and keys separately",
+        content: [
+          "Assign a named records owner to separate files into retain, approved destruction and ordinary clean-paper groups. Do not leave identifying papers in a cabinet marked for furniture removal. The [documents and paperwork guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) explains how to make that split without treating all paper alike.",
+          "Remove magnetic labels, access notes and loose keys. If a cabinet is locked and no key is available, ask the owner to arrange authorised opening before collection; forcing it on a loading bay risks damage and still does not establish what is inside. Keep the final key with the reusable cabinet or dispose of it under the organisation's asset process.",
+        ],
+      },
+      {
+        heading: "Test the cabinet before offering it for reuse",
+        content: [
+          "Check that the case stands square, drawers run to their stops and the anti-tip mechanism works where fitted. Rust at the base, bent runners or a missing drawer can make a cabinet unsuitable for another office even when its paint looks good. Photograph the inside, front, back and any faults before offering it.",
+          "Confirm the recipient can take the cabinet through their door and lift and can collect during the building's access window. The wider [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation) helps decide which assets should transfer, be offered onward or leave with a collector.",
+        ],
+      },
+      {
+        heading: "Prepare a cabinet for the lift and truck",
+        content: [
+          "Measure the cabinet and lift entrance. Remove drawers when the manufacturer permits and label each to its original case; otherwise close and lock them or use a non-marking restraint that cannot slip. Never carry a cabinet by drawer handles. Keep it upright on a rated trolley and strap it inside the vehicle.",
+          "A four-drawer steel cabinet needs particular care at thresholds and ramps because its narrow footprint makes it easy to tip. Protect painted corners and keep the route clear before the crew lifts. The [pickup preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers photos and access measurements for the rest of the job.",
+        ],
+        image: { src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp", alt: "Workers measuring a protected service-lift entrance while moving dismantled office furniture panels" },
+      },
+      {
+        heading: "Choose the material route and arrange access",
+        content: [
+          "Steel cases can be kept apart from timber tops, plastic drawer inserts and mixed furniture. Ask the receiving collector what preparation its metal route accepts; an entire cabinet should not be described as recycled simply because it contains steel. The [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) covers clean-metal separation.",
+          "In [Business Bay](/areas/business-bay), reserve the loading bay and service lift before releasing a floor. In [DIFC](/areas/difc), confirm the premises' contractor and work-hour requirements. Our [office cleanout team](/services/office-cleanout-dubai) can handle a records-room batch, while the [bulky-item service](/services/bulky-item-removal-dubai) can assess a few empty units. [Send cabinet counts, dimensions and access photos](/contact) for a collection scope.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["business-bay", "difc"],
+  },
+  {
+    slug: "how-to-dispose-of-old-meeting-tables-in-dubai",
+    title: "How to Dispose of Old Meeting Tables in Dubai",
+    seoTitle: "Old Meeting Table Disposal Dubai: Plan the Move",
+    excerpt: "How to dispose of old meeting tables in Dubai: disconnect power modules, support heavy tops, label the base and measure the route before collection.",
+    category: "Commercial & Office",
+    tags: ["Meeting Tables", "Office Furniture", "Dismantling", "Reuse", "Dubai"],
+    coverImage: "/images/blog/old-furniture-disposal-dubai-hero.webp",
+    coverImageAlt: "Removal workers handling a large wooden table and chairs before furniture collection",
+    publishedAt: "2026-10-09",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Disconnect built-in power and data modules through the responsible facilities or IT team.",
+      "Photograph and label bases, leaves and hardware before dismantling a reusable table.",
+      "Handle stone and glass tops as specialist loads, with a route and equipment agreed in advance.",
+      "Measure the largest section, not just the assembled table, against doors and service lifts.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old meeting tables in Dubai",
+        content: [
+          "First clear the table and release any installed power or data connections. Decide whether its top and base can be reused together, photograph the fixings, dismantle in a supported sequence and measure the largest piece against the exit route. Arrange a commercial furniture collection that includes the table's actual weight and material.",
+          "A meeting table can look like a large desk, but a long top often depends on several linked bases for support. Removing one leg before the top is carried can crack a joint or drop a heavy panel. Plan the lift before undoing the first bolt.",
+        ],
+        callout: { title: "Power modules need a separate release", text: "Do not cut cables that disappear into a floor box. Facilities or IT should identify and disconnect building power, data and audiovisual equipment before furniture dismantling starts." },
+      },
+      {
+        heading: "Record the table as a complete system",
+        content: [
+          "Photograph the top, underside, edge profile and each base. Record the number of leaves, cable lids, grommets and modesty panels. A table offered for reuse is much more valuable as a complete, labelled set than as an anonymous stack of boards with a mixed bag of bolts.",
+          "Check for swollen laminate, delaminated edges, loose inserts or cracked glass. A sound, disassemblable table may suit another office; a damaged top may need a material route while the metal base is recovered separately. The [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation) covers the broader asset decision.",
+        ],
+      },
+      {
+        heading: "Dismantle while the top is supported",
+        content: [
+          "Remove loose cable lids and detachable accessories, then support the tabletop on padded stands while undoing its base fixings. Mark each base position and bag fasteners by section. Two or more handlers may be needed for a long timber top; stone or thick glass needs a specialist handling plan rather than an improvised lift.",
+          "Keep glass upright in suitable protection and declare any chipped or cracked edge. If a table includes a heavy stone slab, ask the collector to confirm equipment and vehicle restraint before booking. The [dining table guide](/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai) explains the separate issues posed by stone and glass surfaces in smaller residential sets.",
+        ],
+        image: { src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp", alt: "Large dismantled furniture panels on a trolley beside a protected Dubai service lift" },
+      },
+      {
+        heading: "Measure the longest section and the tightest turn",
+        content: [
+          "Measure each top section, the lift-door opening, cab depth, corridor width and loading-bay height. A top may fit a lift diagonally yet fail at the turn into it. Confirm whether the building permits protective lift padding and whether work must happen outside meeting hours.",
+          "In [Dubai Internet City](/areas/dubai-internet-city), coordinate IT release and loading access in the same work window. In [Business Bay](/areas/business-bay), reserve the service lift before a long top is brought into a corridor. The [office desk guide](/blog/how-to-dispose-of-old-office-desks-in-dubai) covers linked workstations and powered sit-stand bases, which should be inventoried separately from meeting tables.",
+        ],
+      },
+      {
+        heading: "Send a useful collection brief",
+        content: [
+          "Give the collector a top-down photo, dimensions, approximate material, number of sections, floor level and access window. State whether dismantling and electrical disconnection have already been arranged. Do not assume a quote for an ordinary timber table covers a stone slab or a powered conference system.",
+          "For multiple rooms, the [office cleanout service](/services/office-cleanout-dubai) can plan staged release. A single large table may suit the [bulky-item team](/services/bulky-item-removal-dubai). [Send photos and the access route](/contact) to agree the scope before the room is cleared.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-internet-city", "business-bay"],
+  },
+  {
+    slug: "how-to-dispose-of-old-office-partitions-in-dubai",
+    title: "How to Dispose of Old Office Partitions in Dubai",
+    seoTitle: "Old Office Partition Disposal Dubai: Safe Removal",
+    excerpt: "How to dispose of old office partitions in Dubai: identify freestanding and fixed systems, release cabling, dismantle panels safely and separate reusable parts.",
+    category: "Commercial & Office",
+    tags: ["Office Partitions", "Office Clearance", "Glass Panels", "Material Sorting", "Dubai"],
+    coverImage: "/images/blog/office-zone-release-dubai-20260919-body.webp",
+    coverImageAlt: "Office manager and removal worker checking a workstation with privacy screens before furniture release",
+    publishedAt: "2026-10-09",
+    readingTime: "6 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm whether a screen is freestanding furniture or a fixed part of the fitted office.",
+      "Release power and data connections before taking down panels or tracks.",
+      "Support tall and glazed panels as clips and brackets are removed.",
+      "Keep matched rails, feet and connectors with reusable panels; sort damaged materials by type.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old office partitions in Dubai",
+        content: [
+          "Identify whether each partition is a movable screen, a desk-mounted divider or fixed joinery. Get the property and asset owners' approval, arrange disconnection of any integrated services, then label and dismantle panels in a supported order. Reuse complete, sound systems where possible and arrange the building's approved commercial collection for the remainder.",
+          "The crucial difference is ownership. A wheeled acoustic screen is usually furniture. A glazed wall, ceiling track or fire-rated enclosure may be part of the premises and should not be removed on the strength of a furniture disposal instruction alone.",
+        ],
+        callout: { title: "Check fixed partitions before touching them", text: "Ask facilities or the landlord to identify any fixed, fire-rated, glazed or serviced partition. A specialist may need to isolate, remove or reinstate it as part of the lease works." },
+      },
+      {
+        heading: "Map panels, hardware and services",
+        content: [
+          "Photograph each run from both sides and number its panels, feet, rails and junctions. Record width, height, material and any cracked glazing or damaged fabric. A reusable system needs its matching brackets and stabilising feet; without them, otherwise sound panels can become unusable.",
+          "Check desk screens for cables routed through their clips. Power sockets, network outlets and audiovisual equipment must be released by the responsible facilities or IT team. The [office desk guide](/blog/how-to-dispose-of-old-office-desks-in-dubai) covers the related task of separating workstations from screens and cable trays.",
+        ],
+      },
+      {
+        heading: "Take down one stable section at a time",
+        content: [
+          "Clear furniture from both sides and protect the floor. Support a panel before releasing its upper clips or lower feet; a tall fabric or glass section can pivot suddenly. Keep a connected run stable while the first bay is removed, then work section by section. Never lean unrestrained panels in a shared corridor.",
+          "Wrap glass individually and keep it upright in suitable transport protection. Cracked panes need disclosed containment rather than an ordinary furniture stack. The [mirror and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers breakage preparation; a glazed fixed wall may require a specialist contractor.",
+        ],
+        image: { src: "/images/blog/furniture-material-route-sorting-dubai.webp", alt: "Separated metal frames, upholstered panels and glass in a furniture material sorting area" },
+      },
+      {
+        heading: "Separate reusable systems from damaged materials",
+        content: [
+          "Keep complete panels, rails and connector sets together and label their layout. If reuse is not feasible, separate visible aluminium or steel framing from fabric-covered composite panels and glazing where the receiving route accepts it. Acoustic panels may combine fabric, foam and bonded board; do not promise they are wholly recyclable.",
+          "The [furniture material-routing guide](/blog/where-to-dispose-and-donate-old-furniture-dubai) explains why condition and construction determine the next route. A recipient should approve dimensions and completeness before an office dismantles a usable system for collection.",
+        ],
+      },
+      {
+        heading: "Book access for the actual panel size",
+        content: [
+          "Measure the tallest and widest panel against doorways, lift entrances and loading-bay turns. In [DIFC](/areas/difc), confirm contractor access and the building's work window. In [Dubai Design District](/areas/dubai-design-district), protect finished circulation areas and avoid leaving panels against public walls.",
+          "Our [office cleanout team](/services/office-cleanout-dubai) can plan a phased furniture-screen clearance; the [bulky-item service](/services/bulky-item-removal-dubai) can assess a small batch of freestanding panels. [Send layout photos, panel dimensions and access details](/contact) so the scope distinguishes movable screens from fixed works.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["difc", "dubai-design-district"],
   },
 ];
 

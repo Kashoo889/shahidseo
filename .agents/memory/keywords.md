@@ -4,6 +4,18 @@
 **Total Target Keywords**: 301
 **Total Topic Clusters**: 18
 
+## Approved editorial expansion — 2026-10-09
+
+Three office-furniture informational topics requested after the prior queue was completed. These editorial phrases are not claims of measured search volume. Commercial office-clearance intent remains with `/services/office-cleanout-dubai`.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of old filing cabinets in dubai` | Informational | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old meeting tables in dubai` | Informational | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old office partitions in dubai` | Informational | `/blog/how-to-dispose-of-old-office-partitions-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the filing-cabinet guide owns record release, drawer security and cabinet transport; the documents guide retains paper retention and destruction. The meeting-table guide owns connected power modules, long-top support and base labelling; the desk guide retains workstations. The partition guide owns movable-versus-fixed status, panel stability and system completeness; the desk guide retains desk-mounted accessories. No search-volume claim is made.
+
 ## Approved editorial expansion — 2026-09-19
 
 User approved researching and writing these three additional topics after the original queue was exhausted. These are editorial target phrases, not claims of measured search volume. Existing commercial terms retain their service-page owners. The original cluster tables below are retained; the three additions belong to clusters 07, 06 and 18 respectively.

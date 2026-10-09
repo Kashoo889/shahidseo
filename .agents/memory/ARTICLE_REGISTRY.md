@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-08**
+Last synchronized: **2026-10-09**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -102,15 +102,26 @@ Canonical implementation: `data/blog.ts`
 |  95 | `how to dispose of old office desks in dubai`               | Informational              | `/blog/how-to-dispose-of-old-office-desks-in-dubai`                  | 2026-10-08 | Published |
 |  96 | `how to dispose of old office chairs in dubai`              | Informational              | `/blog/how-to-dispose-of-old-office-chairs-in-dubai`                 | 2026-10-08 | Published |
 |  97 | `how to dispose of old bookshelves in dubai`                | Informational              | `/blog/how-to-dispose-of-old-bookshelves-in-dubai`                   | 2026-10-08 | Published |
+|  98 | `how to dispose of old filing cabinets in dubai` | Informational | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai` | 2026-10-09 | Published |
+|  99 | `how to dispose of old meeting tables in dubai` | Informational | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai` | 2026-10-09 | Published |
+| 100 | `how to dispose of old office partitions in dubai` | Informational | `/blog/how-to-dispose-of-old-office-partitions-in-dubai` | 2026-10-09 | Published |
 
 ## Current counts
 
-- Published: **97**
+- Published: **100**
+- Published on 2026-10-09: **3**
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **67**
-- Next approved supplemental priority: **None queued; the 2026-10-08 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **70**
+- Next approved supplemental priority: **None queued; the 2026-10-09 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-09 batch
+
+- Filing cabinets own records-owner release, drawer security, cabinet reuse testing and upright transport. The paperwork guide retains keep/shred/recycle decisions; office cleanout retains commercial booking intent.
+- Meeting tables own integrated service release, supported long-top dismantling, base labelling and route measurements. The desk guide retains individual and linked workstations.
+- Office partitions own freestanding-versus-fixed status, panel stability, complete-system labelling and mixed-material routing. The desk guide retains desk-mounted screens within workstation dismantling.
+- Each article links to two services, two areas, supporting guides and `/contact`. Existing project images are reused; no external images were sourced. See `docs/article-images-2026-10-09.md`.
 
 ## Cannibalization notes for 2026-10-08 batch
 
