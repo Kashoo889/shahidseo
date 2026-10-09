@@ -3006,7 +3006,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Step 2: How to handle dangerous swollen or hot batteries",
         content: [
           "If a power bank bulges, an old smartphone screen lifts from its frame, or a laptop base rocks on a flat desk, the lithium battery has experienced internal gas buildup. This is an urgent safety risk.",
-          "Never press, bend, or attempt to puncture a swollen battery pack. Never submerge it in water, which can react violently with exposed lithium salts. Disconnect the charger immediately and isolate the device in a non-flammable bucket filled with dry sand or vermiculite, away from curtains and wooden furniture.",
+          "Never press, bend, or attempt to puncture a swollen battery pack. Never submerge it in water, which can react violently with exposed lithium salts. Disconnect the charger immediately and isolate the device in a non-flammable bucket filled with dry sand or vermiculite, away from curtains and wooden furniture. Larger packs need the same caution; the [e-scooter and e-bike disposal guide](/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai) explains how to handle a whole battery-powered vehicle.",
         ],
         image: {
           src: "/images/blog/battery-inspection-swollen-safety-dubai.webp",
@@ -5159,7 +5159,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A villa in [Arabian Ranches](/areas/arabian-ranches) may have driveway access but a narrow side gate between the back garden and vehicle. Photograph that gate, changes in level and any passage beside outdoor equipment. Make clear whether the pile is already near the front or still spread across the property.",
           "For a townhouse in [The Springs](/areas/the-springs), confirm community entry and where a collection vehicle may stop. Shared paths should not become a holding area for cuttings. These are property-specific checks; obtain the current instructions from management rather than relying on a general neighbourhood rule.",
-          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs.",
+          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs, and the [plant pot and planter guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers emptying and sorting containers.",
         ],
       },
       {
@@ -7149,7 +7149,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Clear the printer and the consumables as two scopes",
         content: [
-          "A multifunction printer may be leased, may contain an internal drive and may still hold installed toner. Procurement and IT should confirm ownership, data handling and cartridge removal before a clearance crew touches it. Never scrap a managed device merely because the office is closing.",
+          "A multifunction printer may be leased, may contain an internal drive and may still hold installed toner. Procurement and IT should confirm ownership, data handling and cartridge removal before a clearance crew touches it. Never scrap a managed device merely because the office is closing. The [office printer and photocopier disposal guide](/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai) covers the data wipe and heavy-unit move in detail.",
           "Our [office-clearance service](/services/office-cleanout-dubai) handles accepted furniture, printers and equipment once ownership and data decisions are complete. The [general junk-removal service](/services/junk-removal-dubai) can collect agreed household or small-office contents, but manufacturer return cartridges should stay in their documented stream.",
           "[Send the printer inventory and cartridge counts](/contact) for a fixed clearance quote. We will separate the equipment scope from any brand-specific or specialist consumable return before collection day.",
         ],
@@ -9557,6 +9557,273 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["office-cleanout-dubai", "bulky-item-removal-dubai"],
     relatedAreas: ["difc", "dubai-design-district"],
+  },
+  {
+    slug: "how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai",
+    title: "How to Dispose of Old Office Printers and Photocopiers in Dubai",
+    seoTitle: "Office Printer and Copier Disposal Dubai: Data-Safe Guide",
+    excerpt:
+      "How to dispose of office printers and photocopiers in Dubai: check lease ownership, erase stored scans, contain toner and plan the move of heavy units.",
+    category: "Commercial & Office",
+    tags: ["Office Printers", "Photocopiers", "Data Security", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/printer-cartridge-recycling-dubai-20260929-hero.webp",
+    coverImageAlt:
+      "Office worker with a clipboard sorting used ink and toner cartridges into boxes beside a multifunction printer",
+    publishedAt: "2026-10-10",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Many office copiers are leased or covered by a managed print contract, so the supplier may need to collect them rather than a disposal crew.",
+      "Multifunction devices can store scanned and copied documents, address books and network credentials; erase them before the unit leaves.",
+      "Remove cartridges, drums and waste toner containers and keep them sealed so loose powder cannot spill during transport.",
+      "Floor-standing copiers are heavy and top-heavy; plan the lift, ramps and doorways before collection day.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old office printers and photocopiers in Dubai",
+        content: [
+          "To dispose of office printers and photocopiers in Dubai, first confirm whether the company owns each device or leases it. Owned units should have their stored data erased, network settings reset and consumables removed, then go for reuse or a licensed e-waste recycler. Leased units go back to the supplier under the contract terms. Checked on 10/10/2026.",
+          "A desktop inkjet and a floor-standing multifunction copier are very different jobs. The first is a small electrical item. The second is a networked computer with a hard drive or memory, a scanner, a fuser and a toner system, sitting on a base that may weigh as much as a large refrigerator.",
+          "Most delays come from the paperwork rather than the lifting: nobody checked the lease, or IT has not signed off the data wipe, so the device is left standing in a cleared office.",
+        ],
+        callout: {
+          title: "Find the asset tag before anything else",
+          text: "Look for a supplier sticker, service-contract label or asset number on the front or side of each device. It tells you who to call and whether the unit is yours to dispose of.",
+        },
+      },
+      {
+        heading: "Check the lease or service contract",
+        content: [
+          "Managed print contracts often place a copier in the office for a fixed term, with the supplier retaining ownership. Disposing of that machine through a removal company can create a liability for the full equipment value. Ask finance or procurement for the agreement and check the return clause, notice period and any data-erasure service it includes.",
+          "If the unit is owned outright, record the make, model, serial number and asset tag on a release list. That list lets the office manager, IT and the removal crew confirm that the right devices leave—particularly during a floor-wide clearance where several identical machines may be standing side by side.",
+          "Our [guide to clearing an office while staff keep working](/blog/how-to-clear-an-office-while-staff-work-dubai) explains how to release equipment in zones so a shared printer is not removed while a team still depends on it.",
+        ],
+      },
+      {
+        heading: "Erase the data a copier keeps",
+        content: [
+          "Multifunction printers can retain copies of scanned, faxed and printed jobs, along with scan-to-email addresses, user codes, shared-folder paths and Wi-Fi or network credentials. Deleting a few contacts from the touchscreen does not clear the internal storage. Use the manufacturer’s data-overwrite or factory-reset procedure, or have the supplier or IT team carry it out and record the result.",
+          "Where the device holds a removable hard drive or storage module and the company’s policy requires it, IT can remove it for separate destruction before the printer leaves. Ask whoever will receive the device what evidence they provide; the [computers and laptops guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) explains why a wipe record matters for data-bearing equipment.",
+          "Finally, remove the device from the print server, delete its address on staff computers and cancel any cloud-print or monitoring account linked to it. A forgotten queue entry can keep sending documents to a printer that is no longer under your control.",
+        ],
+        image: {
+          src: "/images/blog/secure-electronics-recycling-dubai.webp",
+          alt: "Gloved technician removing a hard drive from an open computer tower beside separate recycling bins in a high-rise office",
+        },
+      },
+      {
+        heading: "Remove and contain the consumables",
+        content: [
+          "Take out ink cartridges, toner cartridges, imaging drums and the waste toner container before the machine is moved. Tilting a copier with these still fitted can spill fine toner powder inside the machine and onto the floor. Place each item in its original packaging or a sealed bag, upright, and keep unused stock separately because it may be reusable by another office.",
+          "Loose toner is a fine dust. Do not sweep it into the air or use an ordinary household vacuum on a spill; wipe it up with a damp cloth and follow the cleaning advice in the supplier’s safety information. The [printer cartridge recycling guide](/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai) covers take-back schemes for the cartridges themselves.",
+          "Empty the paper trays and output bins too. Forgotten printouts are among the most common confidential items found in machines collected from cleared offices.",
+        ],
+      },
+      {
+        heading: "Decide between reuse and recycling",
+        content: [
+          "A working printer with a known page count, available consumables and a clean service history can often be reused by another office, a school or a charity. Record the page counter and any error codes so the recipient knows what they are taking. Older models whose cartridges are no longer sold have little reuse value even if they still power on.",
+          "Devices with a failed fuser, cracked scanner glass, a persistent paper-path fault or no data-wipe confirmation should go to a licensed e-waste recycler. Printers contain plastics, steel frames, motors, circuit boards and glass, so they belong with electrical waste, not general office rubbish.",
+          "Do not leave old desktop printers in a basement storeroom or beside a building’s waste area. Building management may charge for removal, and the devices may still hold data.",
+        ],
+      },
+      {
+        heading: "Move heavy units safely through the building",
+        content: [
+          "Floor-standing copiers are top-heavy, especially with finishers, large-capacity paper decks or sorter units attached. Separate those modules where the manual allows, lock any casters while working and roll the main unit slowly on firm floors. Never tip a copier onto its side to fit it through a doorway or into a lift.",
+          "In [Business Bay](/areas/business-bay) towers, large office equipment normally travels through a booked service lift with a loading-bay slot, so confirm the time with building management and include the device dimensions in the request.",
+          "Offices in [Dubai Internet City](/areas/dubai-internet-city) often clear printers alongside desks and IT kit during a relocation. Keep the printers staged together with their release list so they are not mixed with equipment that is moving to the new premises.",
+        ],
+      },
+      {
+        heading: "Arrange collection with the right information",
+        content: [
+          "Send the list of devices with model names, photos, ownership status and confirmation that data and consumables have been dealt with. Mention the floor, lift dimensions, loading-bay rules and any other office items leaving on the same day.",
+          "Our [office cleanout service](/services/office-cleanout-dubai) collects owned printers, copiers and other office equipment for reuse or licensed recycling. For one or two desktop printers in a smaller clear-out, the [general junk removal service](/services/junk-removal-dubai) is often enough.",
+          "[Send us the device list and photos](/contact) and we will confirm a fixed price and flag anything—such as a leased unit or an unwiped drive—that should be resolved first.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "junk-removal-dubai"],
+    relatedAreas: ["business-bay", "dubai-internet-city"],
+  },
+  {
+    slug: "how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai",
+    title: "How to Dispose of an Old Electric Scooter or E-Bike in Dubai",
+    seoTitle: "E-Scooter and E-Bike Disposal Dubai: Battery-Safe Guide",
+    excerpt:
+      "How to dispose of electric scooters and e-bikes in Dubai: check the battery, stop charging a damaged pack, unpair the app and choose reuse or recycling.",
+    category: "Eco & Recycling",
+    tags: ["Electric Scooters", "E-Bikes", "Lithium-Ion Batteries", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/battery-disposal-small-electronics-dubai-hero.webp",
+    coverImageAlt:
+      "Worker placing lithium-ion batteries into a red safety container beside separate battery and small-electronics recycling bins in a tower lobby",
+    publishedAt: "2026-10-10",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "The lithium-ion battery decides the route: a sound pack can travel with the scooter, but a swollen, cracked or wet pack needs specialist handling.",
+      "Stop charging any battery that is hot, swollen, leaking or smells unusual, and keep it away from exits and living spaces.",
+      "Remove the scooter from its app and account, and keep the charger and keys with it if it is going for reuse.",
+      "Never put an e-scooter, e-bike or its battery in a household bin, bin room or rubbish chute.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old electric scooter or e-bike in Dubai",
+        content: [
+          "To dispose of an electric scooter or e-bike in Dubai, first inspect the battery. If it is undamaged, switch the vehicle off, unpair it from its app and either sell or donate it with its charger or send it to an e-waste recycler that accepts lithium-ion equipment. If the battery is swollen, damaged or overheating, stop using it and arrange specialist battery handling. Checked on 10/10/2026.",
+          "An e-scooter looks like a small vehicle, but for disposal purposes it is a large battery with wheels attached. Its frame, tyres and motor are ordinary materials. Its battery pack holds far more energy than a phone or laptop battery and can catch fire if crushed, punctured or overcharged.",
+          "That is why these items cannot go in general waste, and why a damaged one should not be left in a corridor or storeroom while you decide what to do.",
+        ],
+        callout: {
+          title: "Check the building rules",
+          text: "Some Dubai buildings restrict where e-scooters and e-bikes may be stored or charged. If yours has a policy, follow it while the vehicle is waiting to be collected.",
+        },
+      },
+      {
+        heading: "Inspect the battery before anything else",
+        content: [
+          "With the scooter switched off and unplugged, look at the deck, stem or frame where the battery sits. Warning signs include a bulging or split casing, a deck that no longer sits flat, scorch marks, a sweet or chemical smell, liquid residue, or a pack that becomes hot while idle. A scooter that has been submerged in a flooded street, pool or bath should be treated as damaged even if it looks fine.",
+          "A damaged battery should not be charged again, ridden or posted. Move it, if it is safe to do so, to a cool, dry spot away from doors, escape routes, flammable materials and direct sun, and on a non-combustible surface such as tiles or concrete. If it is smoking, hissing or venting, leave the area and call the emergency services.",
+          "The [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains how lithium-ion cells fail and why they need a separate collection route from ordinary e-waste.",
+        ],
+      },
+      {
+        heading: "Removable or built-in battery",
+        content: [
+          "Many e-bikes and some scooters have a removable pack that slides or unlocks from the frame. If the pack is sound, remove it, protect its terminals with the cover or tape, and keep it with the vehicle so the recipient or recycler receives a complete set. Do not open the casing or separate cells yourself.",
+          "Most budget and mid-range scooters have the battery sealed inside the deck. Leave it there. Unscrewing the deck to remove the pack risks damaging wiring or puncturing a cell. Tell the collector that the battery is integrated so the scooter is routed as a whole battery-powered item.",
+          "Spare packs and chargers bought separately should be labelled with the model they fit. A battery with no identifiable vehicle is much harder for anyone to reuse.",
+        ],
+        image: {
+          src: "/images/blog/battery-inspection-swollen-safety-dubai.webp",
+          alt: "Technician in safety glasses placing a swollen battery pack into a sand-filled container labelled for swollen batteries",
+        },
+      },
+      {
+        heading: "Clear the app, account and personal settings",
+        content: [
+          "Connected scooters and e-bikes are usually paired with a manufacturer app that records ride history, location data and your account details. Unpair the vehicle in the app, remove it from your account and, where the model allows, run a reset so the next owner can register it.",
+          "Hand over any physical keys, locks and their codes if the vehicle is going for reuse, or remove the lock if it is being recycled. If the scooter was registered under a building, community or employer scheme, let the administrator know it has gone.",
+          "If you are passing it on, include the charger, the manual if you still have it, and an honest description of range, brakes, tyres and any error codes.",
+        ],
+      },
+      {
+        heading: "Decide between reuse and recycling",
+        content: [
+          "A scooter or e-bike is worth selling or donating when it holds a reasonable charge, the brakes work, the folding mechanism locks firmly and the battery shows no damage. Buyers will usually ask about the battery age and the range it still achieves; vague answers lose interest quickly.",
+          "Recycling is the right choice when the battery is damaged, the controller has failed, replacement parts are no longer available or a repair would cost more than the vehicle is worth. The frame is usually aluminium or steel, the hub motor contains copper, and the controller is an electronic board—so the whole unit belongs with an e-waste recycler that accepts lithium-ion equipment.",
+          "Some retailers and manufacturers offer battery take-back when you buy a replacement. Ask before you buy, because it can solve the battery question in one step.",
+        ],
+      },
+      {
+        heading: "Store and move it safely before collection",
+        content: [
+          "Fold the scooter, switch it off and keep it unplugged in a cool place away from exits. Do not store several damaged batteries together. Carry it rather than riding it to a lift or loading bay, and keep it upright in the lift.",
+          "In [Jumeirah Village Circle](/areas/jumeirah-village-circle), many low-rise buildings have small lobbies and shared storerooms, so keep the scooter inside your apartment until the crew arrives instead of leaving it downstairs.",
+          "Residents of [Dubai Creek Harbour](/areas/dubai-creek-harbour) towers should check with building management about which lift and entrance to use for battery-powered items, and book the collection inside the permitted hours.",
+        ],
+      },
+      {
+        heading: "Arrange collection with the right details",
+        content: [
+          "Tell us the make and model, whether the battery is removable or built in, and whether there is any swelling, damage or water exposure. Add a photo of the battery area. If the scooter is part of a wider clear-out, list the other items so they can be loaded safely apart.",
+          "Our [general junk removal service](/services/junk-removal-dubai) collects intact electric scooters and e-bikes and routes them for reuse or lithium-ion recycling. When the scooter leaves with gym equipment, bicycles or other large items, the [bulky item removal service](/services/bulky-item-removal-dubai) can quote the whole load together.",
+          "[Message us the details and photos](/contact). If the battery is damaged, we will tell you honestly whether we can carry it or whether a specialist battery handler is the safer route.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "dubai-creek-harbour"],
+  },
+  {
+    slug: "how-to-dispose-of-old-plant-pots-and-planters-in-dubai",
+    title: "How to Dispose of Old Plant Pots and Planters in Dubai",
+    seoTitle: "Plant Pot and Planter Disposal Dubai: Empty, Sort, Recycle",
+    excerpt:
+      "How to dispose of plant pots and planters in Dubai: rehome plants, empty the soil, sort pots by material and lift heavy planters safely.",
+    category: "Eco & Recycling",
+    tags: ["Plant Pots", "Planters", "Garden Clearance", "Material Sorting", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Garden worker gathering palm fronds beside a resident, with empty terracotta and plastic pots stacked next to a pile of soil on a tarpaulin",
+    publishedAt: "2026-10-10",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Empty every pot before it moves: wet soil can double a planter’s weight and make it impossible to lift safely.",
+      "Rehome healthy plants first, then reuse or spread clean soil; send diseased plants and soil with garden waste.",
+      "Sort pots by material, because terracotta, glazed ceramic, concrete, plastic, fibreglass and metal go to different routes.",
+      "Never tip soil into drains, chutes or communal bins, and wrap broken ceramic before it is handled.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old plant pots and planters in Dubai",
+        content: [
+          "To dispose of plant pots and planters in Dubai, rehome or remove the plants, empty and dry the soil, then sort the pots by material. Clean, intact pots can be reused or given away; plastic and metal can often be recycled; broken terracotta, ceramic and concrete should be wrapped and collected as bulky or garden waste. Checked on 10/10/2026.",
+          "Pots look simple until you try to move a full one. A large glazed planter on a villa terrace can weigh more than two people should carry once its soil is soaked from irrigation, and a balcony planter full of wet compost can crack tiles when dragged.",
+          "Separating the plant, the soil and the container is what turns a heavy, messy job into three easy ones.",
+        ],
+        callout: {
+          title: "Stop watering a week ahead",
+          text: "If you know the pots are leaving, switch off drip irrigation and stop watering several days before. Drier soil is lighter, cleaner and far easier to tip out.",
+        },
+      },
+      {
+        heading: "Rehome the plants before you empty the pots",
+        content: [
+          "Healthy palms, succulents, bougainvillea and other established plants are often wanted by neighbours, community groups or new tenants. Offer them with a photo and the pot size, and agree a collection time before you start lifting. A plant passed on in its pot is often the easiest outcome of all.",
+          "If you are keeping the plant, lift it out with its root ball and replant it the same day where possible. Plants that are dead, diseased or infested should not be passed on; bag them with the soil they grew in and send them with garden waste.",
+          "The [garden waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai) explains how to separate green waste, branches and soil for collection.",
+        ],
+      },
+      {
+        heading: "Deal with the soil properly",
+        content: [
+          "Clean potting soil can be spread on garden beds, mixed into compost or kept in sealed bags for future planting. Soil from diseased plants, or soil mixed with stones, plastic and roots, is better sent with garden waste. Fill bags only part-way—a full sack of wet soil quickly becomes too heavy to carry.",
+          "Never empty soil into drains, sinks, toilets or rubbish chutes. It blocks pipes and can cause expensive repairs for the building. Communal bins are not a place for soil either; they are not designed for its weight and collectors may refuse them.",
+          "Remove gravel, drainage crocks and landscape fabric from the base of each pot. Clean gravel is reusable; fabric and plastic liners go with general waste unless they can be cleaned and reused.",
+        ],
+      },
+      {
+        heading: "Sort pots by material",
+        content: [
+          "Terracotta and unglazed clay pots break easily but are often reused if intact. Glazed ceramic pots are heavier and their finish is part of their value; chipped rims reduce reuse demand sharply. Concrete and stone planters are very heavy and usually go as bulky waste unless they are in good condition.",
+          "Plastic nursery pots and lightweight resin planters can often be reused by garden centres or community gardens—ask whether yours takes them back. Fibreglass planters are lightweight but cannot go in ordinary plastic recycling. Metal planters can go to scrap once the soil and any liner are removed.",
+          "Self-watering planters have a reservoir in the base. Empty it completely before moving the pot; standing water is heavy and attracts mosquitoes.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Villa garden waste separated into bins of leaves, grass and soil, with bundled branches, palm fronds and a bin of broken terracotta pots",
+        },
+      },
+      {
+        heading: "Lift heavy planters and broken pots safely",
+        content: [
+          "Never try to lift a large planter while it still contains soil. Empty it from the top down, then use a sack truck or a padded dolly for the empty container. Two people should handle tall pots, because their shape makes them top-heavy and easy to drop.",
+          "Wrap broken terracotta and ceramic in cardboard or sacking and tape it closed. Sharp shards can cut through bin bags and injure whoever lifts them. Small amounts can be bagged; larger quantities should be collected as bulky or garden waste.",
+          "Check the base of each pot for damage before lifting. A hairline crack across a heavy planter can split completely when it is tilted.",
+        ],
+      },
+      {
+        heading: "Plan the removal around the property",
+        content: [
+          "In [The Springs](/areas/the-springs), pots and planters usually sit in small back gardens and front entrances, so staging them by the gate before collection keeps the crew out of the house. Sweep up soil spills so they are not tracked inside.",
+          "Villas in [DAMAC Hills](/areas/damac-hills) often have large terrace and poolside planters. Check whether any of them belong to the landscaping or are fixed in place before arranging removal.",
+          "On apartment balconies, carry empty pots through the home on a protective sheet and use the service lift. Building management may restrict carrying soil through the main lobby.",
+        ],
+      },
+      {
+        heading: "Book the collection with useful details",
+        content: [
+          "Send a photo of the pots, the number and approximate size of each, and whether they are empty. Mention any broken pieces, concrete planters or bags of soil, and where the items are staged.",
+          "Our [garden waste removal service](/services/garden-waste-removal-dubai) collects pots, planters, soil and green waste together. For a full move-out or a whole-property clearance, the [villa clearance service](/services/villa-clearance-dubai) can include the garden and terrace in the same visit.",
+          "[Send us the photos and access details](/contact) and we will confirm a fixed price before the crew arrives.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["the-springs", "damac-hills"],
   },
 ];
 

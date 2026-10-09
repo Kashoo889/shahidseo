@@ -4,6 +4,18 @@
 **Total Target Keywords**: 301
 **Total Topic Clusters**: 18
 
+## Approved editorial expansion — 2026-10-10
+
+Three further item-specific informational topics requested after the office-furniture batch was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of old office printers and photocopiers in dubai` | Informational | `/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old electric scooters and e-bikes in dubai` | Informational | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old plant pots and planters in dubai` | Informational | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the printer guide owns lease ownership, device data erasure, consumable containment and copier transport; the cartridge and computer guides retain their streams. The e-scooter guide owns whole-vehicle battery inspection, app unpairing and storage; the battery guide retains chemistry and small-device routes. The planter guide owns soil handling, container material sorting and heavy-pot lifting; the garden-waste and outdoor-furniture guides retain green waste and patio furniture. No search-volume claim is made.
+
 ## Approved editorial expansion — 2026-10-09
 
 Three office-furniture informational topics requested after the prior queue was completed. These editorial phrases are not claims of measured search volume. Commercial office-clearance intent remains with `/services/office-cleanout-dubai`.
