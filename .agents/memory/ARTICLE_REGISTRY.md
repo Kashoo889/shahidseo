@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-10**
+Last synchronized: **2026-10-12**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -108,17 +108,29 @@ Canonical implementation: `data/blog.ts`
 | 101 | `how to dispose of old office printers and photocopiers in dubai` | Informational | `/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai` | 2026-10-10 | Published |
 | 102 | `how to dispose of old electric scooters and e-bikes in dubai` | Informational | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` | 2026-10-10 | Published |
 | 103 | `how to dispose of old plant pots and planters in dubai` | Informational | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai` | 2026-10-10 | Published |
+| 104 | `how to dispose of an old microwave in dubai` | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai` | 2026-10-12 | Published |
+| 105 | `how to dispose of old luggage and suitcases in dubai` | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` | 2026-10-12 | Published |
+| 106 | `how to dispose of old chandeliers and ceiling lights in dubai` | Informational | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` | 2026-10-12 | Published |
 
 ## Current counts
 
-- Published: **103**
+- Published: **106**
+- Published on 2026-10-12: **3**
 - Published on 2026-10-10: **3**
 - Published on 2026-10-09: **3**
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **73**
-- Next approved supplemental priority: **None queued; the 2026-10-10 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **76**
+- Next approved supplemental priority: **None queued; the 2026-10-12 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-12 batch
+
+- The microwave guide owns high-voltage capacitor shock precautions, glass turntable/roller separation, built-in cabinetry trim unfastening, heating water test, and small appliance e-waste routing. `/blog/how-to-dispose-of-an-old-oven-in-dubai` retains cookers and 32A circuits; `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains bulk ferrous sorting. Commercial intent stays with `/services/appliance-removal-dubai`.
+- The luggage and suitcases guide owns hidden-pocket security auditing, mixed non-recyclable hard-shell composite explanations, humanitarian worker donation drives, and the volume-collapsing nesting method. `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai` retains moving cartons; `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains wearable clothing. Commercial intent stays with `/services/house-clearance-dubai`.
+- The chandelier and ceiling light guide owns distribution board electrical circuit isolation, crystal drop and glass globe detachment, Ejari move-out ceiling rose reinstatement, and metal/transformer material segregation. `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` retains lamps and tubes; `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains flat architectural glass; `/blog/what-to-remove-before-rental-handover-dubai` retains broad tenancy handover scope. Commercial intent stays with `/services/bulky-item-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the oven, small apartment decluttering, and rental handover guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-12.md`.
 
 ## Cannibalization notes for 2026-10-10 batch
 

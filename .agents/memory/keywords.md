@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 301
+**Total Target Keywords**: 304
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-12
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old microwave in dubai` | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old luggage and suitcases in dubai` | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old chandeliers and ceiling lights in dubai` | Informational | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the microwave guide owns high-voltage capacitor safety, glass turntable separation, and built-in trim unfastening; the oven, scrap-metal, and small-electronics guides retain their respective scopes. The luggage guide owns suitcase pocket auditing, non-recyclable hard-shell material explanation, worker donation drives, and nesting to reduce volume; the moving-boxes and textiles guides retain their streams. The chandelier guide owns distribution board electrical isolation, fragile crystal/shade detachment, Ejari ceiling rose reinstatement, and metal/driver sorting; the light-bulb, flat-glass, and general handover guides retain their domains. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-10
 
