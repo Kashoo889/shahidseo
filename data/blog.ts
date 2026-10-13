@@ -3993,7 +3993,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Measure the sofa and its route before collection day",
         content: [
-          "Record overall width, depth and height, then measure doorways, lift openings and tight corridor turns. Check whether arms, legs, backs or modular clips are designed to detach. A sofa bed or recliner can be far heavier than it looks, and its moving mechanism may shift unless secured correctly.",
+          "Record overall width, depth and height, then measure doorways, lift openings and tight corridor turns. Check whether arms, legs, backs or modular clips are designed to detach. A sofa bed or recliner can be far heavier than it looks, and its moving mechanism may shift unless secured correctly. Powered full-body chairs are a separate job again; the [massage chair disposal guide](/blog/how-to-dispose-of-an-old-massage-chair-in-dubai) explains how they come apart into modules.",
           "In [Dubai Marina](/areas/dubai-marina), reserve the service lift and loading bay before the crew arrives. For a villa in [Arabian Ranches](/areas/arabian-ranches), confirm vehicle access, gate width and the route from room to driveway. Protect floors and corners, keep children and pets away, and let trained crew control heavy lifting.",
           "Send route photos as well as sofa photos. The [bulky-item removal service](/services/bulky-item-removal-dubai) can plan labour, trolley use, wrapping and dismantling more accurately when the narrowest point is visible.",
         ],
@@ -6628,7 +6628,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "The glass banks and recycling bins in Dubai communities are designed for containers: bottles and jars. Mirrors carry a reflective coating and backing paint, tabletops and shower screens are usually toughened, and window panes are made to a different specification. Mixing them into container glass contaminates the stream, and the sheer size of a panel can injure whoever empties the bin.",
           "Keep the two apart. Bottles and jars follow the routine in the [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai). Mirrors, glass shelves, tabletops, picture-frame glass and cabinet doors are bulky household items that need a collection or a facility that accepts them.",
-          "Glass cookware, drinking glasses and ceramics are also not container glass. Small quantities that are intact can go to donation; broken pieces are handled like any other broken glass below. The [kitchenware disposal guide](/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai) covers the rest of a kitchen clear-out.",
+          "Empty aquariums are flat glass too, with silicone seams that crack if the tank is lifted unevenly; the [aquarium and fish tank guide](/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai) covers draining and moving one. Glass cookware, drinking glasses and ceramics are also not container glass. Small quantities that are intact can go to donation; broken pieces are handled like any other broken glass below. The [kitchenware disposal guide](/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai) covers the rest of a kitchen clear-out.",
         ],
       },
       {
@@ -6761,7 +6761,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Timing and space in Dubai homes",
         content: [
           "Most families clear baby gear in waves: when a child moves to a bed, when a second child arrives, or before a move. Setting aside one cupboard or corner as a 'passing on' zone stops outgrown things spreading through the home and makes a single charity drop or collection easy.",
-          "In townhouse communities such as [Arabian Ranches 2](/areas/arabian-ranches-2), large outdoor play equipment—slides, playhouses and trampolines—often comes up at the same time. These are bulky, sun-weathered and usually need dismantling. In [Jumeirah Village Triangle](/areas/jumeirah-village-triangle) and similar villa areas, check whether community groups run swap days before booking a collection.",
+          "In townhouse communities such as [Arabian Ranches 2](/areas/arabian-ranches-2), large outdoor play equipment—slides, playhouses and trampolines—often comes up at the same time. These are bulky, sun-weathered and usually need dismantling; the [trampoline and outdoor play equipment guide](/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai) walks through releasing springs and sorting the frames. In [Jumeirah Village Triangle](/areas/jumeirah-village-triangle) and similar villa areas, check whether community groups run swap days before booking a collection.",
           "If you are selling, list items with the brand, age and any known history. Being honest about a car seat's history protects the buyer and you.",
         ],
       },
@@ -10124,6 +10124,281 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
     relatedServices: ["bulky-item-removal-dubai", "house-clearance-dubai"],
     relatedAreas: ["arabian-ranches", "palm-jumeirah"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-massage-chair-in-dubai",
+    title: "How to Dispose of an Old Massage Chair in Dubai",
+    seoTitle: "Old Massage Chair Disposal in Dubai: Safe, Simple Steps",
+    excerpt:
+      "How to dispose of an old massage chair in Dubai: test resale value, split the modules, plan the service lift, and route motors, foam and steel separately.",
+    category: "Guides",
+    tags: ["Massage Chairs", "Bulky Items", "Electrical Furniture", "Service Lift", "Dubai"],
+    coverImage: "/images/blog/high-rise-service-lift-junk-removal-dubai.webp",
+    coverImageAlt:
+      "Crew member wheeling a large item wrapped in protective film on a trolley out of a padded service elevator while building security records the move in a Dubai tower",
+    publishedAt: "2026-10-13",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "A full-body massage chair often weighs between 70 and 130 kilograms, so treat it as a two- or three-person lift, not an armchair.",
+      "Most modern chairs separate into a seat base, backrest and arm or leg modules; check the manual for the release bolts before anyone tries to tilt it through a door.",
+      "Working chairs with intact upholstery still have resale value; chairs with failed motors or cracked faux leather are a materials job, not a donation.",
+      "The steel frame, the motors and wiring, and the foam and upholstery each follow a different recovery route once the chair is taken apart.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old massage chair in Dubai",
+        content: [
+          "To dispose of an old massage chair in Dubai, first test whether it still works and decide if it can be sold. If it cannot, unplug it, remove the detachable arm, leg and backrest modules, and book a collection that knows the weight and the lift dimensions. Once dismantled, the steel frame goes to metal recovery, the motors and control boards to e-waste, and the foam and upholstery to the residual stream. Checked on 13/10/2026.",
+          "Massage chairs look like recliners, but moving one is closer to moving a small appliance with a sofa wrapped around it. The weight sits low in the base, where the roller track, motors and air compressor live. People who tip one back like an armchair usually find out the hard way that it does not balance the same way.",
+          "This guide covers the decisions specific to these chairs: what still sells, how they come apart, and how they get out of a Dubai apartment without scraping a lift or a stairwell wall.",
+        ],
+        callout: {
+          title: "Weigh it on paper first",
+          text: "Look up the model number on the label under the seat or at the back of the base. The manufacturer's specification will give the net weight and the dimensions of each module, which is exactly what a removal crew needs to quote properly.",
+        },
+      },
+      {
+        heading: "Is it worth selling before you dispose of it?",
+        content: [
+          "Branded full-body chairs hold some value on second-hand marketplaces in the UAE, especially when every programme still runs. Buyers ask the same questions every time: does the roller travel the full length of the back, do the airbags inflate on the arms and calves, does the remote or touchscreen respond, and is the upholstery cracked.",
+          "Run each programme for a few minutes before you list it and photograph the remote showing a working screen. Mention the model year honestly. A chair with one dead airbag zone or a faulty heat pad can still sell if it is described accurately and priced as such.",
+          "Selling stops making sense when the main roller motor has failed, the control board is dead, or the faux leather has peeled across the seat and backrest. In Dubai's mix of outdoor heat and constant indoor air conditioning, PU leather on chairs of this type commonly starts flaking within a few years. Replacement covers and boards exist for some brands, but rarely at a price that makes an older chair worth repairing. The [sofa recycling guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) uses a similar repair-or-retire test for upholstered pieces without motors.",
+        ],
+      },
+      {
+        heading: "Disconnecting and dismantling the chair safely",
+        content: [
+          "Switch the chair off at the side or rear power switch, then unplug it at the wall. Return it to the fully upright position before unplugging; a chair left reclined with the leg rest extended is longer and far more awkward to move, and without power you cannot bring it back up.",
+          "Most full-body chairs are delivered in two or three boxes and assembled on site, which means they are designed to come apart. Typical release points are the bolts holding the backrest to the base, the side panels or arm modules, and the calf and foot unit at the front. Unplug the internal connectors between modules by hand rather than pulling on the cables, and bag and tape any bolts to the base.",
+          "Expect the seat base to remain the heaviest single piece. Two people should carry it using the base frame, never the armrests or the leg rest, which are hinged and can swing. Protect hard floors with a blanket before lowering anything, because the metal feet under some chairs will gouge marble and tiles.",
+        ],
+        listItems: [
+          "Remote controls, tablets and power adaptors: keep them with the chair if it is being sold; otherwise they join the electronics.",
+          "Removable pillows, head cushions and covers: bag them separately; they are textile, not part of the frame.",
+          "Older chairs with a lead-acid or lithium backup pack: rare, but remove it and follow the [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai).",
+        ],
+      },
+      {
+        heading: "Getting it out of a Dubai tower or villa",
+        content: [
+          "In apartment towers, a massage chair is a bulky item that will usually need the service lift and a booked slot with building management. Measure the lift door and the internal depth, then compare them with the largest module. Many chairs will not stand upright in a lift with the backrest attached but fit comfortably once it is removed.",
+          "In buildings around [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) and [Downtown Dubai](/areas/downtown-dubai), security desks commonly ask for the move to be registered and for lift walls to be padded. Wrap the modules in moving blankets and stretch film before they leave the flat so that corridor corners and lift panels are protected. The base can travel on a flat trolley; the backrest and leg unit can be carried by hand.",
+          "Villas bring a different problem: stairs. A chair that went up to a first-floor media room in modules has to come down the same way. Never slide a base down tiled stairs on its back panel. It will gain speed, and the people below it will not be able to hold it.",
+        ],
+        image: {
+          src: "/images/blog/sofa-material-separation-dubai.webp",
+          alt: "Recycling workers stripping fabric from an upholstered seat and separating timber, metal springs and foam into different bins at a Dubai sorting facility",
+        },
+      },
+      {
+        heading: "Where the steel, motors and foam end up",
+        content: [
+          "A massage chair is made of three material groups that do not belong together. The structural frame and roller track are mostly steel, which has scrap value once it is stripped. The [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains how ferrous and non-ferrous metal are separated at Dubai yards.",
+          "The motors, air pump, wiring harness, heating pads, speakers and circuit boards are electrical and electronic waste. They should go to an e-waste route rather than general waste, because the copper windings and boards can be recovered and the electronics should not end up in landfill.",
+          "The foam padding, fabric, PU leather covers and plastic shells are the least recoverable part. Clean foam is sometimes accepted by recyclers, but foam bonded to PU leather is usually residual waste. Separating it from the frame is still worthwhile, because it means the metal and electronics can be recovered instead of the whole chair being treated as one mixed item.",
+        ],
+      },
+      {
+        heading: "Massage chairs versus other heavy home equipment",
+        content: [
+          "Massage chairs often leave at the same time as a treadmill or exercise bike, especially when a home office or spare room is being cleared before a move. The approach overlaps: unplug, fold or dismantle, measure the lift. The [home gym equipment guide](/blog/how-to-dispose-of-home-gym-equipment-dubai) covers weight plates, cable machines and treadmills specifically.",
+          "What sets the chair apart is the upholstery. A treadmill is metal and electronics; a massage chair also carries a large volume of foam and covering that has to be stripped and handled separately. That extra step is why a collection quote usually asks whether the chair is still assembled.",
+        ],
+      },
+      {
+        heading: "Book a collection that knows the weight",
+        content: [
+          "Our [bulky item collection service](/services/bulky-item-removal-dubai) handles massage chairs in towers and villas, including dismantling the modules, wrapping them for the service lift and carrying the base down stairs. Where the chair is part of a wider clear-out of electrical items, the [appliance removal team](/services/appliance-removal-dubai) routes the motors and electronics to e-waste recovery.",
+          "[Send us a photo of the chair and its model label](/contact), along with your floor and lift details. We will reply with a fixed price and tell you whether it needs dismantling on the day.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "appliance-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "downtown-dubai"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai",
+    title: "How to Dispose of an Old Aquarium and Fish Tank in Dubai",
+    seoTitle: "Old Aquarium & Fish Tank Disposal in Dubai: Step by Step",
+    excerpt:
+      "How to dispose of an old aquarium and fish tank in Dubai: rehome the fish, drain it properly, separate the equipment, and move the glass safely.",
+    category: "Guides",
+    tags: ["Aquariums", "Fish Tanks", "Glass", "Pets", "Dubai"],
+    coverImage: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+    coverImageAlt:
+      "Large glass panel wrapped in protective film and cross-taped beside a service lift while a crew member measures the lift door in a Dubai tower lobby",
+    publishedAt: "2026-10-13",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Rehome fish, invertebrates and live plants through a fish shop or aquarist group; never release them into the sea, lakes, ponds or community water features.",
+      "A tank must be completely empty before it moves: water alone weighs about one kilogram per litre, and a full tank can crack under its own load when lifted.",
+      "Heaters, pumps, filters and LED lights are electrical waste; gravel and decorations are separate again.",
+      "A glued glass aquarium is not container glass; keep it intact and wrapped for resale or collection, and box it as broken glass only if it has already failed.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old aquarium and fish tank in Dubai",
+        content: [
+          "To dispose of an old aquarium and fish tank in Dubai, rehome the livestock first, drain the water into a sink or toilet, and remove the gravel, decorations and electrical equipment. Then wipe the tank dry and either sell or give it away, or wrap it like any other large glass item for collection. If the glass is already cracked, it is handled as broken glass, not bottle recycling. Checked on 13/10/2026.",
+          "Aquariums are one of the few household items where the order of the job matters more than the effort. Everything that lives in the tank has to go first, then the water, then the equipment, and only then the glass. Getting that sequence wrong is how people end up with a flooded floor or a split tank in the lift lobby.",
+          "The steps below cover freshwater and marine setups in apartments and villas, from a small desktop tank to a large display aquarium on a cabinet stand.",
+        ],
+        callout: {
+          title: "Never move a tank with water in it",
+          text: "Even a few centimetres of water and wet gravel can put enough twisting load on the silicone seams to crack a panel when one end is lifted first. Empty it completely before anyone tries to slide or carry it.",
+        },
+      },
+      {
+        heading: "Rehome the fish, plants and coral first",
+        content: [
+          "Healthy fish are the easiest part to rehome if you start early. Local aquarium shops sometimes take back common species or know a customer who wants them, and UAE aquarist and fish-keeping groups regularly arrange handovers. Give yourself a week or two rather than trying to place fish on moving day.",
+          "Do not release fish, shrimp, snails or aquarium plants into the sea, creeks, community lakes, golf course ponds or decorative fountains. Non-native species can spread disease and compete with local wildlife, and fountain water is treated and unsuitable for them anyway. If no one will take a fish that is sick or very old, a vet can advise on humane options.",
+          "Marine tanks need more planning. Corals, anemones and live rock are valuable to other reef keepers and are often sold as part of the setup. If you are selling the whole system, keep it running until the buyer collects so the livestock does not suffer in transit.",
+        ],
+      },
+      {
+        heading: "Draining the water and clearing the substrate",
+        content: [
+          "Siphon the water out using a hose and buckets, and empty the buckets into a toilet, bathroom drain or sink connected to the building's sewer. Do not pour it into storm drains or garden drains. Freshwater tank water that has had no medication added can go on ornamental garden beds, but saltwater should not, because it damages soil and plants.",
+          "Bag the gravel or sand once the tank is nearly dry. Clean aquarium gravel can be rinsed and given away; aquascaping stones, driftwood and ornaments often find a home with other hobbyists. Wet substrate from a large tank is heavy, so split it into several small bags rather than one sack nobody can lift.",
+          "Leftover water conditioners, medications and test reagents should not be poured away. Keep them in their original bottles and follow the [household cleaning product disposal guide](/blog/how-to-dispose-of-household-cleaning-products-dubai) for small chemical containers.",
+        ],
+        image: {
+          src: "/images/blog/controlled-waste-separation-dubai-20260923-body.webp",
+          alt: "Household chemical bottles kept in a rigid tray and broken glass sealed in a lined cardboard box, set apart from general waste outside a Dubai villa",
+        },
+      },
+      {
+        heading: "Separating heaters, pumps, filters and lights",
+        content: [
+          "Unplug every device before your hands go into the water, then lift out the heater, internal filter, air pump, wavemaker and lighting. Leave heaters to cool for at least half an hour before you handle them; a glass heater taken straight from warm water and laid on a cold surface can crack.",
+          "Working equipment usually sells or goes to another hobbyist. Faulty units are electrical waste: they contain motors, wiring and circuit boards that should go to e-waste recovery, not the bin. The [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains where small electrical items can be dropped off in Dubai.",
+          "Plastic hoods, lids, tubing and filter media go with general waste once they are dry. Canister filters are worth emptying and rinsing before disposal or sale, because the media inside can smell strongly after a few days out of water.",
+        ],
+      },
+      {
+        heading: "Moving and disposing of the glass tank",
+        content: [
+          "A clean, leak-free tank is easy to sell or give away, especially popular sizes. Fill it briefly with a little water in the bath or on a balcony to prove there are no leaks, photograph it with its dimensions, and mention whether the stand and lid are included.",
+          "Aquariums are made from flat glass panels bonded with silicone, so they cannot go into the community bottle and jar banks. The [mirrors and glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) explains why flat glass is a separate stream. Wrap the tank with cardboard on every corner and edge, then blankets, and always carry it level by the base with two people. Never lift by the top rim or the bracing bar.",
+          "If a panel has already cracked, do not try to carry the tank whole. Wearing gloves, lay it flat on a blanket, tape the cracked panel, and either box the pieces as broken glass or tell the collection crew before they arrive so they can bring rigid containers.",
+        ],
+      },
+      {
+        heading: "Cabinet stands and tower access",
+        content: [
+          "Aquarium stands are furniture, but they have often absorbed years of splashes. Check the top for swollen chipboard before offering one for reuse; a water-damaged stand can collapse under a new tank. Solid metal stands follow the scrap metal route, while chipboard cabinets go with general bulky waste.",
+          "In towers around [Dubai Marina](/areas/dubai-marina), a large display tank and its stand usually need the service lift and a booked slot. Long tanks may not stand on end in a lift, so measure the internal diagonal as well as the door width. In villa communities such as [Jumeirah Village Circle](/areas/jumeirah-village-circle), the issue is more often the staircase and the turn at the landing.",
+        ],
+      },
+      {
+        heading: "Arrange a collection that is ready for glass",
+        content: [
+          "Our [bulky item removal crews](/services/bulky-item-removal-dubai) collect empty aquariums, stands and equipment, bringing blankets and corner protection for the glass. When the tank is one part of a bigger move-out, the [house clearance service](/services/house-clearance-dubai) takes the rest of the room at the same time.",
+          "[Send us photos of the tank and stand with their sizes](/contact), and tell us whether the glass is intact. We will confirm a fixed price; we do not move tanks that still hold water or livestock.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai",
+    title: "How to Dispose of an Old Trampoline and Outdoor Play Equipment in Dubai",
+    seoTitle: "Old Trampoline & Play Equipment Disposal in Dubai Villas",
+    excerpt:
+      "How to dispose of an old trampoline and outdoor play equipment in Dubai: release springs safely, sort steel from sun-damaged plastic, and restore the lawn.",
+    category: "Guides",
+    tags: ["Trampolines", "Play Equipment", "Villa Garden", "Scrap Metal", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-junk-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Crew member carrying a folding wooden chair up the ramp of a removal truck already loaded with folded metal frames and garden tools outside a Dubai villa",
+    publishedAt: "2026-10-13",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Trampoline springs are stored energy; release them with a spring puller, gloves and eye protection before any frame bolt is loosened.",
+      "Galvanised steel frames, legs and swing-set A-frames are scrap metal once separated from mats, nets and padding.",
+      "UV-brittle mats, safety nets and rotomoulded plastic slides are usually residual waste after years in the Dubai sun.",
+      "Remove ground anchors and repair the lawn or sand patch before a villa handover; the yellowed rectangle is a common inspection note.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old trampoline and outdoor play equipment in Dubai",
+        content: [
+          "To dispose of an old trampoline and outdoor play equipment in Dubai, decide first whether it is safe enough to pass on. If it is not, remove the safety net and padding, release the springs with a puller, then unbolt the frame into straight and curved tubes. Steel goes to scrap metal recovery, while sun-damaged mats, nets and plastic parts usually go to general waste. Slides, playhouses and swing sets follow the same strip-and-sort logic. Checked on 13/10/2026.",
+          "Outdoor play equipment tends to leave a villa all at once: the children have outgrown it, the family is moving, or the garden is being redesigned. A three-metre trampoline, a swing set and a plastic playhouse together can fill most of a pickup truck, and none of it fits through a door assembled.",
+          "Indoor baby gear, cots and toys are covered in the [baby and children's items guide](/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai). This article deals with the large garden pieces.",
+        ],
+        callout: {
+          title: "Springs first, bolts second",
+          text: "Loosening a frame joint while the springs are still under tension can snap the frame inwards. Always take the load off the springs before touching the legs or ring bolts.",
+        },
+      },
+      {
+        heading: "Is it safe to pass on?",
+        content: [
+          "Years outdoors in the UAE climate are hard on play equipment. Ultraviolet light makes polypropylene mats and polyethylene nets brittle, padding foam crumbles, and plastic slides fade and crack along the edges. Steel frames survive better but can rust at welds and where the legs sit in irrigated grass.",
+          "Before offering anything to another family, check it as if your own child were about to use it. A mat that tears when you push a finger into a faded patch, a net that splits when tugged, or a frame with rust through the tube wall is not safe to pass on. Missing spring covers are an injury risk on their own.",
+          "Equipment that passes the check can be sold or given away through community groups, which are active in most villa areas. Dismantle it first and photograph the parts laid out so the collector knows exactly what they are taking.",
+        ],
+      },
+      {
+        heading: "Taking a trampoline apart safely",
+        content: [
+          "Work in the cooler part of the day. Metal frames left in the afternoon sun can become too hot to handle comfortably, and dismantling takes longer than most people expect.",
+          "Start by removing the safety enclosure: unclip the net from the poles, then pull the poles from their sleeves. Take off the frame padding next. Then, wearing gloves and safety glasses, use a spring puller or a strong hook to release one spring at a time, working across the circle rather than around it so the mat tension stays even. Collect the springs in a bucket as you go.",
+          "With the mat off, unbolt the leg sections and pull apart the curved frame tubes. Spray stubborn joints with penetrating oil and leave them for a few minutes rather than hammering them, which can flatten the tube ends. If the trampoline was anchored, dig out the ground stakes or anchor augers now; leaving them in a lawn is a tripping and mower hazard.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Worker with a tablet checking racks of stacked metal frames beside caged foam and fabric and separate timber and glass stacks at a Dubai materials sorting warehouse",
+        },
+      },
+      {
+        heading: "Slides, swing sets and playhouses",
+        content: [
+          "Metal swing sets come apart at the top beam and A-frame brackets. Remove the swings, chains and seats first, then lower the top beam with two people. Climbing frames are similar: take off accessories like slides and ladders before loosening the main structure.",
+          "Wooden play towers and cubby houses are usually built from treated softwood. Unscrew panels rather than breaking them up, because splintered treated timber is unpleasant to handle and harder to load. Clean timber can follow the [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai); painted or treated sections may be limited to general waste depending on the facility.",
+          "Rotomoulded plastic slides, sandpits and playhouses are bulky but light. Some recyclers accept clean, large pieces of hard plastic; faded, cracked or mixed-material parts generally go to residual waste. Empty sandpits fully: play sand can be spread over garden beds or bagged, but it should not be tipped into drains or community landscaping.",
+        ],
+      },
+      {
+        heading: "Sorting steel, plastic and fabric",
+        content: [
+          "Once everything is apart, make three piles. Steel frame tubes, legs, springs and chains are scrap metal, and the [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains how that material is recovered. Mats, nets, padding and fabric covers are almost always residual waste after years outdoors. Plastic and timber sit in between and depend on condition.",
+          "Bundle frame tubes together with tape or cable ties so they can be carried as a single load. Curved trampoline sections are awkward in a car boot, which is why most families book a collection rather than making several runs.",
+          "If garden furniture is leaving at the same time, the [outdoor and patio furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) covers loungers, dining sets and parasols, and the [garden waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai) handles cuttings and soil.",
+        ],
+      },
+      {
+        heading: "Restoring the garden before a villa handover",
+        content: [
+          "A trampoline that stood on grass for years leaves a pale or dead rectangle, and the frame feet often leave compacted dents. In rented villas, landlords and community inspectors in areas such as [Arabian Ranches 2](/areas/arabian-ranches-2) and [The Springs](/areas/the-springs) often note this at handover. Rake, re-seed or patch the area with turf, and fill any anchor holes with soil.",
+          "Check the tenancy contract for anything you installed yourself, such as concrete footings for a swing set or ground sockets for a basketball hoop. These generally need removing or agreeing with the landlord in writing before you leave. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers the wider checklist.",
+        ],
+      },
+      {
+        heading: "Book a villa collection for large play equipment",
+        content: [
+          "Our [villa clearance service](/services/villa-clearance-dubai) dismantles trampolines, swing sets and playhouses in the garden, bundles the frames and takes everything in one load, with steel separated for metal recovery. For a single item, the [bulky item collection service](/services/bulky-item-removal-dubai) is usually the simpler option.",
+          "[Send us photos of the equipment and the garden access](/contact), and let us know if it is still assembled. We will quote a fixed price that includes dismantling where needed.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches-2", "the-springs"],
   },
 ];
 

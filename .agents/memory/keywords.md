@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 304
+**Total Target Keywords**: 307
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-13
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old massage chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old aquarium and fish tank in dubai` | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the massage chair guide owns powered-chair resale testing, modular dismantling and frame/motor/foam separation; the sofa and home gym guides retain unpowered upholstery and fitness machines. The aquarium guide owns livestock rehoming, draining, equipment separation and bonded-tank handling; the mirrors/glass and cleaning-products guides retain flat glass and chemical containers. The trampoline guide owns spring release, play-frame dismantling, UV-degraded material sorting and lawn restoration; the baby items and outdoor furniture guides retain indoor children's gear and garden furniture. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-12
 

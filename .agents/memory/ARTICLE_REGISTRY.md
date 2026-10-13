@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-12**
+Last synchronized: **2026-10-13**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -111,18 +111,30 @@ Canonical implementation: `data/blog.ts`
 | 104 | `how to dispose of an old microwave in dubai` | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai` | 2026-10-12 | Published |
 | 105 | `how to dispose of old luggage and suitcases in dubai` | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` | 2026-10-12 | Published |
 | 106 | `how to dispose of old chandeliers and ceiling lights in dubai` | Informational | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` | 2026-10-12 | Published |
+| 107 | `how to dispose of an old massage chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` | 2026-10-13 | Published |
+| 108 | `how to dispose of an old aquarium and fish tank in dubai` | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` | 2026-10-13 | Published |
+| 109 | `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | 2026-10-13 | Published |
 
 ## Current counts
 
-- Published: **106**
+- Published: **109**
+- Published on 2026-10-13: **3**
 - Published on 2026-10-12: **3**
 - Published on 2026-10-10: **3**
 - Published on 2026-10-09: **3**
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **76**
-- Next approved supplemental priority: **None queued; the 2026-10-12 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **79**
+- Next approved supplemental priority: **None queued; the 2026-10-13 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-13 batch
+
+- The massage chair guide owns powered-chair resale testing, modular dismantling (backrest, arm and leg units), low-centre-of-gravity lifting, and frame/motor/foam material separation. `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains unpowered upholstery and recliners; `/blog/how-to-dispose-of-home-gym-equipment-dubai` retains treadmills and fitness machines. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/appliance-removal-dubai`.
+- The aquarium and fish tank guide owns livestock rehoming and non-release, water draining (fresh versus salt), substrate and equipment separation, and silicone-bonded tank handling. `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains mirrors, tabletops and general flat glass; `/blog/how-to-dispose-of-household-cleaning-products-dubai` retains small chemical containers. Commercial intent stays with `/services/bulky-item-removal-dubai`.
+- The trampoline and outdoor play equipment guide owns spring-tension release, frame and swing-set dismantling, UV-degraded mat/net/plastic assessment, ground-anchor removal and lawn restoration at handover. `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai` retains cots, car seats, strollers and toys; `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` retains garden furniture. Commercial intent stays with `/services/villa-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the sofa, mirrors and glass, and baby and children's items guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-13.md`.
 
 ## Cannibalization notes for 2026-10-12 batch
 
