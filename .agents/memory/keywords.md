@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 307
+**Total Target Keywords**: 310
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-14
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old safe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old pool table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old artificial grass in dubai` | Informational | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the safe guide owns opening, lost-code recovery, unbolting and fire-safe handling; the scrap metal and documents guides retain general scrap and paper records. The pool table guide owns slate identification, fitter-dependent resale, dismantling order and slate routes; the piano and dining table guides retain instruments and dining furniture. The artificial grass guide owns turf lifting, rolling, infill and membrane separation and handover ground condition; the garden waste and trampoline guides retain green waste and post-play-equipment lawn restoration. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-13
 

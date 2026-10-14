@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-13**
+Last synchronized: **2026-10-14**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -114,10 +114,14 @@ Canonical implementation: `data/blog.ts`
 | 107 | `how to dispose of an old massage chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` | 2026-10-13 | Published |
 | 108 | `how to dispose of an old aquarium and fish tank in dubai` | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` | 2026-10-13 | Published |
 | 109 | `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | 2026-10-13 | Published |
+| 110 | `how to dispose of an old safe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai` | 2026-10-14 | Published |
+| 111 | `how to dispose of an old pool table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai` | 2026-10-14 | Published |
+| 112 | `how to dispose of old artificial grass in dubai` | Informational | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` | 2026-10-14 | Published |
 
 ## Current counts
 
-- Published: **109**
+- Published: **112**
+- Published on 2026-10-14: **3**
 - Published on 2026-10-13: **3**
 - Published on 2026-10-12: **3**
 - Published on 2026-10-10: **3**
@@ -125,8 +129,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **79**
-- Next approved supplemental priority: **None queued; the 2026-10-13 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **82**
+- Next approved supplemental priority: **None queued; the 2026-10-14 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-14 batch
+
+- The safe guide owns opening and emptying before removal, lost-code and lost-key recovery through the manufacturer or a locksmith with proof of ownership, internal floor-bolt release and hole repair, and fire-safe handling. `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains general ferrous and non-ferrous scrap; `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` retains document destruction. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/house-clearance-dubai`.
+- The pool table guide owns slate-versus-MDF identification, fitter-dependent resale, the pockets-rails-cloth-slate-frame dismantling order and slate reuse routes. `/blog/how-to-dispose-of-an-old-piano-in-dubai` retains instruments; `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai` retains dining furniture. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/villa-clearance-dubai`.
+- The artificial grass guide owns turf condition assessment, cutting and rolling into strips, infill/pin/membrane separation, balcony turf in towers and the ground left at handover. `/blog/how-to-dispose-of-garden-waste-in-dubai` retains green waste, soil and pots; the trampoline guide retains anchor removal and lawn restoration after play equipment. Commercial intent stays with `/services/garden-waste-removal-dubai` and `/services/villa-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the scrap metal, piano and garden waste guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-14.md`.
 
 ## Cannibalization notes for 2026-10-13 batch
 

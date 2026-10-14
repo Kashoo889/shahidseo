@@ -49,6 +49,287 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-safe-in-dubai",
+    title: "How to Dispose of an Old Safe in Dubai",
+    seoTitle: "Old Safe Disposal in Dubai: Unlock, Unbolt and Move It",
+    excerpt:
+      "How to dispose of an old safe in Dubai: open and empty it first, deal with lost codes, release the floor bolts, check lift limits and send the steel to scrap.",
+    category: "Guides",
+    tags: ["Safes", "Heavy Items", "Scrap Metal", "Service Lift", "Dubai"],
+    coverImage: "/images/blog/piano-heavy-duty-trolley-ramp-transport-dubai.webp",
+    coverImageAlt:
+      "Moving crew guiding a heavy blanket-wrapped, strap-secured load on a heavy-duty trolley down an aluminium ramp outside a Dubai villa towards a waiting truck",
+    publishedAt: "2026-10-14",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Open and empty the safe before anything else: a locked safe cannot be checked for valuables, documents or cash, and most collectors will not take one shut.",
+      "Lost the code or key? Go to the manufacturer or a locksmith with proof of ownership; forcing it yourself usually wrecks the door and still leaves it shut.",
+      "Most home safes are bolted down from the inside. The bolts come out once the door is open, and the holes they leave need filling before handover.",
+      "A safe is weight in a small footprint. Check the lift's rated load and the floor route, then send the steel body to scrap metal recovery.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old safe in Dubai",
+        content: [
+          "To dispose of an old safe in Dubai, open it and remove everything inside, unbolt it from the floor or wall, and confirm its weight and dimensions before booking a crew with a heavy-duty trolley. In a tower, check the service lift's rated load and book a slot with building management. The empty steel body then goes to scrap metal recovery, with any electronic keypad routed to e-waste. Checked on 14/10/2026.",
+          "A safe is the one household item that should be treated as a security object first and a heavy item second. Before it is a lifting problem, it is a question of what is inside it, who can open it and whether anyone has written proof of what it contained.",
+          "This guide covers the order that keeps those questions from turning into a problem on collection day: opening, emptying, unbolting, moving and recycling.",
+        ],
+        callout: {
+          title: "Never hand over a safe you cannot open",
+          text: "Families clearing a relative's home and tenants inheriting a safe from a previous occupant both run into this. Until the door is open, nobody knows whether it holds passports, title deeds, jewellery or nothing at all. Solve that first.",
+        },
+      },
+      {
+        heading: "Open it, empty it and record what was inside",
+        content: [
+          "If you know the code or have the key, open the safe in front of a second adult, take everything out and photograph the empty interior, including any internal drawer or hidden compartment. Keypad safes often have a small battery compartment on the door; remove the batteries once you are finished.",
+          "Documents found inside a safe are usually the things that matter most: passports, Emirates ID copies, tenancy contracts, wills, bank papers. Do not bin any of them in a hurry. The [guide to old documents and paperwork](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) explains what to keep, what to shred and how to destroy personal records properly.",
+          "When a safe is being cleared from a deceased relative's home, the contents may form part of an estate. The [guide to clearing a loved one's home](/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai) covers how to handle valuables and paperwork with the rest of the family before anything leaves.",
+        ],
+      },
+      {
+        heading: "What to do when the code or key is lost",
+        content: [
+          "Start with the manufacturer. Many safe brands can supply an override key or reset procedure, but only after you prove you own the safe, usually with the purchase receipt, the serial number from the door or body, and identification. Some will only do this through an authorised dealer.",
+          "If that fails, a locksmith who specialises in safes can open it. Ask for a quote before they start, and expect to show proof that you own the safe or have the right to open it; a landlord's or employer's written permission is normally needed for a safe left behind in a rented flat or office.",
+          "Avoid prying the door with a crowbar or drilling at random. Home safes are built to resist exactly that, and the usual result is a jammed bolt mechanism, a damaged floor and a safe that is still closed. A safe that has been opened professionally is much easier to sell, give away or scrap.",
+        ],
+      },
+      {
+        heading: "Unbolting it from the floor or wall",
+        content: [
+          "Most home and office safes are anchored through pre-drilled holes in the base or back panel. The bolt heads sit inside the safe, which is why the door has to be open before the safe can be removed. A socket set or the correct hex key usually releases them; masonry anchors set into concrete can take some persuasion.",
+          "Built-in wardrobe safes are often bolted to a shelf or the wardrobe floor rather than the building. Check whether removing them will damage joinery that belongs to the landlord. Safes set into a wall cavity or concrete floor are a different job entirely and may need a fit-out contractor rather than a removal crew.",
+          "Once the safe is free, fill and seal the bolt holes. A row of anchor holes in a marble floor or plastered wall is exactly the kind of detail that shows up on a move-out inspection; the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) lists the other fixtures tenants are expected to remove or make good.",
+        ],
+        listItems: [
+          "Shelves, drawers and door organisers: remove them and carry them separately to reduce weight.",
+          "Keypads and electronic locks: take out the batteries; the keypad joins small electronics.",
+          "Keys: tape any remaining keys inside the open safe so the new owner or the scrap yard is not left with a locked box.",
+        ],
+      },
+      {
+        heading: "Weight, floors and the service lift",
+        content: [
+          "Safe weights vary more than most people expect. A small electronic hotel-style safe can be carried by one person. A fire-rated home safe or a larger security cabinet is far heavier because the walls are thick steel filled with fire-resistant material, and the heaviest models need a specialist crew and equipment. Look up the model number for the manufacturer's net weight rather than guessing.",
+          "That weight sits on a very small footprint. On marble or porcelain tiles, a safe dragged or dropped even a few centimetres can crack the surface. Crews lay boards or protective sheets along the route, move the safe on a heavy-duty trolley and strap it so it cannot tip. Stairs need a stair-climbing trolley or enough people to control the load, never a safe slid down step by step.",
+          "In towers in areas such as [Business Bay](/areas/business-bay), check the rated load printed inside the service lift and tell building management what is moving; some buildings ask for heavy items to be declared when the lift is booked. Villa safes in communities such as [Emirates Hills](/areas/emirates-hills) are often in dressing rooms or studies on upper floors, so the stair route needs planning before the day.",
+        ],
+        image: {
+          src: "/images/blog/old-furniture-disposal-dubai-hero.webp",
+          alt: "Two crew members pushing a dense, film-wrapped and taped load on a low wheeled trolley into a padded service lift in a Dubai residential corridor",
+        },
+      },
+      {
+        heading: "Selling, giving away or scrapping the safe",
+        content: [
+          "A working safe with a known code or both keys is easy to pass on, particularly smaller models that fit inside a wardrobe. List it with the brand, dimensions, weight and lock type, and say clearly that it will be handed over open and reset. Buyers will want to change the code themselves on collection.",
+          "Safes with failed locks, rust, or a door that was forced are a materials job. The steel body has value at a scrap yard; the [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains how ferrous metal is weighed and recovered in Dubai. Electronic keypads, wiring and battery packs go to e-waste, and any wooden or carpeted interior lining comes out first.",
+          "Fire-rated safes have a fill material sealed between the inner and outer steel walls. It is not something to cut open at home. Leave the body intact and let the metal recycler deal with it as a whole unit.",
+        ],
+      },
+      {
+        heading: "Book a crew that can move the weight",
+        content: [
+          "Our [heavy and bulky item collection](/services/bulky-item-removal-dubai) covers home and office safes, including floor protection, heavy-duty trolleys and strapping. If the safe is one item in a wider clear-out, our [house clearance team](/services/house-clearance-dubai) can take it with everything else in one visit.",
+          "[Send us a photo of the safe, its model label and your floor and lift details](/contact). Tell us whether it is open and unbolted, and we will reply with a fixed price and the crew size it needs.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["business-bay", "emirates-hills"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-pool-table-in-dubai",
+    title: "How to Dispose of an Old Pool Table in Dubai",
+    seoTitle: "Old Pool Table Disposal in Dubai: Slate, Rails and Removal",
+    excerpt:
+      "How to dispose of an old pool table in Dubai: check whether it is slate or MDF, sell it with a fitter in mind, dismantle it in order and route the slate separately.",
+    category: "Guides",
+    tags: ["Pool Tables", "Billiard Tables", "Heavy Items", "Slate", "Dubai"],
+    coverImage: "/images/blog/kitchen-cabinet-material-sorting-dubai.webp",
+    coverImageAlt:
+      "Crew member stacking timber panels beside bins of metal hardware while a heavy stone slab rests on a padded A-frame trolley at a Dubai loading area",
+    publishedAt: "2026-10-14",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "The playing bed decides the job. A slate table is several hundred kilograms and must be dismantled; an MDF table is lighter and can sometimes leave in one piece.",
+      "A slate table only sells well if the buyer budgets for a fitter to level it and re-cover it. Price and describe it with that in mind.",
+      "Dismantle in a fixed order: pockets, rails, cloth, slate screws, slate, then the frame and legs. Number the slates if anyone will reassemble it.",
+      "Slate, hardwood, cloth and metal fittings each have a different route. Keep them apart once the table is taken down.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old pool table in Dubai",
+        content: [
+          "To dispose of an old pool table in Dubai, first find out whether the playing bed is slate or MDF, then decide whether it can be sold. If not, dismantle it in order: remove the pockets and rails, peel back the cloth, unscrew and lift the slate sections, then take the frame and legs apart. Each piece is carried separately, and the slate, timber, cloth and metal fittings go to different recovery routes. Checked on 14/10/2026.",
+          "Pool and billiard tables end up in Dubai villas, games rooms and building clubhouses, and they usually arrive in pieces with a fitter. That is the point people forget when it is time for the table to leave: it was never designed to be carried out whole.",
+          "This guide covers the decision that matters most, which is what the table is made of, and then how to take it apart without damaging floors, walls or the slate itself.",
+        ],
+        callout: {
+          title: "Do not try to lift it whole",
+          text: "A full-size slate table is far too heavy and too long to carry assembled, and lifting it by the rails can split the timber or crack the slate. Even moving it a few metres across a room should wait until it has been dismantled.",
+        },
+      },
+      {
+        heading: "Slate or MDF: find out what you have",
+        content: [
+          "Lift a corner pocket or look under the rail at the table's edge. Slate shows as a thick grey stone layer, usually in one or three sections, sitting on the frame beneath the cloth. MDF or chipboard beds are a single manufactured board, often with a visible laminated edge, and the whole table is much lighter.",
+          "Knock on the bed through the cloth. Slate gives a dull, solid sound and does not flex; a wooden bed sounds hollower. The manufacturer's label, often under the table or on the frame, may also state the bed type and size.",
+          "This matters because the two tables are different jobs. A slate table can weigh several hundred kilograms, with most of that in the stone, and has to be dismantled. An MDF table is closer to a large piece of furniture and can sometimes leave intact if the doors and corridors allow it.",
+        ],
+      },
+      {
+        heading: "Selling or donating a slate table",
+        content: [
+          "Good slate tables keep their value because the slate itself does not wear out. Buyers check that the slate is uncracked, the rails still bounce the ball true, the cloth is free of tears, and the frame is solid. A worn cloth is not a deal-breaker; it is routinely replaced when the table is moved.",
+          "Be clear in the listing that the buyer will need a fitter. Professional moving and reassembly includes levelling the slate and re-covering it, and serious buyers expect to arrange it. Tables listed as ready to collect by two people tend to attract the wrong buyers and fail on collection day.",
+          "Clubs, schools and community centres sometimes accept a working table, but they will rarely pay for removal. If you donate one, agree in writing who arranges and pays for the fitter, and when the table must be gone.",
+        ],
+      },
+      {
+        heading: "Taking the table apart in the right order",
+        content: [
+          "Begin with the pockets, which are usually stapled or screwed to the rails. Then unbolt the rails from underneath the table, keeping the bolts with each rail section. The cloth on the bed is stapled or glued along the edges; pull it back carefully if it may be reused, or cut it away if not.",
+          "Under the cloth, the slate sections are screwed down to the frame, and the seams between them are filled with wax or a similar filler. Remove the screws, then lift each slate section with enough people to keep it flat. Slate is strong across its face but can crack if it is carried on its edge without support or dropped on a corner.",
+          "Mark each slate and rail with tape and a number if the table is going to be reassembled. Once the slate is off, the frame and legs usually come apart with a socket set, and the whole table becomes a set of manageable, if heavy, pieces.",
+        ],
+        listItems: [
+          "Balls, cues, racks and bridges: pack them separately; they sell easily on their own.",
+          "Pocket nets and leather: these are mixed material and usually go with residual waste.",
+          "Ball-return tables: check for internal channels and remove loose balls before lifting.",
+        ],
+      },
+      {
+        heading: "Getting the pieces out of a villa or tower",
+        content: [
+          "Measure every doorway, stair turn and the lift before the day, and compare them with the largest slate section and the longest rail. Slate is moved flat on a padded trolley or carried with straps; never slide it across tiled floors, and protect marble with boards or thick blankets along the route.",
+          "Villas in [Dubai Hills Estate](/areas/dubai-hills-estate) and [Jumeirah Golf Estates](/areas/jumeirah-golf-estates) often keep pool tables in basements or upper-floor majlis and games rooms, so the stairs usually set the crew size. In towers, the slate is dense enough that the service lift's rated load matters; tell building management what is moving when you book.",
+          "The same weight and stair planning applies to other heavy household instruments and equipment. The [piano disposal guide](/blog/how-to-dispose-of-an-old-piano-in-dubai) covers the similar problem of moving a dense item down villa steps and ramps.",
+        ],
+        image: {
+          src: "/images/blog/new-home-furniture-fit-test-dubai.webp",
+          alt: "Resident measuring a doorway and corridor while another photographs taped floor outlines and packed boxes to plan a furniture route in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Where the slate, timber and cloth go",
+        content: [
+          "Slate is natural stone. Intact sections are sometimes wanted by table fitters for repairs, and pieces can be reused for hearths, workbenches or garden paving. Broken slate is inert material and goes with stone and construction waste rather than household bins.",
+          "The frame, legs and rails are usually solid hardwood or engineered timber. Clean wood can follow the routes in the [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai); laminated or heavily varnished pieces are less recoverable. Bolts, brackets and corner castings are scrap metal.",
+          "The cloth is a wool or wool-nylon blend glued or stapled at the edges. Once removed, it is textile waste, and the rubber cushions inside the rails are residual waste. Separating everything takes a little longer on site but means most of the table's weight, the slate and the timber, is not sent to landfill.",
+        ],
+      },
+      {
+        heading: "Book a dismantling and collection",
+        content: [
+          "Our [heavy item collection service](/services/bulky-item-removal-dubai) dismantles pool and billiard tables, carries the slate sections out flat and separates the materials. Where the table is part of a games room or full house clear-out, the [villa clearance team](/services/villa-clearance-dubai) can take everything in a single visit.",
+          "[Send us photos of the table, its size and the route out](/contact), including any stairs or lift. We will confirm whether it is slate, the crew size needed and a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["dubai-hills-estate", "jumeirah-golf-estates"],
+  },
+  {
+    slug: "how-to-dispose-of-old-artificial-grass-in-dubai",
+    title: "How to Dispose of Old Artificial Grass in Dubai",
+    seoTitle: "Old Artificial Grass Disposal in Dubai: Lift, Roll, Remove",
+    excerpt:
+      "How to dispose of old artificial grass in Dubai: check if it can be reused, cut it into rolls, separate the sand or rubber infill and plan for the weight.",
+    category: "Eco & Recycling",
+    tags: ["Artificial Grass", "Artificial Turf", "Villa Gardens", "Balconies", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener carrying dried palm fronds past a pile of green cuttings, bagged leaves and a soil heap while a resident points across a Dubai villa garden and lawn",
+    publishedAt: "2026-10-14",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Old turf is heavy mostly because of what is in it: sand or rubber infill and dust can make a roll far heavier than the plastic alone.",
+      "Cut it into strips about a metre wide before rolling. One large roll is impossible to carry through a villa side gate or a tower lift.",
+      "Turf in good condition is often wanted for pet areas, balconies and play corners. Sun-bleached, brittle turf is residual waste.",
+      "Before handover, check whether the turf was yours or the landlord's, and what the ground underneath has to look like when you leave.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old artificial grass in Dubai",
+        content: [
+          "To dispose of old artificial grass in Dubai, decide first whether it is worth reusing. If not, pull out the fixing pins, cut the turf into strips about a metre wide, shake or brush out as much infill as possible, then roll and tape each strip. The rolls, the infill, the pins and the weed membrane are bagged separately and collected as bulky garden waste rather than left beside community bins. Checked on 14/10/2026.",
+          "Artificial grass is common in Dubai villas and on apartment balconies because it stays green without irrigation. It does not last forever in this climate, though. Years of strong sun break down the fibres and the backing, and the lawn that once looked real begins to fade, flatten and shed.",
+          "The removal is less about the grass and more about everything that comes with it: the infill, the base, the fixings and the weight of a roll that has been sitting in the heat and dust for years.",
+        ],
+        callout: {
+          title: "Test one corner first",
+          text: "Lift a corner and roll it back by hand. If the backing cracks or the fibres snap and crumble, the whole lawn has reached the end of its life. If it bends cleanly and the pile springs back, it may be worth passing on.",
+        },
+      },
+      {
+        heading: "Reuse or remove: judging the turf's condition",
+        content: [
+          "Turf that is only a few years old, still green and with an intact backing is often wanted for dog runs, children's play corners, balconies and roof terraces. Buyers and people looking for free materials will usually collect it themselves if it is already cut and rolled.",
+          "Sun-damaged turf behaves differently. The fibres turn pale or blue-tinged, the backing becomes brittle, and small plastic fragments break off when it is walked on or rolled. That material has no reuse value and should be removed carefully so the fragments do not spread across the garden or into drains.",
+          "If you are replacing the lawn, ask the installer whether lifting and taking away the old turf is included in the quote. Some include it, some charge extra, and some leave the rolls on site for the homeowner to deal with.",
+        ],
+      },
+      {
+        heading: "Lifting, cutting and rolling it",
+        content: [
+          "Work early in the morning in the warmer months; turf that has been in direct sun can be very hot to handle. Start along the edge, pulling out the U-pins or nails that hold it down. They are easy to miss in long pile and will catch on tools and gloves later if they are left in.",
+          "Cut the turf from the back with a sharp utility knife into strips about a metre wide, following any existing seams where the joining tape has failed. Roll each strip with the grass facing inward and wrap it with tape. A roll this size can usually be carried by two people.",
+          "Garden furniture, planters and play equipment will need moving first. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) and the [trampoline and outdoor play equipment guide](/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai) cover those items if they are leaving at the same time.",
+        ],
+      },
+      {
+        heading: "Separating the infill, pins and membrane",
+        content: [
+          "Most installations use an infill of silica sand, rubber crumb or a mix, brushed into the fibres to keep them upright. Over time it fills with dust and sand blown in from outside. Before rolling, brush or shake out as much as possible onto a tarpaulin; leaving it in makes each roll much heavier and messier to move.",
+          "Keep the infill apart from garden soil. Sand can sometimes be reused in the base for new turf or paving; rubber crumb should be bagged on its own. The pins and nails go with scrap metal, and the weed membrane underneath is a separate plastic sheet that is usually residual waste.",
+          "Under the membrane there is normally a compacted sand or crushed stone base. Decide before you start whether it stays for a new lawn, is replaced with soil and planting, or is removed entirely. Removing the base is heavier work than removing the turf and should be quoted separately.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Garden material sorted into separate bins for leaves, green cuttings, soil and broken pots, with bundled branches and fronds, while a worker measures a Dubai villa side gate",
+        },
+      },
+      {
+        heading: "Balcony turf in towers",
+        content: [
+          "Balcony grass is usually laid loose or taped rather than pinned, so it lifts more easily, but it brings its own problems. Sand and dust trapped in it will scatter through the apartment and corridor if it is rolled indoors without a cover, and the balcony drain should be checked afterwards for any infill that has washed in.",
+          "Rolls going down in a tower usually need the service lift and a booked slot, like any other bulky item. Wrap each roll in a sheet or bag so it does not shed in the corridor or lift.",
+        ],
+      },
+      {
+        heading: "Handover and the ground underneath",
+        content: [
+          "Tenants often install turf in a villa garden or on a balcony during a tenancy. Check the contract and agree with the landlord before you move out whether it stays or goes; turf that was there before you moved in may belong to the property. If it goes, the garden or balcony must usually be handed back clean and level.",
+          "The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) lists the other items tenants commonly need to remove. For general garden clear-ups with green waste, soil and pots, the [garden waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai) explains how to separate and stage each material for collection.",
+        ],
+      },
+      {
+        heading: "Arrange removal of the rolls",
+        content: [
+          "Our [garden waste removal service](/services/garden-waste-removal-dubai) lifts, cuts and rolls old turf and takes away the infill and membrane. When the turf is part of a wider move-out, the [villa clearance team](/services/villa-clearance-dubai) can clear the garden and the house in a single visit, including villa gardens in communities such as [The Springs](/areas/the-springs) and [DAMAC Hills](/areas/damac-hills).",
+          "[Send us photos of the lawn or balcony and the approximate area](/contact), and tell us whether the turf is already lifted. We will reply with a fixed price for the rolls and any base removal.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["the-springs", "damac-hills"],
+  },
+  {
     slug: "how-to-dispose-of-large-furniture-in-dubai",
     title: "How to Dispose of Old Furniture in Dubai Without Dumping It",
     seoTitle: "Old Furniture Disposal Dubai: 4 Responsible Options",
@@ -5117,7 +5398,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Keep the first stream for clean plant material: leaves, grass and ordinary pruning cuttings, subject to the collector's acceptance. Remove plastic plant labels, ties, irrigation tubing, packaging and loose litter while the pieces are visible. Sorting a compacted mixed sack later is much harder.",
           "The second stream is woody or awkward material such as thick branches, logs, roots and palm fronds. Show its dimensions and condition separately. A collector may handle it differently from grass or decline pieces that need specialist cutting equipment.",
-          "Put soil, sand, stones and broken pots in a third group. These are dense materials, so a small-looking pile can add considerable weight. The fourth group is garden equipment and other objects: hoses, lighting, furniture, artificial turf, timber structures and chemical containers.",
+          "Put soil, sand, stones and broken pots in a third group. These are dense materials, so a small-looking pile can add considerable weight. The fourth group is garden equipment and other objects: hoses, lighting, furniture, artificial turf, timber structures and chemical containers. Turf has its own infill and fixings to separate; the [artificial grass removal guide](/blog/how-to-dispose-of-old-artificial-grass-in-dubai) covers cutting and rolling it.",
         ],
         listItems: [
           "Leaves and grass: identify whether loose, damp or already contained.",
@@ -8265,7 +8546,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Navigating villa steps, elevator load limits and floor protection",
         content: [
           "In villa communities such as [Arabian Ranches](/areas/arabian-ranches) and [Emirates Hills](/areas/emirates-hills), moving a piano involves traversing entrance thresholds, outdoor steps, and polished marble or travertine tiles. The small brass or steel casters under an upright piano will crush marble tile edges and gouge wooden flooring instantly under hundreds of kilos of point pressure.",
-          "Trained crews lift the piano immediately onto a padded, wide-wheel dolly and lay 18-millimetre marine plywood sheets over indoor marble walkways to distribute weight evenly. For exterior steps, heavy-duty aluminium modular ramps are deployed to guide the instrument smoothly to ground level.",
+          "Trained crews lift the piano immediately onto a padded, wide-wheel dolly and lay 18-millimetre marine plywood sheets over indoor marble walkways to distribute weight evenly. For exterior steps, heavy-duty aluminium modular ramps are deployed to guide the instrument smoothly to ground level. Slate pool tables raise the same floor and stair questions, covered in the [pool table disposal guide](/blog/how-to-dispose-of-an-old-pool-table-in-dubai).",
           "In high-rise residential towers, verify the certified weight capacity of the service elevator (typically 630 kg or 1,000 kg). Always obtain a moving permit from building management in advance as outlined in our [junk removal permit guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai).",
         ],
       },
@@ -8541,7 +8822,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Residential renovations in communities like [Al Furjan](/areas/al-furjan) produce substantial quantities of specialized architectural scrap. During bathroom remodelling, copper water feed lines and brass mixer valves should be cut away cleanly from masonry rubble.",
           "Air conditioning retrofits yield aluminium condenser fins, steel compressor housings, and long copper refrigerant lines. Remember that AC components containing trapped freon gas cannot be scrapped until certified technicians evacuate the refrigerant into recovery cylinders as detailed in our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai).",
-          "For exterior villa clearances, metal shade pergola frames, chain-link fencing, and galvanized gate hardware should be disassembled into manageable lengths (under 2.5 metres) so they can be loaded safely into transport vehicles without overhanging tailgates.",
+          "For exterior villa clearances, metal shade pergola frames, chain-link fencing, and galvanized gate hardware should be disassembled into manageable lengths (under 2.5 metres) so they can be loaded safely into transport vehicles without overhanging tailgates. Old home safes are a dense steel item of their own; the [safe disposal guide](/blog/how-to-dispose-of-an-old-safe-in-dubai) explains how to open, unbolt and move one before it reaches the scrap yard.",
         ],
       },
       {
