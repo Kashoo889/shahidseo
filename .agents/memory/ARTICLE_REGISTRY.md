@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-14**
+Last synchronized: **2026-10-15**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -117,10 +117,14 @@ Canonical implementation: `data/blog.ts`
 | 110 | `how to dispose of an old safe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai` | 2026-10-14 | Published |
 | 111 | `how to dispose of an old pool table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai` | 2026-10-14 | Published |
 | 112 | `how to dispose of old artificial grass in dubai` | Informational | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` | 2026-10-14 | Published |
+| 113 | `how to dispose of an old water dispenser in dubai` | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` | 2026-10-15 | Published |
+| 114 | `how to dispose of an old kayak and paddleboard in dubai` | Informational | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai` | 2026-10-15 | Published |
+| 115 | `how to dispose of an old bicycle in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` | 2026-10-15 | Published |
 
 ## Current counts
 
-- Published: **112**
+- Published: **115**
+- Published on 2026-10-15: **3**
 - Published on 2026-10-14: **3**
 - Published on 2026-10-13: **3**
 - Published on 2026-10-12: **3**
@@ -129,8 +133,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **82**
-- Next approved supplemental priority: **None queued; the 2026-10-14 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **85**
+- Next approved supplemental priority: **None queued; the 2026-10-15 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-15 batch
+
+- The water dispenser guide owns the supplier-ownership check for rented or loaned dispensers, bottle deposit returns, draining the hot and cold tanks, and compressor-versus-thermoelectric routing. `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains fridges, freezers and AC refrigerant handling; `/blog/where-to-donate-and-recycle-appliances-in-dubai` retains general appliance donation. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/junk-removal-dubai`.
+- The kayak and paddleboard guide owns watertightness checks, hull material identification (polyethylene, composite, foam-core, inflatable PVC), long-hull lift and stair routes, cutting hulls into sections, and buoyancy-aid reuse limits. `/blog/how-to-dispose-of-old-camping-gear-in-dubai` retains tents, coolers and camping kit; `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains metal fittings. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/villa-clearance-dubai`.
+- The bicycle guide owns frame and wheel condition checks, children's and adult bike resale, tower bike-room and garage clear-outs, and the split into metal frame, tyres and parts, including carbon frames. `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` retains battery-powered bikes; `/blog/how-to-dispose-of-old-tyres-in-dubai` retains tyre recycling. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the appliance recycling, camping gear and electric scooter guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-15.md`.
 
 ## Cannibalization notes for 2026-10-14 batch
 

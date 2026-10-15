@@ -49,6 +49,260 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-water-dispenser-in-dubai",
+    title: "How to Dispose of an Old Water Dispenser in Dubai",
+    seoTitle: "Old Water Dispenser Disposal in Dubai: Drain, Return, Recycle",
+    excerpt:
+      "How to dispose of an old water dispenser in Dubai: check if the supplier owns it, return the bottles for your deposit, drain the tanks and route it as a cooling appliance.",
+    category: "Guides",
+    tags: ["Water Dispensers", "Water Coolers", "Appliances", "Bottle Deposits", "Dubai"],
+    coverImage: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+    coverImageAlt:
+      "Worker steadying a tall strapped refrigerator upright on a hand truck while colleagues stage a washing machine and crates of small appliances beside a truck at a Dubai loading bay",
+    publishedAt: "2026-10-15",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Check your water delivery account first. Many dispensers in Dubai homes and offices are on loan or rental from the supplier and have to go back, not out.",
+      "The large bottles usually carry a refundable deposit. Return them to the supplier before the dispenser leaves, or the deposit leaves with them.",
+      "Drain both tanks and let the hot tank cool completely. A dispenser tipped over with water inside will leak through the lift and into the truck.",
+      "A dispenser with a compressor contains refrigerant and should follow the cooling appliance route, not general waste.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old water dispenser in Dubai",
+        content: [
+          "To dispose of an old water dispenser in Dubai, first confirm whether you own it or whether it belongs to your water supplier. If it is yours, return the empty bottles for your deposit, unplug the unit, drain the hot and cold tanks through the rear drain plug, dry it and keep it upright. A working dispenser can be sold or donated; a broken one goes to an appliance recycler because compressor models contain refrigerant. Checked on 15/10/2026.",
+          "Water dispensers are in almost every Dubai apartment, villa and office, and most of them arrived with a delivery subscription rather than from a shop. That is why the first question is not how to get rid of it, but whose it is.",
+          "This guide covers the ownership check, the bottles, draining and the right recycling route, in the order that avoids paying for a unit you did not need to remove.",
+        ],
+        callout: {
+          title: "Look for a supplier sticker before booking anything",
+          text: "Dispensers supplied by a water company often carry a sticker, asset tag or serial label with the supplier's name. If you find one, call the supplier first. Disposing of their equipment can mean a charge on your account when you close it.",
+        },
+      },
+      {
+        heading: "Owned, rented or on loan: check the account first",
+        content: [
+          "Water companies in the UAE commonly supply dispensers in one of three ways: sold outright, rented monthly, or provided free while you keep ordering bottles. Your contract, invoice or app account will say which applies. If the dispenser is rented or on loan, the supplier normally collects it when you cancel the service.",
+          "Ask the supplier how they want it returned and in what state. Some ask for it to be drained and cleaned; some send a driver with the last delivery. Get the collection confirmed in writing or in the app so there is no disagreement later about missing equipment.",
+          "Offices should check their facilities contract too. Water dispensers, coffee machines and printers are often on the same managed-service agreement, and the [guide to clearing an office while staff keep working](/blog/how-to-clear-an-office-while-staff-work-dubai) explains how to separate rented equipment from the disposal list early.",
+        ],
+      },
+      {
+        heading: "Return the bottles and collect your deposit",
+        content: [
+          "The large refillable bottles are almost always the supplier's property, with a deposit paid when you first signed up. Count how many you have, including the empty ones in the store room or under the sink, and arrange for them to go back with the driver before you close the account.",
+          "Bottles that are damaged, discoloured or from a supplier you no longer use can be harder to return. Ask the original supplier anyway; if they refuse, clean empty bottles are rigid plastic and can go into the plastic recycling stream rather than general waste.",
+          "Do not leave full or part-full bottles behind at a rental handover. They are heavy, and an unopened bottle left in a hot store room for weeks is unlikely to be drinkable. The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers what else must leave before the keys go back.",
+        ],
+      },
+      {
+        heading: "Draining, cleaning and moving the unit",
+        content: [
+          "Switch off the hot and cold switches on the back and unplug the dispenser. Give the hot tank several hours to cool; the water inside can scald even after the power is off. Then remove the bottle, place a bucket or tray under the drain plug on the back, and let the cold and hot reservoirs empty fully. Run the taps until nothing comes out.",
+          "Wipe the drip tray and the bottle seat, leave the unit to dry for a day with the drain plug out, and then refit the plug. Dispensers that are passed on are much easier to sell when they are clean and dry; one with standing water and algae in the reservoir is not.",
+          "Move the dispenser upright. Compressor models carry oil in the compressor, and laying them flat for a long time can affect a unit that is going to be reused. A hand truck with a strap is enough for most units, and towers usually expect even a small appliance to use the service lift rather than the passenger lift.",
+        ],
+        image: {
+          src: "/images/blog/donate-old-appliances-dubai-hero.webp",
+          alt: "Collection crew member with a clipboard and a resident assessing a microwave, stand mixer, vacuum cleaner and washing machine for reuse in a Dubai high-rise apartment",
+        },
+      },
+      {
+        heading: "Selling, donating or recycling it",
+        content: [
+          "A clean working dispenser, particularly a bottom-load or hot-and-cold model, is easy to pass on. List it with the brand, the type of cooling, whether it takes a top-loaded or bottom-loaded bottle, and its age. Mention clearly that the bottles are not included if they belong to a supplier.",
+          "Broken dispensers are an appliance recycling job. Check the label: units with a compressor contain refrigerant and should be handled by a recycler that can recover it, the same route described in the [guide to fridges and AC units](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai). Thermoelectric units that cool with a small electronic plate have no refrigerant and can go with small electrical waste.",
+          "If other kitchen appliances are leaving at the same time, the [guide to donating and recycling appliances](/blog/where-to-donate-and-recycle-appliances-in-dubai) sets out which ones charities take and which go straight to recycling.",
+        ],
+      },
+      {
+        heading: "Arrange collection with other appliances",
+        content: [
+          "Our [appliance collection service](/services/appliance-removal-dubai) takes owned water dispensers and routes compressor units for refrigerant recovery. When the dispenser is one item in a wider apartment clear-out, our [general junk removal team](/services/junk-removal-dubai) can collect everything in one visit, including flats in [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) and villas in [Mirdif](/areas/mirdif).",
+          "[Send us a photo of the dispenser and its rating label](/contact), and let us know whether it is drained and whether you have checked with your water supplier. We will reply with a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "mirdif"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai",
+    title: "How to Dispose of an Old Kayak and Paddleboard in Dubai",
+    seoTitle: "Old Kayak and Paddleboard Disposal in Dubai: What Works",
+    excerpt:
+      "How to dispose of an old kayak or paddleboard in Dubai: judge if it can be sold, identify the hull material, deal with the length in towers and split the gear by route.",
+    category: "Guides",
+    tags: ["Kayaks", "Paddleboards", "Water Sports", "Bulky Items", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-junk-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Crew member carrying a wooden folding chair up an aluminium ramp into a collection truck loaded with folded frames, tools and boxes outside a Dubai villa",
+    publishedAt: "2026-10-15",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Length is the real problem. A kayak or hard paddleboard often will not fit a tower lift, so measure the lift and the route before anything else.",
+      "Find out what the hull is made of: rotomoulded plastic, fibreglass, epoxy over foam, or inflatable PVC. Each has a different end route.",
+      "Used kayaks and boards sell steadily in Dubai if they are watertight. Fix the listing, not the price: photos, length, weight and any repairs.",
+      "Strip the extras before collection. Paddles, pumps, seats, fins, leashes and life jackets usually find a second owner on their own.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old kayak and paddleboard in Dubai",
+        content: [
+          "To dispose of an old kayak or paddleboard in Dubai, first check whether it is still watertight and worth selling. If not, identify the hull material, strip off the seats, fins, paddles and other gear, and measure the length against your lift or stairs. Inflatable boards are deflated and rolled; hard kayaks and boards are collected whole as a bulky item, or cut into sections if they cannot get out of the building. Checked on 15/10/2026.",
+          "Kayaks and stand-up paddleboards are bought with good intentions for weekends at the beach or the creek, then spend years on a villa wall rack or behind a car in the garage. In this climate they also age quietly: the sun fades and weakens plastic and resin, and a board that looked fine in storage can fail the first time it goes back in the water.",
+          "This guide covers what to check, how to get a long, awkward hull out of a home, and what happens to each material once it leaves.",
+        ],
+        callout: {
+          title: "Measure before you promise a buyer",
+          text: "A three or four metre hull that came in through a villa garage door may have no clean way out of a tower flat. Measure the lift car diagonally, the corridor turns and the balcony door before you list it, so a buyer does not arrive to find it cannot leave.",
+        },
+      },
+      {
+        heading: "Can it be sold or given away?",
+        content: [
+          "Kayaks and boards that float, have no cracks and come with their fittings are worth listing. Buyers look for sun damage, soft spots on the deck, repaired cracks and leaks around the hatches and drain plugs. Fill a kayak with a little water on the driveway, or press firmly along a hard board's rails, and be honest about what you find.",
+          "Inflatable boards need to hold pressure overnight. If a board loses air, check the valve before assuming a seam has failed; a valve can often be tightened or replaced. A board with a delaminated seam rarely sells.",
+          "Sailing and paddling clubs, scout groups and schools sometimes take working equipment for training. Ask before delivering it, because most have limited storage and specific requirements. A complete set with paddles and buoyancy aids is far more likely to be accepted than a hull alone.",
+        ],
+      },
+      {
+        heading: "What the hull is made of matters",
+        content: [
+          "Most recreational kayaks are rotomoulded polyethylene: a single thick plastic shell, heavy and almost indestructible. Touring and sea kayaks may be fibreglass or composite, lighter and stiffer, with a gel coat finish. Hard paddleboards are usually epoxy or fibreglass over a foam core, and inflatable boards are layered PVC with drop-stitch fabric inside.",
+          "Look for a moulded label near the cockpit, under the deck pad or on the rear of the board. If there is none, weight is a clue: a heavy, slightly flexible hull is usually polyethylene; a light, rigid one with a glossy finish is usually composite.",
+          "This decides the end route. Large single-material polyethylene hulls can sometimes go to plastic recyclers that accept bulky rigid plastic. Composite hulls and foam-core boards combine materials that are hard to separate and generally go with residual bulky waste. Inflatable PVC is also residual once it can no longer hold air.",
+        ],
+      },
+      {
+        heading: "Getting a long hull out of a tower or villa",
+        content: [
+          "In towers, the service lift decides whether a hard kayak or board leaves whole. Measure the inside of the lift car from a bottom corner to the opposite top corner and compare it with the hull length. If it does not fit, tell building management in advance: some buildings allow long items down the stairwell with a crew, and others insist on a booked lift slot with protection on the walls.",
+          "Flats in [Dubai Marina](/areas/dubai-marina) and [Jumeirah Beach Residence](/areas/jumeirah-beach-residence) often keep boards on balconies or in storage cages, close to the water but far from the loading bay. Plan the route from the storage point, not just from the flat.",
+          "When a hull cannot leave whole and is not being reused, it can be cut into sections with a reciprocating saw. Polyethylene cuts cleanly; composite and foam-core boards release dust and fibres and should be cut outside, with a mask and gloves, or left to the collection crew.",
+        ],
+        image: {
+          src: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+          alt: "Crew supervisor measuring an armchair with a tape and tablet while workers stage boxes, timber and bags beside a loading truck under a Dubai tower entrance",
+        },
+      },
+      {
+        heading: "Separating the paddles, pumps and safety gear",
+        content: [
+          "Paddles, seats, fins, leashes, pumps, dry bags and roof-rack straps are worth more sold separately than thrown in with a damaged hull. Group them by item and photograph them together; a complete paddle and pump set sells quickly.",
+          "Life jackets and buoyancy aids should only be passed on if the foam is intact, the straps and buckles work and any label is still readable. Faded, torn or compressed buoyancy aids should not be reused for safety reasons and go with textile or residual waste.",
+          "Roof racks, kayak trolleys and wall brackets are mostly aluminium and steel. The [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains where metal fittings go, and the [camping gear guide](/blog/how-to-dispose-of-old-camping-gear-in-dubai) covers tents, coolers and other outdoor kit that often leaves the garage at the same time.",
+        ],
+      },
+      {
+        heading: "Book a collection for long and bulky items",
+        content: [
+          "Our [bulky item collection service](/services/bulky-item-removal-dubai) takes kayaks, hard and inflatable paddleboards and their fittings, including from balconies and storage cages. If the boards are part of a wider villa garage or home clear-out, the [villa clearance team](/services/villa-clearance-dubai) can take everything together.",
+          "[Send us photos of the kayak or board, its length and where it is stored](/contact), with any lift or stair details. We will reply with a fixed price and tell you whether it can leave in one piece.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-beach-residence"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-bicycle-in-dubai",
+    title: "How to Dispose of an Old Bicycle in Dubai",
+    seoTitle: "Old Bicycle Disposal in Dubai: Sell, Donate or Scrap It",
+    excerpt:
+      "How to dispose of an old bicycle in Dubai: decide between selling, donating and scrapping, clear bikes from tower bike rooms and separate the metal, tyres and parts.",
+    category: "Eco & Recycling",
+    tags: ["Bicycles", "Children's Bikes", "Scrap Metal", "Bike Rooms", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Couple sorting a Dubai villa garage into labelled donation, storage and removal groups, with bundled camping gear and stacked timber on the floor beside the open garage door",
+    publishedAt: "2026-10-15",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Most unwanted bicycles in Dubai are not broken, just outgrown or unused. A bike that rides, even with flat tyres, is usually worth passing on.",
+      "Check the frame before anything else. A cracked frame or a rusted-through chainstay makes the bike scrap, whatever the price of the parts.",
+      "Bikes left in tower bike rooms and villa garages for years are a common clear-out item. Tag and claim your own before management removes unlabelled ones.",
+      "Scrapped bikes split into steel or aluminium, rubber tyres and inner tubes, and small parts. Carbon frames are not accepted by most scrap yards.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old bicycle in Dubai",
+        content: [
+          "To dispose of an old bicycle in Dubai, first decide whether it still has a use: a bike that rides, or only needs tyres and a chain, can be sold or donated. A bike with a cracked frame or heavy rust is scrap. Remove the lights, computer, lock and any battery, then either send the frame to a metal recycler or book it with a bulky collection. Electric bikes follow a separate battery route. Checked on 15/10/2026.",
+          "Bicycles pile up in Dubai homes in a particular way. Children outgrow them every couple of years, adults buy one for the cooler months and stop using it, and the bikes move from the balcony to the bike room to the back of the garage. By the time anyone looks at them, the tyres are flat and the chain is rusted, which makes them look worse than they are.",
+          "This guide covers how to judge what you have, where it can go, and how to clear several bikes from a building or villa at once.",
+        ],
+        callout: {
+          title: "Flat tyres do not make it junk",
+          text: "Tyres and inner tubes perish in the heat whether a bike is used or not. A bike with flat or cracked tyres but a straight frame and turning wheels usually needs only inexpensive parts to ride again, and buyers and donation groups know it.",
+        },
+      },
+      {
+        heading: "Ride, repair or scrap: judging the bike",
+        content: [
+          "Check the frame first. Look closely at the joints around the seat, the pedals and the front fork for cracks, and at the thin rear tubes for rust that has eaten through the paint and into the metal. A cracked or badly rusted frame is not safe to ride and should be scrapped.",
+          "Then spin each wheel. A wheel that wobbles a little can be trued; a bent rim or broken spokes adds cost. Squeeze the brakes and turn the pedals backwards to see whether the chain moves smoothly. Seized chains and rusted cables are cheap to replace, but they make a bike look neglected in photos, so mention them in a listing.",
+          "If you are unsure, a bike shop can tell you quickly whether a repair is worth it. Some shops accept older bikes in part exchange or for parts, particularly decent-quality adult bikes, but this varies by shop and is never guaranteed.",
+        ],
+      },
+      {
+        heading: "Selling or donating a bike that still rides",
+        content: [
+          "Children's bikes are the easiest to pass on because they are outgrown long before they wear out. List them with the wheel size, the approximate age range, and whether stabilisers or a helmet are included. Adult bikes sell best with the frame size, the brand and clear photos of the gears and brakes.",
+          "Community groups, schools and charities sometimes take working bikes, especially children's bikes. Ask first: many have limited storage and want bikes that are roadworthy rather than ones that need repairs. The [guide to baby and children's items](/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai) covers helmets, seats and other children's equipment that often leaves at the same time.",
+          "If you are clearing an electric bike or scooter, do not treat it as an ordinary bicycle. The battery needs its own route, explained in the [electric scooter and e-bike guide](/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai).",
+        ],
+      },
+      {
+        heading: "Clearing bikes from bike rooms and villa garages",
+        content: [
+          "Many towers have a shared bike room or bike racks in the car park, and most of them hold bikes that nobody has touched in years. Building management in some communities periodically asks residents to tag their bikes and then removes unclaimed ones. If yours is in a shared store, label it with your unit number and decide whether to keep it before that happens.",
+          "Moving out is the moment most bikes get forgotten. Remove locks, check the storage cage and the car park, and include the bikes in your move-out list. Apartments in communities such as [Al Furjan](/areas/al-furjan) and villas in [Arabian Ranches](/areas/arabian-ranches) are typical places where a family has three or four bikes of different sizes stored in one corner.",
+          "Most bikes fit in a service lift standing on the rear wheel. Turn the handlebars sideways and lower the seat, or remove the front wheel with the quick release. For several bikes, bundle wheels with tape so the crew can carry them in fewer trips.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Recovery worker with a tablet checking racks of metal frames beside cages of fabric and foam, glass panels and stacked timber at a Dubai sorting warehouse",
+        },
+      },
+      {
+        heading: "Scrapping a bike: what each part becomes",
+        content: [
+          "Most bike frames are steel or aluminium, both recoverable as scrap metal. The [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains how ferrous and non-ferrous metal is weighed and recovered in Dubai; a magnet tells you which you have, since it sticks to steel but not aluminium.",
+          "Tyres and inner tubes are rubber and come off before the frame goes for scrap. They are not accepted with metal, and the [tyre disposal guide](/blog/how-to-dispose-of-old-tyres-in-dubai) explains why rubber goes through its own stream. Plastic mudguards, saddles and grips are mixed material and usually end up as residual waste.",
+          "Carbon fibre frames are different. They cannot be melted down with metal, so most scrap yards will not accept them. A damaged carbon frame goes with residual bulky waste, but a working carbon bike is often worth selling even when it is old.",
+        ],
+        listItems: [
+          "Lights, bike computers and bells with batteries: remove them and take the batteries to a battery drop-off point.",
+          "Locks and chains: keep or sell them; a lock left on a scrap frame slows the crew down.",
+          "Child seats, trailers and baskets: list them separately; they are often wanted on their own.",
+        ],
+      },
+      {
+        heading: "Book a pickup for one bike or several",
+        content: [
+          "Our [general junk removal service](/services/junk-removal-dubai) collects single bikes and whole bike rooms, and separates frames, tyres and parts for recovery. When the bikes are leaving with the contents of a home, the [house clearance team](/services/house-clearance-dubai) can take them in the same visit.",
+          "[Send us a photo of the bikes and tell us where they are stored](/contact), whether in a flat, a storage cage or a villa garage. We will send a fixed price for the collection.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["al-furjan", "arabian-ranches"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-safe-in-dubai",
     title: "How to Dispose of an Old Safe in Dubai",
     seoTitle: "Old Safe Disposal in Dubai: Unlock, Unbolt and Move It",
@@ -4853,7 +5107,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Use this route-by-type appliance decision guide",
         content: [
           "Large white goods without refrigerant—such as many washing machines, dryers, dishwashers and cookers—usually need a booked bulky collection or an appliance-recycling route. Drain water, remove loose racks or trays and state whether utilities are disconnected. A mover should not guess whether a fixed electrical, gas or plumbing connection is safe to release.",
-          "Cooling appliances, including refrigerators, freezers, water coolers and air-conditioning equipment, need a route that understands refrigerant and compressor oil. Keep the cabinet upright where practicable, secure doors for transport and do not pierce the system. AC disconnection and refrigerant recovery are jobs for appropriately qualified technicians.",
+          "Cooling appliances, including refrigerators, freezers, water coolers and air-conditioning equipment, need a route that understands refrigerant and compressor oil. Keep the cabinet upright where practicable, secure doors for transport and do not pierce the system. The [water dispenser guide](/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai) covers the supplier and bottle-deposit checks that apply to water coolers before they leave. AC disconnection and refrigerant recovery are jobs for appropriately qualified technicians.",
         ],
         listItems: [
           "Televisions, computers, routers and smart devices: use an e-waste route and remove personal data or accounts before handover.",
@@ -7884,7 +8138,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Plan the pickup around garage and building access",
         content: [
-          "Villa garages in [Arabian Ranches](/areas/arabian-ranches) often hold camping equipment behind tools, bicycles and seasonal furniture. Bring the approved gear to one shaded staging zone without blocking the car or exit, and register the collection vehicle with community security where required.",
+          "Villa garages in [Arabian Ranches](/areas/arabian-ranches) often hold camping equipment behind tools, bicycles and seasonal furniture. Bring the approved gear to one shaded staging zone without blocking the car or exit, and register the collection vehicle with community security where required. Kayaks and paddleboards stored on the same garage wall have their own length and material issues, covered in the [kayak and paddleboard guide](/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai).",
           "Apartments around [Dubai Sports City](/areas/dubai-sports-city) may store gear in balcony cabinets or basement lockers. Check the tenancy or storage rules, reserve the service lift for larger coolers and tables, and keep fuel items outside the general building collection until their supplier route is confirmed.",
           "A small set of reusable gear is easy to hand over yourself. For a full garage or storeroom, our [house-clearance service](/services/house-clearance-dubai) can remove the accepted household and outdoor items, while the [bulky-item service](/services/bulky-item-removal-dubai) handles heavy tables, coolers and broken furniture after controlled items are separated.",
         ],
@@ -10033,7 +10287,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Arrange collection with the right details",
         content: [
           "Tell us the make and model, whether the battery is removable or built in, and whether there is any swelling, damage or water exposure. Add a photo of the battery area. If the scooter is part of a wider clear-out, list the other items so they can be loaded safely apart.",
-          "Our [general junk removal service](/services/junk-removal-dubai) collects intact electric scooters and e-bikes and routes them for reuse or lithium-ion recycling. When the scooter leaves with gym equipment, bicycles or other large items, the [bulky item removal service](/services/bulky-item-removal-dubai) can quote the whole load together.",
+          "Our [general junk removal service](/services/junk-removal-dubai) collects intact electric scooters and e-bikes and routes them for reuse or lithium-ion recycling. When the scooter leaves with gym equipment, bicycles or other large items, the [bulky item removal service](/services/bulky-item-removal-dubai) can quote the whole load together. Ordinary pedal bikes without a battery are simpler; the [bicycle disposal guide](/blog/how-to-dispose-of-an-old-bicycle-in-dubai) explains how to sell, donate or scrap them.",
           "[Message us the details and photos](/contact). If the battery is damaged, we will tell you honestly whether we can carry it or whether a specialist battery handler is the safer route.",
         ],
       },

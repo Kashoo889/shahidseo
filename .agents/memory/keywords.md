@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 310
+**Total Target Keywords**: 313
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-15
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old water dispenser in dubai` | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old kayak and paddleboard in dubai` | Informational | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old bicycle in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the water dispenser guide owns supplier ownership, bottle deposits, draining and compressor routing; the fridge/AC and appliance donation guides retain refrigerant appliances and general donation. The kayak and paddleboard guide owns hull materials, long-hull access and buoyancy aids; the camping gear and scrap metal guides retain camping kit and metal fittings. The bicycle guide owns frame checks, bike rooms and frame/tyre separation; the e-scooter and tyre guides retain batteries and tyre recycling. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-14
 
