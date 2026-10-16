@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-15**
+Last synchronized: **2026-10-16**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -120,10 +120,14 @@ Canonical implementation: `data/blog.ts`
 | 113 | `how to dispose of an old water dispenser in dubai` | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` | 2026-10-15 | Published |
 | 114 | `how to dispose of an old kayak and paddleboard in dubai` | Informational | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai` | 2026-10-15 | Published |
 | 115 | `how to dispose of an old bicycle in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` | 2026-10-15 | Published |
+| 116 | `how to dispose of an old lawn mower in dubai` | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` | 2026-10-16 | Published |
+| 117 | `how to dispose of old swimming pool equipment in dubai` | Informational | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` | 2026-10-16 | Published |
+| 118 | `how to dispose of old golf clubs and bags in dubai` | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai` | 2026-10-16 | Published |
 
 ## Current counts
 
-- Published: **115**
+- Published: **118**
+- Published on 2026-10-16: **3**
 - Published on 2026-10-15: **3**
 - Published on 2026-10-14: **3**
 - Published on 2026-10-13: **3**
@@ -133,8 +137,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **85**
-- Next approved supplemental priority: **None queued; the 2026-10-15 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **88**
+- Next approved supplemental priority: **None queued; the 2026-10-16 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-16 batch
+
+- The lawn mower guide owns engine fuel and crankcase oil drainage, sharp rotary blade containment, lithium battery pack isolation, and metal deck/copper motor winding recycling. `/blog/how-to-dispose-of-garden-waste-in-dubai` retains green horticultural and plant waste; `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains general structural metal; `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` retains transport vehicles and traction batteries. Commercial intent stays with `/services/garden-waste-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The swimming pool equipment guide owns residential pool pump electrical isolation, heavy wet silica sand filter emptying, salt chlorinator titanium cell safety, and pool heat pump/chiller refrigerant recovery. `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains domestic refrigerators and split AC systems; `/blog/how-to-dispose-of-an-old-water-heater-in-dubai` retains domestic water boilers; `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` retains indoor ornamental aquariums. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/villa-clearance-dubai`.
+- The golf equipment guide owns club condition appraisal, junior golf academy and driving range donation, graphite shaft splinter containment, clubhead scrap metal triage, and electric trolley battery separation. `/blog/how-to-dispose-of-home-gym-equipment-dubai` retains fitness and gym machinery; `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` retains travel suitcases; `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` retains pedal bicycles. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the garden waste, water heater and home gym equipment guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-16.md`.
 
 ## Cannibalization notes for 2026-10-15 batch
 

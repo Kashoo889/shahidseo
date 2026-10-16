@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 313
+**Total Target Keywords**: 316
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-16
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old lawn mower in dubai` | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old swimming pool equipment in dubai` | Informational | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old golf clubs and bags in dubai` | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the lawn mower guide owns engine fuel and oil drainage, sharp rotary blade containment, lithium battery pack removal, and metal deck/copper winding recycling; the garden waste, scrap metal and e-bike guides retain plant cuttings, structural scrap and transport vehicles. The swimming pool equipment guide owns residential pool pump electrical isolation, heavy wet silica sand filter emptying, salt chlorinator titanium cell safety, and pool heat pump/chiller refrigerant recovery; the fridge/AC, water heater and aquarium guides retain domestic fridges, boilers and indoor fish tanks. The golf equipment guide owns club condition appraisal, junior golf academy and driving range donation, graphite shaft splinter containment, clubhead scrap metal triage, and electric trolley battery separation; the home gym, luggage and bicycle guides retain fitness machines, suitcases and pedal bikes. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-15
 

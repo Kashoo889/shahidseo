@@ -49,6 +49,255 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-lawn-mower-in-dubai",
+    title: "How to Dispose of an Old Lawn Mower in Dubai",
+    seoTitle: "Old Lawn Mower Disposal in Dubai: Drain, Disconnect, Recycle",
+    excerpt:
+      "How to dispose of an old lawn mower in Dubai: drain petrol and oil safely, disconnect lithium batteries, contain sharp blades and separate scrap metal from e-waste.",
+    category: "Eco & Recycling",
+    tags: ["Lawn Mowers", "Garden Tools", "Hazardous Waste", "Scrap Metal", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Collection crew in safety vests staging garden tools, bagged cuttings and outdoor equipment on an access driveway beside a villa wall in Dubai",
+    publishedAt: "2026-10-16",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Drain every drop of fuel and motor oil before collection. Petrol fumes trapped in an enclosed truck bed under Dubai summer heat are an acute fire risk.",
+      "Cordless mowers run on heavy lithium-ion batteries. Eject and tape the terminals so the pack goes to dedicated battery recycling, not general scrap.",
+      "Sharp rotary blades must be taped or boxed. Loose mower blades can slash bags, damage vehicle flooring and cause severe puncture injuries during loading.",
+      "Steel and aluminium mower decks, tubular handles and copper electric motor windings belong in metal recovery, diverting heavy industrial material from landfills.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old lawn mower in Dubai",
+        content: [
+          "To dispose of an old lawn mower in Dubai, first empty all petrol from the fuel tank and drain the crankcase oil if it is a fuel-powered model, or disconnect and isolate the lithium-ion battery pack if it is cordless. Wrap the cutting blade in heavy cardboard or tape, fold the push handle, and route the metal chassis to a certified scrap recycler or book a licensed bulky waste collection. Checked on 16/10/2026.",
+          "Villa gardens in Dubai require serious maintenance through winter and constant irrigation during summer. Many residents in communities like [The Springs](/areas/the-springs) or [Arabian Ranches](/areas/arabian-ranches) invest in push mowers, only to switch later to artificial turf, automated landscaping contracts, or desert xeriscaping. The discarded mower often sits in a shaded side alley or garden shed, where Dubai's intense ambient heat degrades fuel lines and seizes engine pistons.",
+          "Because a lawn mower combines mechanical cutting parts, flammable fluids, electrical components, and heavy structural metals, getting rid of one requires a systematic preparation process before it can leave your property.",
+        ],
+        callout: {
+          title: "Never leave fuel inside a stored or collected mower",
+          text: "Dubai summer temperatures regularly exceed 45°C. Stale petrol trapped inside a mower tank evaporates rapidly, generating flammable pressurized fumes. Always siphon or run the engine dry outdoors before staging the machine for pickup.",
+        },
+      },
+      {
+        heading: "Petrol, corded electric, or battery: know your mower type",
+        content: [
+          "Understanding your mower's powertrain dictates the disposal and recycling route. Four-stroke petrol mowers contain separate reservoirs for fuel and crankcase lubricating oil. Both fluids must be drained into sealable containers; leaving either fluid inside means standard collection trucks cannot legally transport the machine because it violates municipal transport safety codes.",
+          "Corded electric mowers are far simpler. They contain no combustible fluids, but house a powerful copper-wound electric induction motor and a long rubberized power lead. These units are classified as electrical waste (e-waste) and scrap metal rather than general bulky junk.",
+          "Cordless battery mowers present a specific chemical hazard. The rechargeable lithium-ion battery pack—often rated between 36V and 80V—must be detached from the mower chassis. Lithium packs can experience thermal runaway if crushed inside a compaction vehicle. Cover the terminal contacts with electrical tape and hand the battery over separately.",
+        ],
+      },
+      {
+        heading: "Draining fuel, oil, and immobilizing blades safely",
+        content: [
+          "To drain a petrol mower, move the machine onto an outdoor paved area away from direct sunlight and open ignition sources. Use a hand siphon pump to transfer petrol from the tank into an approved fuel canister. Start the engine and let it run at idle until it exhausts the fuel in the carburetor bowl and shuts off naturally.",
+          "Locate the crankcase drain plug on the underside of the engine, or tip the mower slightly over an oil drain pan if the model uses a top-fill siphon tube. Pour used motor oil into a sealed plastic container. Never dump engine oil into storm drains, sandy soil, or domestic waste bins in Dubai, as doing so carries hefty municipal environmental fines.",
+          "Inspect the rotary cutting blade beneath the deck. Disconnect the spark plug boot first so the engine cannot accidentally start if the blade turns. Wrap heavy corrugated cardboard along the entire cutting edge and secure it firmly with duct tape so handling crews cannot cut their hands when lifting the chassis into the truck.",
+        ],
+      },
+      {
+        heading: "Villa access, side gates, and community staging",
+        content: [
+          "Lawn mowers are bulky and cumbersome. Moving one from a rear lawn to a collection truck means navigating side service corridors, garden stepping stones, and narrow villa gates. Folding the upper handle assembly down against the mower deck cuts the machine's footprint in half and makes transit through garden gates effortless.",
+          "If the mower has flat pneumatic tyres or broken plastic wheels, avoid dragging the heavy metal cutting deck across decorative stone tiling or interlocking driveway pavers, which will leave permanent scrape marks. Two crew members using a two-person carry or a heavy-duty pneumatic hand truck can transport the machine cleanly without surface contact.",
+          "In gated master communities, collection vehicles must register at security control points. Ensure you schedule your pickup during authorized contractor operating hours and notify security if your community requires an entry permit.",
+        ],
+        image: {
+          src: "/images/blog/battery-inspection-swollen-safety-dubai.webp",
+          alt: "Technician in protective gloves closely inspecting rechargeable battery casing, electrical contacts and warning label at a Dubai disposal workstation",
+        },
+      },
+      {
+        heading: "Separating attachments, trimmers, and scrap metal streams",
+        content: [
+          "Remove the grass collection bag or catcher box before collection. Rigid plastic collection boxes can be washed and routed with bulky rigid plastics, whereas porous nylon fabric catchers often go into residual waste streams if contaminated with decayed grass mould.",
+          "If you are clearing out an entire garden shed or tool store, group accompanying equipment together. Petrol weed whackers, cordless hedge trimmers, leaf blowers, and pressure washers follow the exact same fluid-draining and battery-isolation protocols. The [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) details safe handling for spent power-tool cells.",
+          "At authorized recycling facilities, drained mower bodies are dismantled with hydraulic shears. The pressed steel or cast aluminium chassis is separated for secondary smelting, while copper wire is recovered from the electric starter and motor assemblies, aligning with the sorting principles in our [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai). Discarded green trimmings should be handled separately via our [garden waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai), while synthetic turf conversions follow the [artificial grass disposal guide](/blog/how-to-dispose-of-old-artificial-grass-in-dubai).",
+        ],
+      },
+      {
+        heading: "Book a garden machinery and tool collection",
+        content: [
+          "Our dedicated [garden waste removal service](/services/garden-waste-removal-dubai) and [bulky item removal service](/services/bulky-item-removal-dubai) collect petrol mowers, electric garden machinery, and heavy outdoor equipment from homes across Dubai, including villas in [Arabian Ranches](/areas/arabian-ranches) and townhouses in [The Springs](/areas/the-springs).",
+          "[Send us a photo of the mower and garden equipment on WhatsApp](/contact) with your villa community and state whether fuel has been drained. We will provide an upfront fixed quote and arrange safe, punctual collection.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "how-to-dispose-of-old-swimming-pool-equipment-in-dubai",
+    title: "How to Dispose of Old Swimming Pool Equipment in Dubai",
+    seoTitle: "Old Swimming Pool Equipment Disposal in Dubai: Pumps, Filters, Chillers",
+    excerpt:
+      "How to dispose of old swimming pool equipment in Dubai: drain pumps, empty sand filters, recover chiller refrigerants and separate titanium cells from bulky scrap.",
+    category: "Guides",
+    tags: ["Swimming Pools", "Pool Pumps", "Sand Filters", "Bulky Items", "Dubai"],
+    coverImage: "/images/blog/curbside-bulky-waste-pickup-villa-dubai.webp",
+    coverImageAlt:
+      "Staged bulky household items and outdoor equipment arranged neatly beside a villa boundary wall and access gate for collection in Dubai",
+    publishedAt: "2026-10-16",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Empty silica sand or glass media from filter vessels before collection. Saturated filter media can make a standard domestic sand filter weigh over 150 kg.",
+      "Pool heat pumps and water chillers contain fluorinated refrigerants and compressors that legally require certified recovery before recycling.",
+      "Isolate high-voltage 220V/380V electrical feeds at the sub-panel and unscrew drain plugs from pump housings to prevent water leakage during transport.",
+      "Salt chlorinator cells contain titanium electrode plates coated with precious metals; separate them from PVC pipework for specialist metals recovery.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old swimming pool equipment in Dubai",
+        content: [
+          "To dispose of old swimming pool equipment in Dubai, shut off electrical breakers, drain all residual water from pump strainers and filter housings, and scoop out heavy silica sand or glass media from filter tanks before moving them. Pool heat pumps and water chillers must have their refrigerant gas safely evacuated by a certified technician, while pump motors and titanium chlorinator cells are separated for scrap metal recovery. Checked on 16/10/2026.",
+          "Private swimming pools are a defining feature of luxury villa life across [Palm Jumeirah](/areas/palm-jumeirah), [Emirates Hills](/areas/emirates-hills), and Al Barari. However, Dubai's scorching summer sun, high humidity, and aggressive chlorinated or saline water take a heavy toll on pool plant equipment. Pumps seize, sand filters crack along seams, and older pool chillers fail after years of round-the-clock cooling.",
+          "Replacing or decommissioning a swimming pool plant creates awkward, intensely heavy waste that municipal curbside bins will not accept. Understanding how to decommission and route each component prevents property damage, personal injury, and environmental non-compliance.",
+        ],
+        callout: {
+          title: "Never attempt to lift a loaded sand filter",
+          text: "A domestic sand filter typically holds between 75 kg and 200 kg of water-saturated filter sand. Lifting a loaded filter vessel will crack the composite shell, damage internal laterals, and cause serious spinal strain. The filter media must be removed on site before transport.",
+        },
+      },
+      {
+        heading: "Triage your pool equipment: pumps, filters, and chillers",
+        content: [
+          "Swimming pool plant rooms house multiple interconnected electrical and hydraulic systems. Circulation pumps consist of a high-power electric motor coupled to a plastic impeller housing. When disconnected, the copper windings within the motor stator represent high-value non-ferrous recyclable metal.",
+          "Sand and cartridge filter tanks are constructed from wound fiberglass or heavy molded polyethylene engineered to withstand high hydraulic pressure. While cartridge filters only require removing the pleated paper element, sand filters require emptying the dense granular bed. Empty composite vessels are categorized as non-compactable bulky composite waste.",
+          "Pool heat pumps and reverse-cycle chillers operate identically to large commercial air conditioners. They house heavy rotary or scroll compressors, copper condenser coils, titanium heat exchangers, and fluorinated refrigerants such as R410A or R32. These units cannot be broken down by scrap handlers until refrigerant gases have been professionally recovered.",
+        ],
+      },
+      {
+        heading: "Emptying sand filters and recovering chiller refrigerant",
+        content: [
+          "To empty a sand filter, first isolate all pool valves and unthread the bottom drain cap to let standing water seep out. Unscrew the top multi-port valve assembly carefully to expose the sand bed inside. Using a wet-and-dry vacuum or a plastic hand scoop, extract the wet silica sand or recycled glass media into durable construction rubble bags, filling each bag only halfway to keep weights manageable.",
+          "Do not flush old filter sand down villa garden drainage gullies or sewer inspection chambers. Silica sand settles rapidly, creating concrete-like pipe blockages that require expensive municipal drain jetting. Bagged sand can be routed as inert mineral waste.",
+          "For pool chillers and heat pumps, hire a qualified HVAC technician or request professional recovery. Puncturing chiller coils or venting refrigerant into the atmosphere violates UAE federal environmental protection laws. Once evacuated and certified, the chiller chassis can be safely dismantled into clean copper, aluminium, and sheet steel.",
+        ],
+      },
+      {
+        heading: "Plant room access and safe transport from villas",
+        content: [
+          "In many Dubai villas, pool equipment is tucked into sunken subterranean plant pits, narrow side setbacks behind service walls, or purpose-built acoustic masonry enclosures. Extracting a 40 kg pool pump or a 60 kg empty filter shell from a sunken pit requires two workers with heavy-duty lifting straps to hoist the equipment vertically without damaging surrounding pool coping or limestone cladding.",
+          "Ensure pump volute drain plugs are removed several hours before pickup. Residual chlorinated water trapped inside pump wet-ends will slosh out across floor tiles, stairways, and truck beds during transit, creating slip hazards and bleach-staining surfaces.",
+          "Stage disconnected equipment near the villa driveway or service gate so collection teams can load directly onto tail-lift vehicles without traversing manicured lawns or delicate garden flowerbeds.",
+        ],
+        image: {
+          src: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+          alt: "Heavy cooling appliances and electrical units strapped upright on a hand truck beside sorted metal and motor machinery at a Dubai loading bay",
+        },
+      },
+      {
+        heading: "Recycling pool materials: copper, titanium, and rigid composites",
+        content: [
+          "Pool plant equipment yields exceptional materials recovery when properly segregated. Electric pump motors are stripped down by certified recyclers to extract pure copper stators, cast iron brackets, and stainless steel rotor shafts, similar to the process outlined in our [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai).",
+          "Salt chlorinators contain electrolytic cells made of solid titanium plates coated with ruthenium or iridium oxide. These high-grade catalytic metals should never be discarded in general waste; specialized e-scrap recyclers recover the titanium for metallurgical reuse.",
+          "Plastic PVC piping, valves, and chemical dosing tanks must be rinsed free of corrosive chlorine bleach or pH-adjusting acid before recycling. For related utility decommissioning, consult our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) for refrigerant recovery protocols, our [water heater disposal guide](/blog/how-to-dispose-of-an-old-water-heater-in-dubai) for pressure vessels, and our [patio and outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) for poolside loungers and shading.",
+        ],
+      },
+      {
+        heading: "Book a professional pool plant cleanout",
+        content: [
+          "Our specialized [bulky item removal service](/services/bulky-item-removal-dubai) and full [villa clearance service](/services/villa-clearance-dubai) handle heavy swimming pool machinery, drained sand filters, seized pumps, and dismantled pool chillers across Dubai, including private estates on [Palm Jumeirah](/areas/palm-jumeirah) and [Emirates Hills](/areas/emirates-hills).",
+          "[Contact our team on WhatsApp with photos of your pool plant setup](/contact). Let us know whether the equipment is disconnected and drained, and we will provide an upfront, fixed-rate quote with complete clearance included.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["palm-jumeirah", "emirates-hills"],
+  },
+  {
+    slug: "how-to-dispose-of-old-golf-clubs-and-bags-in-dubai",
+    title: "How to Dispose of Old Golf Clubs and Bags in Dubai",
+    seoTitle: "Old Golf Clubs and Bags Disposal in Dubai: Sell, Donate, Recycle",
+    excerpt:
+      "How to dispose of old golf clubs and bags in Dubai: appraise club condition, donate to academies, separate steel from graphite shafts and isolate trolley batteries.",
+    category: "Guides",
+    tags: ["Golf Clubs", "Golf Bags", "Sports Equipment", "Scrap Metal", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Organized villa garage in Dubai with sports bags, storage boxes and household equipment arranged into labelled donation and recycling piles",
+    publishedAt: "2026-10-16",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Appraise clubs before discarding. Name-brand iron sets, wedges and drivers in playable condition sell quickly or find grateful recipients in local youth academies.",
+      "Distinguish steel shafts from graphite shafts. Steel shafts are easily recycled with scrap metals, while snapped graphite shafts create hazardous carbon splinter risks.",
+      "Motorized electric golf trolleys contain rechargeable batteries. The lithium-ion or sealed lead-acid battery must be unclipped and routed to dedicated battery disposal.",
+      "Golf bags with seized zips or heat-damaged synthetic leather can be stripped of metal towel clips, carabiners and umbrella holders before disposal.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old golf clubs and bags in Dubai",
+        content: [
+          "To dispose of old golf clubs and bags in Dubai, first inspect the clubheads, grooves, and shafts to determine whether the set can be sold or donated to local junior development programmes. If the clubs are damaged or unplayable, empty all balls and accessories from bag pockets, decouple any electric trolley battery, and separate steel shafts and clubheads for scrap metal recovery. Intact graphite shafts should be routed as bulky items rather than snapped. Checked on 16/10/2026.",
+          "With world-renowned championship golf courses weaving through communities like [Jumeirah Golf Estates](/areas/jumeirah-golf-estates), Emirates Hills, and [Dubai Hills Estate](/areas/dubai-hills-estate), golf is a fixture of expat life in Dubai. When players upgrade to newer custom-fit equipment, or when families relocate internationally, old golf bags, cart setups, and mismatched irons are frequently left behind in villa garages and apartment storage cages.",
+          "Golf gear combines expensive precision metals, advanced carbon composites, vulcanized rubber grips, and heavy synthetic fabrics. Disposing of golf equipment responsibly means diverting reusable sets to emerging golfers and directing scrap materials to appropriate recycling facilities.",
+        ],
+        callout: {
+          title: "Never deliberately snap graphite golf shafts",
+          text: "Attempting to snap graphite shafts across your knee to fit them into small bins releases fine, airborne carbon-fiber dust and creates needle-sharp jagged shards that easily penetrate skin and eyes. Keep graphite shafts intact for collection.",
+        },
+      },
+      {
+        heading: "Assessing your golf gear: playable set vs scrap",
+        content: [
+          "Before treating golf equipment as junk, evaluate whether it retains functional value. Check the clubheads for severe structural cracks, deep sole gouges, or loose hosels where the head attaches to the shaft. Forged carbon steel irons and titanium driver heads that have only cosmetic surface scuffs can be polished and reused for years.",
+          "Inspect the shafts carefully. Chrome steel shafts showing minor surface rust can often be restored with fine wire wool, but deeply pitted steel or bent shafts cannot be safely straightened and must be scrapped. On graphite shafts, check for longitudinal hair fractures or rub marks from bag dividers; a cracked graphite shaft will splinter violently upon ball impact.",
+          "A complete matching set of irons from recognizable brands carries solid resale demand on local Dubai secondhand classifieds and expat community groups. Even older sets from the 2000s or 2010s serve as perfect starter kits for newcomers taking introductory lessons.",
+        ],
+      },
+      {
+        heading: "Donating clubs to junior academies and charities in Dubai",
+        content: [
+          "Junior golf academies, driving ranges, and school sports programs across the UAE frequently welcome donated clubs, especially shorter junior sets, flexible ladies' clubs, and forgiving cavity-back irons. Community coaches often use spare irons and putters to introduce underprivileged youths to the game without upfront equipment costs.",
+          "When donating, ensure the grips are reasonably clean and not crumbling into sticky rubber residue. Wipe down clubheads and bundle the set into a functional bag so it is ready for immediate handover. Include any surplus practice balls, tees, and pitch-mark repair tools stored in the bag compartments.",
+          "If the bag itself is mouldy from storage in humid outdoor sheds, or if the zips have permanently corroded from coastal salt air in beachfront villas, discard the damaged bag and bundle the clubs using heavy rubber bands or packing stretch wrap for the recipient.",
+        ],
+      },
+      {
+        heading: "Electric trolleys, lithium batteries, and heavy tour bags",
+        content: [
+          "Motorized electric caddies and push carts are common across Dubai's golf communities. If an electric trolley has failed, unclip the rechargeable battery before collection. Older trolleys utilize heavy sealed lead-acid (SLA) batteries, while modern units use compact lithium-ion packs. Both battery types pose severe environmental and fire risks if compacted in general waste and must be handled via our [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai).",
+          "Dismantle folding push trolleys by releasing hinge clamps and removing umbrella holders and scorecard consoles. Aluminium push-trolley frames can be folded flat and routed directly to metal recycling.",
+          "Tour staff bags made from heavy polyurethane or synthetic leather degrade over time in Dubai's unconditioned garage environments, leading to flaking vinyl and sticky surfaces. Strip out any stainless steel towel clips, carabiners, and umbrella straps before sending the bag body to bulky clearance.",
+        ],
+        image: {
+          src: "/images/blog/circular-furniture-reuse-charity-dubai.webp",
+          alt: "Warehouse crew member cataloguing and inspecting donated household goods and sports equipment for community reuse in Dubai",
+        },
+      },
+      {
+        heading: "Material sorting: steel, titanium, aluminium, and composites",
+        content: [
+          "Golf clubs that cannot be salvaged for donation are disassembled into distinct material recycling streams. Steel irons and chrome-plated shafts are magnetically separated as high-grade ferrous scrap, melting cleanly in local arc furnaces to produce structural steel rebar.",
+          "Oversized driver heads and fairway wood faces manufactured from aerospace-grade titanium, tungsten sole weights, and aluminium trolley components are non-ferrous metals that command premium scrap recovery values. The sorting process mirrors principles detailed in our [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai).",
+          "Graphite shafts, rubber grips, and frayed synthetic bag linings cannot be mechanically recycled together. Separating metal heads from graphite shafts with a heat gun to soften the epoxy allows scrap yards to recover the valuable metals while responsibly routing composite residuals. For other sports and leisure clearances, consult our [home gym equipment guide](/blog/how-to-dispose-of-home-gym-equipment-dubai), our [bicycle disposal guide](/blog/how-to-dispose-of-an-old-bicycle-in-dubai), and our [luggage and suitcase disposal guide](/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai).",
+        ],
+      },
+      {
+        heading: "Book a sports equipment and garage clearout",
+        content: [
+          "Our professional [junk removal service](/services/junk-removal-dubai) and full [house clearance service](/services/house-clearance-dubai) collect golf bags, club sets, electric trolleys, and sports gear from properties across Dubai, including villas in [Jumeirah Golf Estates](/areas/jumeirah-golf-estates) and townhouses in [Dubai Hills Estate](/areas/dubai-hills-estate).",
+          "[Send us a photo of the golf equipment and garage items on WhatsApp](/contact). We will provide an immediate fixed quote and handle all sorting, lifting, and eco-friendly routing.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["jumeirah-golf-estates", "dubai-hills-estate"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-water-dispenser-in-dubai",
     title: "How to Dispose of an Old Water Dispenser in Dubai",
     seoTitle: "Old Water Dispenser Disposal in Dubai: Drain, Return, Recycle",
@@ -5694,7 +5943,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A villa in [Arabian Ranches](/areas/arabian-ranches) may have driveway access but a narrow side gate between the back garden and vehicle. Photograph that gate, changes in level and any passage beside outdoor equipment. Make clear whether the pile is already near the front or still spread across the property.",
           "For a townhouse in [The Springs](/areas/the-springs), confirm community entry and where a collection vehicle may stop. Shared paths should not become a holding area for cuttings. These are property-specific checks; obtain the current instructions from management rather than relying on a general neighbourhood rule.",
-          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs, and the [plant pot and planter guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers emptying and sorting containers.",
+          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs, the [plant pot and planter guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers emptying and sorting containers, and the [lawn mower disposal guide](/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai) explains how to drain fuel and isolate batteries before power garden tools leave.",
         ],
       },
       {
@@ -6125,7 +6374,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Most one-item prices assume a two-person carry of something a crew can lift between them. A loaded stack, a full plate set or a long rack breaks that assumption, and the honest version of the quote reflects the extra people and the extra time rather than being corrected on the doorstep.",
           "Give the count and weight of the plates, the make and rough size of any powered machine, the floor level, the lift situation and the carrying distance to the vehicle. The variables that move a price are explained in the [price factors guide](/blog/what-factors-affect-junk-removal-prices-in-dubai), and per-item planning bands are covered in the [item-by-item pricing guide](/blog/item-by-item-junk-removal-pricing-dubai).",
-          "Bundling helps here more than in most categories. If the gym is leaving alongside other furniture, one combined collection is generally more efficient than a separate heavy-item trip, because the larger crew that heavy equipment requires is already on site.",
+          "Bundling helps here more than in most categories. If the gym is leaving alongside other furniture, one combined collection is generally more efficient than a separate heavy-item trip, because the larger crew that heavy equipment requires is already on site. Other stored sports gear like golf sets, carts and travel bags often clear out in the same trip, as outlined in our [golf clubs and bags disposal guide](/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai).",
         ],
       },
       {
@@ -9224,7 +9473,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Booking water heater collection across Dubai",
         content: [
-          "To book a prompt water heater pickup, take a wide photograph showing the heater and its location (whether mounted in a false ceiling, high on a bathroom wall, or freestanding in an external villa plant room in [Arabian Ranches](/areas/arabian-ranches)). State the capacity in litres and whether the unit is already drained and disconnected.",
+          "To book a prompt water heater pickup, take a wide photograph showing the heater and its location (whether mounted in a false ceiling, high on a bathroom wall, or freestanding in an external villa plant room in [Arabian Ranches](/areas/arabian-ranches)). State the capacity in litres and whether the unit is already drained and disconnected. External villa plant rooms often house swimming pool pumps and filters alongside hot water boilers; our [pool equipment disposal guide](/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai) details how to empty media filters and recover chiller refrigerants during utility clearouts.",
           "Our professional [appliance removal service](/services/appliance-removal-dubai) and [bulky item removal service](/services/bulky-item-removal-dubai) dispatch equipped, insured crews with heavy-duty trolleys, floor protection runners, and permitted vehicles to collect heavy boilers safely from any Dubai building.",
           "[Contact our team on WhatsApp or online](/contact) to arrange a punctual collection and ensure your old water heating unit is recycled in full compliance with Dubai Municipality standards.",
         ],
