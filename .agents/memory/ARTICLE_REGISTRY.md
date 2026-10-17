@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-16**
+Last synchronized: **2026-10-17**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -123,10 +123,14 @@ Canonical implementation: `data/blog.ts`
 | 116 | `how to dispose of an old lawn mower in dubai` | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` | 2026-10-16 | Published |
 | 117 | `how to dispose of old swimming pool equipment in dubai` | Informational | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` | 2026-10-16 | Published |
 | 118 | `how to dispose of old golf clubs and bags in dubai` | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai` | 2026-10-16 | Published |
+| 119 | `how to dispose of an old bbq grill in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` | 2026-10-17 | Published |
+| 120 | `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` | 2026-10-17 | Published |
+| 121 | `how to dispose of an old air purifier in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | 2026-10-17 | Published |
 
 ## Current counts
 
-- Published: **118**
+- Published: **121**
+- Published on 2026-10-17: **3**
 - Published on 2026-10-16: **3**
 - Published on 2026-10-15: **3**
 - Published on 2026-10-14: **3**
@@ -137,8 +141,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **88**
-- Next approved supplemental priority: **None queued; the 2026-10-16 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **91**
+- Next approved supplemental priority: **None queued; the 2026-10-17 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-17 batch
+
+- The BBQ grill guide owns LPG gas regulator disconnection, grease pan/drip tray scraping, charcoal ash cooling and containment, and cast iron/stainless steel grate recycling. `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` retains patio tables, chairs and parasol bases; `/blog/how-to-dispose-of-gas-cylinders-in-dubai` retains standalone LPG cylinders and distributor returns; `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains bulk structural scrap. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/garden-waste-removal-dubai`.
+- The vacuum cleaner guide owns fine desert dust canister hygiene, lithium battery pack isolation in cordless stick and robot vacuums, motorized brush roller hair extraction, and copper-wound universal motor reclamation. `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains general small electronics and loose cells; `/blog/decluttering-tips-for-small-apartments-in-dubai` retains room-by-room space-saving audits; `/blog/how-to-dispose-of-an-old-microwave-in-dubai` retains small kitchen appliances. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/junk-removal-dubai`.
+- The air purifier and dehumidifier guide owns condensate reservoir drainage, portable compressor refrigerant recovery, saturated HEPA/carbon filter isolation, and centrifugal blower fan e-waste recycling. `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains domestic refrigerators and split AC systems; `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` retains bottled drinking water coolers; `/blog/how-to-dispose-of-household-cleaning-products-dubai` retains domestic chemicals. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/same-day-junk-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the outdoor furniture, small apartment decluttering and refrigerator/AC guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-17.md`.
 
 ## Cannibalization notes for 2026-10-16 batch
 

@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 316
+**Total Target Keywords**: 319
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-17
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old bbq grill in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old air purifier in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the BBQ grill guide owns LPG gas regulator disconnection, grease pan/drip tray scraping, charcoal ash cooling and containment, and cast iron/stainless steel grate recycling; the outdoor furniture, gas cylinder, and scrap metal guides retain patio tables, standalone LPG tanks, and bulk scrap. The vacuum cleaner guide owns dust canister hygiene, lithium battery pack isolation in cordless and robot units, brush roller hair extraction, and copper-wound universal motor recycling; the small electronics, battery, and microwave guides retain loose batteries and kitchen appliances. The air purifier and dehumidifier guide owns condensate reservoir drainage, portable compressor refrigerant recovery, saturated HEPA/carbon filter isolation, and centrifugal blower fan e-waste recycling; the fridge/AC, water dispenser, and household cleaner guides retain large domestic ACs, drinking dispensers, and liquid chemicals. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-16
 

@@ -49,6 +49,252 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-bbq-grill-in-dubai",
+    title: "How to Dispose of an Old BBQ Grill in Dubai",
+    seoTitle: "Old BBQ Grill Disposal in Dubai: Gas, Charcoal & Scrap Metal",
+    excerpt:
+      "How to dispose of an old BBQ grill in Dubai: disconnect LPG gas regulators safely, contain fine charcoal ash, scrape grease pans and recycle cast iron grates.",
+    category: "Guides",
+    tags: ["BBQ Grills", "Outdoor Cooking", "Scrap Metal", "Bulky Items", "Dubai"],
+    coverImage: "/images/blog/curbside-bulky-waste-pickup-villa-dubai.webp",
+    coverImageAlt:
+      "Bulky household items and outdoor utility equipment staged neatly beside a villa boundary wall and access gate for collection in Dubai",
+    publishedAt: "2026-10-17",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Decouple LPG regulators and return gas cylinders to ADNOC or Emarat distributors before collection. Trucks cannot carry pressurized cylinders alongside general waste.",
+      "Allow charcoal embers to extinguish completely for 48 hours, then dampen and double-bag fine ash to eliminate fire hazards inside hot collection vehicles.",
+      "Scrape grease collection troughs and wipe down internal cookboxes. Rancid fat drippings attract pests and leave permanent oil stains across villa pavers.",
+      "Stainless steel hoods, tubular burner manifolds and cast iron cooking grates represent valuable metals recovered through certified secondary smelting.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old BBQ grill in Dubai",
+        content: [
+          "To dispose of an old BBQ grill in Dubai, first decouple the LPG gas regulator and return the cylinder to an authorized distributor, scrape out accumulated grease pans, and double-bag completely cold charcoal ash. Disassemble cast iron cooking grates and side shelves, and book a licensed bulky waste collection or deliver the stripped metal frame to a certified Dubai scrap facility. Checked on 17/10/2026.",
+          "Outdoor grilling is a quintessential part of villa lifestyle across [Arabian Ranches](/areas/arabian-ranches), [Dubai Hills Estate](/areas/dubai-hills-estate), and [The Springs](/areas/the-springs). However, Dubai's scorching summer heat, coastal humidity, and fine blowing sand take a heavy toll on outdoor cookers. Burner tubes corrode, electronic piezo igniters fail, and grease catchers bake into stubborn, rancid resin.",
+          "Because a barbecue combines pressurized gas connections, flammable food fats, electrical components, and heavy structural metals, getting rid of one requires careful preparation before it can leave your terrace or garden.",
+        ],
+        callout: {
+          title: "Never transport a barbecue with a gas cylinder attached",
+          text: "Pressurized LPG gas cylinders expand under direct UAE sunlight, where surface temperatures exceed 50°C. Clearance trucks operating enclosed cargo beds cannot legally carry gas cylinders with general bulky waste. Always uncouple the cylinder and return it via registered exchange points.",
+        },
+      },
+      {
+        heading: "Gas, charcoal, pellet, or electric: know your grill type",
+        content: [
+          "Identifying your cooker's fuel source dictates the dismantling and safety protocol. Liquid petroleum gas (LPG) barbecues feature brass control valves, rubberized fuel delivery hoses, and tubular stainless steel or cast iron burners. The rubber hose must be inspected and unthreaded at the manifold, ensuring no trapped gas remains in the burner tubes.",
+          "Charcoal kettles and heavy ceramic Kamado cookers present different physical handling challenges. Traditional kettle grills are lightweight pressed steel with porcelain enamel coating, whereas Kamado-style cookers house thick refractory cordierite ceramic walls that can weigh upwards of 90 kg. The heavy ceramic firebox and dome must be handled with padded straps to prevent shatter hazards during lifting.",
+          "Pellet smokers and outdoor electric grills integrate electric auger motors, digital PID temperature controllers, and high-wattage heating rods. These units are classified as electrical waste (e-waste) and scrap metal rather than inert bulky items, requiring dedicated segregation at municipal sorting yards.",
+        ],
+      },
+      {
+        heading: "Degreasing drip trays, containing ash, and burner isolation",
+        content: [
+          "Before any collection crew handles your barbecue, clean out the bottom grease tray and grease catcher cup. Congealed cooking fat liquefies rapidly in Dubai's daytime heat, leaking through vehicle floorboards and staining driveway pavers. Scrape hardened fat into a sealable container with a putty knife and dispose of it in domestic residual waste.",
+          "For charcoal cookers, ensure all coals have been cold for at least 48 hours. Stir the ashes to confirm no latent embers smolder deep within the fire bowl. Lightly mist the ash with water, scoop it into heavy-duty rubble sacks, and knot the bags tightly. Loose fine ash creates choking dust clouds in tight service corridors and wind tunnels between villas.",
+          "Unscrew or lift out the cooking grates, warming racks, and heat diffuser tents (flavorizer bars). If cast iron grates are coated in thick baked-on carbon, bundle them tightly in cardboard and wrap them with duct tape so their sharp, greasy edges cannot soil walls or cut handlers.",
+        ],
+      },
+      {
+        heading: "Villa access, side gate clearance, and patio transport",
+        content: [
+          "Freestanding gas barbecues with four-burner cookboxes are wide and top-heavy. Moving an assembled grill from a rear garden patio across grassy turf, decorative gravel, or sunken stepping stones can easily buckle small plastic caster wheels.",
+          "Fold down or unbolt modular side prep shelves and side-burner wings to trim the grill's total width down to under 80 cm, allowing smooth transit through standard villa garden side gates. Two crew members using a wide-axle appliance dolly can roll heavy units across interlocking pavers without chipping stone edges or marring decorative garden borders.",
+          "In gated communities such as [The Springs](/areas/the-springs) or [Arabian Ranches](/areas/arabian-ranches), inform your community security gate of the scheduled pickup window. Staging the decommissioned, grease-free grill on your private driveway immediately before the collection appointment ensures swift loading.",
+        ],
+        image: {
+          src: "/images/blog/acceptable-vs-prohibited-waste-sorting-dubai.webp",
+          alt: "Warehouse technician reviewing organized categories of metal, electrical components and bulky household items at a Dubai staging facility",
+        },
+      },
+      {
+        heading: "Recycling barbecue metals: stainless steel, cast iron, and brass",
+        content: [
+          "Old barbecues provide exceptionally high material recycling rates. At licensed processing facilities, the cooker is broken down into clean material streams: the hood and side tables are routed to stainless steel recycling, the main cart and chassis go to pressed carbon steel recovery, and cooking grates go to cast iron smelting.",
+          "Brass manifold valves and copper electrical wiring are stripped out for non-ferrous refining. The principles of sorting non-ferrous metals are detailed in our [scrap metal recycling guide](/blog/how-to-dispose-of-scrap-metal-in-dubai). Discarded gas cylinders must be returned directly through supplier networks as outlined in our [gas cylinder disposal guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai), while accompanying outdoor dining sets and loungers follow the [outdoor furniture disposal guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai).",
+        ],
+      },
+      {
+        heading: "Book a professional BBQ and patio clearout",
+        content: [
+          "Our specialized [bulky item removal service](/services/bulky-item-removal-dubai) and [garden waste removal service](/services/garden-waste-removal-dubai) collect heavy gas barbecues, charcoal smokers, and outdoor patio cooking stations across Dubai, including villas in [Arabian Ranches](/areas/arabian-ranches) and townhouses in [The Springs](/areas/the-springs).",
+          "[Send us a photo of your barbecue setup on WhatsApp](/contact) with your villa community and state whether the gas bottle has already been uncoupled. We will provide an upfront fixed quote and arrange punctual, hassle-free removal.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "garden-waste-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-vacuum-cleaner-in-dubai",
+    title: "How to Dispose of an Old Vacuum Cleaner in Dubai",
+    seoTitle: "Old Vacuum Cleaner Disposal in Dubai: Batteries, Motors & E-Waste",
+    excerpt:
+      "How to dispose of an old vacuum cleaner in Dubai: isolate lithium batteries from cordless and robotic models, empty desert dust safely, and recycle copper motor coils.",
+    category: "Guides",
+    tags: ["Vacuum Cleaners", "Small Appliances", "E-Waste", "Battery Safety", "Dubai"],
+    coverImage: "/images/blog/battery-disposal-small-electronics-dubai-hero.webp",
+    coverImageAlt:
+      "Dedicated electronic waste sorting bins and small electrical equipment arranged for recycling at a Dubai collection station",
+    publishedAt: "2026-10-17",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Eject and tape lithium-ion battery packs from cordless stick vacuums and robotic units before collection to eliminate fire risks during transit.",
+      "Empty dust canisters or discard full vacuum bags outdoors. Dubai desert dust contains fine micro-silica particles that disperse easily in enclosed hallways.",
+      "Cut away tangled hair and synthetic fibers from motorized brush bars and separate aluminium extension wands for clean material sorting.",
+      "High-speed universal vacuum motors contain pure copper-wound stators and armatures that licensed e-waste recyclers reclaim for remanufacturing.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old vacuum cleaner in Dubai",
+        content: [
+          "To dispose of an old vacuum cleaner in Dubai, empty the dust canister or dispose of the full synthetic bag outdoors, eject and tape the battery terminals if it is a cordless or robotic model, and route the appliance to a certified e-waste drop-off box or book a small appliance collection. The electric motor, power lead, and plastic body are dismantled for materials recovery. Checked on 17/10/2026.",
+          "Keeping floors and carpets spotless in high-rise towers across [Dubai Marina](/areas/dubai-marina) and [Downtown Dubai](/areas/downtown-dubai) requires persistent vacuuming to fight fine desert dust that penetrates balcony seals and AC ducts. After years of suction against abrasive sand grains, vacuum impellers erode, bearings seize, and rechargeable lithium battery cells lose their holding capacity.",
+          "Because vacuum cleaners combine high-speed electric motors, heavy plastic casings, micro-filtration media, and—in modern models—high-voltage lithium batteries, they must be separated from general household rubbish to comply with municipal recycling standards.",
+        ],
+        callout: {
+          title: "Never toss battery-powered vacuums down building rubbish chutes",
+          text: "Modern cordless stick vacuums and robot vacuums run on multi-cell lithium-ion battery packs (typically 21.6V to 28.8V). Dropping these machines down high-rise residential waste chutes can crush cells on impact at the basement compactor, causing violent chemical fires. Detach battery packs before disposal.",
+        },
+      },
+      {
+        heading: "Corded canister, cordless stick, or robotic: identify your vacuum",
+        content: [
+          "Vacuum cleaners fall into three distinct mechanical categories that determine their disposal path. Traditional corded canister and upright vacuums contain a heavy mains-powered universal motor, a lengthy rubberized copper power cord, and a spring-loaded cord retraction reel. These units contain no chemical battery hazards and represent high-yield copper and steel scrap.",
+          "Cordless stick vacuums use compact brushless digital motors coupled to removable or internal lithium-ion battery packs. The battery pack must be detached by pressing the quick-release latch or unthreading safety screws. Insulate the copper terminal contacts with electrical tape so the battery can travel safely to designated battery recycling points.",
+          "Robotic vacuum cleaners incorporate autonomous navigational electronics, LIDAR sensors, infrared bumper boards, and motorized driving wheels, accompanied by bulky plastic charging dock stations. All electronic printed circuit boards (PCBs) must be segregated for precious metal recovery.",
+        ],
+      },
+      {
+        heading: "Emptying fine desert dust, bagging filters, and brush cleanup",
+        content: [
+          "Before handing over any vacuum cleaner, take the unit to an outdoor balcony or open garden area to empty the dust container. Dubai dust contains abrasive desert silica, fine PM10 particles, and trapped pet dander. Emptying a dust bin indoors or into an open hallway rubbish bin releases an airborne particulate cloud that settles over clean surfaces.",
+          "Unclip pleated HEPA exhaust filters and pre-motor foam rings. Used filters that are saturated with fine grey silt cannot be recycled through standard plastic streams; seal them into a small domestic rubbish bag for general municipal disposal.",
+          "Use a pair of scissors to slice through tangled carpet fibers, long hair, and string wrapped around the motorized roller brush bar. Freeing the brush roller allows recyclers to pop out the plastic core and recover the miniature electric drive motor and bearing assemblies without labor-intensive manual cutting.",
+        ],
+      },
+      {
+        heading: "Tower corridors, service lifts, and collection handover",
+        content: [
+          "When clearing out domestic appliances from apartment buildings in [Dubai Marina](/areas/dubai-marina) or [Downtown Dubai](/areas/downtown-dubai), place the vacuum and its attachments inside a large shopping bag or carton before moving through communal lobbies. Loose vacuum hoses and wand tubes clatter against tiled flooring and can leave black rubber scuff marks on corridor baseboards.",
+          "Wrap the electrical flex neatly around the vacuum cord hooks or bundle it with a rubber band so the heavy plug does not drag behind you. In buildings that require elevator access passes for contractor pickups, coordinate the handover during normal building management operating hours.",
+          "If you are clearing out multiple small domestic appliances alongside your vacuum, group them together in a single box for efficient loading at the tower service dock.",
+        ],
+        image: {
+          src: "/images/blog/battery-inspection-swollen-safety-dubai.webp",
+          alt: "Technician in protective gloves closely inspecting rechargeable battery casing, electrical contacts and warning label at a Dubai disposal workstation",
+        },
+      },
+      {
+        heading: "Downstream e-waste recycling: copper armatures and ABS plastics",
+        content: [
+          "At authorized UAE electronic waste recycling facilities, dismantled vacuum cleaners yield valuable industrial raw materials. The outer plastic shells—typically high-impact ABS or polycarbonate—are shredded, washed, and pelletized for secondary manufacturing.",
+          "Electric motors are cracked open on hydraulic presses to extract the pure copper commutator windings and magnetic steel stator laminations, diverting heavy metals from landfills as detailed in our [scrap metal recycling guide](/blog/how-to-dispose-of-scrap-metal-in-dubai). Detached lithium battery packs follow specialized chemical recycling outlined in our [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai). When clearing out kitchen and utility storage, refer to our [microwave disposal guide](/blog/how-to-dispose-of-an-old-microwave-in-dubai) and [small apartment decluttering guide](/blog/decluttering-tips-for-small-apartments-in-dubai).",
+        ],
+      },
+      {
+        heading: "Book a small appliance and e-waste collection",
+        content: [
+          "Our dedicated [appliance removal service](/services/appliance-removal-dubai) and [general junk removal service](/services/junk-removal-dubai) collect outdated vacuum cleaners, robot vacuums, floor polishers, and small home electronics from apartments and villas across Dubai, including high-rises in [Dubai Marina](/areas/dubai-marina) and [Downtown Dubai](/areas/downtown-dubai).",
+          "[Contact our team on WhatsApp with a photo of your unwanted appliances](/contact). We provide fast, transparent pricing and ensure all electronic machinery is recycled through certified UAE environmental partners.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "downtown-dubai"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai",
+    title: "How to Dispose of an Old Air Purifier and Dehumidifier in Dubai",
+    seoTitle: "Air Purifier & Dehumidifier Disposal in Dubai: Filters, Gas & E-Waste",
+    excerpt:
+      "How to dispose of an old air purifier or dehumidifier in Dubai: drain condensate tanks, recover compressor refrigerants, bag spent HEPA filters and recycle fan motors.",
+    category: "Eco & Recycling",
+    tags: ["Air Purifiers", "Dehumidifiers", "E-Waste", "Refrigerant Safety", "Dubai"],
+    coverImage: "/images/blog/apartment-closet-storage-declutter-dubai.webp",
+    coverImageAlt:
+      "Organized residential apartment interior in Dubai with stored domestic utility appliances and climate control equipment arranged for clearance",
+    publishedAt: "2026-10-17",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Drain and dry internal water collection tanks and float switches in portable dehumidifiers to prevent stagnant water leaks during building transport.",
+      "Compressor dehumidifiers contain fluorinated refrigerant gases (R134a or R290) that legally require certified recovery before the appliance can be recycled.",
+      "Remove and seal saturated HEPA and activated carbon air purifier filters. Spent filters trap fine PM2.5 particulates, mold spores, and airborne allergens.",
+      "Electric centrifugal blower motors, transformer coils, and thermoplastic chassis components are separated for certified metals and plastics reprocessing.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old air purifier and dehumidifier in Dubai",
+        content: [
+          "To dispose of an old air purifier or dehumidifier in Dubai, disconnect power, empty and dry the water collection bucket on dehumidifiers, and unclip saturated HEPA and carbon filters into sealed plastic bags. Compressor dehumidifiers require professional refrigerant gas recovery before disposal, while air purifier fan motors, circuit boards, and plastic casings are routed through certified electronic waste recyclers. Checked on 17/10/2026.",
+          "Coastal communities like [Jumeirah Beach Residence](/areas/jumeirah-beach-residence) and canal-side towers in [Business Bay](/areas/business-bay) endure extreme ambient humidity throughout the summer, paired with seasonal desert dust storms. Portable air purifiers and compact compressor dehumidifiers work overtime in bedrooms and living spaces to prevent musty mildew and maintain healthy indoor air.",
+          "When these climate units fail or get replaced during a tenancy move-out, they cannot be discarded with standard domestic trash. Dehumidifiers house pressurized refrigeration circuits, while air purifiers concentrate heavy airborne contaminants within their filter matrices.",
+        ],
+        callout: {
+          title: "Never puncture sealed cooling coils on portable dehumidifiers",
+          text: "Portable compressor dehumidifiers operate on the same refrigeration cycle as mini-fridges. Piercing copper tubes or cutting lines releases pressurized fluorinated refrigerant gas into living areas, which poses health risks and breaches UAE federal environmental air quality regulations.",
+        },
+      },
+      {
+        heading: "Air purifier vs dehumidifier: understanding the internal mechanics",
+        content: [
+          "Understanding whether your appliance is an air purifier, a peltier dehumidifier, or a compressor-driven unit determines its exact recycling stream. Air purifiers are purely mechanical and electronic: they contain a high-velocity centrifugal blower fan, an electronic control PCB with air-quality laser sensors, and a multi-stage cylindrical or flat filter cartridge.",
+          "Thermoelectric (Peltier) dehumidifiers are small, ultra-quiet tabletop units that use a solid-state heat sink and low-voltage DC power brick without any refrigerant gas. These units are classified straightforwardly as small consumer electronics e-waste.",
+          "Compressor dehumidifiers, by contrast, are heavy floor-standing machines weighing between 12 kg and 25 kg. They incorporate a miniature hermetic rotary compressor, copper evaporator and condenser coils, and pressurized refrigerant (such as R134a or eco-friendly R290 propane). These units must be handled as refrigerant-bearing white goods.",
+        ],
+      },
+      {
+        heading: "Draining condensate tanks and bagging contaminated filters",
+        content: [
+          "Before scheduling collection for a dehumidifier, slide out the rear water collection tank and empty all accumulated water into a sink. In Dubai's humid climate, water left sitting in dark reservoir tanks breeds pink bacteria, slime mold, and foul odors. Wipe the reservoir dry with a clean cloth and ensure the internal plastic magnetic float switch is securely seated.",
+          "For air purifiers, unlatch the front or bottom filter access hatch. Gently slide out the pre-filter, HEPA filter, and honeycomb activated carbon filter. Do not tap or vacuum old filters indoors, as doing so disperses trapped pollen, dust mite waste, and PM2.5 soot into your home's air.",
+          "Place spent filter cartridges inside a plastic bag, knot the top securely, and place it in the general domestic waste bin. The empty air purifier chassis—now free of loose dust—is completely clean and ready for electronic waste transport.",
+        ],
+      },
+      {
+        heading: "Building elevators, moisture protection, and collection handover",
+        content: [
+          "When transporting a compressor dehumidifier down high-rise service elevators in [Jumeirah Beach Residence](/areas/jumeirah-beach-residence) or [Business Bay](/areas/business-bay), keep the machine in an upright vertical position. Tipping a compressor appliance onto its side allows lubricating oil from the compressor sump to migrate into the delicate copper capillary tubes, contaminating recovery equipment.",
+          "Wrap the power cable around the rear storage clips and secure the plug with tape so it does not drag along hallway carpets. Ensure the unit is staged on a flat, dry floor so remaining internal condensate droplets do not drip onto polished marble lobby floors.",
+          "If your building requires an elevator booking or gate pass for bulky item collections, coordinate with building security ahead of time to ensure seamless service dock loading.",
+        ],
+        image: {
+          src: "/images/blog/separated-appliance-recycling-load-dubai.webp",
+          alt: "Heavy cooling appliances and electrical units strapped upright on a hand truck beside sorted metal and motor machinery at a Dubai loading bay",
+        },
+      },
+      {
+        heading: "Downstream e-waste recycling and materials diversion",
+        content: [
+          "At certified UAE material recovery plants, dehumidifiers have their refrigerant evacuated by trained recovery technicians into dedicated recovery cylinders, mirroring the process detailed in our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai). The copper tubing, steel compressor canister, and aluminium cooling fins are then stripped for metallurgical refining.",
+          "Air purifier motors are dismantled to reclaim pure copper field windings, while clean thermoplastic outer casings are ground into reusable plastic flakes. For related utility and home maintenance clear-outs, consult our [water dispenser disposal guide](/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai) and [household cleaning products disposal guide](/blog/how-to-dispose-of-household-cleaning-products-dubai).",
+        ],
+      },
+      {
+        heading: "Book a climate appliance and e-waste pickup",
+        content: [
+          "Our professional [appliance removal service](/services/appliance-removal-dubai) and [same-day junk removal service](/services/same-day-junk-removal-dubai) collect broken air purifiers, domestic dehumidifiers, and climate appliances from homes across Dubai, including residences in [Jumeirah Beach Residence](/areas/jumeirah-beach-residence) and [Business Bay](/areas/business-bay).",
+          "[Message us on WhatsApp with photos of your unwanted appliances](/contact). We provide prompt fixed pricing, handle all heavy lifting and building logistics, and guarantee environmentally responsible recycling.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["jumeirah-beach-residence", "business-bay"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-lawn-mower-in-dubai",
     title: "How to Dispose of an Old Lawn Mower in Dubai",
     seoTitle: "Old Lawn Mower Disposal in Dubai: Drain, Disconnect, Recycle",
@@ -1945,7 +2191,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Special considerations for air conditioning unit removal",
         content: [
           "Disposing of split AC systems, window units, or ducted fan coil units in Dubai involves specific mechanical steps:",
-          "Similar double-pole electrical isolation and high-pressure plumbing precautions apply when taking down domestic boilers, as detailed in our [water heater disposal guide](/blog/how-to-dispose-of-an-old-water-heater-in-dubai).",
+          "Similar double-pole electrical isolation and high-pressure plumbing precautions apply when taking down domestic boilers, as detailed in our [water heater disposal guide](/blog/how-to-dispose-of-an-old-water-heater-in-dubai). Portable climate units with mini-compressors and filter matrices follow the protocols in our [air purifier and dehumidifier disposal guide](/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai).",
         ],
         listItems: [
           "Electrical Isolation: Ensure the AC isolator switch or main distribution breaker is switched off before attempting any disconnection.",
@@ -3883,7 +4129,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Maximizing vertical walls and built-in wardrobe dead zones",
         content: [
           "When floor space is exhausted, look upward. Most Dubai apartments feature generous 2.8 to 3-meter ceiling heights that remain completely underutilized.",
-          "Reorganize your built-in wardrobe by adding tiered hanging rods and slim velvet hangers, instantly doubling garment capacity. If empty travel bags or damaged suitcases occupy top shelves, nest smaller bags inside larger ones or discard broken sets with our [luggage and suitcase disposal guide](/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai). Use vacuum-storage compression bags for bulky winter duvets and desert camping jackets, sliding them onto top-shelf recesses. Keep utility items such as ironing boards and cordless vacuum cleaners mounted on interior cupboard doors.",
+          "Reorganize your built-in wardrobe by adding tiered hanging rods and slim velvet hangers, instantly doubling garment capacity. If empty travel bags or damaged suitcases occupy top shelves, nest smaller bags inside larger ones or discard broken sets with our [luggage and suitcase disposal guide](/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai). Use vacuum-storage compression bags for bulky winter duvets and desert camping jackets, sliding them onto top-shelf recesses. Keep utility items such as ironing boards mounted on interior cupboard doors, and consult our [vacuum cleaner disposal guide](/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai) when retiring battery-powered stick units or robotic vacuums.",
         ],
         image: {
           src: "/images/blog/apartment-vertical-storage-organization-dubai.webp",
@@ -8196,7 +8442,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Parasols, bases, BBQs and patio heaters",
         content: [
           "Parasol and umbrella bases are often much heavier than they look. Plastic bases filled with water or sand should be emptied before collection, and the sand spread on a garden bed rather than washed into a drain. Granite, concrete and cast-iron bases cannot be emptied; tell the collector their approximate size and number so enough people come to lift them.",
-          "Gas BBQs and patio heaters must have their cylinders disconnected, closed and set aside. The cylinder does not go with the furniture; return it through the supplier route described in the [gas cylinder guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai). Scrape off grease and remove loose grill plates so the BBQ body can be carried upright.",
+          "Gas BBQs and patio heaters must have their cylinders disconnected, closed and set aside. The cylinder does not go with the furniture; return it through the supplier route described in the [gas cylinder guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai). Scrape off grease and remove loose grill plates so the BBQ body can be carried upright; our dedicated [BBQ grill disposal guide](/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai) details how to isolate regulators, contain charcoal ash and recycle cast iron grates.",
           "Charcoal BBQs and fire pits need their ash completely cold, ideally left overnight, before it is bagged. Warm ash in a plastic bag inside a hot truck is a genuine fire risk.",
         ],
       },
