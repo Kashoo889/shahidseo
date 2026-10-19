@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-17**
+Last synchronized: **2026-10-19**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -126,10 +126,14 @@ Canonical implementation: `data/blog.ts`
 | 119 | `how to dispose of an old bbq grill in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` | 2026-10-17 | Published |
 | 120 | `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` | 2026-10-17 | Published |
 | 121 | `how to dispose of an old air purifier in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | 2026-10-17 | Published |
+| 122 | `how to dispose of an old standing fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | 2026-10-19 | Published |
+| 123 | `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` | 2026-10-19 | Published |
+| 124 | `how to dispose of old power tools in dubai` | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai` | 2026-10-19 | Published |
 
 ## Current counts
 
-- Published: **121**
+- Published: **124**
+- Published on 2026-10-19: **3**
 - Published on 2026-10-17: **3**
 - Published on 2026-10-16: **3**
 - Published on 2026-10-15: **3**
@@ -141,8 +145,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **91**
-- Next approved supplemental priority: **None queued; the 2026-10-17 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **94**
+- Next approved supplemental priority: **None queued; the 2026-10-19 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-19 batch
+
+- The standing fan and air cooler guide owns basin water draining, cellulose honeycomb cooling pad disposal, oscillating mechanism gear check, wire blade guard recycling, and shaded-pole copper motor recovery. `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` retains hermetic compressors, sealed fluorinated refrigerants, and HEPA filter filtration; `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains central and split AC chillers; `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` retains drinking water coolers. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/same-day-junk-removal-dubai`.
+- The coffee machine guide owns internal boiler and thermoblock drainage, descaling mineral purge, coffee ground/capsule ejection, Ulka vibration pump e-waste, and brass/copper metal recycling. `/blog/how-to-dispose-of-an-old-microwave-in-dubai` retains magnetrons and countertop ovens; `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` retains heavy built-in kitchen white goods; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains general commercial electronic waste frameworks. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/office-cleanout-dubai`.
+- The power tools guide owns high-capacity cordless lithium battery slide pack isolation (18V-54V), terminal insulation, sharp cutting blade and bit detachment, armature copper recycling, and heavy-duty blow-molded tool case handling. `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` retains outdoor garden 2-stroke/4-stroke petrol engines and mower chassis; `/blog/how-to-dispose-of-scrap-metal-in-dubai` retains bulk structural steel and fabrication scrap; `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains loose household AA/AAA batteries and handheld gadgets. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/villa-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the air purifier/dehumidifier, microwave, and lawn mower guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-19.md`.
 
 ## Cannibalization notes for 2026-10-17 batch
 

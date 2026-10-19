@@ -1,12 +1,12 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-10-17**
+Last synchronized: **2026-10-19**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
 ## Current editorial queue
 
-The three expansion topics for 2026-10-17 are written in `data/blog.ts`: old BBQ grills, old vacuum cleaners, and old air purifiers and dehumidifiers. No additional new article is queued. The checklist mapping below remains an existing-page topic.
+The three expansion topics for 2026-10-19 are written in `data/blog.ts`: old standing fans and air coolers, old coffee machines, and old power tools. No additional new article is queued. The checklist mapping below remains an existing-page topic.
 
 | Priority | Primary keyword                       | Target URL                                       | Status                   |
 | -------: | ------------------------------------- | ------------------------------------------------ | ------------------------ |
@@ -17,8 +17,8 @@ The three expansion topics for 2026-10-17 are written in `data/blog.ts`: old BBQ
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **91**
-- Total published articles: **121**
+- Supplemental approved articles published: **94**
+- Total published articles: **124**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

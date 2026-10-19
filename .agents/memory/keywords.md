@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 319
+**Total Target Keywords**: 322
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-19
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old standing fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old power tools in dubai` | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the standing fan and air cooler guide owns basin water draining, cellulose honeycomb cooling pad disposal, oscillating mechanism gear check, wire blade guard recycling, and shaded-pole copper motor recovery; the air purifier/dehumidifier, fridge/AC, and water dispenser guides retain compressors, sealed refrigerant systems, and pure filter purifiers. The coffee machine guide owns internal boiler and thermoblock drainage, descaling mineral purge, coffee ground/capsule ejection, Ulka vibration pump e-waste, and brass/copper metal recycling; the microwave, dishwasher, and kitchen cabinet guides retain cooking ovens, large wash white goods, and fixed cabinetry. The power tools guide owns high-capacity cordless lithium battery slide pack isolation (18V-54V), terminal insulation, sharp cutting blade and bit detachment, armature copper recycling, and heavy-duty blow-molded tool case handling; the lawn mower, scrap metal, and small electronics guides retain petrol engines, bulk structural scrap, and loose household batteries. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-17
 
