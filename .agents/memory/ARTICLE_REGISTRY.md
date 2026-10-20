@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-19**
+Last synchronized: **2026-10-20**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -129,10 +129,14 @@ Canonical implementation: `data/blog.ts`
 | 122 | `how to dispose of an old standing fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | 2026-10-19 | Published |
 | 123 | `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` | 2026-10-19 | Published |
 | 124 | `how to dispose of old power tools in dubai` | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai` | 2026-10-19 | Published |
+| 125 | `how to dispose of an old pressure washer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai` | 2026-10-20 | Published |
+| 126 | `how to dispose of old sound systems and speakers in dubai` | Informational | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` | 2026-10-20 | Published |
+| 127 | `how to dispose of an old gazebo and sun shade in dubai` | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` | 2026-10-20 | Published |
 
 ## Current counts
 
-- Published: **124**
+- Published: **127**
+- Published on 2026-10-20: **3**
 - Published on 2026-10-19: **3**
 - Published on 2026-10-17: **3**
 - Published on 2026-10-16: **3**
@@ -145,8 +149,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **94**
-- Next approved supplemental priority: **None queued; the 2026-10-19 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **97**
+- Next approved supplemental priority: **None queued; the 2026-10-20 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-20 batch
+
+- The pressure washer guide owns depressurizing spray lances, crankcase lubricant and gear oil drainage, steel-wire braided hose containment, axial/wobble-plate pump disassembly, and brass/copper non-ferrous metal recovery. `/blog/how-to-dispose-of-old-power-tools-in-dubai` retains cordless lithium tools, blades, and toolcases; `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` retains 2-stroke/4-stroke petrol garden engines; `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai` retains general domestic solvent and chemical drop-offs. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/garden-waste-removal-dubai`.
+- The sound systems and speakers guide owns high-power AV receiver capacitor discharge, speaker ferrite and neodymium magnet isolation, copper voice coil salvage, and dense MDF/particle board acoustic cabinet routing. `/blog/how-to-dispose-of-an-old-tv-in-dubai` retains smart display screens, factory resets, and bracket unfastening; `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` retains corporate IT sanitization and storage drives; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains general municipal e-waste recycling frameworks. Commercial intent stays with `/services/office-cleanout-dubai` and `/services/same-day-junk-removal-dubai`.
+- The gazebo and sun shade guide owns tension turnbuckle loosening, UV-degraded HDPE shade sail takedown, scissor-frame pop-up canopy collapse, tubular steel/aluminium pole bundling, and patio masonry anchor removal/filling for Ejari handover compliance. `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` retains patio tables, chairs, and umbrella bases; `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` retains synthetic turf rolls and infill; `/blog/what-to-remove-before-rental-handover-dubai` retains whole-villa tenancy clearance checklists. Commercial intent stays with `/services/villa-clearance-dubai` and `/services/bulky-item-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the power tools, television, and outdoor patio furniture guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-20.md`.
 
 ## Cannibalization notes for 2026-10-19 batch
 

@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 322
+**Total Target Keywords**: 325
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-20
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old pressure washer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old sound systems and speakers in dubai` | Informational | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old gazebo and sun shade in dubai` | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the pressure washer guide owns depressurizing spray lances, crankcase lubricant and gear oil drainage, steel-wire braided hose containment, axial/wobble-plate pump disassembly, and brass/copper non-ferrous metal recovery; the power tools, lawn mower, and hazardous liquids guides retain cordless lithium tools, petrol garden engines, and general domestic chemicals. The sound systems and speakers guide owns high-power AV receiver capacitor discharge, speaker ferrite and neodymium magnet isolation, copper voice coil salvage, and dense MDF/particle board acoustic cabinet routing; the TV, computer, and general e-waste guides retain smart displays, data sanitization, and broad electronics frameworks. The gazebo and sun shade guide owns tension turnbuckle loosening, UV-degraded HDPE shade sail takedown, scissor-frame pop-up canopy collapse, tubular steel/aluminium pole bundling, and patio masonry anchor removal/filling for Ejari handover compliance; the outdoor furniture, artificial grass, and rental handover guides retain patio tables/loungers, synthetic turf rolls, and whole-villa tenancy clearance checklists. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-19
 
