@@ -133,11 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-20)
+## 4. Publication Progress (Updated 2026-10-21)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **97**
-- Total published blog articles: **127**
+- Published supplemental approved articles: **100**
+- Total published blog articles: **130**
+- Published on 2026-10-21: **3**
 - Published on 2026-10-20: **3**
 - Published on 2026-10-19: **3**
 - Published on 2026-10-17: **3**
@@ -146,7 +147,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-20 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-21 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                             | Status    | Published  |
 | ------------------ | ----------------------------------------------------------- | --------- | ---------- |
@@ -255,4 +256,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old pressure washer in dubai` | Published | 2026-10-20 |
 | Approved expansion | `how to dispose of old sound systems and speakers in dubai` | Published | 2026-10-20 |
 | Approved expansion | `how to dispose of an old gazebo and sun shade in dubai` | Published | 2026-10-20 |
+| Approved expansion | `how to dispose of an old patio heater in dubai` | Published | 2026-10-21 |
+| Approved expansion | `how to dispose of old musical instruments in dubai` | Published | 2026-10-21 |
+| Approved expansion | `how to dispose of an old garment steamer in dubai` | Published | 2026-10-21 |
 

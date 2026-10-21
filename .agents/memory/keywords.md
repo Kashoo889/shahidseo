@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 325
+**Total Target Keywords**: 328
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-21
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old patio heater in dubai` | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old garment steamer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the patio heater guide owns LPG cylinder disconnection and supplier return, weighted base sand and water ballast emptying, aluminium reflector dome unbolting, borosilicate quartz flame tube containment, and stainless steel burner and column metal recycling; the BBQ grill, outdoor furniture, and gas cylinder guides retain cooking grills, patio tables/parasols, and standalone commercial gas cylinders. The musical instruments guide owns instrument playable assessment for school/charity donation, acoustic drum shell nesting and lug unthreading, guitar string de-tensioning, wireless transmitter battery isolation, and pickup/amplifier e-waste recovery; the acoustic piano, sound systems and speakers, and e-waste guides retain grand/upright pianos, domestic AV home cinema receivers, and IT electronics. The garment steamer and ironing board guide owns domestic hard-water boiler descaling and calc-clean drainage, telescopic aluminium pole retraction, fabric and foam board cover stripping, and small appliance WEEE e-waste/steel mesh recycling; the vacuum cleaner, clothing/textiles, and small apartment decluttering guides retain floor-care appliances, wardrobe garments, and room storage audits. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-20
 

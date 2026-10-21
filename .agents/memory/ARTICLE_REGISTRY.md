@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-20**
+Last synchronized: **2026-10-21**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -132,10 +132,14 @@ Canonical implementation: `data/blog.ts`
 | 125 | `how to dispose of an old pressure washer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai` | 2026-10-20 | Published |
 | 126 | `how to dispose of old sound systems and speakers in dubai` | Informational | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` | 2026-10-20 | Published |
 | 127 | `how to dispose of an old gazebo and sun shade in dubai` | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` | 2026-10-20 | Published |
+| 128 | `how to dispose of an old patio heater in dubai` | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai` | 2026-10-21 | Published |
+| 129 | `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai` | 2026-10-21 | Published |
+| 130 | `how to dispose of an old garment steamer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | 2026-10-21 | Published |
 
 ## Current counts
 
-- Published: **127**
+- Published: **130**
+- Published on 2026-10-21: **3**
 - Published on 2026-10-20: **3**
 - Published on 2026-10-19: **3**
 - Published on 2026-10-17: **3**
@@ -149,8 +153,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **97**
-- Next approved supplemental priority: **None queued; the 2026-10-20 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **100**
+- Next approved supplemental priority: **None queued; the 2026-10-21 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-21 batch
+
+- The patio heater guide owns LPG cylinder disconnection and supplier return, weighted base sand and water ballast emptying, aluminium reflector dome unbolting, borosilicate quartz flame tube containment, and stainless steel burner and column metal recycling. `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` retains cooking grills and ash handling; `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai` retains outdoor tables, chairs, and umbrella parasol bases; `/blog/how-to-dispose-of-gas-cylinders-in-dubai` retains standalone commercial gas bottles. Commercial intent stays with `/services/villa-clearance-dubai` and `/services/bulky-item-removal-dubai`.
+- The musical instruments guide owns instrument playable assessment for school/charity donation, acoustic drum shell nesting and lug unthreading, guitar string de-tensioning, wireless transmitter battery isolation, and pickup/amplifier e-waste recovery. `/blog/how-to-dispose-of-an-old-piano-in-dubai` retains acoustic upright and grand pianos; `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` retains domestic AV cinema receivers and surround speakers; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains general municipal IT electronics. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/house-clearance-dubai`.
+- The garment steamer and ironing board guide owns domestic hard-water boiler descaling and calc-clean drainage, telescopic aluminium pole retraction, fabric and foam board cover stripping, and small appliance WEEE e-waste/steel mesh recycling. `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` retains floor-care appliances; `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains wardrobe garments; `/blog/how-to-declutter-a-small-apartment-in-dubai` retains high-rise apartment utility storage audits. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/junk-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the outdoor and patio furniture, sound systems and speakers, and small apartment decluttering guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-21.md`.
 
 ## Cannibalization notes for 2026-10-20 batch
 
