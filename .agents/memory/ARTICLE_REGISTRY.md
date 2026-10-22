@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-21**
+Last synchronized: **2026-10-22**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -135,10 +135,14 @@ Canonical implementation: `data/blog.ts`
 | 128 | `how to dispose of an old patio heater in dubai` | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai` | 2026-10-21 | Published |
 | 129 | `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai` | 2026-10-21 | Published |
 | 130 | `how to dispose of an old garment steamer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | 2026-10-21 | Published |
+| 131 | `how to dispose of an old air fryer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | 2026-10-22 | Published |
+| 132 | `how to dispose of an old shoe rack in dubai` | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai` | 2026-10-22 | Published |
+| 133 | `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` | 2026-10-22 | Published |
 
 ## Current counts
 
-- Published: **130**
+- Published: **133**
+- Published on 2026-10-22: **3**
 - Published on 2026-10-21: **3**
 - Published on 2026-10-20: **3**
 - Published on 2026-10-19: **3**
@@ -153,8 +157,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **100**
-- Next approved supplemental priority: **None queued; the 2026-10-21 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **103**
+- Next approved supplemental priority: **None queued; the 2026-10-22 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-22 batch
+
+- The air fryer and kitchen appliances guide owns small benchtop heating appliances, grease basin degreasing, Teflon-coated basket isolation, heating element e-waste, universal motor copper reclamation, and apartment trash chute ban. `/blog/how-to-dispose-of-an-old-microwave-in-dubai` retains countertop microwave ovens and magnetrons; `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` retains internal boilers, thermoblocks, and vibration pumps; `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai` retains large built-in white goods; `/blog/how-to-dispose-of-old-pots-and-pans-in-dubai` retains non-electrical cookware. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/junk-removal-dubai`.
+- The shoe rack and shoe cabinet guide owns entryway shoe storage, multi-tier shoe cabinets, Dubai Civil Defense communal corridor egress compliance and fines, unbolting anti-tip wall brackets, wall plaster repair for Ejari deposit security, and separating wire/bamboo/MDF materials. `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` retains bedroom closets and sliding wardrobe doors; `/blog/how-to-dispose-of-old-bookshelves-in-dubai` retains tall open bookcases; `/blog/decluttering-tips-for-small-apartments-in-dubai` retains general apartment space-saving audits; `/blog/what-to-remove-before-rental-handover-dubai` retains whole-property lease-end handover checklists. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The coffee table and side table guide owns central living room coffee tables, nesting side tables, console tables, heavy marble and quartz stone slab lifting, tempered glass tops, hairpin metal leg detachment, and living room lounge clearances. `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai` retains 6-8 seater dining suites and chair sets; `/blog/how-to-dispose-of-old-office-desks-in-dubai` retains corporate workstations and motorized sit-stand desks; `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains wall vanity mirrors and flat window glazing. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides and `/contact`. Inbound links were added from the microwave, wardrobe, and dining table guides.
+- Six existing repository images were visually verified and reused; no images were generated, downloaded or sourced externally. See `docs/article-images-2026-10-22.md`.
 
 ## Cannibalization notes for 2026-10-21 batch
 

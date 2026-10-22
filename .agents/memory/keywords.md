@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 328
+**Total Target Keywords**: 331
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-22
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old air fryer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old shoe rack in dubai` | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the air fryer and kitchen appliances guide owns small benchtop heating appliances, grease basin degreasing, Teflon-coated basket isolation, heating element e-waste, universal motor copper reclamation, and apartment trash chute ban; the microwave, coffee machine, dishwasher, and pots/pans guides retain countertop ovens, boilers/pumps, large white goods, and non-electrical cookware. The shoe rack and shoe cabinet guide owns entryway shoe storage, multi-tier shoe cabinets, Dubai Civil Defense communal corridor egress compliance and fines, unbolting anti-tip wall brackets, wall plaster repair for Ejari deposit security, and separating wire/bamboo/MDF materials; the wardrobe, bookshelf, small apartment decluttering, and rental handover guides retain bedroom closets, tall bookcases, room storage audits, and lease-end checklists. The coffee table and side table guide owns central living room coffee tables, nesting side tables, console tables, heavy marble and quartz stone slab lifting, tempered glass tops, hairpin metal leg detachment, and living room lounge clearances; the dining table, office desk, and mirrors/glass guides retain dining suites, office workstations, and architectural flat glass. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-21
 
