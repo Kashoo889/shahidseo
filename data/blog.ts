@@ -49,6 +49,260 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai",
+    title: "How to Dispose of an Old Chest of Drawers and Dresser in Dubai",
+    seoTitle: "Chest of Drawers Disposal in Dubai: Safe Removal Guide",
+    excerpt:
+      "Dispose of an old chest of drawers in Dubai safely: remove drawers, release anti-tip anchors, protect the exit route, and sort timber and hardware.",
+    category: "Guides",
+    tags: ["Chest of Drawers", "Dressers", "Bedroom Furniture", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/old-chest-of-drawers-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers steadying an empty wooden chest of drawers while releasing its anti-tip strap in a Dubai apartment bedroom",
+    publishedAt: "2026-10-23",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Empty every drawer and remove loose drawers before lifting; their weight and movement make a tall cabinet unstable on stairs and in lifts.",
+      "Release wall-mounted anti-tip straps only while a second person steadies the cabinet, then remove or make safe the exposed wall fixing.",
+      "Solid timber dressers may justify repair or reuse. Swollen particleboard, failed runners and a distorted carcass usually point to material recovery or bulky disposal.",
+      "Keep drawer boxes, runners, handles and fixings together until the next route is confirmed; premature dismantling can destroy reuse value.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old chest of drawers in Dubai",
+        content: [
+          "To dispose of an old chest of drawers or dresser in Dubai, empty it fully, photograph its condition, remove the drawers and release any anti-tip fixing while the cabinet is supported. Reuse a clean, stable piece where possible; otherwise keep timber or engineered-board panels and metal hardware separated for an appropriate bulky-furniture route. Checked on 23/10/2026.",
+          "The drawers are the first practical difference between this job and moving a plain cabinet. Six loaded drawers can add significant weight, slide open on a turn and shift the centre of gravity towards the person below. Taking them out makes the carcass lighter and gives both lifters proper handholds, but each drawer still needs to arrive with the cabinet if the piece is being reused.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture within its bulky-waste service, subject to its current applicant and location conditions; some development and free-zone areas are excluded. Check the current service entry or the building's approved process before moving the dresser into a shared area. A corridor or bin room is not a waiting bay.",
+        ],
+        callout: {
+          title: "Steady the cabinet before releasing an anti-tip strap",
+          text: "Once the wall restraint is removed, a tall or front-heavy dresser can tip as drawers are pulled. One person should hold the empty carcass upright while the other removes the fixing.",
+        },
+      },
+      {
+        heading: "Choose reuse, repair or disposal by condition",
+        content: [
+          "Test the carcass on a level floor with the drawers empty. It should sit square without rocking, the back panel should remain fixed, and each runner should support its drawer without dropping or binding. Photograph chips, stains, missing handles and repairs honestly. A recipient also needs the dimensions and confirmation that every drawer is present.",
+          "Solid timber can often be tightened, refinished or repaired. Veneered plywood may also be worth saving when damage is local. Particleboard and MDF react badly to repeated moisture: swollen edges, crumbling screw holes and a bowed top are structural problems, not cosmetic ones. Refastening an anti-tip strap does not make a failed carcass safe.",
+          "A dresser with mould, pest evidence or deep contamination should not be donated. Isolate it and tell the collector what you found before it travels through shared spaces. Our [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) covers the condition details that recipients need before accepting household furniture.",
+        ],
+      },
+      {
+        heading: "Empty drawers, remove stops and protect the wall",
+        content: [
+          "Check every drawer, including beneath removable liners and behind the lowest drawer. Documents, jewellery, keys and wall-fixing parts are easily missed. Pull each drawer out to its stop, support its underside and use the release levers if the runner has them. Do not force a modern metal runner sideways; bent slides make an otherwise reusable piece incomplete.",
+          "With the drawers stacked in order, look behind the cabinet for an anti-tip strap, L-bracket or French cleat. Have a second person hold the dresser while you unscrew the furniture end first, then remove the wall-side bracket if the tenancy requires it. Keep the hardware in a labelled bag and fill fixing holes only with a material suited to that wall construction.",
+          "Take off a detachable mirror before the cabinet moves and wrap it separately with rigid corner protection. Large mirror disposal has its own handling route in our [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai); do not lay unprotected glass inside an empty drawer cavity.",
+        ],
+      },
+      {
+        heading: "Dismantle only as far as the route requires",
+        content: [
+          "Keep a reusable chest intact apart from the drawers, feet or mirror needed for safe transport. Flat-packing a glued carcass usually splits dowels and tears the laminate around cam fittings. For a failed unit, a processing facility may separate solid timber, engineered board, steel runners, aluminium handles and other hardware, but the receiving outlet decides which grades it can recover.",
+          "Remove metal runners with a screwdriver only when dismantling has been agreed. Put screws, brackets and handles in a rigid tub so sharp pieces cannot puncture sacks. Painted or laminated board is not the same stream as clean untreated wood, and a wood-grain surface does not prove that a panel is solid timber.",
+          "The wider [wood waste disposal guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains how coatings and composite boards change the route. For a bedroom clear-out that also includes the main closet, use our [wardrobe disposal guide](/blog/how-to-dispose-of-an-old-wardrobe-in-dubai).",
+        ],
+        image: {
+          src: "/images/blog/chest-of-drawers-material-sorting-dubai.webp",
+          alt: "Worker sorting wooden drawers, engineered-board panels, metal runners, handles and fixings at a Dubai furniture recovery workshop",
+        },
+      },
+      {
+        heading: "Measure the bedroom exit and service-lift route",
+        content: [
+          "Measure the dresser after drawers, knobs and any mirror are removed, then check the bedroom door, corridor turn and lift opening. Protect projecting corners and carry the carcass upright unless the construction allows another orientation. Never lift by the top overhang or decorative trim; these joints are not handles.",
+          "In [Downtown Dubai](/areas/downtown-dubai), book the service lift and loading bay when the building requires it. In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), tower rules and vehicle access differ by cluster, so confirm the exact handover point rather than leaving furniture beside a waste room. Keep drawers strapped or boxed separately so they cannot roll off the trolley.",
+        ],
+      },
+      {
+        heading: "Book a bedroom furniture collection",
+        content: [
+          "Our [furniture removal service](/services/furniture-removal-dubai) handles chests of drawers, dressers and matching bedroom furniture, including safe drawer removal and wall-anchor release. If the dresser is part of a full bedroom or move-out job, the [house clearance team](/services/house-clearance-dubai) can plan the whole load and keep reusable pieces intact.",
+          "[Send photos of the front, back and exit route](/contact), plus the dimensions and lift details. We will confirm a fixed quote and whether the cabinet should remain assembled.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-lake-towers"],
+  },
+  {
+    slug: "how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai",
+    title: "How to Dispose of Old Bean Bags and Floor Cushions in Dubai",
+    seoTitle: "Bean Bag Disposal in Dubai: Contain Filling Safely",
+    excerpt:
+      "Dispose of old bean bags in Dubai without spilled beads: assess reuse, contain the liner, separate washable covers, and arrange bulky collection.",
+    category: "Guides",
+    tags: ["Bean Bags", "Floor Cushions", "Soft Furnishings", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/old-bean-bag-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Clearance worker placing an intact old floor cushion into a reusable transport sack beside a worn bean bag in a Dubai apartment",
+    publishedAt: "2026-10-23",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Keep the inner liner closed whenever possible. Expanded-polystyrene beads are extremely light and can spread through lifts, loading bays and drains within seconds.",
+      "A flattened bean bag may only need a washable cover repair or fresh filling; reuse is sensible when the fabric is clean, dry and structurally sound.",
+      "Bag torn bean bags before moving them. Use a rigid tub as secondary containment if beads are already escaping.",
+      "Separate removable textile covers from foam or bead filling only when a confirmed recipient accepts that material; ordinary textile bins may reject upholstered or filled items.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old bean bags in Dubai",
+        content: [
+          "To dispose of an old bean bag or floor cushion in Dubai, first check whether the cover and inner liner are clean enough to repair or pass on. If disposal is necessary, close every zip, patch small tears with strong tape, and place the whole item in a large sack before moving it. Keep loose filling contained and ask the chosen textile, recycling or bulky-waste route what it accepts. Checked on 23/10/2026.",
+          "Bean bags look light and simple until a seam opens in a lift. Expanded-polystyrene beads cling to carpet, move with air-conditioning draughts and escape through loading-bay drains. Shredded-foam filling is heavier but creates dust and absorbs spills. The useful rule is therefore containment first, material sorting second.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household furniture within its bulky-waste service, subject to the current eligibility and location rules. In developer-managed communities, residents may instead be directed to the building or community operator. Confirm the route before putting any soft furnishing outside the home.",
+        ],
+        callout: {
+          title: "Do not unzip a filled bean bag outdoors",
+          text: "A light breeze can scatter thousands of beads across a balcony, road or landscaped area. If the liner has failed, contain the entire bean bag indoors before attempting any transfer.",
+        },
+      },
+      {
+        heading: "Repair, refill or retire it?",
+        content: [
+          "Start with the cover. A removable cover with an intact zip can usually be washed according to its care label, and a small seam failure can be repaired. If the bag is simply flat, compare the cost of compatible refill material with replacing it. Never mix an unknown refill into the bag until you know whether the existing liner holds beads, foam crumb or natural filling.",
+          "Retire the item when the inner liner is brittle, several seams are failing, the filling smells damp, or contamination has soaked through. Bean bags exposed to pet urine, pests or floodwater are not suitable donations. Photograph a clean reusable item from several angles and say whether the inner liner can be removed; that information matters more to a recipient than a vague description such as 'good condition.'",
+          "Large floor cushions follow the same hygiene test. Upholstery foam that has become powdery or permanently compressed is unlikely to help a new owner, even when the outer fabric still looks presentable.",
+        ],
+      },
+      {
+        heading: "Contain loose beads or foam before the item moves",
+        content: [
+          "If the cover has a small tear but the liner is sound, close the cover and patch the tear. If beads are already leaking, stop walking through the area, switch off nearby fans and close balcony doors. Place a rigid tote or deep box beside the tear, then lift the damaged section into it. A vacuum can spread beads through its filter or create static, so use one only if its manufacturer says it is suitable for this material.",
+          "For a necessary transfer, work indoors with two people. Put the receiving sack inside a rigid tote, use a wide funnel, and keep both openings close together. Seal the sack before it leaves the tote. Do not deliberately empty a sound liner merely to reduce the apparent volume; the loose material is harder and less safe to handle than the intact furniture.",
+          "Wrap or bag memory-foam and shredded-foam inserts so fragments do not rub off in the service lift. Marking the bag for the collector is useful, but keep any note off the public-facing corridor where it could be mistaken for authorised collection instructions.",
+        ],
+        image: {
+          src: "/images/blog/bean-bag-filling-containment-dubai.webp",
+          alt: "Two workers transferring white bean bag beads through a wide funnel into a sealed sack held inside a rigid tote at a Dubai loading area",
+        },
+      },
+      {
+        heading: "Separate covers only when a destination accepts them",
+        content: [
+          "A clean removable cotton or polyester cover is a textile; the zip, piping and waterproof backing make some covers mixed material. A charity or textile collector may accept a washable cover for reuse, but a standard clothing bin is not automatically suitable for upholstery. Ask first. Our [clothes and textile disposal guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) explains why dry, clean condition matters.",
+          "Foam blocks, crumb foam and polystyrene filling need a confirmed downstream route. Local facilities differ in what grades and forms they can process, so avoid promising that a bag will be recycled simply because one component has a plastic code. When no verified recovery outlet accepts it, a licensed collector can keep the filling contained and route the residual portion correctly.",
+          "This differs from an old sofa, where timber framing, springs and large foam slabs can often be separated mechanically. See the [sofa recycling guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) if the clear-out includes both types of seating.",
+        ],
+      },
+      {
+        heading: "Moving soft furniture through a Dubai tower",
+        content: [
+          "In [Downtown Dubai](/areas/downtown-dubai), an oversized bean bag may fit in the lift but block the doorway while it is being turned. Measure the widest point without compressing it against other residents. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), apartment and townhouse access varies; tell the collector whether there are stairs, a narrow corridor or a long walk from the loading point.",
+          "Use a zipped moving sack or a clean heavy-duty furniture bag. Dragging the cover over concrete can open a seam, while forcing it into a rubbish chute can jam the hatch and release filling into the system. Keep the item inside until the booked crew or approved community collection is ready to receive it.",
+        ],
+      },
+      {
+        heading: "Arrange collection without losing the filling",
+        content: [
+          "Our [furniture removal service](/services/furniture-removal-dubai) handles bean bags, floor cushions and other soft furnishings with containment planned before the carry. For a single oversized item or a mixed load, the [bulky item collection team](/services/bulky-item-removal-dubai) can confirm the vehicle space and building access in advance.",
+          "[Send us a photo and tell us whether any filling is leaking](/contact). We will quote a fixed price and arrive with the right sacks and secondary containment.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-garden-storage-shed-in-dubai",
+    title: "How to Dispose of an Old Garden Storage Shed in Dubai",
+    seoTitle: "Garden Shed Disposal in Dubai: Dismantling & Sorting",
+    excerpt:
+      "Dispose of an old garden shed in Dubai safely: clear controlled contents, check anchors and utilities, dismantle in sequence, and sort the panels.",
+    category: "Guides",
+    tags: ["Garden Sheds", "Outdoor Storage", "Villa Clearance", "Material Sorting", "Dubai"],
+    coverImage: "/images/blog/garden-storage-shed-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers lifting a roof panel from a weathered resin garden storage shed on the tiled patio of a Dubai villa",
+    publishedAt: "2026-10-23",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Empty and sort the contents before dismantling. Paint, fuel, gas cylinders, batteries and garden chemicals cannot travel as ordinary shed debris.",
+      "Photograph wall fixings, floor anchors and any cable before touching them; electrical feeds and concrete bases may need qualified or landlord-approved work.",
+      "Remove doors and shelves, then roof panels, wall panels and frame members. Brace the remaining structure so a light shed cannot twist or lift in the wind.",
+      "Resin panels, metal rails, timber boards and mixed roofing need separate destination checks; a shed is not one recyclable material simply because it looks uniform.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old garden storage shed in Dubai",
+        content: [
+          "To dispose of an old garden storage shed in Dubai, empty it completely, separate chemicals and powered equipment, confirm who owns the structure, and check for anchors or electrical connections. Photograph the assembly, then remove doors and shelving before taking down the roof, walls and base in a controlled sequence. Sort resin, metal, timber and mixed roofing for their appropriate routes. Checked on 23/10/2026.",
+          "A compact shed can be more complicated than a gazebo because its contents hide the real risks. Half-used paint, mower batteries, pool chemicals and fuel cans must be removed before a clearance crew treats the shell as bulky material. Fixed lights, sockets or irrigation controls also change the job from simple dismantling to a utility-isolation task.",
+          "Dubai Municipality provides a bulky household waste service through its current [services directory](https://www.dm.gov.ae/dubai-municipality-services/) under location and eligibility conditions, while many villa developments manage collections through their own community channels. Confirm whether a dismantled shed is accepted and where it must be handed over. Do not stack panels against a boundary wall or on a pavement without an approved booking.",
+        ],
+        callout: {
+          title: "The shed must be empty before dismantling",
+          text: "A loose bottle can fall or leak as a wall moves. Remove every shelf item first and keep paint, fuel, batteries, gas cylinders and chemicals in their original, separate disposal routes.",
+        },
+      },
+      {
+        heading: "Check ownership, anchors and utilities",
+        content: [
+          "For a rented villa, ask the landlord or managing agent whether the shed must stay. A structure supplied with the property should not be removed merely because it looks old. If the tenant installed it, the lease or handover instruction may require removal of anchor bolts and repair of the paving; get any agreement to leave the base in writing.",
+          "Look inside each corner for bolts through the floor, brackets into the wall, ground anchors or silicone sealing the base. Then check for cables, lights, sockets and irrigation tubing. Isolate an electrical feed through an appropriate electrician rather than cutting a cable at the shed wall. A water or irrigation line should be capped and tested before panels come down.",
+          "Photographs taken before work starts preserve the layout and show which holes belonged to the shed. They also help a collection team price the job accurately: a freestanding resin box on pavers is very different from a timber structure fixed to a concrete slab.",
+        ],
+      },
+      {
+        heading: "Clear the contents into separate routes",
+        content: [
+          "Make four groups: items to keep, reusable garden tools, ordinary dry contents, and controlled materials. Keep liquids upright in their original labelled containers. Do not combine leftovers or pour them into soil, a street drain or an irrigation channel. The [household cleaning-products guide](/blog/how-to-dispose-of-household-cleaning-products-dubai) covers compatible handling for unwanted domestic chemicals, while gas bottles follow the [gas-cylinder disposal guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai).",
+          "Remove batteries from cordless tools where the design allows it and protect exposed terminals. Drain no fuel merely to make a mower lighter; arrange the correct route for the equipment and its fuel. Soil, leaves and plant cuttings belong in the garden-waste stream, not inside bags of shed hardware.",
+          "Only after every shelf, hook and floor corner is empty should the shell be dismantled. Sweep out sand so it does not blow across the garden while the base is lifted.",
+        ],
+      },
+      {
+        heading: "Dismantle the shed in a stable sequence",
+        content: [
+          "Choose a calm, cool part of the day and keep children and pets indoors. Photograph panel joints, then remove loose shelves, tool hooks and internal racks. Lift doors off their hinge pins or support them while bolts are removed. With the shed empty and lighter, add temporary bracing if taking off one wall could make the structure rack sideways.",
+          "Remove roof caps and roof panels next, working from a stable step platform rather than standing on the shed. Then take wall panels down one at a time while a second person supports the frame. Finish with base rails and anchor bolts. Keep fixings in a lidded container; screws hidden in a patio joint or lawn are a hazard long after the panels leave.",
+          "Do not copy this sequence blindly for masonry outbuildings, poured foundations or sheds with live utilities. Those are small demolition projects and may require property approval, specialist trades and a construction-waste route rather than ordinary bulky collection.",
+        ],
+      },
+      {
+        heading: "Sort resin, metal, timber and roofing",
+        content: [
+          "Resin sheds are commonly assembled from moulded plastic panels with steel or aluminium stiffeners. Keep clean panels separate, but ask the destination whether it accepts that resin type and size; weathered mixed-plastic panels are not guaranteed recyclable. Bundle straight metal rails and protect sharp ends. The [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) explains the separate metal route.",
+          "For a timber shed, remove hinges, screws and roofing where practical. Sound untreated boards may be reusable, while swollen sheet material, painted timber and bituminous roof felt need destination-specific handling. Our [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) covers the distinction between clean wood and treated or composite boards.",
+          "Stack panels flat or strap them upright to a rigid support so wind cannot catch them. Never balance sheet material loosely over a pickup bed or leave it leaning where a child, worker or gust can bring it down.",
+        ],
+        image: {
+          src: "/images/blog/garden-shed-material-sorting-dubai.webp",
+          alt: "Worker checking strapped resin shed panels and bundled metal rails beside a deck box and bagged fixings at a Dubai villa collection point",
+        },
+      },
+      {
+        heading: "Restore the villa garden after removal",
+        content: [
+          "In [Arabian Ranches 2](/areas/arabian-ranches-2), a side-yard shed may sit on pavers beside irrigation lines; in [Dubai Hills Estate](/areas/dubai-hills-estate), community access and exterior-change rules can affect vehicle timing and what must be restored. Check the current community instructions instead of assuming one villa area's process applies to another.",
+          "Remove protruding anchors, fill approved fixing holes and clean the slab. If a resin base trapped irrigation water, allow the area to dry and inspect for staining or pests before handover. The related [gazebo and sun-shade disposal guide](/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai) covers larger open structures and tensioned fabric canopies.",
+        ],
+      },
+      {
+        heading: "Arrange dismantling and one-load collection",
+        content: [
+          "Our [villa clearance team](/services/villa-clearance-dubai) can empty and dismantle freestanding garden storage structures as part of a wider property clear-out. For a single shed or deck box, the [bulky item removal service](/services/bulky-item-removal-dubai) can plan the panel stack, trolley route and vehicle space.",
+          "[Send photos of the shed inside and outside](/contact), including the base, anchors and side access. Tell us about any cable, liquid or chemical before booking so we can confirm what is in scope and provide a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches-2", "dubai-hills-estate"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai",
     title: "How to Dispose of an Old Air Fryer and Kitchen Appliances in Dubai",
     seoTitle: "Old Air Fryer Disposal in Dubai: Kitchen Gadgets & E-Waste",
@@ -169,7 +423,8 @@ export const BLOG_POSTS: BlogPost[] = [
           "However, years of storing sand-laden trainers, damp running shoes, and heavy footwear place immense stress on plastic pivot hinges, lightweight composite shelves, and wall brackets. When shoe cabinets wobble, lose drawer alignment, or fall foul of building corridor fire safety inspections, clearing them out properly protects your property and avoids building fines.",
         ],
         callout: {
-          title: "Dubai Civil Defense fire codes strictly ban shoe racks in communal apartment hallways",
+          title:
+            "Dubai Civil Defense fire codes strictly ban shoe racks in communal apartment hallways",
           text: "Under Dubai Civil Defense safety regulations and standard owners association (OA) rules, shared apartment corridors and staircases must remain 100% unobstructed at all times. Placing shoe racks, shoe cabinets, or loose footwear in communal hallways outside your front door creates severe fire egress hazards, attracting automatic fines from building management or impoundment of items.",
         },
       },
@@ -784,7 +1039,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To dispose of an old gazebo or sun shade in Dubai, loosen tension turnbuckles, unhook canvas or high-density polyethylene (HDPE) sails, unbolt tubular aluminium or steel frame poles, and extract masonry anchor studs. Book a licensed villa clearance service to haul away bulky frame bundles and restore patio surfaces before tenancy handovers. Checked on 20/10/2026.",
           "Outdoor shade structures are an indispensable feature of desert villa living across Dubai. In master-planned developments such as [Arabian Ranches](/areas/arabian-ranches), [The Villa](/areas/the-villa), and [Palm Jumeirah](/areas/palm-jumeirah), gazebos, cantilevered awnings, and tensioned shade sails provide essential thermal protection over swimming pools, outdoor dining terraces, and children's play areas.",
-          "However, the combination of intense solar UV radiation, high ambient temperatures exceeding 45°C, and occasional severe seasonal sandstorms severely degrades outdoor textiles over two to three summers. Shade fabrics become brittle, stitching rots, and lightweight steel frames bend or corrode. When outdoor structures reach the end of their usable life—or when tenants must restore a garden to its original condition before an Ejari move-out—dismantling and disposing of these oversized installations requires a safe, structured approach.",
+          "However, the combination of intense solar UV radiation, high ambient temperatures exceeding 45°C, and occasional severe seasonal sandstorms severely degrades outdoor textiles over two to three summers. Shade fabrics become brittle, stitching rots, and lightweight steel frames bend or corrode. When outdoor structures reach the end of their usable life—or when tenants must restore a garden to its original condition before an Ejari move-out—dismantling and disposing of these oversized installations requires a safe, structured approach. Enclosed resin, metal and timber structures follow the separate [garden storage shed disposal guide](/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai).",
         ],
         callout: {
           title: "Never dismantle tensioned shade structures during high-wind or shamal conditions",
@@ -6045,7 +6300,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Route 3: component recovery for a sofa that cannot be reused",
         content: [
-          "Ask the collector whether the sofa will be assessed whole or dismantled into streams. Recoverable components may include clean timber, ferrous metal springs and mechanisms, and certain textiles or foam where a receiving processor accepts them. Contamination, adhesives, composite boards and mixed fabrics can limit recovery.",
+          "Ask the collector whether the sofa will be assessed whole or dismantled into streams. Recoverable components may include clean timber, ferrous metal springs and mechanisms, and certain textiles or foam where a receiving processor accepts them. Contamination, adhesives, composite boards and mixed fabrics can limit recovery. Loose-filled seating needs a different containment method; see the [bean bag and floor cushion disposal guide](/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai).",
           "Dubai Municipality publishes technical guidance for waste collection, transport and treatment activities, including material categories such as wood, metal and textiles. That framework does not turn a household sofa into a public-bin recyclable. The actual outcome depends on separation quality and the receiving facility's current acceptance rules.",
           "A responsible provider should distinguish what it can document from what it merely hopes will happen. Ask where the mixed residue goes and whether the claimed recycling rate applies to your sofa, a combined load or the provider's wider operations.",
         ],
@@ -10250,7 +10505,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Booking bed frame collection with dimensions and photos",
         content: [
-          "To arrange smooth collection, send us a photograph of the assembled bed frame, note whether it is already dismantled or requires crew disassembly, and state the bed size (Single, Double, Queen, or King). If the bed frame is being cleared alongside wardrobes or bedroom dressers, mention the full inventory so we can allocate the correct vehicle capacity. Our [wardrobe disposal guide](/blog/how-to-dispose-of-an-old-wardrobe-in-dubai) offers helpful advice for matching bedroom storage pieces.",
+          "To arrange smooth collection, send us a photograph of the assembled bed frame, note whether it is already dismantled or requires crew disassembly, and state the bed size (Single, Double, Queen, or King). If the bed frame is being cleared alongside wardrobes or bedroom dressers, mention the full inventory so we can allocate the correct vehicle capacity. Our [wardrobe disposal guide](/blog/how-to-dispose-of-an-old-wardrobe-in-dubai) and [chest of drawers disposal guide](/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai) cover the matching storage pieces.",
           "Our [furniture removal service](/services/furniture-removal-dubai) handles careful disassembly, packaging, and responsible recycling. For complete property turnarounds and tenancy handovers, our comprehensive [house clearance service](/services/house-clearance-dubai) clears every room in a single visit.",
           "[Message our team on WhatsApp or submit your booking](/contact) with your photos and access details for an instant fixed-price quote.",
         ],

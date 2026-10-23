@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 331
+**Total Target Keywords**: 334
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-23
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old chest of drawers in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old bean bags in dubai` | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the chest of drawers guide owns drawer removal, runner release, anti-tip restraints and bedroom storage carcass sorting; wardrobe, bookshelf and bed-frame guides retain full-height closets, open shelving and sleeping frames. The bean bag guide owns loose EPS or foam filling containment, liner failure, cover separation and oversized soft-seat transport; the sofa guide retains framed upholstery, springs and slab foam, while the textile guide retains clothing and accepted household fabrics. The garden storage shed guide owns enclosed resin, timber and metal storage structures, contents-first clearance, utility and anchor checks, panel dismantling and slab restoration; the gazebo guide retains open shade structures and tensioned fabric, while wood and garden-waste guides retain general timber and organic waste. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-22
 

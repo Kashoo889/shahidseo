@@ -133,11 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-22)
+## 4. Publication Progress (Updated 2026-10-23)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **103**
-- Total published blog articles: **133**
+- Published supplemental approved articles: **106**
+- Total published blog articles: **136**
+- Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
 - Published on 2026-10-21: **3**
 - Published on 2026-10-20: **3**
@@ -148,7 +149,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-22 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-23 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                             | Status    | Published  |
 | ------------------ | ----------------------------------------------------------- | --------- | ---------- |
@@ -263,4 +264,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old air fryer in dubai` | Published | 2026-10-22 |
 | Approved expansion | `how to dispose of an old shoe rack in dubai` | Published | 2026-10-22 |
 | Approved expansion | `how to dispose of an old coffee table in dubai` | Published | 2026-10-22 |
+| Approved expansion | `how to dispose of an old chest of drawers in dubai` | Published | 2026-10-23 |
+| Approved expansion | `how to dispose of old bean bags in dubai` | Published | 2026-10-23 |
+| Approved expansion | `how to dispose of an old garden storage shed in dubai` | Published | 2026-10-23 |
 

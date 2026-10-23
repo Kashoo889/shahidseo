@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-22**
+Last synchronized: **2026-10-23**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -138,10 +138,14 @@ Canonical implementation: `data/blog.ts`
 | 131 | `how to dispose of an old air fryer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | 2026-10-22 | Published |
 | 132 | `how to dispose of an old shoe rack in dubai` | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai` | 2026-10-22 | Published |
 | 133 | `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` | 2026-10-22 | Published |
+| 134 | `how to dispose of an old chest of drawers in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | 2026-10-23 | Published |
+| 135 | `how to dispose of old bean bags in dubai` | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai` | 2026-10-23 | Published |
+| 136 | `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai` | 2026-10-23 | Published |
 
 ## Current counts
 
-- Published: **133**
+- Published: **136**
+- Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
 - Published on 2026-10-21: **3**
 - Published on 2026-10-20: **3**
@@ -157,8 +161,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **103**
-- Next approved supplemental priority: **None queued; the 2026-10-22 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **106**
+- Next approved supplemental priority: **None queued; the 2026-10-23 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-23 batch
+
+- The chest of drawers and dresser guide owns drawer removal, drawer-stop and slide release, anti-tip strap removal, solid-timber versus swollen engineered-board assessment, hardware retention, and bedroom exit measurements. `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai` retains full-height closets and sliding doors; `/blog/how-to-dispose-of-old-bookshelves-in-dubai` retains open shelving; `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai` retains sleeping frames and slats. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/house-clearance-dubai`.
+- The bean bag and floor cushion guide owns EPS bead and crumb-foam containment, inner-liner failure, safe filling transfer, removable cover assessment and soft-seat transport sacks. `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains framed upholstered seating, springs and large foam slabs; `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains clothing and accepted household textiles. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The garden storage shed guide owns enclosed resin, timber and metal storage structures, contents-first clearance, utility and anchor checks, roof-to-base dismantling order, panel strapping and slab restoration. `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` retains open shade structures and tensioned fabric; `/blog/how-to-dispose-of-wood-waste-in-dubai` retains general timber routing; `/blog/how-to-dispose-of-garden-waste-in-dubai` retains plant cuttings and soil. Commercial intent stays with `/services/villa-clearance-dubai` and `/services/bulky-item-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, the current Dubai Municipality services directory and `/contact`. Inbound links were added from the bed-frame, sofa and gazebo guides.
+- Six original article-specific images were generated, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-23.md`.
 
 ## Cannibalization notes for 2026-10-22 batch
 
