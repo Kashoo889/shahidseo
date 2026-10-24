@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 334
+**Total Target Keywords**: 337
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-24
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword | Intent | Target URL | Page type | Priority |
+| --- | --- | --- | --- | --- |
+| `how to dispose of an old tv stand in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old sewing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old pet furniture in dubai` | Informational | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the TV stand and media console guide owns device disconnection, hidden cable and account checks, loose shelf and tempered-glass handling, flat-pack connector preservation and the split between furniture and attached electronics; the TV, sound-system and coffee-table guides retain screens, AV equipment and general occasional tables. The sewing-machine guide owns portable, cabinet-mounted and treadle identification, needle and oil containment, proprietary accessory retention, cabinet-hinge separation and the boundary between reusable machinery, e-waste and furniture; the small-electronics and furniture guides retain their broader material routes. The pet-furniture guide owns hygiene screening, dander and removable-cover containment, top-down cat-tree dismantling, sisal and carpet-covered composite sorting, and contaminated-item disclosure; the textile, wood-waste and general furniture guides retain their wider streams. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-23
 

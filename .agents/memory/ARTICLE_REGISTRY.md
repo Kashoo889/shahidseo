@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-23**
+Last synchronized: **2026-10-24**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
@@ -141,10 +141,14 @@ Canonical implementation: `data/blog.ts`
 | 134 | `how to dispose of an old chest of drawers in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | 2026-10-23 | Published |
 | 135 | `how to dispose of old bean bags in dubai` | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai` | 2026-10-23 | Published |
 | 136 | `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai` | 2026-10-23 | Published |
+| 137 | `how to dispose of an old tv stand in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai` | 2026-10-24 | Published |
+| 138 | `how to dispose of an old sewing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai` | 2026-10-24 | Published |
+| 139 | `how to dispose of old pet furniture in dubai` | Informational | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai` | 2026-10-24 | Published |
 
 ## Current counts
 
-- Published: **136**
+- Published: **139**
+- Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
 - Published on 2026-10-21: **3**
@@ -161,8 +165,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **106**
-- Next approved supplemental priority: **None queued; the 2026-10-23 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **109**
+- Next approved supplemental priority: **None queued; the 2026-10-24 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-24 batch
+
+- The TV stand and media console guide owns device disconnection, concealed cables and storage media, tempered-glass shelf protection, flat-pack connector preservation, long low-unit handling and separation of the furniture carcass from electronics. `/blog/how-to-dispose-of-an-old-tv-in-dubai` retains screens; `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` retains AV equipment; `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` retains general occasional tables. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The sewing-machine and table guide owns portable, cabinet-mounted and treadle identification; needle, pedal, accessories and oil containment; cabinet release; cast-iron base handling; and the decision between repair, electrical recovery and furniture sorting. `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains loose batteries and general small devices; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the broad e-waste framework. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The pet-furniture and cat-tree guide owns hygiene and pest screening, dander and removable-cover containment, top-down cat-tree dismantling, sisal and carpet-covered composite sorting, and contaminated-item disclosure. `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai` retains general household textiles; `/blog/how-to-dispose-of-wood-waste-in-dubai` retains the wider timber stream; general furniture guides retain non-pet household pieces. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/house-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, the current Dubai Municipality services directory and `/contact`. The blog hub provides immediate inbound discovery, with contextual inbound links added from the TV, small-electronics and textile guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-24.md`.
 
 ## Cannibalization notes for 2026-10-23 batch
 

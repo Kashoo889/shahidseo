@@ -133,11 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-23)
+## 4. Publication Progress (Updated 2026-10-24)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **106**
-- Total published blog articles: **136**
+- Published supplemental approved articles: **109**
+- Total published blog articles: **139**
+- Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
 - Published on 2026-10-21: **3**
@@ -149,7 +150,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-23 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-24 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                             | Status    | Published  |
 | ------------------ | ----------------------------------------------------------- | --------- | ---------- |
@@ -267,4 +268,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old chest of drawers in dubai` | Published | 2026-10-23 |
 | Approved expansion | `how to dispose of old bean bags in dubai` | Published | 2026-10-23 |
 | Approved expansion | `how to dispose of an old garden storage shed in dubai` | Published | 2026-10-23 |
+| Approved expansion | `how to dispose of an old tv stand in dubai` | Published | 2026-10-24 |
+| Approved expansion | `how to dispose of an old sewing machine in dubai` | Published | 2026-10-24 |
+| Approved expansion | `how to dispose of old pet furniture in dubai` | Published | 2026-10-24 |
 

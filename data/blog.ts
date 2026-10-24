@@ -49,6 +49,276 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai",
+    title: "How to Dispose of an Old TV Stand and Media Console in Dubai",
+    seoTitle: "Old TV Stand Disposal in Dubai: Safe Removal Guide",
+    excerpt:
+      "Dispose of an old TV stand in Dubai safely: disconnect every device, secure glass and drawers, assess reuse, and separate furniture from e-waste.",
+    category: "Guides",
+    tags: ["TV Stands", "Media Consoles", "Living Room Furniture", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/old-tv-stand-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers checking an empty wooden TV stand with its drawers removed in a Dubai apartment living room",
+    publishedAt: "2026-10-24",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Disconnect the television, router, game console and sound equipment before moving the cabinet; furniture and electronics need different checks and destinations.",
+      "Remove loose shelves and drawers, but keep labelled fixings with a reusable unit. Tempered-glass shelves need rigid edge protection and upright transport.",
+      "Do not dismantle a sound flat-pack media console unless access requires it. Reassembly holes in particleboard often fail after repeated use.",
+      "Sort failed units into timber or engineered board, metal hardware, protected flat glass and separate e-waste only after confirming what the receiving outlet accepts.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old TV stand in Dubai",
+        content: [
+          "To dispose of an old TV stand or media console in Dubai, unplug and remove every device, empty the drawers, photograph the cabinet and assess whether it is stable enough to reuse. Take out loose shelves and protect any glass before the stand moves. If it has failed, keep the furniture materials separate from cables, set-top boxes and other electronics, then use a confirmed bulky-furniture or recovery route. Checked on 24/10/2026.",
+          "The cabinet is only half of this job. Media units hide extension leads, router power supplies, HDMI cables, remotes and occasionally a hard drive or streaming box behind their back panels. Leaving one connected can damage the device, pull a wall socket or expose account data when the furniture changes hands.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and appliances within its bulky-waste service, subject to its current applicant and location conditions; investment zones are excluded. A building or master developer may use a different approved process, so confirm the collection point before moving the unit into a corridor or waste room.",
+        ],
+        callout: {
+          title: "The television is a separate item",
+          text: "Remove the screen before touching the stand. A television should travel upright with screen protection and follow an electronics route, not remain balanced on a cabinet trolley.",
+        },
+      },
+      {
+        heading: "Clear the devices, cables and personal data first",
+        content: [
+          "Switch everything off at the socket, photograph the cable layout if it will be rebuilt, then disconnect one device at a time. Label the router lead, soundbar power supply and other similar adapters rather than dropping them into one bag. Check the rear void and underneath the lowest shelf for remote controls, access cards and small storage devices.",
+          "Reset any streaming box, console or network equipment that stores an account or Wi-Fi details before it leaves your control. The [old computers and laptops guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) explains the same data-first principle for larger devices. An old television has its own handling and e-waste route in our [TV disposal guide](/blog/how-to-dispose-of-an-old-tv-in-dubai).",
+          "Coil reusable cables loosely and secure them with ties. Do not wrap them around a glass shelf or leave a heavy power strip inside a drawer, where it can slide forward while the cabinet is being carried.",
+        ],
+      },
+      {
+        heading: "Decide whether the media unit is reusable",
+        content: [
+          "Put the empty cabinet on a level floor and test it without the television. The top should remain flat, the carcass should not rack sideways, and doors and drawers should close without lifting a corner. Check around cable holes and castors, where particleboard often crumbles, and along the lower edge for swelling caused by mopping water or balcony humidity.",
+          "A structurally sound stand is useful when its dimensions, shelf spacing and maximum intended screen size are clear. Photograph the front, rear cable openings and any marks. Include every shelf, foot and fixing. If it has a wall-restraint strap, keep the bracket and screws in a labelled bag but tell the recipient that their wall needs an appropriate new fixing.",
+          "Cracked glass, a bowed top, loose leg sockets or delaminated board can make the unit unsafe under a television. Do not hide those faults in a marketplace listing. Our [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) sets out the wider condition test for household furniture.",
+        ],
+      },
+      {
+        heading: "Remove shelves and dismantle only when necessary",
+        content: [
+          "Lift adjustable wooden shelves away and tape their support pins into a small bag. A glass shelf should be lifted with two hands, wrapped on both faces and given rigid protection along every edge. Carry it upright in a padded rack or between firm boards; stacking it flat beneath other furniture creates concentrated loads it was not designed to take.",
+          "For an intact flat-pack unit, remove drawers, doors, feet or a detachable top only when the exit route demands it. Mark panels discreetly and photograph each connector before undoing it. Cam locks and dowels in particleboard may not grip a second time, so unnecessary dismantling can turn reusable furniture into waste.",
+          "If glass is already chipped or broken, isolate the area and use a rigid container rather than a thin sack. The [mirror and flat-glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers protective handling and why furniture glass does not belong in a bottle bank.",
+        ],
+        image: {
+          src: "/images/blog/tv-stand-material-sorting-dubai.webp",
+          alt: "Worker sorting engineered-board TV stand panels, metal runners, protected glass shelves and electronic cables at a Dubai recovery workshop",
+        },
+      },
+      {
+        heading: "Sort the cabinet materials without mixing in e-waste",
+        content: [
+          "A failed media console may contain laminated particleboard, solid timber trim, steel hinges, aluminium handles and tempered glass. Remove hardware only when a collector or facility wants separated material. Painted or laminated board is not the same stream as clean untreated wood; the [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains that distinction.",
+          "Set-top boxes, routers, LED lighting strips and powered USB hubs are electronics even when they were installed inside the cabinet. Keep them dry and separate. Never assume a furniture recycler will accept an electrical component, or that an electronics drop-off will accept the surrounding cabinet.",
+          "Bundle long panels flat, place screws and sharp brackets in a rigid tub, and protect glass as a separate load. This source separation gives the receiving operator a realistic chance to recover suitable material without sorting through a mixed, unsafe pile.",
+        ],
+      },
+      {
+        heading: "Plan the apartment exit before lifting",
+        content: [
+          "Measure the console after loose parts are removed, then check the living-room doorway, corridor turn, lift opening and loading-bay route. Long low units are awkward because one carrier may turn before the other can see the corner. Use a flat trolley where the floor and building rules allow, and never lift by a drawer runner, thin top overhang or cable-management panel.",
+          "In [Dubai Marina](/areas/dubai-marina), book any required service-lift and loading slot before bringing the cabinet out. In [Business Bay](/areas/business-bay), confirm the tower's approved access and vehicle handover point. Keep the unit inside the apartment until the crew or authorised collection is ready.",
+        ],
+      },
+      {
+        heading: "Arrange collection for the stand and electronics",
+        content: [
+          "Our [furniture removal service](/services/furniture-removal-dubai) can move TV stands and media consoles with their loose shelves and fittings protected. When the load includes the television, speakers or several large living-room items, the [bulky item collection team](/services/bulky-item-removal-dubai) can plan the separate handling streams together.",
+          "[Send photos of the front, rear and exit route](/contact), along with the stand dimensions and a list of any electronics. We will confirm a fixed quote and tell you what should be disconnected before arrival.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "business-bay"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai",
+    title: "How to Dispose of an Old Sewing Machine and Table in Dubai",
+    seoTitle: "Old Sewing Machine Disposal in Dubai: Reuse or Recycle",
+    excerpt:
+      "Dispose of an old sewing machine in Dubai safely: identify its type, protect the needle and oil, preserve accessories, and separate its cabinet correctly.",
+    category: "Guides",
+    tags: ["Sewing Machines", "Sewing Tables", "Small Appliances", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/old-sewing-machine-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers checking an unplugged sewing machine mounted in a wooden folding cabinet in a Dubai apartment hobby room",
+    publishedAt: "2026-10-24",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Identify whether the machine is portable, cabinet-mounted, treadle or industrial before booking collection; the weight and separation method differ considerably.",
+      "Unplug an electric machine, lower or remove the needle, secure the presser foot and pack the foot pedal, power lead, bobbins and accessories together.",
+      "Do not force a cabinet-mounted machine out of its hinges. Support the machine head and follow its manual or ask a repair technician when the release method is unclear.",
+      "A complete repairable machine has more reuse value than separated scrap. Split wood, steel and electrical parts only after repair or donation has been ruled out.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old sewing machine in Dubai",
+        content: [
+          "To dispose of an old sewing machine in Dubai, identify the model and mounting style, test it only if the cable and plug are safe, and keep its pedal, case, manual and accessories together. Offer a clean working or repairable machine for reuse first. If it cannot be repaired, protect the needle area, contain any oil, and route the electrical machine separately from its wooden table or cabinet. Checked on 24/10/2026.",
+          "A modern portable machine may weigh little more than a small appliance. A cast-metal machine in a folding cabinet can place most of its weight on two small hinges, while an iron treadle base may need two people even after the wooden top is removed. A collector needs to know which version is waiting before choosing a trolley and carrying plan.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household furniture and electrical appliances in its bulky-waste service, subject to current eligibility and location conditions. Developer-managed and free-zone properties may use their own approved route, so check before leaving a cabinet at a communal collection point.",
+        ],
+        callout: {
+          title: "Keep the machine head supported",
+          text: "A cabinet machine can swing or drop when its retaining screws are released. Support its full weight and use the model's proper release method; never pull it free by the handwheel or needle bar.",
+        },
+      },
+      {
+        heading: "Identify the machine before deciding its route",
+        content: [
+          "Find the model plate, photograph it and note whether the machine powers on, feeds fabric and forms a stitch. Do not energise a machine with a cracked plug, brittle insulation, scorch marks or a strong electrical smell. A repair shop can assess it without creating a shock or fire risk at home.",
+          "Older does not automatically mean worthless. Complete mechanical machines, treadle models and well-made cabinets may interest repairers, sewing groups or collectors, but condition and parts availability matter. Record rust, seized controls, missing bobbin cases and damaged veneer honestly. Avoid cleaning decals or painted details with strong solvents.",
+          "Keep presser feet, bobbins, plates, the foot controller, knee lever and instruction book with the correct machine. A small proprietary part can determine whether a recipient can use it. Loose needles and pins should go into a closed puncture-resistant container, not a fabric accessory bag.",
+        ],
+      },
+      {
+        heading: "Prepare an electric or mechanical machine safely",
+        content: [
+          "Unplug the power lead from the wall and the machine. Lower the presser foot, move the needle to its down position for transport or remove it into a rigid sharps container, and cover the working area. Lock the folding arm or embroidery unit if the manufacturer provides a transport position.",
+          "Coil the pedal and lead without sharp bends and pack them beside the machine. Remove thread cones, scissors and oil bottles from drawers. Keep sewing-machine oil upright in a sealed tray; do not pour it into a sink or mix it with the machine simply to make one parcel.",
+          "If the machine contains a removable rechargeable battery or separate electronic control, follow the manufacturer's instructions before removal. The [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains terminal protection and damaged-battery precautions.",
+        ],
+      },
+      {
+        heading: "Separate a sewing table only when the route requires it",
+        content: [
+          "For a cabinet-mounted model, empty every drawer and fold out the worktop so you can see how the machine is supported. Some heads tilt back on pins; others use bolts, locking clips or a lift mechanism. Photograph the assembly, have a second person support the weight and stop if a spring-loaded lift or unfamiliar counterbalance is involved.",
+          "A treadle machine has a heavy iron base connected by a belt to the handwheel. Remove the belt without cutting it if the machine may be reused, secure the treadle so it cannot swing, and keep the drawers closed. Do not lift a cast-iron base by the flywheel or decorative side braces.",
+          "Portable machines should travel in their original hard case when available. If the case is cracked, place the machine upright in a strong box with firm padding around the base rather than the controls.",
+        ],
+        image: {
+          src: "/images/blog/sewing-machine-cabinet-separation-dubai.webp",
+          alt: "Technician inspecting a domestic sewing machine beside its foot pedal, contained oil, wooden cabinet panels and sorted metal fixings",
+        },
+      },
+      {
+        heading: "Choose reuse, electronics recovery or material sorting",
+        content: [
+          "A working complete machine should remain intact. A repairable machine is also more useful with its motor, controls and accessories together. Contact a recipient with photos before travelling; donation points and repairers set their own acceptance rules, especially for very heavy cabinet models.",
+          "A failed electric machine belongs with appropriate electrical or electronic equipment, not loose in a furniture skip. The [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers the data-free but still specialist route for small powered equipment. A wooden cabinet may follow a furniture or timber stream, while a treadle base may be accepted as scrap metal after the reusable option is exhausted.",
+          "Laminated particleboard, solid timber, cast iron, steel fasteners, plastic housings and electronic controls are separate materials. The receiving facility—not appearance alone—decides which can be recovered. Keep oily cloths and leaking containers isolated and disclose them to the collector.",
+        ],
+      },
+      {
+        heading: "Move it without damaging floors or fingers",
+        content: [
+          "Close and strap the cabinet only after confirming the machine is locked in its transport position. Protect folding leaves and drawers, then use a low trolley under the load-bearing base. Cabinet hinges, treadle linkages and folding tops create pinch points; hands should stay on the frame, not between moving sections.",
+          "In [Downtown Dubai](/areas/downtown-dubai), reserve the service lift and loading access where required. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), tell the crew whether the machine is upstairs in a townhouse or along an apartment corridor. Measure the full cabinet with its leaves folded before collection day.",
+        ],
+      },
+      {
+        heading: "Book collection for a sewing machine and cabinet",
+        content: [
+          "Our [appliance removal service](/services/appliance-removal-dubai) can collect failed electric sewing machines with their pedals and leads kept together. For a cabinet, treadle base or a wider hobby-room clearance, the [bulky item removal team](/services/bulky-item-removal-dubai) can plan the furniture and electrical parts as one controlled job.",
+          "[Send a photo of the machine open and closed](/contact), plus the model plate, approximate size, floor and lift details. We will confirm a fixed quote and whether the machine should remain mounted for collection.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai",
+    title: "How to Dispose of Old Pet Furniture and Cat Trees in Dubai",
+    seoTitle: "Pet Furniture & Cat Tree Disposal in Dubai: Safe Guide",
+    excerpt:
+      "Dispose of pet furniture in Dubai safely: check hygiene, dismantle cat trees without spreading fur, separate mixed materials, and arrange bulky collection.",
+    category: "Guides",
+    tags: ["Pet Furniture", "Cat Trees", "Pet Beds", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/pet-furniture-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers dismantling a worn sisal cat tree beside an old pet bed in a Dubai apartment living room",
+    publishedAt: "2026-10-24",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Reuse only clean, dry and structurally safe pet furniture. Items affected by fleas, ringworm, urine, mould or persistent odour need isolation rather than donation.",
+      "Vacuum loose fur with suitable equipment and bag removable covers before carrying the item through a shared corridor or service lift.",
+      "Dismantle tall cat trees from the top down while a second person steadies the base; worn threaded posts can release suddenly.",
+      "Sisal rope, carpet, foam, engineered board, solid timber and metal fixings are mixed materials. Separate them only for a confirmed destination.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old pet furniture in Dubai",
+        content: [
+          "To dispose of an old cat tree, pet bed, scratching post or pet step in Dubai, first decide whether it is hygienic and structurally safe enough to pass on. Wash removable covers, contain loose fur and dismantle tall furniture from the top down if access requires it. Isolate any item affected by pests, infectious skin conditions, mould or deep contamination, and tell the collector before it moves. Checked on 24/10/2026.",
+          "Pet furniture is not ordinary clean upholstery. Hair hides under platform edges, scratching posts shed sisal, and urine can penetrate carpet into the particleboard beneath. On the other hand, a sound washable bed or lightly used cat tower should not be discarded simply because an animal has outgrown it. The decision starts with hygiene, then structure.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture within its bulky-waste service, subject to its current applicant and location conditions; investment zones are excluded. Confirm whether your building or community uses that service or its own approved collector before placing anything outside the home.",
+        ],
+        callout: {
+          title: "Do not donate an item with a suspected pest or fungal issue",
+          text: "Bag or wrap it where it stands, keep it away from other soft furnishings, and obtain appropriate veterinary or pest-control advice. Moving it uncovered can spread the problem through a building and vehicle.",
+        },
+      },
+      {
+        heading: "Use a strict hygiene and condition check",
+        content: [
+          "Remove the washable cover from a pet bed and follow its care label. Inspect the foam for damp, black spotting, crumbling, embedded odour and chewing damage. A clean cover does not make contaminated filling suitable for reuse. Check timber beds and feeding stands for swollen edges, trapped food and loose screws.",
+          "For a cat tree, test every platform while the tower stands on a level floor. The base should remain flat, posts should tighten fully and platform joints should not rotate under light hand pressure. Frayed sisal can be replaced; a split post, stripped insert or water-swollen base is a structural failure.",
+          "If the item passes both checks, photograph it after cleaning and state its dimensions, weight and pet history honestly. A recipient with allergies or a multi-pet household needs useful disclosure, not a vague claim that it has been 'sanitised.' Ask the charity, rescue or new owner whether they accept used pet furniture before arranging transport.",
+        ],
+      },
+      {
+        heading: "Contain fur, dust and removable textiles",
+        content: [
+          "Work in a ventilated room with the balcony door closed if loose fur could blow outside. Use a vacuum and filter suitable for fine hair and dander, then wipe hard surfaces with a product compatible with the material. Avoid soaking carpet-covered particleboard; trapped moisture can create a new mould problem.",
+          "Place laundered covers in a clean bag only after they are completely dry. Bag contaminated or crumbling foam separately and disclose it to the collector. Standard clothing-donation bins are not automatically suitable for pet-bed covers, upholstered hammocks or foam inserts; our [textile disposal guide](/blog/how-to-dispose-of-old-clothes-and-textiles-dubai) explains why cleanliness and recipient rules matter.",
+          "Do not spray heavy fragrance to mask an odour. It makes the condition harder for a recipient or collector to assess and can irritate people and animals.",
+        ],
+      },
+      {
+        heading: "Dismantle a cat tree from the top down",
+        content: [
+          "Photograph the assembled tower and mark matching posts if it may be reused. Remove toys and hammocks, then have one person steady the base while the other unscrews the highest platform. Continue down one level at a time. Do not remove a lower brace first or lean a partly dismantled tower against a wall.",
+          "Many scratching posts have a threaded rod or captured nut at each end. Turn the post rather than twisting the platform, and stop if the insert spins inside swollen board. Forcing it can release the platform suddenly. Place bolts, washers and brackets in a lidded tub so they cannot catch on sacks or be swallowed by a pet before collection.",
+          "A one-piece timber pet ramp or dog step may remain assembled if it fits the route. Remove only loose cushions and detachable rails. Folding pet stairs should be tied closed so the mechanism cannot open while someone carries it.",
+        ],
+        image: {
+          src: "/images/blog/pet-furniture-material-sorting-dubai.webp",
+          alt: "Worker sorting sisal posts, carpeted cat-tree platforms, timber parts, washable pet-bed covers and metal fixings at a Dubai recovery area",
+        },
+      },
+      {
+        heading: "Separate materials only for a confirmed route",
+        content: [
+          "A typical cat tree combines sisal or jute rope, synthetic carpet, cardboard or timber posts, particleboard platforms, plastic caps and steel fasteners. Most outlets will not accept that intact object as one recyclable material. Ask what the destination wants before stripping it; premature dismantling also removes any remaining reuse value.",
+          "Clean solid-timber parts may have a recovery route, while laminated or carpet-glued engineered board is harder to process. The [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) covers coatings and composite boards. Worn rope, glued carpet and contaminated foam are commonly residual materials unless a specialist confirms otherwise.",
+          "Wire pet crates and plastic carriers are equipment rather than furniture. Keep doors and latches attached if they are reusable. If damaged, contain sharp wire ends and ask the receiving outlet about its metal or rigid-plastic criteria instead of adding them loose to a mixed pile.",
+        ],
+      },
+      {
+        heading: "Protect shared access during collection",
+        content: [
+          "Bag soft items and bundle dismantled posts before opening the apartment door. This prevents fur, carpet fibres and loose rope from marking the lift or catching on fire doors. Measure large bases and enclosed cat houses; their platform may still be too wide for a corridor turn after the posts have been removed.",
+          "In [Jumeirah Village Circle](/areas/jumeirah-village-circle), tell the crew whether the item is in a townhouse or apartment and where the vehicle can load. In [Dubai Hills Estate](/areas/dubai-hills-estate), confirm community and building access before the collection. Never leave pet furniture beside a communal bin while waiting for an unconfirmed pickup.",
+        ],
+      },
+      {
+        heading: "Arrange a hygienic pet-furniture collection",
+        content: [
+          "Our [furniture removal service](/services/furniture-removal-dubai) handles cat trees, pet beds, ramps and feeding stations with loose components contained before the carry. If the items are part of a whole-room or move-out clear-out, the [house clearance team](/services/house-clearance-dubai) can plan them alongside the remaining furniture.",
+          "[Send photos of the item, its base and the access route](/contact), and tell us clearly about odour, moisture, pests or contamination. We will confirm whether we can collect it and provide a fixed quote before arrival.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "dubai-hills-estate"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai",
     title: "How to Dispose of an Old Chest of Drawers and Dresser in Dubai",
     seoTitle: "Chest of Drawers Disposal in Dubai: Safe Removal Guide",
@@ -5356,7 +5626,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to bundle electronics into your next junk removal pickup",
         content: [
-          "If you are clearing out an entire apartment or villa, you do not need to make separate trips to supermarket drop-off bins. Simply keep batteries, old tablets, kitchen blenders, and electronic cables boxed together.",
+          "If you are clearing out an entire apartment or villa, you do not need to make separate trips to supermarket drop-off bins. Simply keep batteries, old tablets, kitchen blenders, and electronic cables boxed together. A cabinet-mounted appliance needs a different preparation sequence; see the [sewing machine and table disposal guide](/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai) before separating its electrical and furniture parts.",
           "When our [general junk removal team](/services/junk-removal-dubai) or [same-day clearance service](/services/same-day-junk-removal-dubai) collects your unwanted items, our technicians separate electronic components on our trucks before transporting them to certified material recovery centers. [Send us photos of your clearance pile](/contact) for a clear, fixed quote and same-day scheduling.",
         ],
       },
@@ -8217,7 +8487,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "What most routes will not take",
         content: [
           "Underwear and socks are generally not accepted for reuse, though some textile recycling routes will take them as material. Single socks, single shoes and single gloves have no reuse value at all and should go straight to recycling rather than being hopefully bagged.",
-          "Anything mouldy, pest-affected or contaminated with chemicals, oil or paint is out of scope for both donation and ordinary textile recycling, and mixing it in risks the rest of the bag. Fabric that has been stored in a damp villa store or a garage for years needs checking before it is bagged, not after.",
+          "Anything mouldy, pest-affected or contaminated with chemicals, oil or paint is out of scope for both donation and ordinary textile recycling, and mixing it in risks the rest of the bag. Fabric that has been stored in a damp villa store or a garage for years needs checking before it is bagged, not after. Upholstered beds and scratching towers used by animals need the stricter hygiene check in our [pet furniture and cat tree disposal guide](/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai).",
           "Branded work uniforms, security clothing and anything carrying an employer's identification are usually returned to the employer rather than donated. Passing on identifiable uniform is not a waste question, and it is worth a message to the company instead.",
         ],
       },
@@ -10177,7 +10447,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Smart TVs keep logins for streaming services, video platforms, music apps, and often a manufacturer account linked to your email. Some also store payment details for rentals, voice-assistant settings and the home Wi-Fi password. Sign out of each app individually, then use the settings menu to remove the TV from your manufacturer account and run a full factory reset.",
           "Afterwards, visit each streaming service from your phone or laptop and check its list of signed-in devices. Remove the old television there as well. This catches any app that kept a session alive through the reset and stops someone else watching on your subscription.",
-          "Unplug and remove any USB drive, external hard drive or set-top box connected to the TV. Those devices may hold recordings or files, and they need their own decision. The [e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing devices beyond the television itself.",
+          "Unplug and remove any USB drive, external hard drive or set-top box connected to the TV. Those devices may hold recordings or files, and they need their own decision. The [e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing devices beyond the television itself, while the [TV stand and media console guide](/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai) covers the cabinet, loose glass shelves and hidden cables.",
         ],
       },
       {
