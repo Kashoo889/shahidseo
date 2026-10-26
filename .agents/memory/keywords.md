@@ -1,18 +1,30 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 337
+**Total Target Keywords**: 340
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-27
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword                                    | Intent        | Target URL                                                             | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | ---------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old dressing table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai`    | Blog Guide | Approved expansion |
+| `how to dispose of an old recliner chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai`               | Blog Guide | Approved expansion |
+| `how to dispose of an old wheelchair in dubai`     | Informational | `/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the dressing-table and vanity guide owns cosmetic and small-item clearing, framed-mirror bracket release, vanity drawer removal, stool assessment and mixed bedroom-furniture sorting; the mirror guide retains general flat glass, while the chest-of-drawers guide retains standalone bedroom drawer chests. The recliner-chair guide owns neutral-position electrical isolation, detachable-back locking clips, moving-mechanism safety, low-voltage controls and the boundary between ordinary upholstery and powered seating; the sofa guide retains non-mechanical sofas and the massage-chair guide retains roller and air-pump systems. The wheelchair and mobility-aid guide owns ownership and consent checks, brake and frame assessment, fitted accessory retention, powered-chair freewheel controls, charger and traction-battery handling, and respectful reuse screening; the battery and e-waste guides retain their broader material streams. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-24
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old tv stand in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old sewing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old pet furniture in dubai` | Informational | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                    | Intent        | Target URL                                                           | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | -------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old tv stand in dubai`       | Informational | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old sewing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai`   | Blog Guide | Approved expansion |
+| `how to dispose of old pet furniture in dubai`     | Informational | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai`   | Blog Guide | Approved expansion |
 
 Overlap review: the TV stand and media console guide owns device disconnection, hidden cable and account checks, loose shelf and tempered-glass handling, flat-pack connector preservation and the split between furniture and attached electronics; the TV, sound-system and coffee-table guides retain screens, AV equipment and general occasional tables. The sewing-machine guide owns portable, cabinet-mounted and treadle identification, needle and oil containment, proprietary accessory retention, cabinet-hinge separation and the boundary between reusable machinery, e-waste and furniture; the small-electronics and furniture guides retain their broader material routes. The pet-furniture guide owns hygiene screening, dander and removable-cover containment, top-down cat-tree dismantling, sisal and carpet-covered composite sorting, and contaminated-item disclosure; the textile, wood-waste and general furniture guides retain their wider streams. No search-volume claim is made.
 
@@ -20,11 +32,11 @@ Overlap review: the TV stand and media console guide owns device disconnection, 
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old chest of drawers in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old bean bags in dubai` | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                         | Intent        | Target URL                                                             | Page type  | Priority           |
+| ------------------------------------------------------- | ------------- | ---------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old chest of drawers in dubai`    | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old bean bags in dubai`              | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai`    | Blog Guide | Approved expansion |
+| `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai`          | Blog Guide | Approved expansion |
 
 Overlap review: the chest of drawers guide owns drawer removal, runner release, anti-tip restraints and bedroom storage carcass sorting; wardrobe, bookshelf and bed-frame guides retain full-height closets, open shelving and sleeping frames. The bean bag guide owns loose EPS or foam filling containment, liner failure, cover separation and oversized soft-seat transport; the sofa guide retains framed upholstery, springs and slab foam, while the textile guide retains clothing and accepted household fabrics. The garden storage shed guide owns enclosed resin, timber and metal storage structures, contents-first clearance, utility and anchor checks, panel dismantling and slab restoration; the gazebo guide retains open shade structures and tensioned fabric, while wood and garden-waste guides retain general timber and organic waste. No search-volume claim is made.
 
@@ -32,11 +44,11 @@ Overlap review: the chest of drawers guide owns drawer removal, runner release, 
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old air fryer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old shoe rack in dubai` | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                  | Intent        | Target URL                                                                 | Page type  | Priority           |
+| ------------------------------------------------ | ------------- | -------------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old air fryer in dubai`    | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old shoe rack in dubai`    | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai`       | Blog Guide | Approved expansion |
+| `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai`     | Blog Guide | Approved expansion |
 
 Overlap review: the air fryer and kitchen appliances guide owns small benchtop heating appliances, grease basin degreasing, Teflon-coated basket isolation, heating element e-waste, universal motor copper reclamation, and apartment trash chute ban; the microwave, coffee machine, dishwasher, and pots/pans guides retain countertop ovens, boilers/pumps, large white goods, and non-electrical cookware. The shoe rack and shoe cabinet guide owns entryway shoe storage, multi-tier shoe cabinets, Dubai Civil Defense communal corridor egress compliance and fines, unbolting anti-tip wall brackets, wall plaster repair for Ejari deposit security, and separating wire/bamboo/MDF materials; the wardrobe, bookshelf, small apartment decluttering, and rental handover guides retain bedroom closets, tall bookcases, room storage audits, and lease-end checklists. The coffee table and side table guide owns central living room coffee tables, nesting side tables, console tables, heavy marble and quartz stone slab lifting, tempered glass tops, hairpin metal leg detachment, and living room lounge clearances; the dining table, office desk, and mirrors/glass guides retain dining suites, office workstations, and architectural flat glass. No search-volume claim is made.
 
@@ -44,11 +56,11 @@ Overlap review: the air fryer and kitchen appliances guide owns small benchtop h
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old patio heater in dubai` | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old garment steamer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                      | Intent        | Target URL                                                                  | Page type  | Priority           |
+| ---------------------------------------------------- | ------------- | --------------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old patio heater in dubai`     | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai`                      | Blog Guide | Approved expansion |
+| `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai`                  | Blog Guide | Approved expansion |
+| `how to dispose of an old garment steamer in dubai`  | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the patio heater guide owns LPG cylinder disconnection and supplier return, weighted base sand and water ballast emptying, aluminium reflector dome unbolting, borosilicate quartz flame tube containment, and stainless steel burner and column metal recycling; the BBQ grill, outdoor furniture, and gas cylinder guides retain cooking grills, patio tables/parasols, and standalone commercial gas cylinders. The musical instruments guide owns instrument playable assessment for school/charity donation, acoustic drum shell nesting and lug unthreading, guitar string de-tensioning, wireless transmitter battery isolation, and pickup/amplifier e-waste recovery; the acoustic piano, sound systems and speakers, and e-waste guides retain grand/upright pianos, domestic AV home cinema receivers, and IT electronics. The garment steamer and ironing board guide owns domestic hard-water boiler descaling and calc-clean drainage, telescopic aluminium pole retraction, fabric and foam board cover stripping, and small appliance WEEE e-waste/steel mesh recycling; the vacuum cleaner, clothing/textiles, and small apartment decluttering guides retain floor-care appliances, wardrobe garments, and room storage audits. No search-volume claim is made.
 
@@ -56,11 +68,11 @@ Overlap review: the patio heater guide owns LPG cylinder disconnection and suppl
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old pressure washer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                             | Intent        | Target URL                                                        | Page type  | Priority           |
+| ----------------------------------------------------------- | ------------- | ----------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old pressure washer in dubai`         | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai`         | Blog Guide | Approved expansion |
 | `how to dispose of old sound systems and speakers in dubai` | Informational | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old gazebo and sun shade in dubai` | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old gazebo and sun shade in dubai`    | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai`    | Blog Guide | Approved expansion |
 
 Overlap review: the pressure washer guide owns depressurizing spray lances, crankcase lubricant and gear oil drainage, steel-wire braided hose containment, axial/wobble-plate pump disassembly, and brass/copper non-ferrous metal recovery; the power tools, lawn mower, and hazardous liquids guides retain cordless lithium tools, petrol garden engines, and general domestic chemicals. The sound systems and speakers guide owns high-power AV receiver capacitor discharge, speaker ferrite and neodymium magnet isolation, copper voice coil salvage, and dense MDF/particle board acoustic cabinet routing; the TV, computer, and general e-waste guides retain smart displays, data sanitization, and broad electronics frameworks. The gazebo and sun shade guide owns tension turnbuckle loosening, UV-degraded HDPE shade sail takedown, scissor-frame pop-up canopy collapse, tubular steel/aluminium pole bundling, and patio masonry anchor removal/filling for Ejari handover compliance; the outdoor furniture, artificial grass, and rental handover guides retain patio tables/loungers, synthetic turf rolls, and whole-villa tenancy clearance checklists. No search-volume claim is made.
 
@@ -68,11 +80,11 @@ Overlap review: the pressure washer guide owns depressurizing spray lances, cran
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old standing fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old power tools in dubai` | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                    | Intent        | Target URL                                                            | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | --------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old standing fan in dubai`   | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai`              | Blog Guide | Approved expansion |
+| `how to dispose of old power tools in dubai`       | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai`                    | Blog Guide | Approved expansion |
 
 Overlap review: the standing fan and air cooler guide owns basin water draining, cellulose honeycomb cooling pad disposal, oscillating mechanism gear check, wire blade guard recycling, and shaded-pole copper motor recovery; the air purifier/dehumidifier, fridge/AC, and water dispenser guides retain compressors, sealed refrigerant systems, and pure filter purifiers. The coffee machine guide owns internal boiler and thermoblock drainage, descaling mineral purge, coffee ground/capsule ejection, Ulka vibration pump e-waste, and brass/copper metal recycling; the microwave, dishwasher, and kitchen cabinet guides retain cooking ovens, large wash white goods, and fixed cabinetry. The power tools guide owns high-capacity cordless lithium battery slide pack isolation (18V-54V), terminal insulation, sharp cutting blade and bit detachment, armature copper recycling, and heavy-duty blow-molded tool case handling; the lawn mower, scrap metal, and small electronics guides retain petrol engines, bulk structural scrap, and loose household batteries. No search-volume claim is made.
 
@@ -80,11 +92,11 @@ Overlap review: the standing fan and air cooler guide owns basin water draining,
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old bbq grill in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old air purifier in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                    | Intent        | Target URL                                                              | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | ----------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old bbq grill in dubai`      | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai`                     | Blog Guide | Approved expansion |
+| `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai`                | Blog Guide | Approved expansion |
+| `how to dispose of an old air purifier in dubai`   | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the BBQ grill guide owns LPG gas regulator disconnection, grease pan/drip tray scraping, charcoal ash cooling and containment, and cast iron/stainless steel grate recycling; the outdoor furniture, gas cylinder, and scrap metal guides retain patio tables, standalone LPG tanks, and bulk scrap. The vacuum cleaner guide owns dust canister hygiene, lithium battery pack isolation in cordless and robot units, brush roller hair extraction, and copper-wound universal motor recycling; the small electronics, battery, and microwave guides retain loose batteries and kitchen appliances. The air purifier and dehumidifier guide owns condensate reservoir drainage, portable compressor refrigerant recovery, saturated HEPA/carbon filter isolation, and centrifugal blower fan e-waste recycling; the fridge/AC, water dispenser, and household cleaner guides retain large domestic ACs, drinking dispensers, and liquid chemicals. No search-volume claim is made.
 
@@ -92,11 +104,11 @@ Overlap review: the BBQ grill guide owns LPG gas regulator disconnection, grease
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old lawn mower in dubai` | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                          | Intent        | Target URL                                                     | Page type  | Priority           |
+| -------------------------------------------------------- | ------------- | -------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old lawn mower in dubai`           | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai`           | Blog Guide | Approved expansion |
 | `how to dispose of old swimming pool equipment in dubai` | Informational | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old golf clubs and bags in dubai` | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old golf clubs and bags in dubai`     | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai`     | Blog Guide | Approved expansion |
 
 Overlap review: the lawn mower guide owns engine fuel and oil drainage, sharp rotary blade containment, lithium battery pack removal, and metal deck/copper winding recycling; the garden waste, scrap metal and e-bike guides retain plant cuttings, structural scrap and transport vehicles. The swimming pool equipment guide owns residential pool pump electrical isolation, heavy wet silica sand filter emptying, salt chlorinator titanium cell safety, and pool heat pump/chiller refrigerant recovery; the fridge/AC, water heater and aquarium guides retain domestic fridges, boilers and indoor fish tanks. The golf equipment guide owns club condition appraisal, junior golf academy and driving range donation, graphite shaft splinter containment, clubhead scrap metal triage, and electric trolley battery separation; the home gym, luggage and bicycle guides retain fitness machines, suitcases and pedal bikes. No search-volume claim is made.
 
@@ -104,11 +116,11 @@ Overlap review: the lawn mower guide owns engine fuel and oil drainage, sharp ro
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old water dispenser in dubai` | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                           | Intent        | Target URL                                                      | Page type  | Priority           |
+| --------------------------------------------------------- | ------------- | --------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old water dispenser in dubai`       | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai`       | Blog Guide | Approved expansion |
 | `how to dispose of an old kayak and paddleboard in dubai` | Informational | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old bicycle in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of an old bicycle in dubai`               | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai`               | Blog Guide | Approved expansion |
 
 Overlap review: the water dispenser guide owns supplier ownership, bottle deposits, draining and compressor routing; the fridge/AC and appliance donation guides retain refrigerant appliances and general donation. The kayak and paddleboard guide owns hull materials, long-hull access and buoyancy aids; the camping gear and scrap metal guides retain camping kit and metal fittings. The bicycle guide owns frame checks, bike rooms and frame/tyre separation; the e-scooter and tyre guides retain batteries and tyre recycling. No search-volume claim is made.
 
@@ -116,10 +128,10 @@ Overlap review: the water dispenser guide owns supplier ownership, bottle deposi
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old safe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old pool table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                   | Intent        | Target URL                                              | Page type  | Priority           |
+| ------------------------------------------------- | ------------- | ------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old safe in dubai`          | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai`          | Blog Guide | Approved expansion |
+| `how to dispose of an old pool table in dubai`    | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai`    | Blog Guide | Approved expansion |
 | `how to dispose of old artificial grass in dubai` | Informational | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the safe guide owns opening, lost-code recovery, unbolting and fire-safe handling; the scrap metal and documents guides retain general scrap and paper records. The pool table guide owns slate identification, fitter-dependent resale, dismantling order and slate routes; the piano and dining table guides retain instruments and dining furniture. The artificial grass guide owns turf lifting, rolling, infill and membrane separation and handover ground condition; the garden waste and trampoline guides retain green waste and post-play-equipment lawn restoration. No search-volume claim is made.
@@ -128,10 +140,10 @@ Overlap review: the safe guide owns opening, lost-code recovery, unbolting and f
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old massage chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of an old aquarium and fish tank in dubai` | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                                           | Intent        | Target URL                                                                      | Page type  | Priority           |
+| ------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old massage chair in dubai`                         | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai`                         | Blog Guide | Approved expansion |
+| `how to dispose of an old aquarium and fish tank in dubai`                | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai`                | Blog Guide | Approved expansion |
 | `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the massage chair guide owns powered-chair resale testing, modular dismantling and frame/motor/foam separation; the sofa and home gym guides retain unpowered upholstery and fitness machines. The aquarium guide owns livestock rehoming, draining, equipment separation and bonded-tank handling; the mirrors/glass and cleaning-products guides retain flat glass and chemical containers. The trampoline guide owns spring release, play-frame dismantling, UV-degraded material sorting and lawn restoration; the baby items and outdoor furniture guides retain indoor children's gear and garden furniture. No search-volume claim is made.
@@ -140,10 +152,10 @@ Overlap review: the massage chair guide owns powered-chair resale testing, modul
 
 Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of an old microwave in dubai` | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old luggage and suitcases in dubai` | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                                 | Intent        | Target URL                                                            | Page type  | Priority           |
+| --------------------------------------------------------------- | ------------- | --------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old microwave in dubai`                   | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai`                   | Blog Guide | Approved expansion |
+| `how to dispose of old luggage and suitcases in dubai`          | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai`          | Blog Guide | Approved expansion |
 | `how to dispose of old chandeliers and ceiling lights in dubai` | Informational | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the microwave guide owns high-voltage capacitor safety, glass turntable separation, and built-in trim unfastening; the oven, scrap-metal, and small-electronics guides retain their respective scopes. The luggage guide owns suitcase pocket auditing, non-recyclable hard-shell material explanation, worker donation drives, and nesting to reduce volume; the moving-boxes and textiles guides retain their streams. The chandelier guide owns distribution board electrical isolation, fragile crystal/shade detachment, Ejari ceiling rose reinstatement, and metal/driver sorting; the light-bulb, flat-glass, and general handover guides retain their domains. No search-volume claim is made.
@@ -152,11 +164,11 @@ Overlap review: the microwave guide owns high-voltage capacitor safety, glass tu
 
 Three further item-specific informational topics requested after the office-furniture batch was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
+| Primary keyword                                                   | Intent        | Target URL                                                              | Page type  | Priority           |
+| ----------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------- | ---------- | ------------------ |
 | `how to dispose of old office printers and photocopiers in dubai` | Informational | `/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old electric scooters and e-bikes in dubai` | Informational | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old plant pots and planters in dubai` | Informational | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai` | Blog Guide | Approved expansion |
+| `how to dispose of old electric scooters and e-bikes in dubai`    | Informational | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai`    | Blog Guide | Approved expansion |
+| `how to dispose of old plant pots and planters in dubai`          | Informational | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai`          | Blog Guide | Approved expansion |
 
 Overlap review: the printer guide owns lease ownership, device data erasure, consumable containment and copier transport; the cartridge and computer guides retain their streams. The e-scooter guide owns whole-vehicle battery inspection, app unpairing and storage; the battery guide retains chemistry and small-device routes. The planter guide owns soil handling, container material sorting and heavy-pot lifting; the garden-waste and outdoor-furniture guides retain green waste and patio furniture. No search-volume claim is made.
 
@@ -164,10 +176,10 @@ Overlap review: the printer guide owns lease ownership, device data erasure, con
 
 Three office-furniture informational topics requested after the prior queue was completed. These editorial phrases are not claims of measured search volume. Commercial office-clearance intent remains with `/services/office-cleanout-dubai`.
 
-| Primary keyword | Intent | Target URL | Page type | Priority |
-| --- | --- | --- | --- | --- |
-| `how to dispose of old filing cabinets in dubai` | Informational | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai` | Blog Guide | Approved expansion |
-| `how to dispose of old meeting tables in dubai` | Informational | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai` | Blog Guide | Approved expansion |
+| Primary keyword                                    | Intent        | Target URL                                               | Page type  | Priority           |
+| -------------------------------------------------- | ------------- | -------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of old filing cabinets in dubai`   | Informational | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai`   | Blog Guide | Approved expansion |
+| `how to dispose of old meeting tables in dubai`    | Informational | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai`    | Blog Guide | Approved expansion |
 | `how to dispose of old office partitions in dubai` | Informational | `/blog/how-to-dispose-of-old-office-partitions-in-dubai` | Blog Guide | Approved expansion |
 
 Overlap review: the filing-cabinet guide owns record release, drawer security and cabinet transport; the documents guide retains paper retention and destruction. The meeting-table guide owns connected power modules, long-top support and base labelling; the desk guide retains workstations. The partition guide owns movable-versus-fixed status, panel stability and system completeness; the desk guide retains desk-mounted accessories. No search-volume claim is made.

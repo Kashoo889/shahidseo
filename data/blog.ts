@@ -49,6 +49,284 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai",
+    title: "How to Dispose of an Old Dressing Table and Vanity in Dubai",
+    seoTitle: "Old Dressing Table Disposal in Dubai: Safe Guide",
+    excerpt:
+      "Dispose of an old dressing table in Dubai safely: empty cosmetics, detach and protect the mirror, remove drawers, assess reuse, and sort the materials.",
+    category: "Guides",
+    tags: ["Dressing Tables", "Vanities", "Mirrors", "Bedroom Furniture", "Dubai"],
+    coverImage: "/images/blog/old-dressing-table-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers supporting a framed mirror while removing it from an emptied wooden dressing table in a Dubai apartment bedroom",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Empty every drawer before moving the vanity. Cosmetics, perfume, aerosols, medicines and plug-in styling tools do not belong in the furniture load.",
+      "Detach a mirror only at its designed brackets, with one person supporting its weight. Tape does not make cracked glass safe to carry.",
+      "Remove drawers and the stool to reduce weight, but label runners and fittings if the dressing table remains suitable for reuse.",
+      "Solid timber, engineered board, glass and metal hardware are separate materials; dismantle them only when the receiving route is confirmed.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old dressing table in Dubai",
+        content: [
+          "To dispose of an old dressing table or vanity in Dubai, empty and sort the contents first, assess the furniture for reuse, then remove loose drawers and detach the mirror only if its proper fixings are accessible. Protect the mirror upright, contain all hardware and arrange an approved bulky-furniture route rather than leaving the unit beside a communal bin. Checked on 27/10/2026.",
+          "A dressing table looks like a small desk, but the mirror, narrow top and full drawers change the job. Bottles can leak during a carry, a fixed mirror makes the load top-heavy, and long vanity drawers often slide out as soon as the unit tilts toward a doorway.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists a bulky-waste service for household furniture and electrical appliances, subject to its applicant and location conditions; investment zones are excluded. Confirm the route used by your building or community before placing the item outside.",
+        ],
+        callout: {
+          title: "Support the mirror before loosening anything",
+          text: "A framed mirror can drop as soon as its last retaining screw or bracket is released. One person should hold it securely while another works on the fixings; stop if the glass is bonded directly to the furniture.",
+        },
+      },
+      {
+        heading: "Clear the drawers without creating a mixed-waste box",
+        content: [
+          "Take out jewellery, hairpins, batteries and small electronics before dealing with the cosmetics. Keep personal papers and prescription items private. Unwanted medicines have a separate route, explained in the [expired-medicine disposal guide](/blog/how-to-dispose-of-expired-medicines-in-dubai).",
+          "Do not pour perfume, nail products, remover or liquid cosmetics into a sink merely to empty their containers. Close each product, stand possible leaks in a tray and ask the appropriate receiving outlet what it accepts. Hot styling tools should be unplugged, cool and kept with small electrical items rather than buried in a drawer.",
+          "Wipe clean, empty drawers, but avoid soaking swollen particleboard. Water can weaken the base groove and leave a drawer that breaks when lifted.",
+        ],
+      },
+      {
+        heading: "Decide whether the vanity is genuinely reusable",
+        content: [
+          "Check the top and feet for moisture swelling, the drawer runners for breakage and the mirror for chips, black edge corrosion or movement within its frame. Tighten only ordinary accessible screws; do not disguise structural damage with polish or fragrance.",
+          "A sound vanity is easier to pass on when the stool, mirror brackets, handles and fixings are complete. Photograph it assembled, record the folded or transport dimensions and tell the recipient about scratches or repairs. Confirm acceptance before arranging a journey; a donation point is not a general drop-off for damaged furniture.",
+          "If the main carcass is unsafe but the stool or mirror remains useful, offer those pieces separately only after checking their condition. The [mirror and flat-glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) covers intact and cracked mirrors in more detail.",
+        ],
+      },
+      {
+        heading: "Detach the mirror and drawers in the right order",
+        content: [
+          "Photograph the back before starting. Many mirrors sit on two timber supports or metal standards bolted to the rear rail. Move the dressing table away from the wall, have a second person hold the frame, then remove the lower fasteners while keeping the mirror vertical. Never lever against the glass.",
+          "Place the detached mirror between rigid cardboard sheets with corner protection and carry it upright. If it is cracked, do not dismantle it over carpet or try to snap it into smaller pieces. Warn the collection crew so they can bring a rigid container and suitable protection.",
+          "Pull out ordinary drawers one at a time. For drawers with stops or slide releases, use the designed release rather than forcing the runner. Bag and label the bolts, brackets and wall anti-tip strap so a reusable unit can be assembled again.",
+        ],
+        image: {
+          src: "/images/blog/dressing-table-material-sorting-dubai.webp",
+          alt: "Worker checking a padded vanity mirror beside separated dressing-table drawers, timber panels, metal hardware and cosmetic containers at a Dubai recovery workshop",
+        },
+      },
+      {
+        heading: "Sort the furniture only for a known destination",
+        content: [
+          "A vanity may combine solid timber legs, veneered particleboard panels, steel drawer slides, a glass mirror and an upholstered stool. That does not mean every part is recyclable at every facility. Keep the item intact when reuse is realistic; otherwise ask the collector how it should be presented.",
+          "Clean solid wood may follow a timber route, while laminated engineered board and fabric glued to foam are commonly handled differently. The [wood-waste disposal guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains why coating and composite construction matter. Keep sharp brackets and screws in a closed tub instead of leaving them attached to loose panels.",
+          "Cosmetic containers are assessed on their own material and condition. Residue, pumps, mirrors and mixed caps can make a package unsuitable for a simple household recycling bin, so do not add them automatically to the furniture pile.",
+        ],
+      },
+      {
+        heading: "Plan the bedroom-to-vehicle route",
+        content: [
+          "Measure the vanity after the mirror and drawers are removed, then check the bedroom door, corridor turn and lift. Protect the top edge and carry from the load-bearing base, not the narrow overhang or drawer rails. Strap doors or hinged wings closed where fitted.",
+          "In [Downtown Dubai](/areas/downtown-dubai), management may require a service-lift booking and loading-bay window. In [Dubai Marina](/areas/dubai-marina), a long mirror often needs its own protected carry because it cannot turn with the furniture in a narrow corridor. Confirm access before the crew arrives.",
+        ],
+      },
+      {
+        heading: "Arrange collection for a dressing table and mirror",
+        content: [
+          "Our [furniture collection team](/services/furniture-removal-dubai) can remove dressing tables, vanity stools and protected mirrors as one planned load. If the item needs dismantling for a narrow exit or is part of a larger bedroom clear-out, the [bulky-item service](/services/bulky-item-removal-dubai) can account for the access and mixed materials.",
+          "[Send photos of the front, rear fixings and access route](/contact), plus the approximate dimensions and whether the mirror is intact. We will confirm a fixed quote and the preparation needed before collection.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-marina"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-recliner-chair-in-dubai",
+    title: "How to Dispose of an Old Recliner Chair in Dubai",
+    seoTitle: "Old Recliner Chair Disposal in Dubai: Safe Guide",
+    excerpt:
+      "Dispose of an old recliner chair in Dubai safely: isolate the power, close the mechanism, detach the back correctly, protect access, and sort its materials.",
+    category: "Guides",
+    tags: ["Recliner Chairs", "Powered Furniture", "Upholstery", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/old-recliner-chair-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers checking the rear locking clips on an unplugged beige powered recliner in a Dubai apartment living room",
+    publishedAt: "2026-10-27",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Return a powered recliner to its normal seated position before unplugging it; an extended footrest creates a pinch point and may block the exit.",
+      "Keep the correct adapter, handset and any removable backup battery with a reusable chair, and photograph the model label before moving it.",
+      "Many recliner backs lift off after locking tabs are released, but mechanisms differ. Do not cut upholstery or dismantle the spring frame at home.",
+      "A recliner combines upholstery, foam, timber, steel and sometimes motors and electronics, so it is not a single recycling stream.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old recliner chair in Dubai",
+        content: [
+          "To dispose of an old recliner chair in Dubai, return the chair to its closed position, unplug a powered model, remove any detachable battery as the manufacturer directs and check whether the back is designed to lift off. Keep controls and hardware together, protect the moving mechanism and use an approved bulky-furniture route. Checked on 27/10/2026.",
+          "Recliners are heavier and less balanced than they look. Most of the steel mechanism sits low in the seat, while the arms and back hide the safe handholds. A chair that fits through the front door upright may still jam at a lift turn or open unexpectedly when tilted.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household furniture and electrical appliances within its bulky-waste service, subject to current eligibility and location conditions. Buildings in developer-managed or investment zones may direct residents to a different approved collection route.",
+        ],
+        callout: {
+          title: "Keep hands out of the mechanism",
+          text: "Linkages, scissor arms and springs can move suddenly as the chair changes angle. Close the footrest before isolation and never use the exposed mechanism as a carrying handle.",
+        },
+      },
+      {
+        heading: "Identify manual, powered and lift-chair features",
+        content: [
+          "A manual recliner usually has a side lever or an internal cable. A powered recliner has a motor, low-voltage adapter and buttons or a handset. A lift chair also raises and tips the seat to assist its user, which adds weight and another moving range. Photograph the model and electrical labels before disconnecting anything.",
+          "Test a chair for reuse only when its plug, cable and adapter are undamaged. Run it through one complete cycle without anyone sitting in it and listen for grinding, uneven travel or a motor that stops under no load. Do not energise it if wiring is crushed, insulation is split, liquid has entered the base or there is a burnt smell.",
+          "Manual frames also need a check. A recliner with a bent linkage, missing retaining clip, broken cable or frame movement is not safe to offer as a working chair simply because the upholstery looks clean.",
+        ],
+      },
+      {
+        heading: "Prepare the power system and upholstery",
+        content: [
+          "Move the chair to its normal seated position first, then switch it off and unplug it from the wall. Disconnect the adapter at its designed connector rather than pulling the cable. Coil the lead loosely and bag the handset, adapter and model-specific hardware together.",
+          "Some chairs have a small emergency battery pack in the power supply; others use a removable rechargeable pack. Follow the manufacturer instructions. Do not open a sealed battery housing, short terminals or place a loose battery under the seat. The [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers terminal protection and damaged-pack precautions.",
+          "Vacuum dry surface debris and remove loose cushions. If the chair has pests, mould, bodily-fluid contamination or a strong unexplained odour, isolate it and disclose the condition before collection rather than masking it with fragrance.",
+        ],
+      },
+      {
+        heading: "Remove the back only when it is designed to detach",
+        content: [
+          "Check the rear seam or lower flap for access to the back rails. Common designs use a locking tab on each side: the tabs release and the back lifts vertically off two brackets. Other models use bolts, plugs for headrest wiring or a one-piece frame. Use the model instructions where available.",
+          "Have one person support the back while the second releases matching sides. Disconnect any approved plug before lifting, without pulling on its wire. Wrap the detached back and label left and right hardware. Do not force a rail that binds; a twisted bracket makes reassembly unsafe.",
+          "Leave the seat mechanism intact. Recliner springs and linkages can retain force, and stripping upholstery to reach them creates sharp edges without making an apartment carry meaningfully safer.",
+        ],
+        image: {
+          src: "/images/blog/recliner-chair-material-sorting-dubai.webp",
+          alt: "Technician inspecting a recliner motor beside a steel seat mechanism, upholstered chair sections, wiring, foam and sorted fasteners at a Dubai workshop",
+        },
+      },
+      {
+        heading: "Choose reuse or separate recovery routes",
+        content: [
+          "A clean chair with a smooth mechanism, stable frame and complete controls may be reusable, but confirm the recipient's requirements before delivery. Give its dimensions, model, power specification and an honest description of upholstery wear. A powered chair without the correct adapter is rarely a useful donation.",
+          "When reuse is not appropriate, motors, controls and wiring belong with electrical recovery, while the steel mechanism, timber frame, foam and covering need separate assessment. The [sofa disposal guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) covers ordinary upholstered furniture; a recliner adds a moving frame and, on powered models, electronics.",
+          "A recliner is also different from a massage chair. Rollers, air pumps and integrated massage electronics remain within the [massage-chair disposal guide](/blog/how-to-dispose-of-an-old-massage-chair-in-dubai). Do not assume the same dismantling points apply.",
+        ],
+      },
+      {
+        heading: "Measure the chair in its transport position",
+        content: [
+          "Measure the base width, closed depth and height with the back attached and detached. Protect floors with a rigid path, keep the power lead off the floor and use a furniture trolley under the base frame. Never drag the footrest or roll the chair on its small mechanism wheels across finished flooring.",
+          "In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), a service-lift reservation and loading route may be required. In [Palm Jumeirah](/areas/palm-jumeirah), tell the crew about villa steps, apartment corridors or basement loading restrictions. The detachable back often solves a doorway problem, but the heavy seat still needs two controlled carriers.",
+        ],
+      },
+      {
+        heading: "Book a recliner collection with the right equipment",
+        content: [
+          "Our [furniture removal crew](/services/furniture-removal-dubai) can collect manual and powered recliners with the controls and electrical parts kept together. For a heavy lift chair, multiple seats or difficult stairs, the [bulky-item team](/services/bulky-item-removal-dubai) plans the labour and trolley route before arrival.",
+          "[Send photos of the chair upright and from behind](/contact), along with the model label, access details and whether it closes under power. We will provide a fixed quote and tell you what should remain assembled.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "palm-jumeirah"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai",
+    title: "How to Dispose of an Old Wheelchair and Mobility Aids in Dubai",
+    seoTitle: "Wheelchair & Mobility Aid Disposal in Dubai: Safe Guide",
+    excerpt:
+      "Dispose of an old wheelchair in Dubai: confirm it is no longer needed, assess safe reuse, isolate batteries, clean removable parts, and plan collection.",
+    category: "Guides",
+    tags: ["Wheelchairs", "Mobility Aids", "Assistive Equipment", "Batteries", "Dubai"],
+    coverImage: "/images/blog/old-wheelchair-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers respectfully checking the brake, tyre and frame of a used manual wheelchair beside a folded walker in a Dubai apartment",
+    publishedAt: "2026-10-27",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Confirm with the owner, family or responsible care provider that the equipment is no longer required and is not rented, loaned or due back to a supplier.",
+      "A wheelchair is suitable for reuse only after its frame, brakes, tyres, upholstery and fitted supports are checked; recipient fit and professional adjustment still matter.",
+      "Powered wheelchairs and mobility scooters need their model-specific shutdown and freewheel procedure. Remove a battery only as the manufacturer directs.",
+      "Keep useful equipment complete. Separate batteries, electronics, metal, tyres and upholstery only after reuse is ruled out and a receiving route is confirmed.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old wheelchair in Dubai",
+        content: [
+          "To dispose of an old wheelchair or mobility aid in Dubai, first confirm that it is owned outright and genuinely no longer needed. Record the model, accessories and condition, then ask a repairer, supplier or intended recipient whether safe reuse is possible. For powered equipment, isolate the controls and battery exactly as the manufacturer directs before arranging an approved collection. Checked on 27/10/2026.",
+          "Wheelchairs, walkers and shower chairs are not ordinary scrap while they can still support someone safely. They are also not automatically suitable to give away: worn brakes, the wrong cushion, a cracked weld or a missing anti-tip bar can turn a generous handover into a hazard.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and electrical appliances within its bulky-waste service, subject to its current eligibility and location conditions. Confirm whether the service, your building or another approved collector is the right final route for non-reusable equipment.",
+        ],
+        callout: {
+          title: "Check ownership before collection",
+          text: "Look for a supplier label, rental agreement or care-provider asset tag. Equipment issued temporarily may need to be returned even when it has been stored at home for a long time.",
+        },
+      },
+      {
+        heading: "Preserve dignity, consent and useful accessories",
+        content: [
+          "Do not clear mobility equipment merely because it appears unused. Ask the person who uses it, or the appropriate family member or care provider, and keep the conversation separate from an ordinary room declutter. A spare chair may be essential while another is repaired.",
+          "Gather the footrests, cushion, headrest, charger, lap belt, anti-tip wheels, tray and tool kit that belong to the device. Photograph the model and serial labels for the supplier or recipient, but do not post a former user's personal documents or medical information in a public listing.",
+          "Walking frames, crutches and canes should remain paired and set to a safe neutral position for transport. Do not promise that an aid will fit another person; individual setup and clinical suitability are matters for the recipient and an appropriate professional.",
+        ],
+      },
+      {
+        heading: "Assess condition before offering the equipment",
+        content: [
+          "On a manual wheelchair, engage both brakes and check whether the large wheels stop firmly. Look for loose hand rims, flat-spotted tyres, damaged spokes, cracked welds, bent forks, worn castors and torn seating. Folding cross-braces should move evenly without excess play or trapped fingers.",
+          "For walkers and rollators, inspect the frame joints, rubber ferrules, hand brakes and seat. Shower chairs and commodes need an especially strict corrosion, crack and hygiene check. Dispose of single-use or heavily contaminated care items through an appropriate healthcare route rather than mixing them with reusable aids.",
+          "Contact a recipient before travelling. Ask what models and conditions it accepts and whether it requires servicing or cleaning documentation. Keep the equipment intact until that decision is made; removing wheels for scrap too early destroys its reuse value.",
+        ],
+      },
+      {
+        heading: "Handle powered chairs, scooters and batteries carefully",
+        content: [
+          "Switch off the controller, remove the key where fitted and follow the manual's transport or freewheel procedure. A powered chair may roll freely after its drive levers are disengaged, so the operator must understand how to re-engage the brakes before moving it on a slope or vehicle ramp.",
+          "Keep the correct charger with a reusable chair. Mobility equipment may use sealed lead-acid, gel or lithium batteries, sometimes inside a proprietary case. Do not open the case, bridge terminals or guess at lifting points. Remove the pack only when the manufacturer provides a safe user procedure and the weight is manageable.",
+          "A swollen, leaking, unusually hot or impact-damaged battery needs isolation from people and combustible material and advice from an appropriate battery handler. The [household battery guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains why batteries do not belong in general waste.",
+        ],
+        image: {
+          src: "/images/blog/wheelchair-mobility-aid-sorting-dubai.webp",
+          alt: "Technician checking a manual wheelchair beside a folded walker, clean cushion, detached footrests, capped battery case and sorted fittings at a Dubai workshop",
+        },
+      },
+      {
+        heading: "Clean for assessment without hiding damage",
+        content: [
+          "Wear gloves, remove personal belongings and follow the manufacturer's cleaning instructions for the upholstery, frame and controls. Use only compatible products; soaking bearings, joystick housings or foam can damage equipment. Dry every part fully before closing or bagging it.",
+          "Removable washable covers can be cleaned to their care label. Replace visibly worn consumable parts only when the correct specification is known. Paint over corrosion, tape over a torn support or perfume over odour does not make an aid suitable for reuse.",
+          "If contamination cannot be safely managed at home, tell the collector or healthcare contact before anyone handles the item. This is particularly important for cushions, commodes and bathroom aids.",
+        ],
+      },
+      {
+        heading: "Separate materials only after reuse is ruled out",
+        content: [
+          "Manual wheelchairs and walkers contain aluminium or steel frames, rubber or polyurethane tyres, plastic fittings and fabric seating. Powered chairs add motors, controllers, wiring and batteries. Each stream has different acceptance rules, so an intact device should not be broken down speculatively.",
+          "After an appropriate recipient or repairer has declined the equipment, a confirmed facility may recover metal and electrical components. The [scrap-metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) covers prepared metal, while the [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers powered controls and electronics.",
+          "Cap or contain sharp tube ends and bag small fittings. Keep tyres, foam, upholstery and bathroom plastics separate only when the collector asks; placing all parts into a mixed recycling container can contaminate otherwise useful material.",
+        ],
+      },
+      {
+        heading: "Plan an accessible and controlled collection",
+        content: [
+          "Fold a manual chair only after removing loose cushions and securing footrests. Powered models should travel upright using rated tie-down points identified by the manufacturer, not armrests or controllers. Give the crew the true weight and tell them whether the chair can move under its own power.",
+          "In [Mirdif](/areas/mirdif), note villa steps and the distance from the room to the vehicle. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), reserve the appropriate lift and loading access where required. Keep the aid indoors until a confirmed handover rather than leaving it in a corridor where it obstructs access.",
+        ],
+      },
+      {
+        heading: "Arrange a respectful mobility-aid collection",
+        content: [
+          "Our [bulky-item collection team](/services/bulky-item-removal-dubai) can remove manual wheelchairs, walkers and larger mobility equipment after ownership and reuse options are settled. For powered chairs or scooters, the [appliance removal service](/services/appliance-removal-dubai) can plan around the battery, charger and electrical components.",
+          "[Send photos of the complete equipment and its model label](/contact), plus the access route, approximate weight, battery type if known and any hygiene concern. We will confirm whether we can collect it and provide a fixed quote before arrival.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "appliance-removal-dubai"],
+    relatedAreas: ["mirdif", "jumeirah-village-circle"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai",
     title: "How to Dispose of an Old TV Stand and Media Console in Dubai",
     seoTitle: "Old TV Stand Disposal in Dubai: Safe Removal Guide",
@@ -5626,7 +5904,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to bundle electronics into your next junk removal pickup",
         content: [
-          "If you are clearing out an entire apartment or villa, you do not need to make separate trips to supermarket drop-off bins. Simply keep batteries, old tablets, kitchen blenders, and electronic cables boxed together. A cabinet-mounted appliance needs a different preparation sequence; see the [sewing machine and table disposal guide](/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai) before separating its electrical and furniture parts.",
+          "If you are clearing out an entire apartment or villa, you do not need to make separate trips to supermarket drop-off bins. Simply keep batteries, old tablets, kitchen blenders, and electronic cables boxed together. A cabinet-mounted appliance needs a different preparation sequence; see the [sewing machine and table disposal guide](/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai) before separating its electrical and furniture parts. Powered mobility equipment needs its controls, charger and battery kept identifiable; the [wheelchair and mobility-aid disposal guide](/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai) covers that handover.",
           "When our [general junk removal team](/services/junk-removal-dubai) or [same-day clearance service](/services/same-day-junk-removal-dubai) collects your unwanted items, our technicians separate electronic components on our trucks before transporting them to certified material recovery centers. [Send us photos of your clearance pile](/contact) for a clear, fixed quote and same-day scheduling.",
         ],
       },
@@ -6589,7 +6867,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Measure the sofa and its route before collection day",
         content: [
-          "Record overall width, depth and height, then measure doorways, lift openings and tight corridor turns. Check whether arms, legs, backs or modular clips are designed to detach. A sofa bed or recliner can be far heavier than it looks, and its moving mechanism may shift unless secured correctly. Powered full-body chairs are a separate job again; the [massage chair disposal guide](/blog/how-to-dispose-of-an-old-massage-chair-in-dubai) explains how they come apart into modules.",
+          "Record overall width, depth and height, then measure doorways, lift openings and tight corridor turns. Check whether arms, legs, backs or modular clips are designed to detach. A sofa bed can be far heavier than it looks, while an ordinary powered or manual recliner needs the isolation and locking sequence in the [recliner-chair disposal guide](/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai). Powered full-body chairs are a separate job again; the [massage chair disposal guide](/blog/how-to-dispose-of-an-old-massage-chair-in-dubai) explains how they come apart into modules.",
           "In [Dubai Marina](/areas/dubai-marina), reserve the service lift and loading bay before the crew arrives. For a villa in [Arabian Ranches](/areas/arabian-ranches), confirm vehicle access, gate width and the route from room to driveway. Protect floors and corners, keep children and pets away, and let trained crew control heavy lifting.",
           "Send route photos as well as sofa photos. The [bulky-item removal service](/services/bulky-item-removal-dubai) can plan labour, trolley use, wrapping and dismantling more accurately when the narrowest point is visible.",
         ],
@@ -9232,7 +9510,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Framed mirrors, glass dining tables and display cabinets in good condition are easy to pass on. Clean the glass, photograph it with the dimensions, and offer it through a community group or a charity that accepts furniture. Ask the charity before you deliver, because some do not take glass-topped pieces or unframed mirrors.",
           "Separate the glass top from a table base before anyone moves it, and keep any clips, pads or brackets taped to the base. A buyer or charity is far more likely to accept a table that arrives in two protected pieces than one carried assembled.",
-          "The [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) lists the questions to ask before arranging a handover. If the glass is scratched, chipped at the edge or de-silvering at the back, treat it as disposal rather than donation.",
+          "The [furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) lists the questions to ask before arranging a handover. If the glass is scratched, chipped at the edge or de-silvering at the back, treat it as disposal rather than donation. A mirror attached to bedroom furniture needs to be supported before its brackets are released; see the [dressing-table and vanity disposal guide](/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai) for that sequence.",
         ],
       },
       {

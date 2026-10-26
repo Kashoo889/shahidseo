@@ -1,153 +1,157 @@
 # Article Registry
 
-Last synchronized: **2026-10-24**
+Last synchronized: **2026-10-27**
 Canonical implementation: `data/blog.ts`
 
-|   # | Primary keyword                                             | Intent                     | URL                                                                  | Published  | Status    |
-| --: | ----------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------- | ---------- | --------- |
-|   1 | `checklist for house clearance dubai`                       | Informational              | `/blog/villa-move-out-clearance-checklist-dubai`                     | 2026-08-25 | Published |
-|   2 | `junk removal vs skip hire dubai`                           | Comparison                 | `/blog/junk-removal-vs-skip-hire-in-dubai`                           | 2026-08-27 | Published |
-|   3 | `junk removal or man and van dubai`                         | Comparison                 | `/blog/junk-removal-vs-man-and-van-dubai`                            | 2026-08-29 | Published |
-|   4 | `best junk removal company dubai`                           | Commercial investigation   | `/blog/how-to-choose-the-best-junk-removal-company-in-dubai`         | 2026-08-31 | Published |
-|   5 | `how much does junk removal cost in dubai`                  | Commercial investigation   | `/blog/how-much-does-junk-removal-cost-in-dubai`                     | 2026-09-01 | Published |
-|   6 | `furniture removal cost dubai`                              | Commercial investigation   | `/blog/furniture-removal-cost-breakdown-dubai`                       | 2026-09-01 | Published |
-|   7 | `house clearance cost dubai`                                | Commercial investigation   | `/blog/house-and-villa-clearance-cost-guide-dubai`                   | 2026-09-01 | Published |
-|   8 | `how to dispose of old furniture in dubai`                  | Informational              | `/blog/how-to-dispose-of-large-furniture-in-dubai`                   | 2026-09-02 | Published |
-|   9 | `where to dispose e waste in dubai`                         | Informational              | `/blog/dubai-sustainable-waste-management-and-e-waste-guide`         | 2026-09-02 | Published |
-|  10 | `waste disposal rules dubai`                                | Informational              | `/blog/dubai-municipality-waste-disposal-rules-and-regulations`      | 2026-09-02 | Published |
-|  11 | `bulky waste collection dubai municipality`                 | Informational              | `/blog/dubai-municipality-bulky-waste-collection-explained`          | 2026-09-03 | Published |
-|  12 | `recycling centers in dubai`                                | Informational              | `/blog/complete-list-of-recycling-centers-in-dubai`                  | 2026-09-03 | Published |
-|  13 | `how to dispose of old fridge in dubai`                     | Informational              | `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai`        | 2026-09-03 | Published |
-|  14 | `how to dispose of a mattress in dubai`                     | Informational              | `/blog/how-to-dispose-of-an-old-mattress-in-dubai`                   | 2026-09-04 | Published |
-|  15 | `construction waste removal dubai`                          | Informational              | `/blog/construction-and-renovation-waste-removal-dubai`              | 2026-09-04 | Published |
-|  16 | `landfill diversion meaning`                                | Informational              | `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai`       | 2026-09-04 | Published |
-|  17 | `junk removal before moving dubai`                          | Commercial / Informational | `/blog/junk-removal-before-moving-house-in-dubai`                    | 2026-09-05 | Published |
-|  18 | `how to declutter your home dubai`                          | Informational              | `/blog/how-to-declutter-your-home-room-by-room-dubai`                | 2026-09-05 | Published |
-|  19 | `where to donate furniture in dubai`                        | Informational              | `/blog/where-to-donate-used-furniture-in-dubai`                      | 2026-09-05 | Published |
-|  20 | `sell used furniture dubai`                                 | Informational              | `/blog/how-to-sell-or-donate-used-furniture-in-dubai`                | 2026-09-07 | Published |
-|  21 | `what to do with old office furniture dubai`                | Informational              | `/blog/what-to-do-with-old-office-furniture-during-relocation`       | 2026-09-07 | Published |
-|  22 | `post renovation cleanup dubai`                             | Commercial / Informational | `/blog/post-renovation-junk-and-debris-cleanup-guide-dubai`          | 2026-09-07 | Published |
-|  23 | `spring cleaning junk removal dubai`                        | Commercial / Informational | `/blog/spring-cleaning-junk-removal-checklist-dubai`                 | 2026-09-09 | Published |
-|  24 | `what items do junk removal companies take`                 | Informational              | `/blog/what-items-can-junk-removal-companies-take-in-dubai`          | 2026-09-09 | Published |
-|  25 | `do you need a permit to remove junk in dubai`              | Informational              | `/blog/do-you-need-a-permit-for-junk-removal-in-dubai`               | 2026-09-09 | Published |
-|  26 | `is junk removal worth it`                                  | Informational              | `/blog/is-professional-junk-removal-worth-it-in-dubai`               | 2026-09-10 | Published |
-|  27 | `how to prepare for junk removal`                           | Informational              | `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai`            | 2026-09-10 | Published |
-|  28 | `what affects junk removal price`                           | Informational              | `/blog/what-factors-affect-junk-removal-prices-in-dubai`             | 2026-09-10 | Published |
-|  29 | `how to sort junk for recycling`                            | Informational              | `/blog/how-to-sort-junk-for-maximum-recycling-dubai`                 | 2026-09-11 | Published |
-|  30 | `best time to book junk removal dubai`                      | Informational              | `/blog/best-times-to-schedule-junk-removal-in-dubai`                 | 2026-09-11 | Published |
-|  31 | `how to dispose of paint in dubai`                          | Informational              | `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai`   | 2026-09-11 | Published |
-|  32 | `how to dispose of batteries in dubai`                      | Informational              | `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai`      | 2026-09-12 | Published |
-|  33 | `decluttering tips for small apartments dubai`              | Informational              | `/blog/decluttering-tips-for-small-apartments-in-dubai`              | 2026-09-12 | Published |
-|  34 | `what happens to junk after removal`                        | Informational              | `/blog/what-happens-to-your-junk-after-pickup-dubai`                 | 2026-09-12 | Published |
-|  35 | `how to dispose of junk in dubai`                           | Informational              | `/blog/how-to-dispose-of-junk-in-dubai-complete-guide`               | 2026-09-12 | Published |
-|  36 | `where to dump junk in dubai`                               | Informational              | `/blog/where-to-legally-dump-junk-and-waste-in-dubai`                | 2026-09-12 | Published |
-|  37 | `free bulky waste collection dubai`                         | Informational / Comparison | `/blog/free-vs-paid-bulky-waste-collection-in-dubai`                 | 2026-09-12 | Published |
-|  38 | `how to recycle in dubai`                                   | Informational              | `/blog/how-to-recycle-household-waste-in-dubai`                      | 2026-09-14 | Published |
-|  39 | `what is a landfill diversion certificate`                  | Informational              | `/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it` | 2026-09-14 | Published |
-|  40 | `how long does junk removal take`                           | Informational              | `/blog/how-long-does-a-typical-junk-removal-job-take`                | 2026-09-14 | Published |
-|  41 | `where to donate old appliances dubai`                      | Informational              | `/blog/where-to-donate-and-recycle-appliances-in-dubai`              | 2026-09-15 | Published |
-|  42 | `recycle old sofa dubai`                                    | Informational              | `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai`                | 2026-09-15 | Published |
-|  43 | `tipping junk removal in dubai`                             | Informational              | `/blog/tipping-etiquette-for-junk-removal-crews-in-dubai`            | 2026-09-15 | Published |
-|  44 | `junk removal cost per item dubai`                          | Informational / Pricing    | `/blog/item-by-item-junk-removal-pricing-dubai`                      | 2026-09-16 | Published |
-|  45 | `is it illegal to dump furniture in dubai`                  | Informational              | `/blog/dubai-illegal-dumping-laws-and-fines-guide`                   | 2026-09-16 | Published |
-|  46 | `dubai waste management 2030`                               | Informational              | `/blog/dubai-integrated-waste-management-strategy-2030`              | 2026-09-16 | Published |
-|  47 | `how to estimate junk removal cost`                         | Informational / Pricing    | `/blog/how-to-estimate-junk-removal-cost-in-dubai`                   | 2026-09-17 | Published |
-|  48 | `where to dispose of old appliances dubai`                  | Informational              | `/blog/where-to-recycle-and-dispose-appliances-in-dubai`             | 2026-09-17 | Published |
-|  49 | `eco friendly ways to get rid of junk`                      | Informational              | `/blog/eco-friendly-ways-to-dispose-of-household-junk-dubai`         | 2026-09-17 | Published |
-|  50 | `where to dispose old furniture in dubai`                   | Informational              | `/blog/where-to-dispose-and-donate-old-furniture-dubai`              | 2026-09-18 | Published |
-|  51 | `charity furniture collection dubai`                        | Informational              | `/blog/charity-furniture-collection-and-donation-dubai`              | 2026-09-18 | Published |
-|  52 | `declutter before moving dubai`                             | Informational              | `/blog/how-to-declutter-before-moving-in-dubai`                      | 2026-09-18 | Published |
-|  53 | `how to dispose of garden waste in dubai`                   | Informational              | `/blog/how-to-dispose-of-garden-waste-in-dubai`                      | 2026-09-19 | Published |
-|  54 | `how to clear an office while staff keep working`           | Informational              | `/blog/how-to-clear-an-office-while-staff-work-dubai`                | 2026-09-19 | Published |
-|  55 | `what to remove before rental handover dubai`               | Informational              | `/blog/what-to-remove-before-rental-handover-dubai`                  | 2026-09-19 | Published |
-|  56 | `how to dispose of old carpets and rugs in dubai`           | Informational              | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai`                 | 2026-09-21 | Published |
-|  57 | `how to dispose of gym equipment in dubai`                  | Informational              | `/blog/how-to-dispose-of-home-gym-equipment-dubai`                   | 2026-09-21 | Published |
-|  58 | `what to do with moving boxes in dubai`                     | Informational              | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai`         | 2026-09-21 | Published |
-|  59 | `how to dispose of old tyres in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-tyres-in-dubai`                         | 2026-09-22 | Published |
-|  60 | `how to dispose of old clothes and textiles in dubai`       | Informational              | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai`             | 2026-09-22 | Published |
-|  61 | `how to dispose of old documents in dubai`                  | Informational              | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai`          | 2026-09-22 | Published |
-|  62 | `what can't junk removal take`                              | Informational              | `/blog/items-junk-removal-companies-cannot-take-dubai`               | 2026-09-23 | Published |
-|  63 | `how to dispose of used cooking oil in dubai`               | Informational              | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai`                  | 2026-09-23 | Published |
-|  64 | `how to dispose of gas cylinders in dubai`                  | Informational              | `/blog/how-to-dispose-of-gas-cylinders-in-dubai`                     | 2026-09-23 | Published |
-|  65 | `what to do with items left by previous tenant dubai`       | Informational              | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai`          | 2026-09-24 | Published |
-|  66 | `how to clear out a storage unit in dubai`                  | Informational              | `/blog/how-to-clear-out-a-storage-unit-in-dubai`                     | 2026-09-24 | Published |
-|  67 | `how to clear a deceased person's home in dubai`            | Informational              | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai`           | 2026-09-24 | Published |
-|  68 | `how to dispose of mirrors and glass in dubai`              | Informational              | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai`                 | 2026-09-28 | Published |
-|  69 | `how to dispose of baby items in dubai`                     | Informational              | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai`          | 2026-09-28 | Published |
-|  70 | `how to help someone clear a hoarded home in dubai`         | Informational              | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai`               | 2026-09-28 | Published |
-|  71 | `how to dispose of expired medicines in dubai`              | Informational              | `/blog/how-to-dispose-of-expired-medicines-in-dubai`                 | 2026-09-29 | Published |
-|  72 | `how to dispose of light bulbs in dubai`                    | Informational              | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai`    | 2026-09-29 | Published |
-|  73 | `how to recycle printer cartridges in dubai`                | Informational              | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai`        | 2026-09-29 | Published |
-|  74 | `how to dispose of old books in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-books-in-dubai`                         | 2026-09-30 | Published |
-|  75 | `how to dispose of old pots and pans in dubai`              | Informational              | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai`        | 2026-09-30 | Published |
-|  76 | `how to dispose of outdoor furniture in dubai`              | Informational              | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai`          | 2026-09-30 | Published |
-|  77 | `how to dispose of cleaning products in dubai`              | Informational              | `/blog/how-to-dispose-of-household-cleaning-products-dubai`          | 2026-10-01 | Published |
-|  78 | `how to dispose of old camping gear in dubai`               | Informational              | `/blog/how-to-dispose-of-old-camping-gear-in-dubai`                  | 2026-10-01 | Published |
-|  79 | `how to dispose of curtains and blinds in dubai`            | Informational              | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai`              | 2026-10-01 | Published |
-|  80 | `how to dispose of a washing machine in dubai`              | Informational              | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai`            | 2026-10-02 | Published |
-|  81 | `how to dispose of an old tv in dubai`                      | Informational              | `/blog/how-to-dispose-of-an-old-tv-in-dubai`                         | 2026-10-02 | Published |
-|  82 | `how to dispose of an old wardrobe in dubai`                | Informational              | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai`                   | 2026-10-02 | Published |
-|  83 | `how to dispose of an old dishwasher in dubai`              | Informational              | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai`                 | 2026-10-03 | Published |
-|  84 | `how to dispose of an old bed frame in dubai`               | Informational              | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai`                  | 2026-10-03 | Published |
-|  85 | `how to dispose of an old piano in dubai`                   | Informational              | `/blog/how-to-dispose-of-an-old-piano-in-dubai`                      | 2026-10-03 | Published |
-|  86 | `how to dispose of an old oven in dubai`                    | Informational              | `/blog/how-to-dispose-of-an-old-oven-in-dubai`                       | 2026-10-05 | Published |
-|  87 | `how to dispose of old computers and laptops in dubai`      | Informational              | `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai`         | 2026-10-05 | Published |
-|  88 | `how to dispose of scrap metal in dubai`                    | Informational              | `/blog/how-to-dispose-of-scrap-metal-in-dubai`                       | 2026-10-05 | Published |
-|  89 | `how to dispose of an old water heater in dubai`            | Informational              | `/blog/how-to-dispose-of-an-old-water-heater-in-dubai`               | 2026-10-06 | Published |
-|  90 | `how to dispose of wood waste in dubai`                     | Informational              | `/blog/how-to-dispose-of-wood-waste-in-dubai`                        | 2026-10-06 | Published |
-|  91 | `how to dispose of an old dining table and chairs in dubai` | Informational              | `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai`    | 2026-10-06 | Published |
-|  92 | `how to dispose of old kitchen cabinets in dubai`           | Informational              | `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai`              | 2026-10-07 | Published |
-|  93 | `how to dispose of old doors in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-doors-in-dubai`                         | 2026-10-07 | Published |
-|  94 | `how to dispose of old bathroom fixtures in dubai`          | Informational              | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai`             | 2026-10-07 | Published |
-|  95 | `how to dispose of old office desks in dubai`               | Informational              | `/blog/how-to-dispose-of-old-office-desks-in-dubai`                  | 2026-10-08 | Published |
-|  96 | `how to dispose of old office chairs in dubai`              | Informational              | `/blog/how-to-dispose-of-old-office-chairs-in-dubai`                 | 2026-10-08 | Published |
-|  97 | `how to dispose of old bookshelves in dubai`                | Informational              | `/blog/how-to-dispose-of-old-bookshelves-in-dubai`                   | 2026-10-08 | Published |
-|  98 | `how to dispose of old filing cabinets in dubai` | Informational | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai` | 2026-10-09 | Published |
-|  99 | `how to dispose of old meeting tables in dubai` | Informational | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai` | 2026-10-09 | Published |
-| 100 | `how to dispose of old office partitions in dubai` | Informational | `/blog/how-to-dispose-of-old-office-partitions-in-dubai` | 2026-10-09 | Published |
-| 101 | `how to dispose of old office printers and photocopiers in dubai` | Informational | `/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai` | 2026-10-10 | Published |
-| 102 | `how to dispose of old electric scooters and e-bikes in dubai` | Informational | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai` | 2026-10-10 | Published |
-| 103 | `how to dispose of old plant pots and planters in dubai` | Informational | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai` | 2026-10-10 | Published |
-| 104 | `how to dispose of an old microwave in dubai` | Informational | `/blog/how-to-dispose-of-an-old-microwave-in-dubai` | 2026-10-12 | Published |
-| 105 | `how to dispose of old luggage and suitcases in dubai` | Informational | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai` | 2026-10-12 | Published |
-| 106 | `how to dispose of old chandeliers and ceiling lights in dubai` | Informational | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` | 2026-10-12 | Published |
-| 107 | `how to dispose of an old massage chair in dubai` | Informational | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` | 2026-10-13 | Published |
-| 108 | `how to dispose of an old aquarium and fish tank in dubai` | Informational | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai` | 2026-10-13 | Published |
-| 109 | `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | 2026-10-13 | Published |
-| 110 | `how to dispose of an old safe in dubai` | Informational | `/blog/how-to-dispose-of-an-old-safe-in-dubai` | 2026-10-14 | Published |
-| 111 | `how to dispose of an old pool table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai` | 2026-10-14 | Published |
-| 112 | `how to dispose of old artificial grass in dubai` | Informational | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai` | 2026-10-14 | Published |
-| 113 | `how to dispose of an old water dispenser in dubai` | Informational | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai` | 2026-10-15 | Published |
-| 114 | `how to dispose of an old kayak and paddleboard in dubai` | Informational | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai` | 2026-10-15 | Published |
-| 115 | `how to dispose of an old bicycle in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai` | 2026-10-15 | Published |
-| 116 | `how to dispose of an old lawn mower in dubai` | Informational | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai` | 2026-10-16 | Published |
-| 117 | `how to dispose of old swimming pool equipment in dubai` | Informational | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` | 2026-10-16 | Published |
-| 118 | `how to dispose of old golf clubs and bags in dubai` | Informational | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai` | 2026-10-16 | Published |
-| 119 | `how to dispose of an old bbq grill in dubai` | Informational | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai` | 2026-10-17 | Published |
-| 120 | `how to dispose of an old vacuum cleaner in dubai` | Informational | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai` | 2026-10-17 | Published |
-| 121 | `how to dispose of an old air purifier in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai` | 2026-10-17 | Published |
-| 122 | `how to dispose of an old standing fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` | 2026-10-19 | Published |
-| 123 | `how to dispose of an old coffee machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai` | 2026-10-19 | Published |
-| 124 | `how to dispose of old power tools in dubai` | Informational | `/blog/how-to-dispose-of-old-power-tools-in-dubai` | 2026-10-19 | Published |
-| 125 | `how to dispose of an old pressure washer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai` | 2026-10-20 | Published |
-| 126 | `how to dispose of old sound systems and speakers in dubai` | Informational | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai` | 2026-10-20 | Published |
-| 127 | `how to dispose of an old gazebo and sun shade in dubai` | Informational | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai` | 2026-10-20 | Published |
-| 128 | `how to dispose of an old patio heater in dubai` | Informational | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai` | 2026-10-21 | Published |
-| 129 | `how to dispose of old musical instruments in dubai` | Informational | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai` | 2026-10-21 | Published |
-| 130 | `how to dispose of an old garment steamer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai` | 2026-10-21 | Published |
-| 131 | `how to dispose of an old air fryer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` | 2026-10-22 | Published |
-| 132 | `how to dispose of an old shoe rack in dubai` | Informational | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai` | 2026-10-22 | Published |
-| 133 | `how to dispose of an old coffee table in dubai` | Informational | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai` | 2026-10-22 | Published |
-| 134 | `how to dispose of an old chest of drawers in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` | 2026-10-23 | Published |
-| 135 | `how to dispose of old bean bags in dubai` | Informational | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai` | 2026-10-23 | Published |
-| 136 | `how to dispose of an old garden storage shed in dubai` | Informational | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai` | 2026-10-23 | Published |
-| 137 | `how to dispose of an old tv stand in dubai` | Informational | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai` | 2026-10-24 | Published |
-| 138 | `how to dispose of an old sewing machine in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai` | 2026-10-24 | Published |
-| 139 | `how to dispose of old pet furniture in dubai` | Informational | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai` | 2026-10-24 | Published |
+|   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
+| --: | ------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------- | ---------- | --------- |
+|   1 | `checklist for house clearance dubai`                                     | Informational              | `/blog/villa-move-out-clearance-checklist-dubai`                                | 2026-08-25 | Published |
+|   2 | `junk removal vs skip hire dubai`                                         | Comparison                 | `/blog/junk-removal-vs-skip-hire-in-dubai`                                      | 2026-08-27 | Published |
+|   3 | `junk removal or man and van dubai`                                       | Comparison                 | `/blog/junk-removal-vs-man-and-van-dubai`                                       | 2026-08-29 | Published |
+|   4 | `best junk removal company dubai`                                         | Commercial investigation   | `/blog/how-to-choose-the-best-junk-removal-company-in-dubai`                    | 2026-08-31 | Published |
+|   5 | `how much does junk removal cost in dubai`                                | Commercial investigation   | `/blog/how-much-does-junk-removal-cost-in-dubai`                                | 2026-09-01 | Published |
+|   6 | `furniture removal cost dubai`                                            | Commercial investigation   | `/blog/furniture-removal-cost-breakdown-dubai`                                  | 2026-09-01 | Published |
+|   7 | `house clearance cost dubai`                                              | Commercial investigation   | `/blog/house-and-villa-clearance-cost-guide-dubai`                              | 2026-09-01 | Published |
+|   8 | `how to dispose of old furniture in dubai`                                | Informational              | `/blog/how-to-dispose-of-large-furniture-in-dubai`                              | 2026-09-02 | Published |
+|   9 | `where to dispose e waste in dubai`                                       | Informational              | `/blog/dubai-sustainable-waste-management-and-e-waste-guide`                    | 2026-09-02 | Published |
+|  10 | `waste disposal rules dubai`                                              | Informational              | `/blog/dubai-municipality-waste-disposal-rules-and-regulations`                 | 2026-09-02 | Published |
+|  11 | `bulky waste collection dubai municipality`                               | Informational              | `/blog/dubai-municipality-bulky-waste-collection-explained`                     | 2026-09-03 | Published |
+|  12 | `recycling centers in dubai`                                              | Informational              | `/blog/complete-list-of-recycling-centers-in-dubai`                             | 2026-09-03 | Published |
+|  13 | `how to dispose of old fridge in dubai`                                   | Informational              | `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai`                   | 2026-09-03 | Published |
+|  14 | `how to dispose of a mattress in dubai`                                   | Informational              | `/blog/how-to-dispose-of-an-old-mattress-in-dubai`                              | 2026-09-04 | Published |
+|  15 | `construction waste removal dubai`                                        | Informational              | `/blog/construction-and-renovation-waste-removal-dubai`                         | 2026-09-04 | Published |
+|  16 | `landfill diversion meaning`                                              | Informational              | `/blog/what-is-landfill-diversion-and-why-it-matters-in-dubai`                  | 2026-09-04 | Published |
+|  17 | `junk removal before moving dubai`                                        | Commercial / Informational | `/blog/junk-removal-before-moving-house-in-dubai`                               | 2026-09-05 | Published |
+|  18 | `how to declutter your home dubai`                                        | Informational              | `/blog/how-to-declutter-your-home-room-by-room-dubai`                           | 2026-09-05 | Published |
+|  19 | `where to donate furniture in dubai`                                      | Informational              | `/blog/where-to-donate-used-furniture-in-dubai`                                 | 2026-09-05 | Published |
+|  20 | `sell used furniture dubai`                                               | Informational              | `/blog/how-to-sell-or-donate-used-furniture-in-dubai`                           | 2026-09-07 | Published |
+|  21 | `what to do with old office furniture dubai`                              | Informational              | `/blog/what-to-do-with-old-office-furniture-during-relocation`                  | 2026-09-07 | Published |
+|  22 | `post renovation cleanup dubai`                                           | Commercial / Informational | `/blog/post-renovation-junk-and-debris-cleanup-guide-dubai`                     | 2026-09-07 | Published |
+|  23 | `spring cleaning junk removal dubai`                                      | Commercial / Informational | `/blog/spring-cleaning-junk-removal-checklist-dubai`                            | 2026-09-09 | Published |
+|  24 | `what items do junk removal companies take`                               | Informational              | `/blog/what-items-can-junk-removal-companies-take-in-dubai`                     | 2026-09-09 | Published |
+|  25 | `do you need a permit to remove junk in dubai`                            | Informational              | `/blog/do-you-need-a-permit-for-junk-removal-in-dubai`                          | 2026-09-09 | Published |
+|  26 | `is junk removal worth it`                                                | Informational              | `/blog/is-professional-junk-removal-worth-it-in-dubai`                          | 2026-09-10 | Published |
+|  27 | `how to prepare for junk removal`                                         | Informational              | `/blog/how-to-prepare-for-your-junk-removal-pickup-dubai`                       | 2026-09-10 | Published |
+|  28 | `what affects junk removal price`                                         | Informational              | `/blog/what-factors-affect-junk-removal-prices-in-dubai`                        | 2026-09-10 | Published |
+|  29 | `how to sort junk for recycling`                                          | Informational              | `/blog/how-to-sort-junk-for-maximum-recycling-dubai`                            | 2026-09-11 | Published |
+|  30 | `best time to book junk removal dubai`                                    | Informational              | `/blog/best-times-to-schedule-junk-removal-in-dubai`                            | 2026-09-11 | Published |
+|  31 | `how to dispose of paint in dubai`                                        | Informational              | `/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai`              | 2026-09-11 | Published |
+|  32 | `how to dispose of batteries in dubai`                                    | Informational              | `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai`                 | 2026-09-12 | Published |
+|  33 | `decluttering tips for small apartments dubai`                            | Informational              | `/blog/decluttering-tips-for-small-apartments-in-dubai`                         | 2026-09-12 | Published |
+|  34 | `what happens to junk after removal`                                      | Informational              | `/blog/what-happens-to-your-junk-after-pickup-dubai`                            | 2026-09-12 | Published |
+|  35 | `how to dispose of junk in dubai`                                         | Informational              | `/blog/how-to-dispose-of-junk-in-dubai-complete-guide`                          | 2026-09-12 | Published |
+|  36 | `where to dump junk in dubai`                                             | Informational              | `/blog/where-to-legally-dump-junk-and-waste-in-dubai`                           | 2026-09-12 | Published |
+|  37 | `free bulky waste collection dubai`                                       | Informational / Comparison | `/blog/free-vs-paid-bulky-waste-collection-in-dubai`                            | 2026-09-12 | Published |
+|  38 | `how to recycle in dubai`                                                 | Informational              | `/blog/how-to-recycle-household-waste-in-dubai`                                 | 2026-09-14 | Published |
+|  39 | `what is a landfill diversion certificate`                                | Informational              | `/blog/what-is-a-landfill-diversion-certificate-and-why-you-need-it`            | 2026-09-14 | Published |
+|  40 | `how long does junk removal take`                                         | Informational              | `/blog/how-long-does-a-typical-junk-removal-job-take`                           | 2026-09-14 | Published |
+|  41 | `where to donate old appliances dubai`                                    | Informational              | `/blog/where-to-donate-and-recycle-appliances-in-dubai`                         | 2026-09-15 | Published |
+|  42 | `recycle old sofa dubai`                                                  | Informational              | `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai`                           | 2026-09-15 | Published |
+|  43 | `tipping junk removal in dubai`                                           | Informational              | `/blog/tipping-etiquette-for-junk-removal-crews-in-dubai`                       | 2026-09-15 | Published |
+|  44 | `junk removal cost per item dubai`                                        | Informational / Pricing    | `/blog/item-by-item-junk-removal-pricing-dubai`                                 | 2026-09-16 | Published |
+|  45 | `is it illegal to dump furniture in dubai`                                | Informational              | `/blog/dubai-illegal-dumping-laws-and-fines-guide`                              | 2026-09-16 | Published |
+|  46 | `dubai waste management 2030`                                             | Informational              | `/blog/dubai-integrated-waste-management-strategy-2030`                         | 2026-09-16 | Published |
+|  47 | `how to estimate junk removal cost`                                       | Informational / Pricing    | `/blog/how-to-estimate-junk-removal-cost-in-dubai`                              | 2026-09-17 | Published |
+|  48 | `where to dispose of old appliances dubai`                                | Informational              | `/blog/where-to-recycle-and-dispose-appliances-in-dubai`                        | 2026-09-17 | Published |
+|  49 | `eco friendly ways to get rid of junk`                                    | Informational              | `/blog/eco-friendly-ways-to-dispose-of-household-junk-dubai`                    | 2026-09-17 | Published |
+|  50 | `where to dispose old furniture in dubai`                                 | Informational              | `/blog/where-to-dispose-and-donate-old-furniture-dubai`                         | 2026-09-18 | Published |
+|  51 | `charity furniture collection dubai`                                      | Informational              | `/blog/charity-furniture-collection-and-donation-dubai`                         | 2026-09-18 | Published |
+|  52 | `declutter before moving dubai`                                           | Informational              | `/blog/how-to-declutter-before-moving-in-dubai`                                 | 2026-09-18 | Published |
+|  53 | `how to dispose of garden waste in dubai`                                 | Informational              | `/blog/how-to-dispose-of-garden-waste-in-dubai`                                 | 2026-09-19 | Published |
+|  54 | `how to clear an office while staff keep working`                         | Informational              | `/blog/how-to-clear-an-office-while-staff-work-dubai`                           | 2026-09-19 | Published |
+|  55 | `what to remove before rental handover dubai`                             | Informational              | `/blog/what-to-remove-before-rental-handover-dubai`                             | 2026-09-19 | Published |
+|  56 | `how to dispose of old carpets and rugs in dubai`                         | Informational              | `/blog/how-to-dispose-of-old-carpets-and-rugs-dubai`                            | 2026-09-21 | Published |
+|  57 | `how to dispose of gym equipment in dubai`                                | Informational              | `/blog/how-to-dispose-of-home-gym-equipment-dubai`                              | 2026-09-21 | Published |
+|  58 | `what to do with moving boxes in dubai`                                   | Informational              | `/blog/what-to-do-with-moving-boxes-and-packing-waste-dubai`                    | 2026-09-21 | Published |
+|  59 | `how to dispose of old tyres in dubai`                                    | Informational              | `/blog/how-to-dispose-of-old-tyres-in-dubai`                                    | 2026-09-22 | Published |
+|  60 | `how to dispose of old clothes and textiles in dubai`                     | Informational              | `/blog/how-to-dispose-of-old-clothes-and-textiles-dubai`                        | 2026-09-22 | Published |
+|  61 | `how to dispose of old documents in dubai`                                | Informational              | `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai`                     | 2026-09-22 | Published |
+|  62 | `what can't junk removal take`                                            | Informational              | `/blog/items-junk-removal-companies-cannot-take-dubai`                          | 2026-09-23 | Published |
+|  63 | `how to dispose of used cooking oil in dubai`                             | Informational              | `/blog/how-to-dispose-of-used-cooking-oil-in-dubai`                             | 2026-09-23 | Published |
+|  64 | `how to dispose of gas cylinders in dubai`                                | Informational              | `/blog/how-to-dispose-of-gas-cylinders-in-dubai`                                | 2026-09-23 | Published |
+|  65 | `what to do with items left by previous tenant dubai`                     | Informational              | `/blog/what-to-do-with-items-left-by-previous-tenant-dubai`                     | 2026-09-24 | Published |
+|  66 | `how to clear out a storage unit in dubai`                                | Informational              | `/blog/how-to-clear-out-a-storage-unit-in-dubai`                                | 2026-09-24 | Published |
+|  67 | `how to clear a deceased person's home in dubai`                          | Informational              | `/blog/how-to-clear-a-loved-ones-home-after-a-death-dubai`                      | 2026-09-24 | Published |
+|  68 | `how to dispose of mirrors and glass in dubai`                            | Informational              | `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai`                            | 2026-09-28 | Published |
+|  69 | `how to dispose of baby items in dubai`                                   | Informational              | `/blog/how-to-dispose-of-baby-and-childrens-items-in-dubai`                     | 2026-09-28 | Published |
+|  70 | `how to help someone clear a hoarded home in dubai`                       | Informational              | `/blog/how-to-help-someone-clear-a-hoarded-home-dubai`                          | 2026-09-28 | Published |
+|  71 | `how to dispose of expired medicines in dubai`                            | Informational              | `/blog/how-to-dispose-of-expired-medicines-in-dubai`                            | 2026-09-29 | Published |
+|  72 | `how to dispose of light bulbs in dubai`                                  | Informational              | `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai`               | 2026-09-29 | Published |
+|  73 | `how to recycle printer cartridges in dubai`                              | Informational              | `/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai`                   | 2026-09-29 | Published |
+|  74 | `how to dispose of old books in dubai`                                    | Informational              | `/blog/how-to-dispose-of-old-books-in-dubai`                                    | 2026-09-30 | Published |
+|  75 | `how to dispose of old pots and pans in dubai`                            | Informational              | `/blog/how-to-dispose-of-old-pots-pans-and-kitchenware-dubai`                   | 2026-09-30 | Published |
+|  76 | `how to dispose of outdoor furniture in dubai`                            | Informational              | `/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai`                     | 2026-09-30 | Published |
+|  77 | `how to dispose of cleaning products in dubai`                            | Informational              | `/blog/how-to-dispose-of-household-cleaning-products-dubai`                     | 2026-10-01 | Published |
+|  78 | `how to dispose of old camping gear in dubai`                             | Informational              | `/blog/how-to-dispose-of-old-camping-gear-in-dubai`                             | 2026-10-01 | Published |
+|  79 | `how to dispose of curtains and blinds in dubai`                          | Informational              | `/blog/how-to-dispose-of-old-curtains-and-blinds-dubai`                         | 2026-10-01 | Published |
+|  80 | `how to dispose of a washing machine in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai`                       | 2026-10-02 | Published |
+|  81 | `how to dispose of an old tv in dubai`                                    | Informational              | `/blog/how-to-dispose-of-an-old-tv-in-dubai`                                    | 2026-10-02 | Published |
+|  82 | `how to dispose of an old wardrobe in dubai`                              | Informational              | `/blog/how-to-dispose-of-an-old-wardrobe-in-dubai`                              | 2026-10-02 | Published |
+|  83 | `how to dispose of an old dishwasher in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-dishwasher-in-dubai`                            | 2026-10-03 | Published |
+|  84 | `how to dispose of an old bed frame in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-bed-frame-in-dubai`                             | 2026-10-03 | Published |
+|  85 | `how to dispose of an old piano in dubai`                                 | Informational              | `/blog/how-to-dispose-of-an-old-piano-in-dubai`                                 | 2026-10-03 | Published |
+|  86 | `how to dispose of an old oven in dubai`                                  | Informational              | `/blog/how-to-dispose-of-an-old-oven-in-dubai`                                  | 2026-10-05 | Published |
+|  87 | `how to dispose of old computers and laptops in dubai`                    | Informational              | `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai`                    | 2026-10-05 | Published |
+|  88 | `how to dispose of scrap metal in dubai`                                  | Informational              | `/blog/how-to-dispose-of-scrap-metal-in-dubai`                                  | 2026-10-05 | Published |
+|  89 | `how to dispose of an old water heater in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-water-heater-in-dubai`                          | 2026-10-06 | Published |
+|  90 | `how to dispose of wood waste in dubai`                                   | Informational              | `/blog/how-to-dispose-of-wood-waste-in-dubai`                                   | 2026-10-06 | Published |
+|  91 | `how to dispose of an old dining table and chairs in dubai`               | Informational              | `/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai`               | 2026-10-06 | Published |
+|  92 | `how to dispose of old kitchen cabinets in dubai`                         | Informational              | `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai`                         | 2026-10-07 | Published |
+|  93 | `how to dispose of old doors in dubai`                                    | Informational              | `/blog/how-to-dispose-of-old-doors-in-dubai`                                    | 2026-10-07 | Published |
+|  94 | `how to dispose of old bathroom fixtures in dubai`                        | Informational              | `/blog/how-to-dispose-of-old-bathroom-fixtures-in-dubai`                        | 2026-10-07 | Published |
+|  95 | `how to dispose of old office desks in dubai`                             | Informational              | `/blog/how-to-dispose-of-old-office-desks-in-dubai`                             | 2026-10-08 | Published |
+|  96 | `how to dispose of old office chairs in dubai`                            | Informational              | `/blog/how-to-dispose-of-old-office-chairs-in-dubai`                            | 2026-10-08 | Published |
+|  97 | `how to dispose of old bookshelves in dubai`                              | Informational              | `/blog/how-to-dispose-of-old-bookshelves-in-dubai`                              | 2026-10-08 | Published |
+|  98 | `how to dispose of old filing cabinets in dubai`                          | Informational              | `/blog/how-to-dispose-of-old-filing-cabinets-in-dubai`                          | 2026-10-09 | Published |
+|  99 | `how to dispose of old meeting tables in dubai`                           | Informational              | `/blog/how-to-dispose-of-old-meeting-tables-in-dubai`                           | 2026-10-09 | Published |
+| 100 | `how to dispose of old office partitions in dubai`                        | Informational              | `/blog/how-to-dispose-of-old-office-partitions-in-dubai`                        | 2026-10-09 | Published |
+| 101 | `how to dispose of old office printers and photocopiers in dubai`         | Informational              | `/blog/how-to-dispose-of-old-office-printers-and-photocopiers-in-dubai`         | 2026-10-10 | Published |
+| 102 | `how to dispose of old electric scooters and e-bikes in dubai`            | Informational              | `/blog/how-to-dispose-of-old-electric-scooters-and-e-bikes-in-dubai`            | 2026-10-10 | Published |
+| 103 | `how to dispose of old plant pots and planters in dubai`                  | Informational              | `/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai`                  | 2026-10-10 | Published |
+| 104 | `how to dispose of an old microwave in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-microwave-in-dubai`                             | 2026-10-12 | Published |
+| 105 | `how to dispose of old luggage and suitcases in dubai`                    | Informational              | `/blog/how-to-dispose-of-old-luggage-and-suitcases-in-dubai`                    | 2026-10-12 | Published |
+| 106 | `how to dispose of old chandeliers and ceiling lights in dubai`           | Informational              | `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai`           | 2026-10-12 | Published |
+| 107 | `how to dispose of an old massage chair in dubai`                         | Informational              | `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai`                         | 2026-10-13 | Published |
+| 108 | `how to dispose of an old aquarium and fish tank in dubai`                | Informational              | `/blog/how-to-dispose-of-an-old-aquarium-and-fish-tank-in-dubai`                | 2026-10-13 | Published |
+| 109 | `how to dispose of an old trampoline and outdoor play equipment in dubai` | Informational              | `/blog/how-to-dispose-of-an-old-trampoline-and-outdoor-play-equipment-in-dubai` | 2026-10-13 | Published |
+| 110 | `how to dispose of an old safe in dubai`                                  | Informational              | `/blog/how-to-dispose-of-an-old-safe-in-dubai`                                  | 2026-10-14 | Published |
+| 111 | `how to dispose of an old pool table in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-pool-table-in-dubai`                            | 2026-10-14 | Published |
+| 112 | `how to dispose of old artificial grass in dubai`                         | Informational              | `/blog/how-to-dispose-of-old-artificial-grass-in-dubai`                         | 2026-10-14 | Published |
+| 113 | `how to dispose of an old water dispenser in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai`                       | 2026-10-15 | Published |
+| 114 | `how to dispose of an old kayak and paddleboard in dubai`                 | Informational              | `/blog/how-to-dispose-of-an-old-kayak-and-paddleboard-in-dubai`                 | 2026-10-15 | Published |
+| 115 | `how to dispose of an old bicycle in dubai`                               | Informational              | `/blog/how-to-dispose-of-an-old-bicycle-in-dubai`                               | 2026-10-15 | Published |
+| 116 | `how to dispose of an old lawn mower in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai`                            | 2026-10-16 | Published |
+| 117 | `how to dispose of old swimming pool equipment in dubai`                  | Informational              | `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai`                  | 2026-10-16 | Published |
+| 118 | `how to dispose of old golf clubs and bags in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-golf-clubs-and-bags-in-dubai`                      | 2026-10-16 | Published |
+| 119 | `how to dispose of an old bbq grill in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-bbq-grill-in-dubai`                             | 2026-10-17 | Published |
+| 120 | `how to dispose of an old vacuum cleaner in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-vacuum-cleaner-in-dubai`                        | 2026-10-17 | Published |
+| 121 | `how to dispose of an old air purifier in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-air-purifier-and-dehumidifier-in-dubai`         | 2026-10-17 | Published |
+| 122 | `how to dispose of an old standing fan in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai`           | 2026-10-19 | Published |
+| 123 | `how to dispose of an old coffee machine in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-coffee-machine-in-dubai`                        | 2026-10-19 | Published |
+| 124 | `how to dispose of old power tools in dubai`                              | Informational              | `/blog/how-to-dispose-of-old-power-tools-in-dubai`                              | 2026-10-19 | Published |
+| 125 | `how to dispose of an old pressure washer in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-pressure-washer-in-dubai`                       | 2026-10-20 | Published |
+| 126 | `how to dispose of old sound systems and speakers in dubai`               | Informational              | `/blog/how-to-dispose-of-old-sound-systems-and-speakers-in-dubai`               | 2026-10-20 | Published |
+| 127 | `how to dispose of an old gazebo and sun shade in dubai`                  | Informational              | `/blog/how-to-dispose-of-an-old-gazebo-and-sun-shade-in-dubai`                  | 2026-10-20 | Published |
+| 128 | `how to dispose of an old patio heater in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-patio-heater-in-dubai`                          | 2026-10-21 | Published |
+| 129 | `how to dispose of old musical instruments in dubai`                      | Informational              | `/blog/how-to-dispose-of-old-musical-instruments-in-dubai`                      | 2026-10-21 | Published |
+| 130 | `how to dispose of an old garment steamer in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-garment-steamer-and-ironing-board-in-dubai`     | 2026-10-21 | Published |
+| 131 | `how to dispose of an old air fryer in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai`      | 2026-10-22 | Published |
+| 132 | `how to dispose of an old shoe rack in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-shoe-rack-and-shoe-cabinet-in-dubai`            | 2026-10-22 | Published |
+| 133 | `how to dispose of an old coffee table in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai`          | 2026-10-22 | Published |
+| 134 | `how to dispose of an old chest of drawers in dubai`                      | Informational              | `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai`          | 2026-10-23 | Published |
+| 135 | `how to dispose of old bean bags in dubai`                                | Informational              | `/blog/how-to-dispose-of-old-bean-bags-and-floor-cushions-in-dubai`             | 2026-10-23 | Published |
+| 136 | `how to dispose of an old garden storage shed in dubai`                   | Informational              | `/blog/how-to-dispose-of-an-old-garden-storage-shed-in-dubai`                   | 2026-10-23 | Published |
+| 137 | `how to dispose of an old tv stand in dubai`                              | Informational              | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai`            | 2026-10-24 | Published |
+| 138 | `how to dispose of an old sewing machine in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai`              | 2026-10-24 | Published |
+| 139 | `how to dispose of old pet furniture in dubai`                            | Informational              | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai`              | 2026-10-24 | Published |
+| 140 | `how to dispose of an old dressing table in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai`             | 2026-10-27 | Published |
+| 141 | `how to dispose of an old recliner chair in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai`                        | 2026-10-27 | Published |
+| 142 | `how to dispose of an old wheelchair in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai`          | 2026-10-27 | Published |
 
 ## Current counts
 
-- Published: **139**
+- Published: **142**
+- Published on 2026-10-27: **3**
 - Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
@@ -165,8 +169,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **109**
-- Next approved supplemental priority: **None queued; the 2026-10-24 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **112**
+- Next approved supplemental priority: **None queued; the 2026-10-27 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-27 batch
+
+- The dressing-table and vanity guide owns cosmetic and personal-item clearing, framed-mirror bracket release, drawer and stool preparation, vanity transport dimensions and the split among timber, engineered board, glass and hardware. `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains general mirrors and flat glass; `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` retains standalone bedroom drawer storage. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The recliner-chair guide owns powered and manual recliner identification, closing before isolation, low-voltage adapter and backup-battery handling, detachable-back locking clips, mechanism pinch points and powered-seat material separation. `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains fixed and modular sofas; `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` retains rollers, air pumps and massage electronics. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The wheelchair and mobility-aid guide owns consent and supplier-ownership checks, manual brake and frame assessment, recipient fit caveats, charger and fitted-accessory retention, powered-chair freewheel procedures, traction-battery isolation and respectful hygiene disclosure. `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains household battery safety; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the broad electronics framework. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/appliance-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, the current Dubai Municipality services directory and `/contact`. The blog hub provides immediate inbound discovery, with contextual inbound links added from the mirror, sofa and battery guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-27.md`.
 
 ## Cannibalization notes for 2026-10-24 batch
 
