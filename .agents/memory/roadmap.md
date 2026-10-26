@@ -133,12 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-27)
+## 4. Publication Progress (Updated 2026-10-26)
 
 - Published roadmap articles: **30 / 30 (complete)**
 - Published supplemental approved articles: **112**
 - Total published blog articles: **142**
-- Published on 2026-10-27: **3**
+- Published on 2026-10-26: **3**
 - Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
@@ -151,7 +151,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-27 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-26 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |
@@ -272,6 +272,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old tv stand in dubai`                              | Published | 2026-10-24 |
 | Approved expansion | `how to dispose of an old sewing machine in dubai`                        | Published | 2026-10-24 |
 | Approved expansion | `how to dispose of old pet furniture in dubai`                            | Published | 2026-10-24 |
-| Approved expansion | `how to dispose of an old dressing table in dubai`                        | Published | 2026-10-27 |
-| Approved expansion | `how to dispose of an old recliner chair in dubai`                        | Published | 2026-10-27 |
-| Approved expansion | `how to dispose of an old wheelchair in dubai`                            | Published | 2026-10-27 |
+| Approved expansion | `how to dispose of an old dressing table in dubai`                        | Published | 2026-10-26 |
+| Approved expansion | `how to dispose of an old recliner chair in dubai`                        | Published | 2026-10-26 |
+| Approved expansion | `how to dispose of an old wheelchair in dubai`                            | Published | 2026-10-26 |

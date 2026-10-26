@@ -59,7 +59,7 @@ export const BLOG_POSTS: BlogPost[] = [
     coverImage: "/images/blog/old-dressing-table-disposal-dubai-hero.webp",
     coverImageAlt:
       "Two clearance workers supporting a framed mirror while removing it from an emptied wooden dressing table in a Dubai apartment bedroom",
-    publishedAt: "2026-10-27",
+    publishedAt: "2026-10-26",
     readingTime: "7 min read",
     author: {
       name: "EcoHaul Dubai Team",
@@ -75,7 +75,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to dispose of an old dressing table in Dubai",
         content: [
-          "To dispose of an old dressing table or vanity in Dubai, empty and sort the contents first, assess the furniture for reuse, then remove loose drawers and detach the mirror only if its proper fixings are accessible. Protect the mirror upright, contain all hardware and arrange an approved bulky-furniture route rather than leaving the unit beside a communal bin. Checked on 27/10/2026.",
+          "To dispose of an old dressing table or vanity in Dubai, empty and sort the contents first, assess the furniture for reuse, then remove loose drawers and detach the mirror only if its proper fixings are accessible. Protect the mirror upright, contain all hardware and arrange an approved bulky-furniture route rather than leaving the unit beside a communal bin. Checked on 26/10/2026.",
           "A dressing table looks like a small desk, but the mirror, narrow top and full drawers change the job. Bottles can leak during a carry, a fixed mirror makes the load top-heavy, and long vanity drawers often slide out as soon as the unit tilts toward a doorway.",
           "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists a bulky-waste service for household furniture and electrical appliances, subject to its applicant and location conditions; investment zones are excluded. Confirm the route used by your building or community before placing the item outside.",
         ],
@@ -149,7 +149,7 @@ export const BLOG_POSTS: BlogPost[] = [
     coverImage: "/images/blog/old-recliner-chair-disposal-dubai-hero.webp",
     coverImageAlt:
       "Two clearance workers checking the rear locking clips on an unplugged beige powered recliner in a Dubai apartment living room",
-    publishedAt: "2026-10-27",
+    publishedAt: "2026-10-26",
     readingTime: "8 min read",
     author: {
       name: "EcoHaul Dubai Team",
@@ -165,7 +165,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to dispose of an old recliner chair in Dubai",
         content: [
-          "To dispose of an old recliner chair in Dubai, return the chair to its closed position, unplug a powered model, remove any detachable battery as the manufacturer directs and check whether the back is designed to lift off. Keep controls and hardware together, protect the moving mechanism and use an approved bulky-furniture route. Checked on 27/10/2026.",
+          "To dispose of an old recliner chair in Dubai, return the chair to its closed position, unplug a powered model, remove any detachable battery as the manufacturer directs and check whether the back is designed to lift off. Keep controls and hardware together, protect the moving mechanism and use an approved bulky-furniture route. Checked on 26/10/2026.",
           "Recliners are heavier and less balanced than they look. Most of the steel mechanism sits low in the seat, while the arms and back hide the safe handholds. A chair that fits through the front door upright may still jam at a lift turn or open unexpectedly when tilted.",
           "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household furniture and electrical appliances within its bulky-waste service, subject to current eligibility and location conditions. Buildings in developer-managed or investment zones may direct residents to a different approved collection route.",
         ],
@@ -239,7 +239,7 @@ export const BLOG_POSTS: BlogPost[] = [
     coverImage: "/images/blog/old-wheelchair-disposal-dubai-hero.webp",
     coverImageAlt:
       "Two clearance workers respectfully checking the brake, tyre and frame of a used manual wheelchair beside a folded walker in a Dubai apartment",
-    publishedAt: "2026-10-27",
+    publishedAt: "2026-10-26",
     readingTime: "8 min read",
     author: {
       name: "EcoHaul Dubai Team",
@@ -255,7 +255,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "How to dispose of an old wheelchair in Dubai",
         content: [
-          "To dispose of an old wheelchair or mobility aid in Dubai, first confirm that it is owned outright and genuinely no longer needed. Record the model, accessories and condition, then ask a repairer, supplier or intended recipient whether safe reuse is possible. For powered equipment, isolate the controls and battery exactly as the manufacturer directs before arranging an approved collection. Checked on 27/10/2026.",
+          "To dispose of an old wheelchair or mobility aid in Dubai, first confirm that it is owned outright and genuinely no longer needed. Record the model, accessories and condition, then ask a repairer, supplier or intended recipient whether safe reuse is possible. For powered equipment, isolate the controls and battery exactly as the manufacturer directs before arranging an approved collection. Checked on 26/10/2026.",
           "Wheelchairs, walkers and shower chairs are not ordinary scrap while they can still support someone safely. They are also not automatically suitable to give away: worn brakes, the wrong cushion, a cracked weld or a missing anti-tip bar can turn a generous handover into a hazard.",
           "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and electrical appliances within its bulky-waste service, subject to its current eligibility and location conditions. Confirm whether the service, your building or another approved collector is the right final route for non-reusable equipment.",
         ],

@@ -1,4 +1,4 @@
-# Article images — 27/10/2026
+# Article images — 26/10/2026
 
 Six original, article-specific images were generated with the built-in image generation workflow, visually reviewed, resized to 1200 × 800, and converted to WebP. No stock image was downloaded or reused.
 

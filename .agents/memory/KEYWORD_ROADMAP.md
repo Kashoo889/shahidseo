@@ -1,12 +1,12 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-10-27**
+Last synchronized: **2026-10-26**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
 ## Current editorial queue
 
-The three expansion topics for 2026-10-27 are written in `data/blog.ts`: old dressing tables and vanities, old recliner chairs, and old wheelchairs and mobility aids. No additional new article is queued. The checklist mapping below remains an existing-page topic.
+The three expansion topics for 2026-10-26 are written in `data/blog.ts`: old dressing tables and vanities, old recliner chairs, and old wheelchairs and mobility aids. No additional new article is queued. The checklist mapping below remains an existing-page topic.
 
 | Priority | Primary keyword                       | Target URL                                       | Status                   |
 | -------: | ------------------------------------- | ------------------------------------------------ | ------------------------ |

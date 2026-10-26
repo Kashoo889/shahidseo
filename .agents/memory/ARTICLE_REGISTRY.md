@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-27**
+Last synchronized: **2026-10-26**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -144,14 +144,14 @@ Canonical implementation: `data/blog.ts`
 | 137 | `how to dispose of an old tv stand in dubai`                              | Informational              | `/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai`            | 2026-10-24 | Published |
 | 138 | `how to dispose of an old sewing machine in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-sewing-machine-and-table-in-dubai`              | 2026-10-24 | Published |
 | 139 | `how to dispose of old pet furniture in dubai`                            | Informational              | `/blog/how-to-dispose-of-old-pet-furniture-and-cat-trees-in-dubai`              | 2026-10-24 | Published |
-| 140 | `how to dispose of an old dressing table in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai`             | 2026-10-27 | Published |
-| 141 | `how to dispose of an old recliner chair in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai`                        | 2026-10-27 | Published |
-| 142 | `how to dispose of an old wheelchair in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai`          | 2026-10-27 | Published |
+| 140 | `how to dispose of an old dressing table in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai`             | 2026-10-26 | Published |
+| 141 | `how to dispose of an old recliner chair in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai`                        | 2026-10-26 | Published |
+| 142 | `how to dispose of an old wheelchair in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai`          | 2026-10-26 | Published |
 
 ## Current counts
 
 - Published: **142**
-- Published on 2026-10-27: **3**
+- Published on 2026-10-26: **3**
 - Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
 - Published on 2026-10-22: **3**
@@ -170,15 +170,15 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **112**
-- Next approved supplemental priority: **None queued; the 2026-10-27 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-26 expansion topics are complete. The checklist keyword remains with its existing owner.**
 
-## Cannibalization notes for 2026-10-27 batch
+## Cannibalization notes for 2026-10-26 batch
 
 - The dressing-table and vanity guide owns cosmetic and personal-item clearing, framed-mirror bracket release, drawer and stool preparation, vanity transport dimensions and the split among timber, engineered board, glass and hardware. `/blog/how-to-dispose-of-mirrors-and-glass-in-dubai` retains general mirrors and flat glass; `/blog/how-to-dispose-of-an-old-chest-of-drawers-and-dresser-in-dubai` retains standalone bedroom drawer storage. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
 - The recliner-chair guide owns powered and manual recliner identification, closing before isolation, low-voltage adapter and backup-battery handling, detachable-back locking clips, mechanism pinch points and powered-seat material separation. `/blog/how-to-recycle-and-dispose-of-old-sofas-dubai` retains fixed and modular sofas; `/blog/how-to-dispose-of-an-old-massage-chair-in-dubai` retains rollers, air pumps and massage electronics. Commercial intent stays with `/services/furniture-removal-dubai` and `/services/bulky-item-removal-dubai`.
 - The wheelchair and mobility-aid guide owns consent and supplier-ownership checks, manual brake and frame assessment, recipient fit caveats, charger and fitted-accessory retention, powered-chair freewheel procedures, traction-battery isolation and respectful hygiene disclosure. `/blog/how-to-dispose-of-batteries-and-small-electronics-dubai` retains household battery safety; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the broad electronics framework. Commercial intent stays with `/services/bulky-item-removal-dubai` and `/services/appliance-removal-dubai`.
 - Each article links to two services, two areas, supporting sibling guides, the current Dubai Municipality services directory and `/contact`. The blog hub provides immediate inbound discovery, with contextual inbound links added from the mirror, sofa and battery guides.
-- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-27.md`.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-26.md`.
 
 ## Cannibalization notes for 2026-10-24 batch
 
