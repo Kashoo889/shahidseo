@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 340
+**Total Target Keywords**: 343
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-27
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword                                 | Intent        | Target URL                                                              | Page type  | Priority           |
+| ----------------------------------------------- | ------------- | ----------------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old hot tub in dubai`     | Informational | `/blog/how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai`           | Blog Guide | Approved expansion |
+| `how to dispose of an old ceiling fan in dubai` | Informational | `/blog/how-to-dispose-of-an-old-ceiling-fan-in-dubai`                   | Blog Guide | Approved expansion |
+| `how to dispose of an old cooker hood in dubai` | Informational | `/blog/how-to-dispose-of-an-old-cooker-hood-and-extractor-fan-in-dubai` | Blog Guide | Approved expansion |
+
+Overlap review: the hot-tub guide owns complete spa-shell removal, property-approved drainage, fixed-service isolation, access measurement and integrated pump/control sorting; the swimming-pool-equipment guide retains standalone pool plant. The ceiling-fan guide owns rotating blades, motor support, matched brackets and remote receivers; the chandelier guide retains decorative luminaires and fragile glass. The cooker-hood guide owns grease preparation, recirculating-versus-ducted identification, shared-duct boundaries and high-level appliance support; the kitchen-cabinet guide retains fixed joinery and the small-appliance guide retains countertop equipment. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-26
 

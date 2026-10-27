@@ -49,6 +49,257 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai",
+    title: "How to Dispose of an Old Hot Tub in Dubai: Jacuzzi Guide",
+    seoTitle: "How to Dispose of an Old Hot Tub in Dubai: Safe Guide",
+    excerpt:
+      "Learn how to dispose of an old hot tub in Dubai safely: use the approved drain route, isolate fixed services, measure access, and sort its components.",
+    category: "Guides",
+    tags: ["Hot Tubs", "Jacuzzis", "Villa Clearance", "Bulky Items", "Dubai"],
+    coverImage: "/images/blog/old-hot-tub-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers checking the service panel and measuring a drained freestanding hot tub on a Dubai villa patio",
+    publishedAt: "2026-10-27",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Confirm whether the spa is freestanding, inflatable or built in before arranging removal; each needs a different trade and lifting plan.",
+      "Have the electrical supply, water connection and any fixed drainage isolated by the appropriate qualified technician before a clearance crew handles the shell.",
+      "Drain only through the route approved for the property, then clear the pipework so trapped water does not spill during lifting.",
+      "Measure the complete exit path. A rigid acrylic shell may need a gate panel removed or specialist cutting when it cannot leave intact.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old hot tub in Dubai",
+        content: [
+          "To dispose of an old hot tub or Jacuzzi in Dubai, identify how it is installed, arrange safe isolation of electricity and fixed plumbing, drain it through the property-approved route, and measure the shell against every gate and turn. Keep pumps, controls and wiring together for assessment, then use an approved bulky-item route instead of breaking the tub beside a communal bin. Checked on 27/10/2026.",
+          "A freestanding spa can look like garden furniture, but it is closer to a small plant room wrapped around a heavy shell. Water remains in low pipe loops after the main drain opens, the insulated cover can be waterlogged, and an acrylic or composite body is difficult to grip without a lifting frame or trolley.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists bulky household furniture and electrical appliances within its collection service, subject to applicant and location conditions, and excludes investment zones. A whole spa may need a separately agreed private collection because of its size, services and mixed construction, so confirm acceptance before dismantling anything.",
+        ],
+        callout: {
+          title: "Isolation comes before clearance",
+          text: "A clearance crew should receive a cold, dry and electrically isolated unit. Fixed supply cables, local isolators, pumps and hard-plumbed connections need the appropriate qualified technician, not improvised cutting at collection time.",
+        },
+      },
+      {
+        heading: "Identify what is actually installed",
+        content: [
+          "Photograph the model label, service compartment, control panel, cover, steps and the full route to the vehicle. Note whether the tub sits loose on pavers, is recessed into decking or has been built into masonry. A portable inflatable spa can be emptied, dried and folded; a rigid acrylic spa normally moves as one large shell; a tiled or concrete spa is a renovation project rather than an ordinary collection.",
+          "Do not assume a unit belongs to the tenant just because it is in the garden. Check the inventory, landlord agreement and community rules before removing a fitted spa. If a replacement installer is involved, agree in writing which contractor disconnects services, removes the old equipment and restores the base.",
+          "A sound spa may be reusable when the shell has no structural crack, the pump and heater operate correctly, the cover is not saturated and the exact electrical specification is available. Be candid about leaks, error codes and repairs; moving a defective spa to someone else's home is not responsible reuse.",
+        ],
+      },
+      {
+        heading: "Drain, clean and make the unit safe",
+        content: [
+          "Ask building or community management which drain route is approved for the property. Do not release treated spa water across a pavement, landscaped common area or street. Stop adding treatment chemicals in accordance with the manufacturer's shutdown instructions, and never mix leftover products in an attempt to neutralise them.",
+          "After the main drain finishes, open only the service points described by the manufacturer and catch residual water in a shallow tray. A wet vacuum operated safely may help with seat wells and accessible pipe ends. Leave the cover open until surfaces are dry, then refit access panels so hoses and wiring are protected during the move.",
+          "Remove loose headrests, cup inserts, steps and the cover. Bag proprietary clips and fasteners. Store unwanted spa chemicals upright in their labelled containers and use the separate route described in our [household chemical disposal guide](/blog/how-to-dispose-of-household-cleaning-products-dubai); they must not travel loose inside the empty shell.",
+        ],
+      },
+      {
+        heading: "Keep pumps, controls and materials organised",
+        content: [
+          "A spa may contain one or more circulation pumps, a heater assembly, control board, lights, sensors, insulated pipework, steel supports and a timber or composite skirt. Leave this system intact when resale or repair remains realistic. Randomly cutting hoses and cables reduces reuse value and creates sharp, wet components that are harder to sort.",
+          "For a confirmed end-of-life unit, a receiving facility may assess the motor, control box and wiring as electrical waste, metal brackets as scrap, and the cover, foam, pipe and shell according to their actual materials. Acceptance varies, especially for fibre-reinforced or bonded shells, so separation should follow the chosen facility's instructions rather than assumptions.",
+          "The nearby [pool-equipment disposal guide](/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai) covers standalone filters, chlorinators, heat pumps and pool pumps. This guide owns the removal decision for the complete hot-tub shell and its integrated components.",
+        ],
+        image: {
+          src: "/images/blog/hot-tub-material-sorting-dubai.webp",
+          alt: "Technician assessing a hot tub shell section beside a pump, insulated cover, capped hoses, control box, wiring and metal fittings at a Dubai workshop",
+        },
+      },
+      {
+        heading: "Measure the patio-to-vehicle route",
+        content: [
+          "Record the shell's length, width, height and estimated dry weight from the model documentation where possible. Measure the side gate at its narrowest fixed point, then check wall lights, AC equipment, irrigation boxes, steps and the turning space outside the gate. A tub that is 20 millimetres narrower than an opening can still fail to pass once blankets and hand clearance are included.",
+          "In [Arabian Ranches](/areas/arabian-ranches), side access may be the deciding factor; in [Palm Jumeirah](/areas/palm-jumeirah), basement, lift or contractor-access rules can matter for apartment terraces and managed properties. Ask management before removing a gate leaf, using shared access or reserving a loading position.",
+          "If the rigid shell cannot leave intact, cutting should be the last option and needs a controlled work zone, suitable respiratory and eye protection, and a plan for sharp composite edges. Do not attack the shell with a household saw while pumps, cables or trapped water remain inside.",
+        ],
+      },
+      {
+        heading: "Arrange a planned hot-tub collection",
+        content: [
+          "Our [villa clearance team](/services/villa-clearance-dubai) can remove a drained, safely disconnected freestanding spa as part of a garden or move-out clearance. For a single large shell, the [bulky-item removal service](/services/bulky-item-removal-dubai) plans labour, trolley access and vehicle space around the dimensions you provide.",
+          "[Send photos of all four sides, the service bay and the exit route](/contact), together with the model, dimensions and confirmation that fixed services are isolated. We will explain what must be completed by a technician first and provide a fixed collection quote for the agreed scope.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "palm-jumeirah"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-ceiling-fan-in-dubai",
+    title: "How to Dispose of an Old Ceiling Fan in Dubai",
+    seoTitle: "How to Dispose of an Old Ceiling Fan in Dubai: Guide",
+    excerpt:
+      "Learn how to dispose of an old ceiling fan in Dubai safely: isolate the circuit, support the motor, retain its hardware, and sort electrical parts.",
+    category: "Guides",
+    tags: ["Ceiling Fans", "Electrical Fixtures", "E-Waste", "Home Clearance", "Dubai"],
+    coverImage: "/images/blog/old-ceiling-fan-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Technician supporting a stationary ceiling fan while a second worker steadies the access ladder in a bright Dubai apartment",
+    publishedAt: "2026-10-27",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "A fixed ceiling fan is an electrical-removal job first and a waste-collection job second; use a qualified technician for disconnection.",
+      "Switching off the wall control is not isolation. The correct circuit must be made safe and verified before the canopy opens.",
+      "Support the motor housing independently before releasing the mounting bracket; blades and downrods are not carrying handles.",
+      "Keep the bracket, canopy, remote receiver and fasteners with a reusable fan, while batteries and failed electrical parts follow their own routes.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old ceiling fan in Dubai",
+        content: [
+          "To dispose of an old ceiling fan in Dubai, arrange for a qualified technician to isolate and verify the circuit, remove the blades where the model permits, support the motor before releasing the ceiling bracket, and cap the building-side conductors correctly. Keep the fan's remote, receiver and mounting hardware together for reuse or route the motor and controls through approved electrical-waste handling. Checked on 27/10/2026.",
+          "The difficult part is not the fan's diameter; it is the weight hanging above shoulder height. Once the canopy and final fixing are released, the motor can drop without warning. A long downrod also turns a compact motor into an awkward load that can strike glazing, walls or the person on the access platform.",
+          "DEWA advises customers to use [accredited technicians for electrical installation and maintenance](https://dewa.gov.ae/en/about-us/media-publications/latest-news/2023/07/dewa-urges-customers-to-implement-precautionary-measures). Treat removal with the same care: a clearance crew should collect the unit only after the fixed wiring and ceiling point have been made safe.",
+        ],
+        callout: {
+          title: "The wall switch is not proof of isolation",
+          text: "A fan may have separate switched conductors for its motor and light, plus a permanent feed to a remote receiver. The correct circuit needs isolation and verification before the canopy or connector opens.",
+        },
+      },
+      {
+        heading: "Decide whether repair or reuse makes sense",
+        content: [
+          "Before removal, note the symptoms. A wobble may come from loose blade screws, a bent blade arm, unmatched blades or an unsuitable mounting point; it does not automatically mean the motor has failed. Humming, overheating, a burnt smell, cracked insulation or intermittent starting needs professional assessment rather than repeated testing.",
+          "For reuse, photograph the rating label, blade span, downrod length and ceiling control. Confirm that every blade matches, the safety cable and mounting bracket are present, and the remote works. A fan without its model-specific bracket or receiver can be difficult or unsafe for the next owner to install.",
+          "Do not offer a corroded balcony fan for indoor reuse or disguise delaminated blades. Dubai humidity, dust and repeated cleaning can affect blade edges and connectors even when the housing still looks presentable.",
+        ],
+      },
+      {
+        heading: "Prepare the room and the electrical handover",
+        content: [
+          "Clear furniture from below the fan and protect the floor with a padded, non-slip covering. Use a correctly sized platform or ladder on a level surface; standing on a bed, table or swivel chair leaves nowhere safe to place the motor when it comes free.",
+          "The technician should identify the circuit, isolate it and verify that conductors are dead using appropriate test equipment. If the fan has a light kit, remove cool bulbs or lamp modules according to the model instructions. Our [light-bulb disposal guide](/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai) explains why lamps should not be hidden among scrap parts.",
+          "Take the battery out of a handheld remote and protect its terminals if required. Loose batteries follow the [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai), while the receiver should stay labelled with the fan unless both are confirmed end of life.",
+        ],
+      },
+      {
+        heading: "Take the fan down without using the blades as handles",
+        content: [
+          "Photograph the canopy and bracket before disassembly. On many models, removing the blades first reduces the working radius and protects their arms, but the exact sequence varies. Support each blade near its bracket and store its screws in a labelled bag; do not bend an arm to squeeze the fan through a doorway.",
+          "With the motor supported, the technician can lower the canopy, disconnect the fan-side conductors and release the downrod or mounting plate as designed. Building-side wires and the ceiling box must be left safely terminated for the replacement fixture or property handover.",
+          "Never suspend the motor by its cable or carry it by the downrod alone. Wrap the housing, bundle blades flat and keep the bracket, canopy, receiver and fasteners in one box. This protects both reuse value and the crew loading the item.",
+        ],
+        image: {
+          src: "/images/blog/ceiling-fan-material-sorting-dubai.webp",
+          alt: "Technician inspecting a ceiling-fan motor beside separated blades, canopy, mounting bracket, remote receiver and fasteners at a Dubai workshop",
+        },
+      },
+      {
+        heading: "Sort the parts by what they are made from",
+        content: [
+          "A ceiling fan typically combines a copper-wound motor, steel or aluminium hardware, a control receiver and blades made from timber, engineered board, plastic or metal. Keep a complete working set intact. For a failed unit, the receiving facility decides which electrical and metal fractions it accepts and whether composite blades are residual waste.",
+          "The [chandelier and ceiling-light guide](/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai) retains decorative luminaires, glass drops and light fittings. A ceiling fan is different because its rotating mass, blade balance, motor and dedicated mounting hardware must remain matched.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household electrical appliances in its bulky-waste offer, subject to current location and applicant conditions. Confirm whether the service or your building's nominated collector accepts a removed fan before leaving anything at a collection point.",
+        ],
+      },
+      {
+        heading: "Plan collection around building access",
+        content: [
+          "In [Downtown Dubai](/areas/downtown-dubai), tell management when a contractor needs access and whether a replacement will be fitted immediately. In [The Springs](/areas/the-springs), a villa handover may include several fans, light fittings and household items, so label reusable sets room by room rather than mixing every bracket in one carton.",
+          "Our [appliance removal team](/services/appliance-removal-dubai) can collect disconnected fan motors, controls and related electrical items. When several fixtures are leaving with furniture and boxes, the [house-clearance service](/services/house-clearance-dubai) can keep the room sets and material routes organised.",
+          "[Send a photo of the complete fan, ceiling height and access](/contact), and confirm that a qualified technician will disconnect it. We will quote for the collection scope without pretending fixed electrical work is ordinary lifting.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "the-springs"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-cooker-hood-and-extractor-fan-in-dubai",
+    title: "How to Dispose of an Old Cooker Hood in Dubai: Extractor Fan Guide",
+    seoTitle: "How to Dispose of an Old Cooker Hood in Dubai: Guide",
+    excerpt:
+      "Learn how to dispose of an old cooker hood in Dubai safely: isolate power, degrease filters, support the housing, preserve ductwork, and sort the parts.",
+    category: "Guides",
+    tags: ["Cooker Hoods", "Extractor Fans", "Kitchen Appliances", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-cooker-hood-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers supporting a disconnected stainless cooker hood above a protected hob in a modern Dubai apartment kitchen",
+    publishedAt: "2026-10-27",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Identify whether the hood recirculates air or connects to a building duct; fixed or shared ductwork is not automatically part of the appliance.",
+      "Use a qualified technician to isolate hard-wired power and verify the circuit before the housing is loosened.",
+      "Remove and degrease mesh filters first, but bag saturated carbon filters separately rather than washing them into a sink.",
+      "Support the hood before removing its final screws. Cabinets, glass panels and chimney sections can conceal fixings and sharp edges.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old cooker hood in Dubai",
+        content: [
+          "To dispose of an old cooker hood or extractor fan in Dubai, identify whether it is ducted or recirculating, remove grease-laden filters, arrange safe electrical isolation, and support the housing before releasing its mounting screws. Leave shared or fixed ductwork in place unless the approved renovation scope says otherwise, then route the cleaned metal body, motor and controls through suitable appliance and e-waste channels. Checked on 27/10/2026.",
+          "Extractor hoods are awkward because their weight is high on the wall and their fixings are often hidden behind filters, chimney covers or adjacent cabinets. Grease makes the underside slippery, while a short unseen cable or duct connection can hold the appliance after the last visible screw comes out.",
+          "DEWA's electrical-safety advice calls for [accredited technicians to carry out installations and maintenance](https://dewa.gov.ae/en/about-us/media-publications/latest-news/2023/07/dewa-urges-customers-to-implement-precautionary-measures). For a hard-wired hood, plan disconnection as skilled electrical work before the clearance stage.",
+        ],
+        callout: {
+          title: "Do not pull on the duct or supply cable",
+          text: "A released hood may still be attached by a short flex, foil duct, rigid collar or control cable. Keep the housing supported until every designed connection is visible and safely separated.",
+        },
+      },
+      {
+        heading: "Identify the hood and what belongs to the property",
+        content: [
+          "A recirculating hood draws air through a grease filter and usually a replaceable carbon filter before returning it to the room. A ducted hood sends air through a collar and duct toward an external grille or building system. Photograph inside the filter bay, above the cabinet and behind the chimney cover so the installer knows which arrangement is present.",
+          "In an apartment, ducting beyond the appliance may be part of the landlord's or building's fixed system. Do not pull it from a wall void, enlarge an opening or block a shared extract route. For a tenancy handover, confirm whether the original hood must remain or whether the replacement contractor will fit and test a new unit immediately.",
+          "Built-in telescopic hoods, under-cabinet units, decorative chimney hoods and island extractors all use different brackets. Island models also need controlled overhead access and may be heavier than two people can safely manage without lifting equipment.",
+        ],
+      },
+      {
+        heading: "Remove grease and loose parts before lifting",
+        content: [
+          "Let the hob and hood cool completely. Cover the hob with rigid protection so a dropped screw cannot crack glass. Release the metal mesh filters over a washable tray and use a suitable degreaser according to its label. Dry the filters fully before they go into a reuse or recycling load.",
+          "Carbon filters are different: they capture odours and are normally replaced rather than washed unless the manufacturer specifically describes a regenerable type. Bag a saturated filter so it does not coat cabinets, floors or other recyclables with grease. Empty any accessible oil cup or drip channel into an appropriate container rather than rinsing concentrated grease down the sink.",
+          "Remove cool lamps only as the instructions allow. Glass bulbs follow the [light-bulb disposal guide](/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai); an integrated LED module stays with the electrical assembly unless a recycler asks for separation.",
+        ],
+      },
+      {
+        heading: "Disconnect and lower the hood in a controlled sequence",
+        content: [
+          "Clear the worktop and use stable access from both sides. After a qualified technician has isolated and verified the supply, remove decorative chimney covers and accessible duct clamps while the hood remains fixed. Support rigid building ducting independently if the appliance collar was carrying its weight.",
+          "Find every wall or cabinet fixing before loosening the final pair. One person should support the housing while the other releases the screws; large glass-edged or island hoods may need more people or a lift. Lower the unit onto padding rather than turning it immediately, because grease can remain inside the fan scroll.",
+          "Cap or close the property-side duct as the approved scope requires, and leave fixed wiring safely terminated by the technician. Photograph cabinet holes and keep model-specific brackets and screws together if the appliance has reuse value.",
+        ],
+        image: {
+          src: "/images/blog/cooker-hood-material-sorting-dubai.webp",
+          alt: "Technician inspecting a cooker-hood fan beside degreased mesh filters, a steel hood, capped wiring, control board, LED module, duct and fasteners",
+        },
+      },
+      {
+        heading: "Assess reuse and separate the appliance materials",
+        content: [
+          "A reusable hood should have a clean housing, intact glass, a quiet fan at every speed, working controls and lights, complete filters, and its mounting hardware. Record the width, duct diameter, extraction arrangement and electrical rating. Do not pass on a unit with heat-damaged wiring, an unbalanced fan or a motor that smells burnt.",
+          "At end of life, stainless or painted steel panels, an aluminium filter, copper-wound motor, circuit board, wiring and plastic fan wheel need assessment as separate fractions. The [small-kitchen-appliance guide](/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai) covers countertop devices; this article retains fixed extraction, grease preparation and duct boundaries.",
+          "If cabinets are also being removed, keep the electrical appliance apart from timber and engineered board. Our [kitchen-cabinet disposal guide](/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai) covers carcasses, stone tops and fixed joinery without absorbing the hood's electrical-waste intent.",
+        ],
+      },
+      {
+        heading: "Arrange collection after the hood is made safe",
+        content: [
+          "In [Business Bay](/areas/business-bay), contractor access and a service-lift window may need advance approval even for a single appliance. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), ask whether apartment or villa management has a nominated bulky or e-waste route before staging the hood outside the kitchen.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household electrical appliances in the municipal bulky-waste service, subject to current eligibility and location exclusions. Our [appliance removal service](/services/appliance-removal-dubai) can collect a safely disconnected hood, while the [house-clearance team](/services/house-clearance-dubai) handles it as part of a complete kitchen or move-out load.",
+          "[Send photos of the hood, filter bay, duct connection and access route](/contact), and state whether a technician has disconnected it. We will confirm what is in collection scope and provide a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-village-circle"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai",
     title: "How to Dispose of an Old Dressing Table and Vanity in Dubai",
     seoTitle: "Old Dressing Table Disposal in Dubai: Safe Guide",
@@ -2290,7 +2541,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Pool plant equipment yields exceptional materials recovery when properly segregated. Electric pump motors are stripped down by certified recyclers to extract pure copper stators, cast iron brackets, and stainless steel rotor shafts, similar to the process outlined in our [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai).",
           "Salt chlorinators contain electrolytic cells made of solid titanium plates coated with ruthenium or iridium oxide. These high-grade catalytic metals should never be discarded in general waste; specialized e-scrap recyclers recover the titanium for metallurgical reuse.",
-          "Plastic PVC piping, valves, and chemical dosing tanks must be rinsed free of corrosive chlorine bleach or pH-adjusting acid before recycling. For related utility decommissioning, consult our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) for refrigerant recovery protocols, our [water heater disposal guide](/blog/how-to-dispose-of-an-old-water-heater-in-dubai) for pressure vessels, and our [patio and outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) for poolside loungers and shading.",
+          "Plastic PVC piping, valves, and chemical dosing tanks must be rinsed free of corrosive chlorine bleach or pH-adjusting acid before recycling. For related utility decommissioning, consult our [refrigerator and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) for refrigerant recovery protocols, our [water heater disposal guide](/blog/how-to-dispose-of-an-old-water-heater-in-dubai) for pressure vessels, and our [complete hot-tub disposal guide](/blog/how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai) when the shell and integrated spa system are leaving together.",
         ],
       },
       {
@@ -11823,7 +12074,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Make the kitchen safe before dismantling",
         content: [
-          "Shut the local water valves and have the sink trap, mixer hoses and any dishwasher connection disconnected. Isolate the relevant electrical circuit before removing under-cabinet lighting, an extractor, built-in oven or hob. A gas appliance or fixed gas connection needs an authorised technician; a cabinet-removal crew should not improvise work on live utilities.",
+          "Shut the local water valves and have the sink trap, mixer hoses and any dishwasher connection disconnected. Isolate the relevant electrical circuit before removing under-cabinet lighting, an extractor, built-in oven or hob. The [cooker-hood disposal guide](/blog/how-to-dispose-of-an-old-cooker-hood-and-extractor-fan-in-dubai) explains how to separate the appliance without pulling out fixed or shared ductwork. A gas appliance or fixed gas connection needs an authorised technician; a cabinet-removal crew should not improvise work on live utilities.",
           "Protect the finished floor, clear a route to the service lift and reserve a staging area that does not obstruct a fire exit. In an occupied apartment, seal the kitchen doorway and use controlled tool extraction because cutting laminate and engineered board creates fine dust. If the work is part of a larger refurbishment, follow the sequencing in the [post-renovation cleanup guide](/blog/post-renovation-junk-and-debris-cleanup-guide-dubai).",
         ],
       },
@@ -12936,7 +13187,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To dispose of old chandeliers and ceiling lights in Dubai, isolate the electrical lighting circuit at the distribution board, detach all fragile glass shades and crystal pendants, and unbolt the main suspension bracket with two people supporting the weight. Reinstall a standard ceiling batten or cap the wiring securely to satisfy rental handover rules, then sort the components into scrap metal, e-waste drivers, and glass streams. Checked on 12/10/2026.",
           "Chandeliers and ornate ceiling light fixtures add elegance to Dubai living rooms and dining foyers, but taking them down is one of the trickiest tasks during a renovation or move-out. A multi-tier crystal chandelier can weigh anywhere from 15 to over 40 kilograms, suspended several meters overhead on decorative chains.",
-          "Beyond the physical weight, removing ceiling lights directly touches your property’s electrical supply and structural ceiling anchors. Handling this improperly can cause electrical shorts, cracked ceiling plaster, or shattered crystal shards across tiled flooring.",
+          "Beyond the physical weight, removing ceiling lights directly touches your property's electrical supply and structural ceiling anchors. Handling this improperly can cause electrical shorts, cracked ceiling plaster, or shattered crystal shards across tiled flooring. A rotating fixture needs a different plan: our [ceiling-fan disposal guide](/blog/how-to-dispose-of-an-old-ceiling-fan-in-dubai) covers blade balance, motor support and model-specific mounting hardware.",
         ],
         callout: {
           title: "Never rely solely on the wall switch",

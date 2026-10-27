@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-26**
+Last synchronized: **2026-10-27**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -147,10 +147,14 @@ Canonical implementation: `data/blog.ts`
 | 140 | `how to dispose of an old dressing table in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-dressing-table-and-vanity-in-dubai`             | 2026-10-26 | Published |
 | 141 | `how to dispose of an old recliner chair in dubai`                        | Informational              | `/blog/how-to-dispose-of-an-old-recliner-chair-in-dubai`                        | 2026-10-26 | Published |
 | 142 | `how to dispose of an old wheelchair in dubai`                            | Informational              | `/blog/how-to-dispose-of-an-old-wheelchair-and-mobility-aids-in-dubai`          | 2026-10-26 | Published |
+| 143 | `how to dispose of an old hot tub in dubai`                               | Informational              | `/blog/how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai`                   | 2026-10-27 | Published |
+| 144 | `how to dispose of an old ceiling fan in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-ceiling-fan-in-dubai`                           | 2026-10-27 | Published |
+| 145 | `how to dispose of an old cooker hood in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-cooker-hood-and-extractor-fan-in-dubai`         | 2026-10-27 | Published |
 
 ## Current counts
 
-- Published: **142**
+- Published: **145**
+- Published on 2026-10-27: **3**
 - Published on 2026-10-26: **3**
 - Published on 2026-10-24: **3**
 - Published on 2026-10-23: **3**
@@ -169,8 +173,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **112**
-- Next approved supplemental priority: **None queued; the 2026-10-26 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **115**
+- Next approved supplemental priority: **None queued; the 2026-10-27 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-27 batch
+
+- The hot-tub and Jacuzzi guide owns complete spa-shell removal, property-approved drainage, fixed electrical and plumbing isolation, dry-weight access planning, and integrated pump, control and cover sorting. `/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai` retains standalone pool pumps, filters, chlorinators and chillers. Commercial intent stays with `/services/villa-clearance-dubai` and `/services/bulky-item-removal-dubai`.
+- The ceiling-fan guide owns blade balance, motor support, downrods, matched mounting brackets, remote receivers and the safe handover of fixed ceiling wiring. `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` retains decorative luminaires, crystal drops and glass shades; `/blog/how-to-dispose-of-an-old-standing-fan-and-air-cooler-in-dubai` retains portable floor appliances. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/house-clearance-dubai`.
+- The cooker-hood and extractor-fan guide owns grease-filter preparation, recirculating-versus-ducted identification, shared-duct boundaries, high-level housing support and the split among steel, fan motors, controls and filters. `/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai` retains fixed joinery; `/blog/how-to-dispose-of-an-old-air-fryer-and-kitchen-appliances-in-dubai` retains countertop appliances. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/house-clearance-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, current official Dubai guidance and `/contact`. Contextual inbound links were added from the pool-equipment, chandelier and kitchen-cabinet guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-27.md`.
 
 ## Cannibalization notes for 2026-10-26 batch
 
