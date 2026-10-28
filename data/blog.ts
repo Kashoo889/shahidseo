@@ -49,6 +49,254 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-tumble-dryer-in-dubai",
+    title: "How to Dispose of an Old Tumble Dryer in Dubai",
+    seoTitle: "How to Dispose of an Old Tumble Dryer in Dubai: Guide",
+    excerpt:
+      "Learn how to dispose of an old tumble dryer in Dubai: identify the dryer type, clear lint and water, protect the drum, and arrange appliance recovery.",
+    category: "Guides",
+    tags: ["Tumble Dryers", "Laundry Appliances", "Appliance Disposal", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-tumble-dryer-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Two clearance workers checking an unplugged tumble dryer and measuring a doorway in a Dubai apartment utility room",
+    publishedAt: "2026-10-28",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Identify whether the dryer is vented, condenser or heat-pump type because water, ducting and refrigerant-bearing components need different preparation.",
+      "Unplug the appliance, let it cool, empty its condensate tank and clean the lint filters before collection.",
+      "Do not cut refrigerant lines or dismantle a heat-pump dryer at home; declare the model so the receiving route can be confirmed.",
+      "Keep the dryer upright, secure its door and accessories, and measure the complete route from the laundry space to the vehicle.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old tumble dryer in Dubai",
+        content: [
+          "To dispose of an old tumble dryer in Dubai, identify whether it is vented, condenser or heat-pump, unplug it and let it cool, remove lint, empty and dry any water tank, and detach only user-removable hoses or accessories. Keep the cabinet upright and use a confirmed appliance or bulky-waste route. A heat-pump model must be declared because its sealed cooling circuit needs appropriate handling. Checked on 28/10/2026.",
+          "A dryer can look ready to move as soon as the plug comes out, yet lint remains around filters, water sits in condenser channels, and loose stacking hardware may still connect it to a washing machine. Heat-pump dryers add a compressor and sealed refrigerant circuit, so they are not simply a steel drum with a heater.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture and electrical appliances within its bulky-waste offer, subject to current applicant and location conditions, and excludes investment zones. Confirm acceptance or use the building's nominated collector before moving the dryer into a corridor or waste room.",
+        ],
+        callout: {
+          title: "A stacked dryer must be released properly",
+          text: "Do not pull a dryer forward while it is still fixed to a stacking kit or shelf. Empty both machines, follow the kit instructions and use enough people to lower the dryer under control.",
+        },
+      },
+      {
+        heading: "Identify the dryer before choosing its route",
+        content: [
+          "Photograph the model label and rear panel. A vented dryer has an exhaust hose; a condenser model normally has a removable water tank and condenser; a heat-pump model uses a low-temperature sealed refrigeration system. Washer-dryer combinations belong to the washing-machine preparation route because their water inlet, drain and transport bolts also matter.",
+          "A working dryer may be reusable when the door latch, drum, controls and power lead are sound and a complete cycle finishes without overheating, unusual noise or an error code. Record the fault honestly. A machine that trips the circuit, smells burnt or has damaged insulation should remain unplugged for professional assessment.",
+          "Keep the manual, drying rack, drain hose and stacking-kit hardware with a reusable appliance. A missing proprietary bracket or water container can make an otherwise sound machine difficult for the next owner to install.",
+        ],
+      },
+      {
+        heading: "Clear lint, water and laundry safely",
+        content: [
+          "Check the drum for clothing, coins and dryer sheets. Remove the lint filter and clean it without pushing lint into the machine. Vacuum only the user-accessible filter recess with the appliance unplugged; do not remove service panels to chase lint around wiring or heating parts.",
+          "Empty the condensate tank into an appropriate household drain, wipe it dry and refit it. If the dryer uses a direct condensate hose, detach it only as the manual describes, drain it into a tray and cap or bag the end for transport. Never leave residual water to leak across a service lift.",
+          "A recently used dryer needs time to cool. Stop and seek appliance service advice if you find scorching, melted plastic or a strong electrical smell. Those signs are not fixed by cleaning the visible filter.",
+        ],
+      },
+      {
+        heading: "Protect the drum and sealed components",
+        content: [
+          "Refit the filter, tank and condenser cover after cleaning so loose parts cannot strike the drum. Close the door and secure it with a removable transport strap around the cabinet; do not tape adhesive across a display or rubber seal. Coil the power lead without tight bends and fasten it to the rear cable point where provided.",
+          "Keep a heat-pump dryer upright. Do not drill, cut or flatten its cabinet: the compressor, copper tubing and refrigerant circuit need a route equipped for refrigerant-bearing equipment. A receiving facility may separate the steel cabinet and drum, motor, belt, controls, wiring and plastics only after the appliance has been assessed.",
+          "The [washing-machine disposal guide](/blog/how-to-dispose-of-an-old-washing-machine-in-dubai) retains water-supply isolation, pump draining and transport-bolt preparation for washers and combination units. The [fridge and AC guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) explains the broader reason sealed cooling circuits should never be punctured.",
+        ],
+        image: {
+          src: "/images/blog/tumble-dryer-material-sorting-dubai.webp",
+          alt: "Technician assessing a tumble dryer cabinet, drum, motor, belt, controls, heat exchanger, lint filter and condensate tank at a Dubai workshop",
+        },
+      },
+      {
+        heading: "Plan the route from laundry space to vehicle",
+        content: [
+          "Measure the dryer, doorway and tightest corridor turn. Remove loose shelves above it and protect the floor before sliding the cabinet forward. Never lift by the door, control fascia or drum opening; use the load-bearing cabinet and an appliance trolley suited to the route.",
+          "In [Dubai Marina](/areas/dubai-marina), reserve the service lift and loading slot where management requires it. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), tell the crew whether the machine is in an apartment laundry cupboard or upstairs in a townhouse. Keep it inside until the confirmed collector arrives.",
+        ],
+      },
+      {
+        heading: "Arrange tumble-dryer collection",
+        content: [
+          "Our [appliance collection team](/services/appliance-removal-dubai) can remove a prepared dryer after its type and access are confirmed. If the laundry appliance is leaving with cabinets, boxes or other large household items, the [bulky-item service](/services/bulky-item-removal-dubai) can plan the load as one collection.",
+          "[Send the model-label photo, front and rear views, and the exit route](/contact), and tell us whether the dryer is stacked, hard-wired or a heat-pump model. We will confirm the preparation required and provide a fixed quote for the agreed scope.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-old-floor-and-table-lamps-in-dubai",
+    title: "How to Dispose of Old Floor and Table Lamps in Dubai",
+    seoTitle: "How to Dispose of Old Floor Lamps in Dubai: Guide",
+    excerpt:
+      "Dispose of old floor and table lamps in Dubai safely: unplug them, remove bulbs and shades, contain glass, preserve fittings, and sort mixed materials.",
+    category: "Guides",
+    tags: ["Floor Lamps", "Table Lamps", "Lighting", "Small Appliances", "Dubai"],
+    coverImage: "/images/blog/old-floor-lamp-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Workers preparing unplugged floor and table lamps with a wrapped glass shade and bulbs in a divided carton in a Dubai apartment",
+    publishedAt: "2026-10-28",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Unplug portable lamps and remove cool bulbs before moving the base, stem or shade.",
+      "Keep a reusable lamp's shade ring, harp, finial, transformer and model-specific fittings together.",
+      "Wrap glass or ceramic parts individually and carry a tall lamp by its structural stem and base, never by its cable or shade.",
+      "Separate bulbs from the lamp body because LEDs, fluorescent lamps and ordinary fittings do not all share one route.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old floor lamps in Dubai",
+        content: [
+          "To dispose of old floor or table lamps in Dubai, unplug them, allow bulbs to cool, remove each bulb and shade, and keep the small retaining parts together. Offer a stable, electrically sound lamp for reuse. Otherwise protect glass and ceramic components, keep the plug, switch and wiring with the electrical body, and confirm an appliance or bulky-item route before collection. Checked on 28/10/2026.",
+          "Portable lamps fail in awkward ways: a weighted base can be much heavier than the stem suggests, a glass uplighter bowl may sit loose in its collar, and a fabric shade can hide a bent frame. Carrying the complete lamp through a doorway by its shade is how reusable items become broken glass.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household electrical appliances and furniture in its bulky-waste offer, subject to current eligibility and location conditions. Ask whether a small lamp is accepted or should use your building's electronics arrangement before leaving it at a collection point.",
+        ],
+        callout: {
+          title: "Remove the bulb first",
+          text: "A bulb left in its socket can break inside the lamp during transport. Let it cool, remove it without forcing the glass and place it in a rigid container for its correct lighting-waste route.",
+        },
+      },
+      {
+        heading: "Decide whether the complete lamp is reusable",
+        content: [
+          "Inspect the plug, cable, inline switch, socket, stem joints and base. Do not power a lamp with exposed copper, a cracked plug, scorch marks, a loose socket or a strong electrical smell. A qualified repairer can often replace a standard cord or lampholder, but decorative sealed units and proprietary LED drivers may not be economical to repair.",
+          "For reuse, photograph the lamp switched off and on only when it is safe, record its height and bulb type, and disclose chips, leaning stems or intermittent switches. Include the correct transformer, shade, harp, finial and any assembly tool. A good base without its model-specific shade collar may not be usable.",
+          "Smart lamps may retain app pairing or a home-network association. Follow the manufacturer's reset instructions before transfer, then remove the device from the household account where applicable.",
+        ],
+      },
+      {
+        heading: "Take off bulbs, shades and loose fittings",
+        content: [
+          "Unplug the lamp at the socket rather than pulling its cable. Let hot halogen or incandescent lamps cool fully. Support the shade while releasing its finial, ring or clips, then place every washer and collar in a labelled bag. Do not force a corroded lampholder or twist the internal cable with the stem.",
+          "Put removed bulbs in a rigid divided carton. The [light-bulb disposal guide](/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai) covers LEDs, fluorescent lamps and broken tubes; bulbs should not disappear into a bag of metal lamp parts.",
+          "Wrap glass bowls and ceramic bases on all sides, with firm edge protection and no loose hardware inside. If glass is already cracked, isolate it in a rigid container and follow the handling principles in our [mirror and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai).",
+        ],
+      },
+      {
+        heading: "Dismantle only at designed joints",
+        content: [
+          "Many floor lamps divide at threaded stem joints. Photograph the order, hold both sides close to the joint and turn the structural tube without winding the power cable inside. Stop if the cable twists, the thread binds or the base begins to rotate independently.",
+          "Keep a stable reusable lamp assembled when it fits the route; repeated dismantling can strip fine threads or damage internal insulation. For an end-of-life lamp, a receiving operator may separate metal stems and bases, ceramic or glass pieces, fabric shades, plastic switches and electrical wiring according to local acceptance.",
+          "The [chandelier and ceiling-light guide](/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai) retains fixed wiring, ceiling supports and decorative hanging fixtures. This guide is limited to plug-in portable lamps that can be disconnected without electrical work.",
+        ],
+        image: {
+          src: "/images/blog/portable-lamp-material-sorting-dubai.webp",
+          alt: "Technician inspecting portable lamp bases beside metal stems, protected glass, a fabric shade, cable, switch, bulb and small fittings",
+        },
+      },
+      {
+        heading: "Carry tall and fragile lamps safely",
+        content: [
+          "Lift a floor lamp with one hand controlling the base and the other supporting the stem. A heavy base can swing if the lamp is carried horizontally. Coil the cable loosely and fasten it to the stem; never use it as a handle. Keep shades and glass in a separate padded carton.",
+          "In [Downtown Dubai](/areas/downtown-dubai), combine several prepared lamps with the booked household collection rather than obstructing a service corridor. In [The Springs](/areas/the-springs), label lamp sets by room during a villa handover so shades and fittings are not mixed between similar bases.",
+        ],
+      },
+      {
+        heading: "Arrange collection for portable lamps",
+        content: [
+          "Our [appliance removal team](/services/appliance-removal-dubai) can collect failed portable lighting with its electrical parts declared. When lamps are leaving with tables, sofas or a whole room, the [house-clearance service](/services/house-clearance-dubai) can keep fragile pieces and furniture streams organised.",
+          "[Send a photo of each complete lamp and any damaged glass](/contact), together with the height, quantity and access details. We will confirm what to remove beforehand and quote the agreed collection scope.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "the-springs"],
+  },
+  {
+    slug: "how-to-dispose-of-old-gaming-consoles-in-dubai",
+    title: "How to Dispose of Old Gaming Consoles in Dubai",
+    seoTitle: "How to Dispose of Old Gaming Consoles in Dubai Safely",
+    excerpt:
+      "Dispose of an old gaming console in Dubai safely: back up saves, reset accounts and data, remove discs, pair accessories, and use an e-waste route.",
+    category: "Eco & Recycling",
+    tags: ["Gaming Consoles", "E-Waste", "Data Security", "Controllers", "Dubai"],
+    coverImage: "/images/blog/old-gaming-console-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Clearance workers photographing a disconnected game console and sorting controllers, cables, headset and discs in a Dubai apartment",
+    publishedAt: "2026-10-28",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Back up wanted saves and captures, sign out, remove payment details where applicable, and use the manufacturer's full reset process before transfer.",
+      "Eject discs and remove external storage, memory cards, USB receivers and expansion drives before the console leaves your control.",
+      "Keep controllers, power supplies, bases and proprietary cables with a reusable console; separate damaged rechargeable batteries safely.",
+      "A failed console is e-waste, not ordinary bin material, because it combines storage, circuit boards, metals, plastics and power electronics.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old gaming consoles in Dubai",
+        content: [
+          "To dispose of an old gaming console in Dubai, back up anything you want to keep, sign out and remove linked accounts, perform the manufacturer's full data-erasing reset, and eject discs and removable storage. Keep a reusable set complete with its power supply and controllers. Route a failed console and accessories through a confirmed electronics channel rather than a household bin. Checked on 28/10/2026.",
+          "The visible box is only part of the handover. Consoles can retain user profiles, Wi-Fi details, screenshots, saved games and account access, while controllers and headsets may contain rechargeable lithium batteries. A quick settings reset is not always the same as deleting user data.",
+          "Dubai Municipality's [current service directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household electronics within its bulky-waste service, subject to applicant and location conditions and excluding investment zones. For a small console, confirm acceptance or use a suitable electronics collection arrangement instead of leaving it beside a communal bin.",
+        ],
+        callout: {
+          title: "Reset is a data task, not a cosmetic setting",
+          text: "Back up first, then choose the manufacturer's option that deletes user data. Restoring display or audio defaults alone can leave profiles, saves and personal information on the console.",
+        },
+      },
+      {
+        heading: "Choose repair or reuse before recycling",
+        content: [
+          "Record the model, storage capacity, fault symptoms and included accessories. Test only with a sound cable and power supply. Overheating, repeated shutdowns, liquid exposure, a burning smell or a damaged mains lead needs a repair assessment rather than repeated power cycling.",
+          "A complete working console has more reuse value with its matching controller, base or stand, power cable and proprietary adapters. Keep special-edition parts together and disclose stick drift, noisy fans, damaged ports and unreadable disc drives honestly.",
+          "Do not open a console merely to prove that it is clean. Unnecessary disassembly can damage clips, disturb thermal interfaces and expose the power supply. Repairs and data-bearing drive removal should be handled by someone familiar with the model.",
+        ],
+      },
+      {
+        heading: "Back up, sign out and erase personal data",
+        content: [
+          "Transfer or back up saves and captures using the platform's current supported method. Deactivate the console as a primary or shared device where the account system requires it, sign out, and remove it from trusted-device lists after the reset. Keep a record of the serial number for ownership or support queries.",
+          "Sony's official [transfer or disposal guidance](https://www.playstation.com/en-ca/support/hardware/transfer-dispose-console/) tells owners to back up data and reset the console before replacement, transfer or disposal. Other platforms use different menu names, so follow the manufacturer instructions for the exact model rather than copying a generic sequence.",
+          "If the console will not start, do not assume the storage is blank. Ask a repair or data-destruction provider about the internal drive and proof of handling. The [computer and laptop disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) explains the same data-first principle for other storage-bearing electronics.",
+        ],
+      },
+      {
+        heading: "Remove discs, storage and battery-powered accessories",
+        content: [
+          "Eject any game or film disc and check external USB drives, memory cards, expansion storage, camera adapters and wireless receivers. A small receiver left in a rear port can make a controller or headset unusable to its next owner. Label each power adapter instead of mixing similar-looking units.",
+          "Switch controllers and headsets off. Remove ordinary replaceable cells and protect their terminals as appropriate. Do not prise out a built-in rechargeable pack unless the manufacturer provides a user-removal procedure. Swollen, hot, leaking or damaged batteries need isolation and the precautions in our [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai).",
+          "Wipe the exterior with a dry or lightly damp cloth suited to electronics; do not spray cleaner into vents or ports. Let every part dry before packing, and keep discs upright in cases rather than loose under the console.",
+        ],
+      },
+      {
+        heading: "Keep recoverable electronics together",
+        content: [
+          "An end-of-life console may contain a steel chassis, plastic shell, copper-rich power supply, aluminium heat sink, cooling fan, optical drive, storage device and populated circuit boards. A proper electronics facility assesses these assemblies under controlled conditions; smashing the case at home creates sharp fragments and still does not prove that data is gone.",
+          "Keep the console dry, support it in a padded carton and place cables and controllers in separate compartments. Declare any battery damage or liquid exposure to the collector. Do not hide the console inside a bag of furniture parts or mixed metal.",
+          "The broad [Dubai e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) retains destination and category guidance. This article owns the console-specific account, storage, disc and accessory checks that must happen before that handover.",
+        ],
+        image: {
+          src: "/images/blog/gaming-console-electronics-sorting-dubai.webp",
+          alt: "Technician assessing a game console circuit board beside its case, cooling parts, storage, optical drive, power supply, controllers and cables",
+        },
+      },
+      {
+        heading: "Plan a secure electronics handover",
+        content: [
+          "In [Business Bay](/areas/business-bay), keep the console inside the apartment or office until the approved collector arrives; do not leave data-bearing equipment in a shared waste room. In [Dubai Silicon Oasis](/areas/dubai-silicon-oasis), confirm the building or community's electronics handover point and access rules before travelling.",
+          "Our [appliance and electronics collection team](/services/appliance-removal-dubai) can collect failed consoles with declared batteries and accessories. For gaming setups leaving with TVs, desks, chairs or media cabinets, the [junk-removal service](/services/junk-removal-dubai) can plan the separate electronics and furniture streams together.",
+          "[Send a photo of the console, model label and complete accessory set](/contact), and confirm whether it powers on, has been reset and contains any damaged battery. We will explain the collection scope and provide a fixed quote before handover.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["business-bay", "dubai-silicon-oasis"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai",
     title: "How to Dispose of an Old Hot Tub in Dubai: Jacuzzi Guide",
     seoTitle: "How to Dispose of an Old Hot Tub in Dubai: Safe Guide",
@@ -10912,7 +11160,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A machine is worth passing on when it fills, heats, drains and spins without error codes, the door seal is intact and the drum is clean. Run one empty short cycle before listing it so you can describe it honestly. A buyer or charity will ask about leaks, noise and age; vague answers usually mean the collection never happens.",
           "Recycling is the right route for a machine that leaks, trips the electrics, shows a recurring fault or has a cracked drum or perished seal. Washing machines contain a steel cabinet, a stainless drum, a motor with copper windings, a circuit board and the counterweight, so they should go to a facility that handles electrical appliances. The [appliance donation and recycling guide](/blog/where-to-donate-and-recycle-appliances-in-dubai) explains how those two routes differ.",
-          "A washer-dryer with a heat-pump dryer section is different from a standard condenser model, because heat-pump units contain a sealed refrigerant circuit. Treat that type with the same caution as a refrigerator—our [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) explains why the circuit must not be punctured.",
+          "A washer-dryer with a heat-pump dryer section is different from a standard condenser model, because heat-pump units contain a sealed refrigerant circuit. Treat that type with the same caution as a refrigerator—our [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) explains why the circuit must not be punctured. For a separate vented, condenser or heat-pump machine, use the [tumble-dryer disposal guide](/blog/how-to-dispose-of-an-old-tumble-dryer-in-dubai).",
         ],
       },
       {
@@ -11572,7 +11820,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Peripherals, cables and CRT vs LCD monitors",
         content: [
           "A complete workstation disposal involves multiple accessory streams. Group your equipment into distinct sub-categories: system towers, laptops, flat-screen monitors, and accessories (keyboards, optical mice, power bricks, and cable harnesses).",
-          "Copper cabling and AC power adapters represent high-value recycling material and should be untangled, coiled, and bagged separately rather than tangled around metal chassis. Flat-panel LCD and LED monitors should have their screens protected with cardboard to avoid panel shattering during loading.",
+          "Copper cabling and AC power adapters represent high-value recycling material and should be untangled, coiled, and bagged separately rather than tangled around metal chassis. Flat-panel LCD and LED monitors should have their screens protected with cardboard to avoid panel shattering during loading. Household consoles need their own account, save-data, disc and controller checks before handover; follow our [gaming-console disposal guide](/blog/how-to-dispose-of-old-gaming-consoles-in-dubai) for that sequence.",
           "If dealing with antique cathode-ray tube (CRT) monitors or heavy glass displays, handle them with extreme care. The glass funnel contains up to two kilograms of lead to shield radiation, and the vacuum tube can implode violently if struck. Similar precautions for flat display panels are outlined in our [old TV disposal guide](/blog/how-to-dispose-of-an-old-tv-in-dubai).",
         ],
         image: {
@@ -13227,7 +13475,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Modern and traditional chandeliers contain diverse recyclable materials that should be sorted into appropriate recovery streams rather than dumped in mixed landfill containers.",
           "The structural arms, central column, and ceiling canopy are usually constructed from solid brass, extruded aluminium, or wrought iron. These metals hold high scrap value and can be melted down at certified scrap reclamation centers. Our [scrap metal guide](/blog/how-to-dispose-of-scrap-metal-in-dubai) details how ferrous and non-ferrous fixtures are segregated.",
-          "Crystal pendants (lead crystal) and blown art glass cannot be melted in ordinary container glass recycling due to chemical flux differences; wrap unbroken crystal carefully for donation or reuse, and box broken glass securely following our [mirrors and glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai). Modern LED chandeliers also feature integrated electronic drivers and transformers that belong in dedicated e-waste streams.",
+          "Crystal pendants (lead crystal) and blown art glass cannot be melted in ordinary container glass recycling due to chemical flux differences; wrap unbroken crystal carefully for donation or reuse, and box broken glass securely following our [mirrors and glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai). Modern LED chandeliers also feature integrated electronic drivers and transformers that belong in dedicated e-waste streams. Plug-in floor and table lamps have a separate preparation sequence in our [portable-lamp disposal guide](/blog/how-to-dispose-of-old-floor-and-table-lamps-in-dubai).",
         ],
       },
       {

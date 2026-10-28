@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-27**
+Last synchronized: **2026-10-28**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -150,10 +150,14 @@ Canonical implementation: `data/blog.ts`
 | 143 | `how to dispose of an old hot tub in dubai`                               | Informational              | `/blog/how-to-dispose-of-an-old-hot-tub-and-jacuzzi-in-dubai`                   | 2026-10-27 | Published |
 | 144 | `how to dispose of an old ceiling fan in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-ceiling-fan-in-dubai`                           | 2026-10-27 | Published |
 | 145 | `how to dispose of an old cooker hood in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-cooker-hood-and-extractor-fan-in-dubai`         | 2026-10-27 | Published |
+| 146 | `how to dispose of an old tumble dryer in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-tumble-dryer-in-dubai`                          | 2026-10-28 | Published |
+| 147 | `how to dispose of old floor lamps in dubai`                              | Informational              | `/blog/how-to-dispose-of-old-floor-and-table-lamps-in-dubai`                    | 2026-10-28 | Published |
+| 148 | `how to dispose of old gaming consoles in dubai`                          | Informational              | `/blog/how-to-dispose-of-old-gaming-consoles-in-dubai`                          | 2026-10-28 | Published |
 
 ## Current counts
 
-- Published: **145**
+- Published: **148**
+- Published on 2026-10-28: **3**
 - Published on 2026-10-27: **3**
 - Published on 2026-10-26: **3**
 - Published on 2026-10-24: **3**
@@ -173,8 +177,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **115**
-- Next approved supplemental priority: **None queued; the 2026-10-27 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **118**
+- Next approved supplemental priority: **None queued; the 2026-10-28 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-28 batch
+
+- The tumble-dryer guide owns vented, condenser and heat-pump identification; lint and condensate preparation; stacking-kit release; upright transport; and the split among the drum, motor, belt, controls, heat exchanger and tank. `/blog/how-to-dispose-of-an-old-washing-machine-in-dubai` retains water-supply isolation, pump drainage, transport bolts and washer-dryer plumbing. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The floor- and table-lamp guide owns plug-in portable lighting, removable bulbs and shades, weighted bases, threaded stems, cords, switches and small fitting retention. `/blog/how-to-dispose-of-old-chandeliers-and-ceiling-lights-in-dubai` retains fixed ceiling wiring, support hardware and suspended decorative fixtures; `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` retains bulb-specific routes. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/house-clearance-dubai`.
+- The gaming-console guide owns save backup, account deactivation, full data reset, discs, removable storage, controllers, headsets and console-specific electronics sorting. `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` retains PCs, laptops and corporate IT decommissioning; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the broad electronics framework. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/junk-removal-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, current official guidance and `/contact`. Contextual inbound links were added from the washing-machine, chandelier and computer guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-28.md`.
 
 ## Cannibalization notes for 2026-10-27 batch
 

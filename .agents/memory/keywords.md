@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 343
+**Total Target Keywords**: 346
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-28
+
+Three further item-specific informational topics requested after the previous queue was completed. These editorial phrases are not claims of measured search volume. Commercial collection intent remains with the existing service pages.
+
+| Primary keyword                                        | Intent        | Target URL                                                        | Page type  | Priority           |
+| ------------------------------------------------------ | ------------- | ----------------------------------------------------------------- | ---------- | ------------------ |
+| `how to dispose of an old tumble dryer in dubai`       | Informational | `/blog/how-to-dispose-of-an-old-tumble-dryer-in-dubai`            | Blog Guide | Approved expansion |
+| `how to dispose of old floor lamps in dubai`           | Informational | `/blog/how-to-dispose-of-old-floor-and-table-lamps-in-dubai`      | Blog Guide | Approved expansion |
+| `how to dispose of old gaming consoles in dubai`       | Informational | `/blog/how-to-dispose-of-old-gaming-consoles-in-dubai`            | Blog Guide | Approved expansion |
+
+Overlap review: the tumble-dryer guide owns vented-versus-condenser-versus-heat-pump identification, lint and condensate preparation, stacking-kit release, upright transport and dryer-component sorting; the washing-machine guide retains water inlets, pump drainage, spin drums and washer-dryer plumbing. The portable-lamp guide owns plug-in floor and table lamps, removable shades, weighted bases, threaded stems, cords and bulb separation; the chandelier guide retains fixed ceiling wiring and suspended decorative fixtures. The gaming-console guide owns account deactivation, save backup, full data reset, disc and removable-storage checks, controllers and gaming accessories; the computer guide retains general PCs, laptops and corporate IT decommissioning. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-27
 
