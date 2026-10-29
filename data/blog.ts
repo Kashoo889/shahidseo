@@ -49,6 +49,255 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-an-old-projector-and-screen-in-dubai",
+    title: "How to Dispose of an Old Projector and Screen in Dubai",
+    seoTitle: "How to Dispose of an Old Projector in Dubai Safely",
+    excerpt:
+      "Dispose of an old projector and screen in Dubai safely: cool the lamp, reset connected accounts, secure the optics, and separate the screen and mount.",
+    category: "Guides",
+    tags: ["Projectors", "Projection Screens", "Home Cinema", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-projector-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Workers packing an unplugged projector, detached projection screen, brackets and remote in a Dubai apartment media room",
+    publishedAt: "2026-10-29",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Power the projector down normally, unplug it and let its cooling cycle finish before packing it.",
+      "Reset smart-projector accounts and remove USB devices, memory cards, streaming sticks and remote batteries.",
+      "Keep a removable lamp module intact; older projector lamps may require a controlled lighting-waste route.",
+      "Ceiling mounts and motorised screens must be isolated and detached by someone competent before a collection crew handles them.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old projector in Dubai",
+        content: [
+          "To dispose of an old projector in Dubai, shut it down normally, let the fan finish, unplug it and allow the lamp to cool. Remove personal media and account links, pack the remote and correct cable with the unit, and keep any removable lamp intact. Detach ceiling mounts or powered screens safely, then send failed electronics and lamp modules through a confirmed recovery route. Checked on 29/10/2026.",
+          "A projector setup is several disposal jobs in one: the projector is electronic equipment, an older discharge lamp may need controlled handling, the ceiling bracket is metal, and a screen combines fabric, an aluminium cassette and sometimes a motor. Packing the complete setup as one loose bundle is how lenses, lamps and walls get damaged.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household electronics within its bulky-waste offer, subject to current eligibility and location conditions. Confirm whether a projector and long screen cassette are accepted before placing anything in a shared collection area.",
+        ],
+        callout: {
+          title: "Let the cooling cycle finish",
+          text: "Do not cut power at the wall immediately after use. Many lamp projectors run their fan after shutdown; interrupting that cycle and packing a hot unit can shorten lamp life and heat the case.",
+        },
+      },
+      {
+        heading: "Prepare the projector before it leaves",
+        content: [
+          "Use the normal shutdown control and wait until the fan stops. Once the case is cool, unplug the power and signal cables. Remove USB drives, memory cards, streaming sticks and wireless adapters. Eject any disc if the unit includes an optical drive, and check the carrying case pockets for media.",
+          "A smart projector may retain Wi-Fi details, app logins and viewing accounts. Follow the manufacturer's factory-reset steps while it still works, sign out of linked services where necessary and remove the device from the associated app account. A reset is separate from cancelling a subscription.",
+          "Lock the lens shift or fit the original lens cap where provided. Do not tape directly over coated glass. Keep the remote, correct power lead, ceiling-mount plate and proprietary wireless receiver in labelled bags so a reusable unit stays complete.",
+        ],
+      },
+      {
+        heading: "Handle the lamp as a separate risk",
+        content: [
+          "LED and laser projectors do not use a user-replaceable discharge lamp, but many older home and office projectors do. Check the model manual and lamp label. If a removable module is intact, leave it in the projector or place the complete cooled module in its protective box; never break the glass or handle internal lamp material.",
+          "Dubai Municipality's [hazardous-waste guidance](https://www.dm.gov.ae/rasid/hazardous-waste-management/) includes fluorescent lighting and electronic waste among streams needing controlled handling. As a general safety principle, the US EPA also advises that mercury-containing lamps should not be crushed. Confirm the local receiving route rather than dropping a projector lamp into a bottle bank.",
+          "If a lamp has already shattered inside the unit, do not blow it out with compressed air or vacuum it with ordinary household equipment. Keep people away, ventilate the room and contact the manufacturer or an appropriate waste operator for model-specific advice.",
+        ],
+      },
+      {
+        heading: "Detach the screen and mount safely",
+        content: [
+          "A tabletop screen can be retracted and locked. A wall cassette should be supported at both ends while its approved brackets are released; long aluminium housings bend easily. Roll a loose fabric screen around a wide tube without a sharp crease, and keep fixing hardware in a labelled bag.",
+          "Motorised screens and ceiling projectors may have fixed electrical feeds. Switchgear, hard-wired supplies and high mounts are not collection-day DIY. Have a competent technician isolate and detach them first, and obtain landlord or building approval before removing fixtures. Do not leave open wiring, anchors or ceiling holes.",
+          "A sound screen is often reusable even when the projector has failed. Photograph its viewing width, aspect ratio, cassette length and mounting brackets. Reject it for reuse if mould, deep creases, torn edges or a faulty motor prevent safe operation.",
+        ],
+      },
+      {
+        heading: "Separate electronics, metal and screen material",
+        content: [
+          "At a receiving operation, the projector can be assessed for its circuit boards, power supply, fan, heat sinks, optical block, plastic housing and lamp or light engine. The screen contributes aluminium or steel hardware and a coated fabric that may not follow ordinary textile recycling. Keep these groups identifiable instead of breaking them together.",
+          "Remote batteries should be removed and routed separately. The [light-bulb guide](/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai) covers intact specialist lamps, while the [computer disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) explains data-bearing accessories and broader IT equipment.",
+        ],
+        image: {
+          src: "/images/blog/projector-screen-electronics-sorting-dubai.webp",
+          alt: "Technician assessing a projector, protected lamp module, optics, fan, circuit board, bracket and rolled projection screen",
+        },
+      },
+      {
+        heading: "Plan the exit and collection",
+        content: [
+          "In [Downtown Dubai](/areas/downtown-dubai), reserve a service-lift slot when a long screen cassette or ceiling hardware is leaving with other items. In [Dubai Sports City](/areas/dubai-sports-city), tell the crew whether the equipment is in an apartment media room or a villa upstairs, and have all fixed parts detached before arrival.",
+          "Our [appliance and electronics collection team](/services/appliance-removal-dubai) can take a cooled, disconnected projector and its accessories. If the screen, media console and seating are leaving together, the [bulky-item service](/services/bulky-item-removal-dubai) can plan the complete load.",
+          "[Send photos of the projector label, screen and mount](/contact), and state whether the lamp is intact and every item is already disconnected. We will confirm the preparation and provide a fixed quote for the agreed scope.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-sports-city"],
+  },
+  {
+    slug: "how-to-dispose-of-old-cctv-and-security-cameras-in-dubai",
+    title: "How to Dispose of Old CCTV and Security Cameras in Dubai",
+    seoTitle: "Old CCTV & Security Camera Disposal in Dubai",
+    excerpt:
+      "Dispose of old CCTV in Dubai securely: authorise removal, preserve needed footage, erase drives and accounts, and route cameras and recorders as e-waste.",
+    category: "Eco & Recycling",
+    tags: ["CCTV", "Security Cameras", "Data Security", "Hard Drives", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-cctv-security-camera-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Technician and property manager inventorying disconnected CCTV cameras, recorder, hard drive and cables in a Dubai villa",
+    publishedAt: "2026-10-29",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Only the owner or authorised manager should approve removal, especially in rented, shared or commercial premises.",
+      "Preserve footage that is still required before erasing recorders, cloud accounts, memory cards and camera credentials.",
+      "Treat DVR and NVR hard drives as data-bearing assets; a settings reset alone does not erase recorded video.",
+      "Have powered cameras and fixed cabling isolated safely, then keep cameras, brackets, recorders, drives and adapters in controlled groups.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old CCTV and security cameras in Dubai",
+        content: [
+          "To dispose of old CCTV and security cameras in Dubai, get the property owner's written approval, inventory every device and preserve any footage still required. Disconnect cloud accounts, erase removable cards and arrange secure sanitisation of DVR or NVR drives. Have fixed power and high-mounted cameras removed safely, then send cameras, recorders, adapters and cables through an electronics-recovery route. Checked on 29/10/2026.",
+          "A security system is not ordinary small e-waste. It may contain video of residents, employees, visitors and neighbouring property; it may also belong to a landlord, owners' association or security contractor. The correct order is authority, retention decision, data handling, safe disconnection and only then collection.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household electronics in its bulky-waste offer, subject to current eligibility and location conditions. A business or managed property should use its approved electronics and data-destruction process rather than treating a recorder like a household set-top box.",
+        ],
+        callout: {
+          title: "Do not erase first and ask later",
+          text: "Recorded footage may relate to an active incident, insurance matter, access investigation or formal retention policy. The authorised owner or data controller should decide what must be preserved before anyone resets or removes storage.",
+        },
+      },
+      {
+        heading: "Confirm authority and ownership",
+        content: [
+          "List the cameras, doorbell units, recorder, monitor, network switch, power supply, backup battery, hard drives and cloud subscriptions. Record serial numbers and locations before anything moves. Mark equipment as owner-owned, landlord-owned, leased, or managed by a security provider.",
+          "In a rented villa or office, do not remove fixed cameras, conduit or wall cabinets without written approval. Common-area cameras in towers and compounds are not tenant property. Ask building management or the system contractor to handle them, and agree how holes, brackets and cable routes will be restored.",
+          "The UAE Government's [cyber-laws directory](https://u.ae/en/Resources/Cyber-laws) links the federal personal-data and cybercrime frameworks. A business handling recorded images should follow its legal and contractual retention, confidentiality and disposal duties, and obtain specialist advice where the footage is sensitive or subject to an investigation.",
+        ],
+      },
+      {
+        heading: "Preserve what is required, then erase every storage layer",
+        content: [
+          "The authorised person should export required footage in the system's supported format and document who received it. After retention is resolved, remove the recorder from remote-access apps, revoke shared users and unlink cloud storage. Change credentials that will continue on replacement equipment.",
+          "A factory reset clears settings; it does not necessarily sanitise recorded video. DVRs and NVRs commonly store footage on internal hard drives, while cameras and doorbells may use microSD cards or cloud accounts. Remove all storage under an approved chain of custody and use a recognised sanitisation or physical-destruction process appropriate to the data risk.",
+          "Do not smash drives in the property or hand a live recorder to a mixed-waste crew. Keep data-bearing parts in a sealed, identified container until they reach the person responsible for erasure. The [document-disposal guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) explains the same custody principle for confidential paper records.",
+        ],
+      },
+      {
+        heading: "Disconnect cameras and power safely",
+        content: [
+          "Shut the system down normally, then isolate its supply. Plug-in low-voltage adapters can be disconnected after labelling. Power-over-Ethernet cameras receive power through their network cable, while older analogue systems may use a shared power box. Fixed mains supplies, roof work and high ladder access belong with a competent technician.",
+          "Support each camera while its bracket is released. Cap sharp screw ends, bag the matched mount and gasket, and protect lenses from scratches. Do not pull cable through a wall until the owner decides whether it stays for the replacement system; abandoned open conduit can admit dust or moisture.",
+          "Alarm sensors, access-control readers and fire-safety equipment are separate systems. Do not remove them because they share the same cabinet or cable tray. Confirm the boundary with the building or security contractor.",
+        ],
+      },
+      {
+        heading: "Sort the recorder, cameras, drives and cabling",
+        content: [
+          "Once authorised and sanitised, the system can be separated into cameras, aluminium brackets, circuit boards, infrared LED rings, recorders, switches, adapters and copper-bearing cable. Rechargeable backup packs and loose batteries need their own route. Do not burn insulation or strip electronics at home.",
+          "Dubai Municipality's [hazardous-waste overview](https://www.dm.gov.ae/rasid/hazardous-waste-management/) identifies electronic waste and circuit boards as materials requiring controlled handling. The [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers removable cells, while the [computer guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) covers hard-drive preparation in more detail.",
+        ],
+        image: {
+          src: "/images/blog/cctv-security-system-electronics-sorting-dubai.webp",
+          alt: "Technician inventorying CCTV cameras, lenses, boards, brackets, cables and adapters beside hard drives in a secure tray",
+        },
+      },
+      {
+        heading: "Arrange a controlled collection",
+        content: [
+          "In villas around [Arabian Ranches](/areas/arabian-ranches), confirm that outdoor cameras, gate equipment and roof-mounted units are already safely accessible. In offices in [DIFC](/areas/difc), the facilities and IT teams should approve the asset list, data handling and loading route before collection day.",
+          "Our [appliance and electronics collection team](/services/appliance-removal-dubai) can collect disconnected, owner-approved cameras and recorders after data-bearing items are cleared for release. For a wider office decommissioning, the [office-clearance service](/services/office-cleanout-dubai) can work from an authorised inventory.",
+          "[Send the approved equipment count and access details](/contact), without sending screenshots of private footage. Confirm that fixed wiring is isolated and drives are sanitised or assigned to a specialist. We will quote the agreed physical collection scope.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "office-cleanout-dubai"],
+    relatedAreas: ["arabian-ranches", "difc"],
+  },
+  {
+    slug: "how-to-dispose-of-old-routers-and-modems-in-dubai",
+    title: "How to Dispose of Old Routers and Modems in Dubai",
+    seoTitle: "How to Dispose of Old Routers and Modems in Dubai",
+    excerpt:
+      "Dispose of old routers and modems in Dubai safely: check ownership, reset settings, match every adapter, and send unwanted equipment to e-waste recovery.",
+    category: "Eco & Recycling",
+    tags: ["Routers", "Modems", "Wi-Fi", "Data Security", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-router-modem-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Resident and technician sorting disconnected routers, mesh nodes, adapters and network cables in a Dubai apartment",
+    publishedAt: "2026-10-29",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Check the service agreement before recycling anything because a router, modem, ONT or TV box may still belong to the provider.",
+      "Save any settings you need, remove SIM and storage cards, then use the manufacturer's factory-reset process while the device still powers on.",
+      "Match each power adapter to its device and never guess by plug shape; the wrong voltage can damage reusable equipment.",
+      "Routers, mesh nodes, extenders, adapters and network switches are e-waste, while passive Ethernet cables can be grouped separately.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old routers and modems in Dubai",
+        content: [
+          "To dispose of old routers and modems in Dubai, first confirm whether each device belongs to you or the internet provider. Return rented equipment as instructed. For equipment you own, remove SIM or storage cards, save anything needed, perform a factory reset, pair each unit with its correct adapter and offer working gear for reuse. Send failed devices and adapters to an e-waste route, not a rubbish chute. Checked on 29/10/2026.",
+          "The ownership check comes before the reset. A home network may include a customer-owned Wi-Fi router, a provider-owned optical network terminal, rented mesh nodes and a TV decoder that all look like similar plastic boxes. Recycling the wrong one can create a return charge or delay a service cancellation.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) includes household electronics in its bulky-waste offer, subject to current eligibility and location rules. Small networking equipment may be better suited to a dedicated e-waste point or a combined electrical collection, so confirm acceptance first.",
+        ],
+        callout: {
+          title: "Do not discard the fibre termination box",
+          text: "The ONT and wall fibre socket may be provider equipment or part of the installed service. Do not pull fibre, remove a wall unit or cut its cable. Ask the provider what must stay and what must be returned.",
+        },
+      },
+      {
+        heading: "Work out what is yours and what must go back",
+        content: [
+          "Gather the service contract, latest bill and model photos before disconnecting everything. Provider terms differ by product. For example, du's [consumer service agreement](https://www.du.ae/files/1430751401315) says equipment made available to a customer may need to be returned when service ends, while e& publishes [product-specific router return instructions](https://prodnew.etisalat.ae/en/c/home/home-wireless.html) for certain Home Wireless plans. Check the terms attached to your exact account rather than assuming all hardware follows one rule.",
+          "Make four groups: provider return, equipment moving to the new home, customer-owned reuse, and e-waste. Photograph the serial label and the contents of the return box. Keep power supplies, mesh nodes, remotes and short patch cables with the provider group until the return is acknowledged.",
+          "Never remove the wall data socket, fibre outlet or fixed building cabling during a tenancy move. The [rental-handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers the boundary between personal items and installed fixtures.",
+        ],
+      },
+      {
+        heading: "Reset personal settings before reuse or recycling",
+        content: [
+          "While the router still works, sign in through the manufacturer's local interface or app and record any settings needed for the replacement, such as device names or parental-control schedules. Then remove USB storage, microSD cards and cellular SIMs. A Wi-Fi password is not the only retained setting; logs, device names, VPN details and account links may also remain.",
+          "Use the manufacturer's documented factory-reset process and wait for it to complete before unplugging. A brief press of the reset button often only restarts a device, while a longer press erases settings. If the unit is dead, remove any removable cards and route the intact device to a responsible electronics processor rather than dismantling its board at home.",
+          "Delete the old router, mesh system or smart-home hub from its associated app account where applicable. If it used a cloud subscription, cancel or transfer that subscription separately; a physical reset does not necessarily close an online account.",
+        ],
+      },
+      {
+        heading: "Match adapters, cables and mesh nodes",
+        content: [
+          "Label each low-voltage adapter before it is mixed with others. Two barrel plugs can fit the same socket but supply different voltage, polarity or current. Match the adapter to the model information, coil its cable loosely and never test a router with a supply chosen only because the plug fits.",
+          "Keep a reusable mesh kit complete: main router, every node, mounting stand, Ethernet cable and power supply. Wipe dust from vents with the device unplugged. Swollen adapters, scorched plugs or cracked insulation should not be reused.",
+          "Passive Ethernet cables can be bundled by length for reuse or cable recovery. Active devices such as switches, Wi-Fi extenders and powerline adapters contain circuit boards and belong with electronics. The [computer and laptop disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) covers storage drives and larger IT equipment.",
+        ],
+      },
+      {
+        heading: "Use an e-waste route for failed equipment",
+        content: [
+          "A router contains a circuit board, shielding, ports, antennas and a plastic housing; its adapter adds copper wire and power electronics. These parts should be assessed through electronics recovery rather than mixed waste. Dubai Municipality's [hazardous-waste guidance](https://www.dm.gov.ae/rasid/hazardous-waste-management/) includes electronic wastes and circuit boards among materials needing controlled handling.",
+          "Do not smash the case, strip boards or burn cable insulation for copper. Keep any device with a swollen internal backup battery separate, avoid pressing the casing and tell the receiver. The [battery disposal guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) explains safe preparation for loose batteries and small devices.",
+        ],
+        image: {
+          src: "/images/blog/router-modem-electronics-sorting-dubai.webp",
+          alt: "Technician sorting router housings, antennas, circuit boards, shielding, adapters and network cables at an electronics workshop",
+        },
+      },
+      {
+        heading: "Keep move-out collections organised",
+        content: [
+          "In [Business Bay](/areas/business-bay), do the ownership and reset checks before the service-lift booking; a clearance crew cannot decide which live provider box belongs to the building. In [Dubai Internet City](/areas/dubai-internet-city), offices should have their IT administrator inventory networking equipment and approve serial-numbered assets before any collection.",
+          "Our [appliance and electronics collection team](/services/appliance-removal-dubai) can take confirmed customer-owned networking equipment with other e-waste. For an office refresh involving racks, chairs and boxed equipment, the [office-clearance service](/services/office-cleanout-dubai) can work from an approved asset list.",
+          "[Send us a photo of the equipment after provider-owned items are separated](/contact), with the quantity, access details and any damaged batteries. We will confirm the collection scope and provide a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "office-cleanout-dubai"],
+    relatedAreas: ["business-bay", "dubai-internet-city"],
+  },
+  {
     slug: "how-to-dispose-of-an-old-tumble-dryer-in-dubai",
     title: "How to Dispose of an Old Tumble Dryer in Dubai",
     seoTitle: "How to Dispose of an Old Tumble Dryer in Dubai: Guide",
@@ -9361,7 +9610,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Paper is rarely the only copy",
         content: [
           "The same records that fill a filing drawer usually also sit on an old laptop in a cupboard, a previous phone in a drawer, a USB stick in a desk tidy, a memory card in a camera, and sometimes on the router or the network drive nobody has logged into for two years. Shredding the paper while leaving the devices in a box is half a job.",
-          "Deal with them in the same sitting. Back up anything you still need, then wipe or physically destroy the storage before the hardware leaves your control, and keep those items separated from the general load so their route stays documented. The [electronics recycling guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers how data-bearing equipment should be handled, and the [battery and small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers the phones, power banks and loose cells that come out of the same drawers.",
+          "Deal with them in the same sitting. Back up anything you still need, then sanitise the storage before the hardware leaves your control, and keep those items separated from the general load so their route stays documented. The [electronics recycling guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing equipment, the [CCTV disposal guide](/blog/how-to-dispose-of-old-cctv-and-security-cameras-in-dubai) covers recorded footage and recorder drives, and the [battery guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers phones, power banks and loose cells from the same drawers.",
           "One practical warning: printers and multifunction devices in home offices can retain scanned and printed documents in internal memory. Check the manufacturer's guidance for clearing it before the machine is collected.",
         ],
         image: {
@@ -11224,7 +11473,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Smart TVs keep logins for streaming services, video platforms, music apps, and often a manufacturer account linked to your email. Some also store payment details for rentals, voice-assistant settings and the home Wi-Fi password. Sign out of each app individually, then use the settings menu to remove the TV from your manufacturer account and run a full factory reset.",
           "Afterwards, visit each streaming service from your phone or laptop and check its list of signed-in devices. Remove the old television there as well. This catches any app that kept a session alive through the reset and stops someone else watching on your subscription.",
-          "Unplug and remove any USB drive, external hard drive or set-top box connected to the TV. Those devices may hold recordings or files, and they need their own decision. The [e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing devices beyond the television itself, while the [TV stand and media console guide](/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai) covers the cabinet, loose glass shelves and hidden cables.",
+          "Unplug and remove any USB drive, external hard drive or set-top box connected to the TV. Those devices may hold recordings or files, and they need their own decision. The [e-waste guide](/blog/dubai-sustainable-waste-management-and-e-waste-guide) covers data-bearing devices beyond the television itself, the [projector and screen guide](/blog/how-to-dispose-of-an-old-projector-and-screen-in-dubai) covers lamp-based and ceiling-mounted displays, and the [TV stand guide](/blog/how-to-dispose-of-an-old-tv-stand-and-media-console-in-dubai) covers the cabinet, loose glass shelves and hidden cables.",
         ],
       },
       {
@@ -11820,7 +12069,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Peripherals, cables and CRT vs LCD monitors",
         content: [
           "A complete workstation disposal involves multiple accessory streams. Group your equipment into distinct sub-categories: system towers, laptops, flat-screen monitors, and accessories (keyboards, optical mice, power bricks, and cable harnesses).",
-          "Copper cabling and AC power adapters represent high-value recycling material and should be untangled, coiled, and bagged separately rather than tangled around metal chassis. Flat-panel LCD and LED monitors should have their screens protected with cardboard to avoid panel shattering during loading. Household consoles need their own account, save-data, disc and controller checks before handover; follow our [gaming-console disposal guide](/blog/how-to-dispose-of-old-gaming-consoles-in-dubai) for that sequence.",
+          "Copper cabling and AC power adapters represent high-value recycling material and should be untangled, coiled, and bagged separately rather than tangled around metal chassis. Flat-panel LCD and LED monitors should have their screens protected with cardboard to avoid panel shattering during loading. Household consoles need their own account and save-data checks; follow our [gaming-console disposal guide](/blog/how-to-dispose-of-old-gaming-consoles-in-dubai). Provider ownership, mesh kits and matched power supplies are covered separately in the [router and modem guide](/blog/how-to-dispose-of-old-routers-and-modems-in-dubai).",
           "If dealing with antique cathode-ray tube (CRT) monitors or heavy glass displays, handle them with extreme care. The glass funnel contains up to two kilograms of lead to shield radiation, and the vacuum tube can implode violently if struck. Similar precautions for flat display panels are outlined in our [old TV disposal guide](/blog/how-to-dispose-of-an-old-tv-in-dubai).",
         ],
         image: {

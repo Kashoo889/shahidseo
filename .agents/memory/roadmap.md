@@ -133,11 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-28)
+## 4. Publication Progress (Updated 2026-10-29)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **118**
-- Total published blog articles: **148**
+- Published supplemental approved articles: **121**
+- Total published blog articles: **151**
+- Published on 2026-10-29: **3**
 - Published on 2026-10-28: **3**
 - Published on 2026-10-27: **3**
 - Published on 2026-10-26: **3**
@@ -153,7 +154,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-28 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-29 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |
@@ -283,3 +284,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old tumble dryer in dubai`                          | Published | 2026-10-28 |
 | Approved expansion | `how to dispose of old floor lamps in dubai`                              | Published | 2026-10-28 |
 | Approved expansion | `how to dispose of old gaming consoles in dubai`                          | Published | 2026-10-28 |
+| Approved expansion | `how to dispose of an old projector in dubai`                             | Published | 2026-10-29 |
+| Approved expansion | `how to dispose of old cctv and security cameras in dubai`                | Published | 2026-10-29 |
+| Approved expansion | `how to dispose of old routers and modems in dubai`                       | Published | 2026-10-29 |

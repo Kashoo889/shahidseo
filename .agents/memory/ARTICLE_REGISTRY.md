@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-28**
+Last synchronized: **2026-10-29**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -153,10 +153,14 @@ Canonical implementation: `data/blog.ts`
 | 146 | `how to dispose of an old tumble dryer in dubai`                          | Informational              | `/blog/how-to-dispose-of-an-old-tumble-dryer-in-dubai`                          | 2026-10-28 | Published |
 | 147 | `how to dispose of old floor lamps in dubai`                              | Informational              | `/blog/how-to-dispose-of-old-floor-and-table-lamps-in-dubai`                    | 2026-10-28 | Published |
 | 148 | `how to dispose of old gaming consoles in dubai`                          | Informational              | `/blog/how-to-dispose-of-old-gaming-consoles-in-dubai`                          | 2026-10-28 | Published |
+| 149 | `how to dispose of an old projector in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-projector-and-screen-in-dubai`                  | 2026-10-29 | Published |
+| 150 | `how to dispose of old cctv and security cameras in dubai`                | Informational              | `/blog/how-to-dispose-of-old-cctv-and-security-cameras-in-dubai`                | 2026-10-29 | Published |
+| 151 | `how to dispose of old routers and modems in dubai`                       | Informational              | `/blog/how-to-dispose-of-old-routers-and-modems-in-dubai`                       | 2026-10-29 | Published |
 
 ## Current counts
 
-- Published: **148**
+- Published: **151**
+- Published on 2026-10-29: **3**
 - Published on 2026-10-28: **3**
 - Published on 2026-10-27: **3**
 - Published on 2026-10-26: **3**
@@ -177,8 +181,16 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **118**
-- Next approved supplemental priority: **None queued; the 2026-10-28 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **121**
+- Next approved supplemental priority: **None queued; the 2026-10-29 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-29 batch
+
+- The projector and screen guide owns lamp cooling and containment, smart-account reset, removable media, optics protection, ceiling mounts, screen cassettes and motorised-screen isolation. `/blog/how-to-dispose-of-an-old-tv-in-dubai` retains flat-panel displays; `/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai` retains general household lamps. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/bulky-item-removal-dubai`.
+- The CCTV and security-camera guide owns removal authority, footage retention, cloud unlinking, recorder-drive sanitisation, camera credentials, fixed security wiring and serialised asset custody. `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` retains general IT storage; `/blog/how-to-dispose-of-old-documents-and-paperwork-dubai` retains confidential paper. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/office-cleanout-dubai`.
+- The router and modem guide owns provider-versus-customer equipment checks, product-specific returns, factory resets, SIM and removable-media checks, mesh sets, adapters and passive network cabling. `/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai` retains PCs and laptops; `/blog/dubai-sustainable-waste-management-and-e-waste-guide` retains the broad electronics framework. Commercial intent stays with `/services/appliance-removal-dubai` and `/services/office-cleanout-dubai`.
+- Each article links to two services, two areas, supporting sibling guides, current official sources and `/contact`. Contextual inbound links were added from the TV, document-disposal and computer guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-29.md`.
 
 ## Cannibalization notes for 2026-10-28 batch
 
