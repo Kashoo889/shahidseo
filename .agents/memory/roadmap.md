@@ -133,11 +133,12 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 
 ---
 
-## 4. Publication Progress (Updated 2026-10-29)
+## 4. Publication Progress (Updated 2026-10-30)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **121**
-- Total published blog articles: **151**
+- Published supplemental approved articles: **124**
+- Total published blog articles: **154**
+- Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
 - Published on 2026-10-28: **3**
 - Published on 2026-10-27: **3**
@@ -154,7 +155,7 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved supplemental priority: **None queued; the 2026-10-29 expansion topics are complete. The checklist keyword retains its existing owner.**
+- Next approved supplemental priority: **None queued; the 2026-10-30 expansion topics are complete. The checklist keyword retains its existing owner.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |
@@ -287,3 +288,6 @@ _Objective: Capture high-intent "People Also Ask" search queries._
 | Approved expansion | `how to dispose of an old projector in dubai`                             | Published | 2026-10-29 |
 | Approved expansion | `how to dispose of old cctv and security cameras in dubai`                | Published | 2026-10-29 |
 | Approved expansion | `how to dispose of old routers and modems in dubai`                       | Published | 2026-10-29 |
+| Approved expansion | `urgent junk pickup`                                                       | Published | 2026-10-30 |
+| Approved expansion | `fridge removal`                                                           | Published | 2026-10-30 |
+| Approved expansion | `urgent junk collection`                                                   | Published | 2026-10-30 |

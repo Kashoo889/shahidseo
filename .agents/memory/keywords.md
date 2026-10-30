@@ -1,8 +1,20 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 346
+**Total Target Keywords**: 349
 **Total Topic Clusters**: 18
+
+## Approved editorial expansion — 2026-10-30
+
+Three user-approved article topics. These editorial phrases are not claims of measured search volume. Commercial conversion intent remains with the existing service pages.
+
+| Primary keyword                 | Intent        | Target URL                                             | Page type  | Priority           |
+| ------------------------------- | ------------- | ------------------------------------------------------ | ---------- | ------------------ |
+| `urgent junk pickup`            | Informational | `/blog/urgent-junk-pickup-dubai`                       | Blog Guide | Approved expansion |
+| `fridge removal`                | Informational | `/blog/fridge-removal-dubai-preparation-guide`         | Blog Guide | Approved expansion |
+| `urgent junk collection`        | Informational | `/blog/urgent-junk-collection-dubai`                   | Blog Guide | Approved expansion |
+
+Overlap review: the urgent-pickup guide owns the preparation and dispatch of one item or a short, access-ready list; the urgent-collection guide owns deadline-driven multi-room loads, scope freezing and handover sequencing. `/services/same-day-junk-removal-dubai` retains commercial same-day booking intent. The fridge-removal article owns collection-day preparation, water-line isolation, access measurement and upright movement; `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant and end-of-life disposal, while `/services/appliance-removal-dubai` retains commercial fridge-removal intent. No search-volume claim is made.
 
 ## Approved editorial expansion — 2026-10-29
 

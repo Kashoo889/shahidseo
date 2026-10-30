@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-29**
+Last synchronized: **2026-10-30**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -156,10 +156,14 @@ Canonical implementation: `data/blog.ts`
 | 149 | `how to dispose of an old projector in dubai`                             | Informational              | `/blog/how-to-dispose-of-an-old-projector-and-screen-in-dubai`                  | 2026-10-29 | Published |
 | 150 | `how to dispose of old cctv and security cameras in dubai`                | Informational              | `/blog/how-to-dispose-of-old-cctv-and-security-cameras-in-dubai`                | 2026-10-29 | Published |
 | 151 | `how to dispose of old routers and modems in dubai`                       | Informational              | `/blog/how-to-dispose-of-old-routers-and-modems-in-dubai`                       | 2026-10-29 | Published |
+| 152 | `urgent junk pickup`                                                      | Informational              | `/blog/urgent-junk-pickup-dubai`                                                | 2026-10-30 | Published |
+| 153 | `fridge removal`                                                          | Informational              | `/blog/fridge-removal-dubai-preparation-guide`                                  | 2026-10-30 | Published |
+| 154 | `urgent junk collection`                                                  | Informational              | `/blog/urgent-junk-collection-dubai`                                            | 2026-10-30 | Published |
 
 ## Current counts
 
-- Published: **151**
+- Published: **154**
+- Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
 - Published on 2026-10-28: **3**
 - Published on 2026-10-27: **3**
@@ -181,8 +185,15 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **121**
-- Next approved supplemental priority: **None queued; the 2026-10-29 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **124**
+- Next approved supplemental priority: **None queued; the 2026-10-30 expansion topics are complete. The checklist keyword remains with its existing owner.**
+
+## Cannibalization notes for 2026-10-30 batch
+
+- The urgent-pickup guide owns one-item and short-list photo inventory, access-ready staging and fast dispatch preparation. The urgent-collection guide owns deadline-driven multi-room loads, keep/handover/remove triage, complete scope freezing and final property checks. `/services/same-day-junk-removal-dubai` retains commercial booking intent, while `/blog/best-times-to-schedule-junk-removal-in-dubai` retains general scheduling decisions.
+- The fridge-removal preparation guide owns emptying, thawing, water-line isolation, access measurement, loose-part packing, floor protection and upright collection. `/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai` retains refrigerant recovery and end-of-life recycling; `/services/appliance-removal-dubai` retains commercial intent.
+- Each article links to two service pages, two area pages, supporting sibling guides, the current Dubai Municipality services directory and `/contact`. Contextual inbound links were added from the fridge-disposal, pickup-preparation and booking-time guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-10-30.md`.
 
 ## Cannibalization notes for 2026-10-29 batch
 
