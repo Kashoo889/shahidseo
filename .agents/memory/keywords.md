@@ -1,8 +1,107 @@
 # EcoHaul Dubai — Master SEO Keyword Database (`keywords.md`)
 
 **Website**: `https://getjunkremovalsdubai.com`  
-**Total Target Keywords**: 349
+**Total Target Keywords**: 483
 **Total Topic Clusters**: 18
+
+## Approved service-support roadmap — November–December 2026
+
+Ninety informational keywords planned in the `KEYWORD_ROADMAP.md` 30-day queue (created 2026-11-02) to build topical support and internal links for the service pages. Priority: junk removal / homepage, villa clearance, furniture removal and garden waste removal, then the remaining service pages. These are editorial targets, not claims of measured search volume. The commercial head terms (`junk removal dubai`, `dubai junk removals`, `villa clearance dubai`, `furniture removal dubai`, `garden waste removal dubai` and the other service terms) stay owned by the homepage and service pages; each blog links to its supported page.
+
+| Primary keyword | Intent | Target URL | Page type | Supports (money page) | Planned date | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| `junk removal for real estate agents in dubai` | Informational | `/blog/junk-removal-for-real-estate-agents-dubai` | Blog Guide | `/services/junk-removal-dubai` | 02/11/2026 (Day 1) | Planned |
+| `how to clear out a villa garage in dubai` | Informational | `/blog/how-to-clear-out-a-villa-garage-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 02/11/2026 (Day 1) | Planned |
+| `junk removal for holiday home hosts in dubai` | Informational | `/blog/junk-removal-for-holiday-home-hosts-dubai` | Blog Guide | `/services/junk-removal-dubai` | 02/11/2026 (Day 1) | Planned |
+| `how to dispose of furniture with bed bugs in dubai` | Informational | `/blog/how-to-dispose-of-furniture-with-bed-bugs-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 03/11/2026 (Day 2) | Planned |
+| `how to dispose of a dead palm tree in dubai` | Informational | `/blog/how-to-dispose-of-a-dead-palm-tree-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 03/11/2026 (Day 2) | Planned |
+| `how to clear a villa for vacant handover to a buyer` | Informational | `/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 03/11/2026 (Day 2) | Planned |
+| `how to check if furniture will fit through doors and lifts` | Informational | `/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 04/11/2026 (Day 3) | Planned |
+| `how to take photos for a junk removal quote` | Informational | `/blog/how-to-take-photos-for-a-junk-removal-quote-dubai` | Blog Guide | `/services/junk-removal-dubai` | 04/11/2026 (Day 3) | Planned |
+| `how to declutter a home before selling in dubai` | Informational | `/blog/how-to-declutter-a-home-before-selling-dubai` | Blog Guide | `/services/house-clearance-dubai` | 04/11/2026 (Day 3) | Planned |
+| `how to get rid of a tree stump in dubai` | Informational | `/blog/how-to-get-rid-of-a-tree-stump-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 05/11/2026 (Day 4) | Planned |
+| `how to get rid of junk without a car in dubai` | Informational | `/blog/how-to-get-rid-of-junk-without-a-car-dubai` | Blog Guide | `/services/junk-removal-dubai` | 05/11/2026 (Day 4) | Planned |
+| `shop clearance at the end of a retail lease in dubai` | Informational | `/blog/shop-clearance-at-the-end-of-a-retail-lease-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 05/11/2026 (Day 4) | Planned |
+| `downsizing from a villa to an apartment in dubai` | Informational | `/blog/downsizing-from-a-villa-to-an-apartment-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 06/11/2026 (Day 5) | Planned |
+| `what to do with water damaged items after a leak in dubai` | Informational | `/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai` | Blog Guide | `/services/junk-removal-dubai` | 06/11/2026 (Day 5) | Planned |
+| `how to dispose of an old chest freezer in dubai` | Informational | `/blog/how-to-dispose-of-an-old-chest-freezer-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 06/11/2026 (Day 5) | Planned |
+| `what to do with landlord furniture in a furnished rental in dubai` | Informational | `/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 07/11/2026 (Day 6) | Planned |
+| `how to remove excess soil and sand from a villa garden` | Informational | `/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 07/11/2026 (Day 6) | Planned |
+| `bulky item removal in buildings without a lift in dubai` | Informational | `/blog/bulky-item-removal-in-buildings-without-a-lift-dubai` | Blog Guide | `/services/bulky-item-removal-dubai` | 07/11/2026 (Day 6) | Planned |
+| `how to clear a villa roof in dubai` | Informational | `/blog/how-to-clear-a-villa-roof-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 09/11/2026 (Day 7) | Planned |
+| `how to dismantle flat pack furniture for removal` | Informational | `/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 09/11/2026 (Day 7) | Planned |
+| `how to clear junk from a dubai apartment balcony` | Informational | `/blog/how-to-clear-junk-from-a-apartment-balcony-dubai` | Blog Guide | `/services/rubbish-removal-dubai` | 09/11/2026 (Day 7) | Planned |
+| `final walkthrough before junk removal` | Informational | `/blog/final-walkthrough-before-junk-removal-dubai` | Blog Guide | `/services/junk-removal-dubai` | 10/11/2026 (Day 8) | Planned |
+| `how to dispose of old paving and garden stones in dubai` | Informational | `/blog/how-to-dispose-of-old-paving-and-garden-stones-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 10/11/2026 (Day 8) | Planned |
+| `what to do if your movers cancel on moving day in dubai` | Informational | `/blog/what-to-do-if-your-movers-cancel-on-moving-day-dubai` | Blog Guide | `/services/same-day-junk-removal-dubai` | 10/11/2026 (Day 8) | Planned |
+| `which truck size do you need for junk removal in dubai` | Informational | `/blog/which-truck-size-do-you-need-for-junk-removal-dubai` | Blog Guide | `/services/junk-removal-dubai` | 11/11/2026 (Day 9) | Planned |
+| `how to clear a villa driver's room and outhouse` | Informational | `/blog/how-to-clear-a-villa-drivers-room-and-outhouse-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 11/11/2026 (Day 9) | Planned |
+| `how to clear a maid's room in a dubai apartment` | Informational | `/blog/how-to-clear-a-maids-room-in-a-apartment-dubai` | Blog Guide | `/services/house-clearance-dubai` | 11/11/2026 (Day 9) | Planned |
+| `what to do with your belongings when leaving dubai for good` | Informational | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai` | Blog Guide | `/services/junk-removal-dubai` | 12/11/2026 (Day 10) | Planned |
+| `how to dispose of old majlis seating in dubai` | Informational | `/blog/how-to-dispose-of-old-majlis-seating-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 12/11/2026 (Day 10) | Planned |
+| `restaurant closure clearance in dubai` | Informational | `/blog/restaurant-closure-clearance-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 12/11/2026 (Day 10) | Planned |
+| `how to dispose of old irrigation pipes and drippers` | Informational | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 13/11/2026 (Day 11) | Planned |
+| `how to clear a villa that has been empty for months` | Informational | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 13/11/2026 (Day 11) | Planned |
+| `how to dispose of an old wine cooler in dubai` | Informational | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 13/11/2026 (Day 11) | Planned |
+| `how to sell antique furniture in dubai` | Informational | `/blog/how-to-sell-antique-furniture-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 14/11/2026 (Day 12) | Planned |
+| `junk removal for landlords between tenants in dubai` | Informational | `/blog/junk-removal-for-landlords-between-tenants-dubai` | Blog Guide | `/services/junk-removal-dubai` | 14/11/2026 (Day 12) | Planned |
+| `how to dispose of old marble and stone tabletops in dubai` | Informational | `/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai` | Blog Guide | `/services/bulky-item-removal-dubai` | 14/11/2026 (Day 12) | Planned |
+| `garden clean up before the planting season in dubai` | Informational | `/blog/garden-clean-up-before-the-planting-season-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 16/11/2026 (Day 13) | Planned |
+| `how often should you book junk removal` | Informational | `/blog/how-often-should-you-book-junk-removal-dubai` | Blog Guide | `/services/junk-removal-dubai` | 16/11/2026 (Day 13) | Planned |
+| `rubbish removal after a party or event at home in dubai` | Informational | `/blog/rubbish-removal-after-a-party-or-event-at-home-dubai` | Blog Guide | `/services/rubbish-removal-dubai` | 16/11/2026 (Day 13) | Planned |
+| `how to clear an old villa before demolition or rebuild` | Informational | `/blog/how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 17/11/2026 (Day 14) | Planned |
+| `how to help elderly parents declutter in dubai` | Informational | `/blog/how-to-help-elderly-parents-declutter-dubai` | Blog Guide | `/services/junk-removal-dubai` | 17/11/2026 (Day 14) | Planned |
+| `what to do when building management asks you to remove items` | Informational | `/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai` | Blog Guide | `/services/same-day-junk-removal-dubai` | 17/11/2026 (Day 14) | Planned |
+| `what to do with furniture your movers will not ship abroad` | Informational | `/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 18/11/2026 (Day 15) | Planned |
+| `what to do with grass cuttings in dubai` | Informational | `/blog/what-to-do-with-grass-cuttings-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 18/11/2026 (Day 15) | Planned |
+| `how to clear a tower storage cage in dubai` | Informational | `/blog/how-to-clear-a-tower-storage-cage-dubai` | Blog Guide | `/services/house-clearance-dubai` | 18/11/2026 (Day 15) | Planned |
+| `townhouse clearance in dubai` | Informational | `/blog/townhouse-clearance-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 19/11/2026 (Day 16) | Planned |
+| `how to dispose of old rattan and wicker furniture in dubai` | Informational | `/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 19/11/2026 (Day 16) | Planned |
+| `how to clear out a warehouse in dubai` | Informational | `/blog/how-to-clear-out-a-warehouse-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 19/11/2026 (Day 16) | Planned |
+| `end of semester clear out for students in dubai` | Informational | `/blog/end-of-semester-clear-out-for-students-dubai` | Blog Guide | `/services/junk-removal-dubai` | 20/11/2026 (Day 17) | Planned |
+| `how to compost garden waste in dubai` | Informational | `/blog/how-to-compost-garden-waste-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 20/11/2026 (Day 17) | Planned |
+| `how to dispose of an old ro water filter in dubai` | Informational | `/blog/how-to-dispose-of-an-old-ro-water-filter-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 20/11/2026 (Day 17) | Planned |
+| `what to do with leftovers at a new build handover in dubai` | Informational | `/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai` | Blog Guide | `/services/junk-removal-dubai` | 21/11/2026 (Day 18) | Planned |
+| `how to prepare a villa before leaving it empty for the summer` | Informational | `/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 21/11/2026 (Day 18) | Planned |
+| `how to dispose of an old sauna and steam cabin in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai` | Blog Guide | `/services/bulky-item-removal-dubai` | 21/11/2026 (Day 18) | Planned |
+| `how to clear junk safely in dubai heat` | Informational | `/blog/how-to-clear-junk-safely-heat-dubai` | Blog Guide | `/services/junk-removal-dubai` | 23/11/2026 (Day 19) | Planned |
+| `how to dispose of an old display cabinet in dubai` | Informational | `/blog/how-to-dispose-of-an-old-display-cabinet-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 23/11/2026 (Day 19) | Planned |
+| `what to do about junk dumped in your building corridor` | Informational | `/blog/what-to-do-about-junk-dumped-in-your-building-corridor-dubai` | Blog Guide | `/services/rubbish-removal-dubai` | 23/11/2026 (Day 19) | Planned |
+| `how to clear an overgrown villa garden in dubai` | Informational | `/blog/how-to-clear-an-overgrown-villa-garden-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 24/11/2026 (Day 20) | Planned |
+| `how to hold a moving sale in dubai` | Informational | `/blog/how-to-hold-a-moving-sale-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 24/11/2026 (Day 20) | Planned |
+| `old item removal on new furniture delivery day` | Informational | `/blog/old-item-removal-on-new-furniture-delivery-day-dubai` | Blog Guide | `/services/same-day-junk-removal-dubai` | 24/11/2026 (Day 20) | Planned |
+| `how to dispose of an old sideboard and buffet cabinet in dubai` | Informational | `/blog/how-to-dispose-of-an-old-sideboard-and-buffet-cabinet-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 25/11/2026 (Day 21) | Planned |
+| `what to do with sentimental items during a clear out` | Informational | `/blog/what-to-do-with-sentimental-items-during-a-clear-out-dubai` | Blog Guide | `/services/junk-removal-dubai` | 25/11/2026 (Day 21) | Planned |
+| `how to clear a studio apartment in one trip` | Informational | `/blog/how-to-clear-a-studio-apartment-in-one-trip-dubai` | Blog Guide | `/services/house-clearance-dubai` | 25/11/2026 (Day 21) | Planned |
+| `how to dispose of old garden fencing and trellis in dubai` | Informational | `/blog/how-to-dispose-of-old-garden-fencing-and-trellis-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 26/11/2026 (Day 22) | Planned |
+| `how to split junk removal costs with flatmates` | Informational | `/blog/how-to-split-junk-removal-costs-with-flatmates-dubai` | Blog Guide | `/services/junk-removal-dubai` | 26/11/2026 (Day 22) | Planned |
+| `how to downsize a small office in dubai` | Informational | `/blog/how-to-downsize-a-small-office-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 26/11/2026 (Day 22) | Planned |
+| `how to clear a villa basement in dubai` | Informational | `/blog/how-to-clear-a-villa-basement-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 27/11/2026 (Day 23) | Planned |
+| `how to clear out a home office in dubai` | Informational | `/blog/how-to-clear-out-a-home-office-dubai` | Blog Guide | `/services/junk-removal-dubai` | 27/11/2026 (Day 23) | Planned |
+| `appliance trade in options in dubai` | Informational | `/blog/appliance-trade-in-options-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 27/11/2026 (Day 23) | Planned |
+| `how to protect floors during furniture removal` | Informational | `/blog/how-to-protect-floors-during-furniture-removal-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 28/11/2026 (Day 24) | Planned |
+| `garden debris removal after a storm in dubai` | Informational | `/blog/garden-debris-removal-after-a-storm-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 28/11/2026 (Day 24) | Planned |
+| `how to clear space at home before a new baby arrives` | Informational | `/blog/how-to-clear-space-at-home-before-a-new-baby-arrives-dubai` | Blog Guide | `/services/house-clearance-dubai` | 28/11/2026 (Day 24) | Planned |
+| `what to clear out before a villa renovation` | Informational | `/blog/what-to-clear-out-before-a-villa-renovation-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 30/11/2026 (Day 25) | Planned |
+| `do furniture stores in dubai take away old furniture` | Informational | `/blog/do-furniture-stores-take-away-old-furniture-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 30/11/2026 (Day 25) | Planned |
+| `office reinstatement and make good in dubai` | Informational | `/blog/office-reinstatement-and-make-good-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 30/11/2026 (Day 25) | Planned |
+| `end of school term clear out in dubai` | Informational | `/blog/end-of-school-term-clear-out-dubai` | Blog Guide | `/services/junk-removal-dubai` | 01/12/2026 (Day 26) | Planned |
+| `how to clear a terrace or balcony garden in dubai` | Informational | `/blog/how-to-clear-a-terrace-or-balcony-garden-dubai` | Blog Guide | `/services/garden-waste-removal-dubai` | 01/12/2026 (Day 26) | Planned |
+| `what to do with split ac units when moving out in dubai` | Informational | `/blog/what-to-do-with-split-ac-units-when-moving-out-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 01/12/2026 (Day 26) | Planned |
+| `pre ramadan home clear out in dubai` | Informational | `/blog/pre-ramadan-home-clear-out-dubai` | Blog Guide | `/services/junk-removal-dubai` | 02/12/2026 (Day 27) | Planned |
+| `how to arrange a villa clearance while you are abroad` | Informational | `/blog/how-to-arrange-a-villa-clearance-while-you-are-abroad-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 02/12/2026 (Day 27) | Planned |
+| `how to clear a spare room for a relative moving in` | Informational | `/blog/how-to-clear-a-spare-room-for-a-relative-moving-in-dubai` | Blog Guide | `/services/house-clearance-dubai` | 02/12/2026 (Day 27) | Planned |
+| `how to clear a shared villa or co-living space in dubai` | Informational | `/blog/how-to-clear-a-shared-villa-or-co-living-space-dubai` | Blog Guide | `/services/junk-removal-dubai` | 03/12/2026 (Day 28) | Planned |
+| `how to dispose of an old daybed and futon in dubai` | Informational | `/blog/how-to-dispose-of-an-old-daybed-and-futon-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 03/12/2026 (Day 28) | Planned |
+| `school and nursery clear out in dubai` | Informational | `/blog/school-and-nursery-clear-out-dubai` | Blog Guide | `/services/office-cleanout-dubai` | 03/12/2026 (Day 28) | Planned |
+| `what to do with items the seller left in your new villa` | Informational | `/blog/what-to-do-with-items-the-seller-left-in-your-new-villa-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 04/12/2026 (Day 29) | Planned |
+| `how to dispose of old bar stools and counter chairs in dubai` | Informational | `/blog/how-to-dispose-of-old-bar-stools-and-counter-chairs-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 04/12/2026 (Day 29) | Planned |
+| `what to do with a broken appliance under warranty in dubai` | Informational | `/blog/what-to-do-with-a-broken-appliance-under-warranty-dubai` | Blog Guide | `/services/appliance-removal-dubai` | 04/12/2026 (Day 29) | Planned |
+| `how to clear junk before painting or deep cleaning a home` | Informational | `/blog/how-to-clear-junk-before-painting-or-deep-cleaning-a-home-dubai` | Blog Guide | `/services/junk-removal-dubai` | 05/12/2026 (Day 30) | Planned |
+| `how to clear a villa in phases while still living there` | Informational | `/blog/how-to-clear-a-villa-in-phases-while-still-living-there-dubai` | Blog Guide | `/services/villa-clearance-dubai` | 05/12/2026 (Day 30) | Planned |
+| `how to dispose of an old storage ottoman and bench in dubai` | Informational | `/blog/how-to-dispose-of-an-old-storage-ottoman-and-bench-dubai` | Blog Guide | `/services/furniture-removal-dubai` | 05/12/2026 (Day 30) | Planned |
+
+Overlap rule: run the `content-rules.md` §16 check before each day's batch. If a planned keyword conflicts with an existing page, change the angle or URL here and in the `KEYWORD_ROADMAP.md` queue before writing.
 
 ## Approved editorial expansion — 2026-10-30
 
