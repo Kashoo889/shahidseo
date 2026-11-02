@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-10-30**
+Last synchronized: **2026-11-02**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -159,10 +159,14 @@ Canonical implementation: `data/blog.ts`
 | 152 | `urgent junk pickup`                                                      | Informational              | `/blog/urgent-junk-pickup-dubai`                                                | 2026-10-30 | Published |
 | 153 | `fridge removal`                                                          | Informational              | `/blog/fridge-removal-dubai-preparation-guide`                                  | 2026-10-30 | Published |
 | 154 | `urgent junk collection`                                                  | Informational              | `/blog/urgent-junk-collection-dubai`                                            | 2026-10-30 | Published |
+| 155 | `junk removal for real estate agents in dubai`                            | Informational              | `/blog/junk-removal-for-real-estate-agents-dubai`                               | 2026-11-02 | Published |
+| 156 | `how to clear out a villa garage in dubai`                                | Informational              | `/blog/how-to-clear-out-a-villa-garage-dubai`                                   | 2026-11-02 | Published |
+| 157 | `junk removal for holiday home hosts in dubai`                            | Informational              | `/blog/junk-removal-for-holiday-home-hosts-dubai`                               | 2026-11-02 | Published |
 
 ## Current counts
 
-- Published: **154**
+- Published: **157**
+- Published on 2026-11-02: **3**
 - Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
 - Published on 2026-10-28: **3**
@@ -185,8 +189,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **124**
-- Next approved supplemental priority: **None queued; the 2026-10-30 expansion topics are complete. The checklist keyword remains with its existing owner.**
+- Supplemental approved articles published: **127**
+- Service-support queue written: **3 / 90**
+- Next approved priority: **Day 2 (03/11/2026): furniture with bed bugs, a dead palm tree, and vacant villa handover to a buyer.**
+
+## Cannibalization notes for 2026-11-02 batch
+
+- The real-estate-agent guide owns listing-clearance coordination: written owner scope, room-coded inventory, key custody, viewing buffers and matched completion photos. `/blog/what-to-remove-before-rental-handover-dubai` retains the outgoing tenant's fixture-versus-belonging decisions, and `/blog/how-to-declutter-a-home-before-selling-dubai` will retain occupied-home staging. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
+- The villa-garage guide owns the zone-by-zone method across tools, chemicals, batteries, bikes, stored furniture, dense loads and driveway access. `/blog/spring-cleaning-junk-removal-checklist-dubai` retains seasonal whole-home cleaning, while the paint, battery, bicycle and material-sorting guides retain their specialist streams. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The holiday-home-host guide owns the checkout-to-check-in sequence, lost-property isolation, remove-and-replace manifests, unit inventory protection, turnover-team timing and temporary access. The rental-handover guide retains tenancy surrender, and the urgent-pickup guide retains generic small-load dispatch preparation. Commercial intent stays with `/services/junk-removal-dubai` and `/services/same-day-junk-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, a current official source and `/contact`. Contextual inbound links were added from the rental-handover, spring-cleaning and urgent-collection guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-02.md`.
 
 ## Cannibalization notes for 2026-10-30 batch
 

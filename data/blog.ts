@@ -49,6 +49,284 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "junk-removal-for-real-estate-agents-dubai",
+    title: "Junk Removal for Real Estate Agents in Dubai",
+    seoTitle: "Junk Removal for Real Estate Agents in Dubai: Guide",
+    excerpt:
+      "A field guide to junk removal for real estate agents in Dubai: secure owner approval, document every item, protect keys, and clear listings on schedule.",
+    category: "Commercial & Office",
+    tags: ["Real Estate", "Property Viewings", "Handover", "Agents", "Dubai"],
+    coverImage: "/images/blog/rental-handover-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Dubai property agent reviewing a clearance inventory with an owner inside a high-rise apartment",
+    publishedAt: "2026-11-02",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Get written owner or authorised property-manager approval for the exact removal list before anyone loads an item.",
+      "Use room-by-room photos and numbered items so the quote, collection and final inspection refer to the same scope.",
+      "Keep keys, access cards and alarm details under a simple handover record rather than passing them informally between crews.",
+      "Book the building route before the vehicle: contractor entry, service lift and loading access can decide whether the slot succeeds.",
+    ],
+    sections: [
+      {
+        heading: "How agents can arrange a listing clearance",
+        content: [
+          "Junk removal for real estate agents in Dubai starts with authority, not loading. Confirm who can approve disposal, photograph the proposed items room by room, obtain written sign-off, and send the collector the same numbered inventory. Then secure building access, record key handover and leave enough time for a final inspection before photography, a viewing or transfer. Checked on 02/11/2026.",
+          "The agent's job is to keep the decision trail clear. A faded balcony chair may look disposable, yet it may belong to a landlord, an outgoing tenant or a staging company. A collector cannot resolve that ownership question at the door. Mark every piece as remove, retain or undecided; nothing in the last category should be loaded.",
+          "Dubai Land Department publishes a standard [Property Viewing Agreement](https://dubailand.gov.ae/en/about-dubai-land-department/property-viewing-agreement/) and describes licensed brokers as registered professionals who facilitate transactions. This article does not replace a brokerage agreement or owner instruction; it explains the practical clearance controls that stop a listing job from drifting beyond the authorised scope.",
+        ],
+        callout: {
+          title: "A key is access, not disposal authority",
+          text: "Holding the apartment or villa key allows entry. It does not prove that the agent may discard its contents. Keep the owner's written approval with the final item list.",
+        },
+      },
+      {
+        heading: "Freeze the scope before requesting a quote",
+        content: [
+          "Walk clockwise through each room and take one wide photo plus close views of bulky, damaged or unusual items. Number the pieces on a simple inventory: L1 sofa, L2 coffee table, B1 bed frame. Note whether cupboards and drawers are empty. Include balcony, storage cage, maid's room and parking-store items; these are the spaces most often discovered after the first load is planned.",
+          "Ask the owner to approve that version in writing. If a tenant still occupies the property, keep the clearance separate from any tenancy or deposit decision and follow the applicable agreement and professional advice. Our [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains how fixtures, landlord-owned contents and personal belongings require different treatment.",
+          "Send the collector the address, inventory, photos, floor, lift status, parking instructions and required completion time. State whether dismantling is included. A fixed quote is only reliable when the photo scope and the collection scope match; adding a store room on arrival changes vehicle space, labour and timing.",
+        ],
+      },
+      {
+        heading: "Control keys, access cards and the collection record",
+        content: [
+          "Log who releases each key or access card, the time it changes hands and who receives it back. Do not attach an address to an unprotected key ring. Share alarm, smart-lock or concierge instructions only with the person who needs them, and remove temporary access when the job is complete.",
+          "Keep a representative at the opening walkthrough unless the written instructions are exceptionally clear. Point out retained curtains, remotes, manuals, spare tiles and appliance accessories before work begins. Put documents, jewellery, keys and small owner items in one closed, labelled room that the crew will not enter.",
+          "Take completion photos from the same positions as the inventory shots. They show what left and reveal any missed cupboard, balcony corner or wall fixing before the crew departs. They are operational records, not a substitute for a formal condition report or legal evidence.",
+        ],
+        image: {
+          src: "/images/blog/move-out-junk-sorting-dubai.webp",
+          alt: "Furniture, electronics and boxes grouped by room before a Dubai property listing clearance",
+        },
+      },
+      {
+        heading: "Protect the viewing schedule from access delays",
+        content: [
+          "Ask the building or community team about contractor registration, crew identification, vehicle details, service-lift padding and permitted work hours. In [Downtown Dubai](/areas/downtown-dubai), a beautifully prepared inventory is useless if the lift slot was never reserved. In [Dubai Hills Estate](/areas/dubai-hills-estate), confirm the villa or apartment access point and keep the driveway or loading position available.",
+          "Schedule clearance before the photographer or first viewing, not in the same narrow window. Dust behind a removed wardrobe, picture hooks and minor floor marks may need cleaning or maintenance after the load leaves. A one-day buffer also gives the owner time to resolve an item that was placed on hold.",
+          "If the deadline is genuinely immediate, use the [urgent pickup preparation guide](/blog/urgent-junk-pickup-dubai) to send a complete small-load brief. Do not promise an owner that a same-day crew can override building permission, unknown waste or an incomplete inventory.",
+        ],
+      },
+      {
+        heading: "Separate ordinary contents from specialist items",
+        content: [
+          "Loose furniture, empty cabinets, boxed household goods and disconnected small appliances can usually be assessed from clear photos. Paint, chemicals, medicines, gas cylinders, batteries, refrigerant equipment, confidential files and data-bearing devices require their own confirmed route. Do not hide them inside drawers or mixed cartons to keep a quote simple.",
+          "Working, clean furniture may suit sale, reuse or donation when the owner has time and a recipient confirms acceptance. Broken composite furniture and stained soft furnishings need a removal route. Keep the decision realistic: an unconfirmed donation appointment should not be the only plan before listing photography.",
+          "For a full vacant property, our [house-clearance service](/services/house-clearance-dubai) can coordinate a room-by-room load. For a defined group of listing leftovers, the [general junk-removal team](/services/junk-removal-dubai) can quote against the approved inventory.",
+        ],
+      },
+      {
+        heading: "Prepare the listing for photographs and viewings",
+        content: [
+          "Clearing for sale or lease is not always the same as emptying the property. Confirm the presentation brief with the owner and photographer. A dining table may need to stay for scale, while a damaged spare chair, unused cot and balcony cartons should leave. If a staging company supplied cushions, lamps or artwork, photograph and isolate them before the removal crew enters.",
+          "After bulky pieces leave, inspect the surfaces they concealed. A wardrobe can reveal dust, cable holes or a different paint shade; an outdoor cabinet may leave sand and irrigation marks. Put cleaning, touch-up and maintenance tasks on a separate list with their own responsible contractor. A removal crew should not quietly expand into wall repair, electrical isolation or deep cleaning because the photographer arrives that afternoon.",
+          "Sequence other vendors around the cleared rooms. If painters, cleaners and movers all arrive together, the agent loses control of keys and the lift while fresh surfaces are exposed to trolleys. Give each contractor a named contact and defined area, and record when the property passes from one team to the next. This is especially important when the owner is overseas and cannot settle an on-site disagreement.",
+          "Walk the likely viewing route from entrance to balcony. Keep fire doors, corridors, utility cupboards and access to electrical panels unobstructed. Remove packing materials and loose hardware generated by dismantling, but retain manuals, remotes and documented spare parts for appliances or furniture that stays. The final image set should show a deliberate property, not merely evidence that a truck visited.",
+          "If the owner changes the instruction, issue a revised inventory rather than editing an old screenshot silently. Cancelled removal items should be marked and physically separated before loading begins. A version date, approver name and short change note give the agent, crew and owner the same reference during the final walkthrough.",
+        ],
+      },
+      {
+        heading: "Close the job with one accountable walkthrough",
+        content: [
+          "Walk every room, cupboard, store, balcony and outdoor area with the approved list. Confirm that retained items remain, photograph the cleared spaces, recover all keys and record any scope that was declined or left for a specialist. Only then release the photographer, cleaner or maintenance contractor into the property.",
+          "[Send the approved inventory, property photos and deadline](/contact). We will confirm the collection scope, access requirements and fixed price so the agent can give the owner one clear plan rather than coordinate an uncertain series of pickups.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-clear-out-a-villa-garage-dubai",
+    title: "How to Clear Out a Villa Garage in Dubai",
+    seoTitle: "How to Clear Out a Villa Garage in Dubai: Safe Plan",
+    excerpt:
+      "Learn how to clear out a villa garage in Dubai zone by zone, separate tools and chemicals safely, protect stored items, and plan one efficient collection.",
+    category: "Moving & Clearance",
+    tags: ["Villa Garage", "Decluttering", "Tools", "Household Waste", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Dubai villa garage sorted into donation, storage and removal zones with a clear central walkway",
+    publishedAt: "2026-11-02",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Set the collection date first, then clear one garage zone at a time while preserving a safe route to the door.",
+      "Separate chemicals, batteries, gas cylinders and unknown liquids before sorting ordinary furniture and boxes.",
+      "Test tools, bikes and appliances by condition and completeness; do not donate items that are unsafe or missing essential parts.",
+      "Photograph the final removal group and the vehicle route so the collector can price weight, volume and access accurately.",
+    ],
+    sections: [
+      {
+        heading: "How to clear out a villa garage in Dubai",
+        content: [
+          "To clear out a villa garage in Dubai, choose a collection date, open a safe central lane, and work through the space in fixed zones: doorway, vehicle bay, shelves, workbench and back wall. Pull out hazardous or unidentified items first, then sort the rest into keep, sell or donate, recycle and remove. Photograph the final groups before booking the load. Checked on 02/11/2026.",
+          "Do not empty the whole garage onto the driveway. That removes shade, mixes categories and can block vehicles, neighbours or community access. A better method finishes one small zone before starting the next. The keep group goes straight back to its assigned shelf; the exit groups move to a protected staging strip beside the garage door.",
+          "Dubai Municipality's current services directory lists a household-appliance and furniture disposal service with eligibility, location and timing conditions. Check the [official service directory](https://www.dm.gov.ae/dubai-municipality-services/) before relying on it. A mixed garage containing chemicals, tyres, batteries or renovation debris is not automatically one ordinary bulky-waste request.",
+        ],
+        callout: {
+          title: "Sort in the shade",
+          text: "Metal tools, batteries, aerosols and stored electronics heat quickly near an open Dubai driveway. Start early, keep the working area shaded and never leave uncertain containers in direct sun.",
+        },
+      },
+      {
+        heading: "Create five zones without losing the garage",
+        content: [
+          "Mark compact areas for keep, sell or donate, material recycling, booked removal and specialist review. The last zone matters: it holds anything leaking, swollen, sharp, pressurised, fuelled or unidentified until the right route is confirmed. Keep it away from children, pets, ignition sources and the general loading group.",
+          "Start at the door and preserve a walking lane at least wide enough to carry a box without turning sideways. Do not stack above shoulder height. Heavy tiles, paint tins and toolboxes stay low; light camping gear and empty containers can sit higher. If a car must remain inside, protect a full path around it before moving shelves.",
+          "The [six-stream sorting guide](/blog/how-to-sort-junk-for-maximum-recycling-dubai) is useful for ordinary household material, but a garage adds oils, chemicals, tyres and powered equipment. Treat each of those by condition and substance, not simply by the metal or plastic visible on the outside.",
+        ],
+      },
+      {
+        heading: "Deal with chemicals and batteries before clutter",
+        content: [
+          "Leave paint, solvents, pesticides, pool chemicals and automotive fluids in their original closed containers with labels intact. Stand them upright in separate secondary trays. Never combine leftovers, sniff an unknown liquid, pour it into a drain or pack it among textiles and cardboard. A leaking or reacting container needs immediate advice from the relevant authority or emergency service, not a normal collection slot.",
+          "Tape exposed terminals on loose batteries where the chemistry and manufacturer guidance make that appropriate, and keep damaged or swollen lithium batteries isolated from ordinary cells. The [battery and small-electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) covers the household route; the [paint disposal guide](/blog/how-to-safely-dispose-of-paint-and-hazardous-liquids-dubai) explains why liquid waste must be declared before collection.",
+          "Gas cylinders, extinguishers and aerosol cans are pressurised items. Do not puncture, crush or hide them. Return cylinders through the supplier or another confirmed specialist route, and ask before moving a corroded container. Ordinary junk crews should be told about these items even when they will not collect them.",
+        ],
+        image: {
+          src: "/images/blog/household-junk-triage-sorting-dubai.webp",
+          alt: "Clear removal groups of furniture, cardboard, metal and electronics outside a modern Dubai villa garage",
+        },
+      },
+      {
+        heading: "Test tools, bikes and stored furniture honestly",
+        content: [
+          "For each power tool, find the charger, guard, battery and case, then make a safe condition note. Do not power up a wet, cracked or heat-damaged tool. Bundle usable hand tools by type and sheath sharp edges. An incomplete or unsafe machine should not be passed to another household as if it were working.",
+          "Inflate bicycle tyres only enough to assess the bike, check the frame and brakes, and keep keys with locks. The [old-bicycle disposal guide](/blog/how-to-dispose-of-an-old-bicycle-in-dubai) separates reusable bikes from scrap parts and battery-powered models. Photograph model details without publishing a villa address or personal documents visible in the background.",
+          "Empty furniture completely. Check upholstered items for damp, odour and pests, and inspect timber bases for swelling caused by a leaking appliance or irrigation water. Clean, sound pieces may be offered for reuse; broken shelving and swollen composite boards belong in the removal group.",
+        ],
+      },
+      {
+        heading: "Plan the load around weight and villa access",
+        content: [
+          "Garage loads often look smaller than they are because dense tiles, metal parts, tool chests and old equipment occupy little floor area. Photograph wide views and list the heavy pieces separately. Mention stairs, a sloped drive, narrow side gate and the distance from garage to vehicle. Do not drag a safe, engine or stone slab into the general pile.",
+          "In [Arabian Ranches](/areas/arabian-ranches), keep the driveway and community road clear while the vehicle is positioned. In [The Springs](/areas/the-springs), confirm the gate route and avoid staging items on shared pavement. Community instructions vary, so check the current rule for the property rather than copying a neighbour's previous arrangement.",
+          "Our [villa-clearance team](/services/villa-clearance-dubai) can combine garage contents with rooms, garden stores and outdoor furniture. If the garage is one part of a mixed household job, the [junk-removal service](/services/junk-removal-dubai) can quote the declared furniture, boxes and ordinary waste while specialist items remain separate.",
+        ],
+      },
+      {
+        heading: "Empty shelves and overhead storage safely",
+        content: [
+          "Photograph shelves before moving them so tools, fasteners and spare parts can be returned logically. Empty the highest shelf first only when you can reach it from a stable platform; do not stand on paint tins, tyres or a folding chair. Bring small containers down one at a time, and inspect brittle plastic tubs before lifting because heat-damaged handles can fail without warning.",
+          "Treat ceiling racks and wall-mounted cabinets as installed storage until their fixings and load are assessed. Clear their contents, but do not release a heavy frame while people or a vehicle remain below it. If shelving is leaving, bag its bolts and braces together and state whether it is freestanding or anchored when requesting the quote. Dismantled metal can be surprisingly dense even though it occupies little volume.",
+          "Keep an intentional set of garage spares rather than every unidentified offcut. Match tiles, paint and cabinet hardware to the villa, label them with the room or finish, and retain only a practical repair quantity. Photograph any product code before labels fade. Unknown keys, remote controls and appliance parts belong in a temporary identification tray, not the removal pile, until the final house walkthrough is complete.",
+          "Before returning boxes, choose containers that tolerate the garage conditions and lift easily when full. Keep paper records, fabrics and electronics away from floors or walls that show condensation or water entry. Leave labels facing the aisle and maintain clearance around doors, meters and fixed equipment. The point of the reset is not to hide the same load in newer tubs; every retained box should have a named category and a reason to stay.",
+        ],
+      },
+      {
+        heading: "Reset the garage before putting anything back",
+        content: [
+          "Sweep only after sharp pieces and leaking items are removed safely. Check shelving anchors, signs of water entry and the floor beneath appliances. Return the keep group by use frequency: daily tools within reach, seasonal gear in labelled lidded tubs, and nothing stored against an electrical panel, water heater or access point.",
+          "[Send wide photos of the garage and close views of every heavy or unusual item](/contact). We will identify what fits the ordinary clearance, flag anything that needs another route and provide a fixed quote for the agreed load and access.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "junk-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "junk-removal-for-holiday-home-hosts-dubai",
+    title: "Junk Removal for Holiday Home Hosts in Dubai",
+    seoTitle: "Junk Removal for Holiday Home Hosts in Dubai: Guide",
+    excerpt:
+      "Plan junk removal for holiday home hosts in Dubai between bookings: document damage, protect guest privacy, replace worn items, and keep access on time.",
+    category: "Moving & Clearance",
+    tags: ["Holiday Homes", "Property Turnover", "Hosts", "Furniture", "Dubai"],
+    coverImage: "/images/blog/urgent-junk-collection-sorting-dubai.webp",
+    coverImageAlt:
+      "Furniture and bagged household items grouped for an organised collection from a Dubai holiday apartment",
+    publishedAt: "2026-11-02",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Document damage and confirm ownership before cleaners or removal crews move anything from the unit.",
+      "Keep guest belongings, personal data and lost property outside the disposal stream until the return process is complete.",
+      "Use a minimum-stock list so replacing one damaged item does not accidentally remove essential unit equipment.",
+      "Build clearance time around checkout, cleaning, maintenance and building access—not directly against the next check-in.",
+    ],
+    sections: [
+      {
+        heading: "How holiday-home hosts can arrange junk removal",
+        content: [
+          "Junk removal for holiday home hosts in Dubai should happen only after checkout, damage photos, lost-property checks and owner approval. Make a room-by-room remove-and-replace list, separate guest belongings, confirm the service-lift window, and book collection before cleaners finish the turnover. Leave a recovery buffer before the next check-in instead of treating departure and arrival times as the removal slot. Checked on 02/11/2026.",
+          "A short-stay unit is not an empty flat. Linen, spare keys, routers, remotes, kitchen inventory and safety equipment can look like loose contents to a crew that receives only a wide room photo. The host or operator must identify what stays, what leaves and what replacement is arriving.",
+          "Dubai Department of Economy and Tourism states that apartments and villas must be registered and approved before listing as holiday homes, and its portal manages permits and guest check-in and checkout. Review the [current DET holiday-home services](https://www.dubaidet.gov.ae/en/licences-and-permits/hospitality-services-and-permits) and the unit's operating requirements; a removal booking does not alter those responsibilities.",
+        ],
+        callout: {
+          title: "Never treat lost property as junk",
+          text: "A charger, document, medicine or child's toy found after checkout belongs in the operator's lost-property process. Isolate it before the clearance inventory is approved.",
+        },
+      },
+      {
+        heading: "Inspect in the right order after checkout",
+        content: [
+          "Before cleaning resets the scene, photograph damage in context and then close up. Record the room, item and date. Check drawers, wardrobes, the safe, balcony, washing machine and the space beneath beds for guest property. Keep that material in a separate closed container under the operator's procedure.",
+          "Next compare the unit against its furnishing and equipment inventory. A cracked chair may be obvious, but its matching cushion, floor protector or assembly hardware may be elsewhere. Decide whether the complete item leaves, a component can be repaired, or the furniture stays until a replacement is physically ready.",
+          "The [urgent pickup guide](/blog/urgent-junk-pickup-dubai) explains how a small, photographed load can be prepared quickly. Holiday-home turnover adds two gates before that process: the guest-property check and approval from the owner or authorised operator.",
+        ],
+      },
+      {
+        heading: "Build a remove-and-replace manifest",
+        content: [
+          "List each item by room and add four fields: condition, ownership, destination and replacement status. Keep photographs beside the list. Do not write “bedroom furniture” when the job is one damaged bedside table and a lamp; broad descriptions invite mistakes in a furnished unit.",
+          "Mark essential operational items that cannot leave without replacement: a dining chair needed for the advertised occupancy, blackout curtain, working hair dryer or the only cookware set. This is an inventory-control decision, not a reason to keep unsafe furniture in service. If an item presents an immediate risk, take the unit out of use until it is made safe.",
+          "Clean, sound furnishings can be routed for reuse when a recipient accepts them. Broken composite furniture, stained soft furnishings and incomplete electrical items need an appropriate collection. The [large-furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) helps distinguish sale, donation, municipal and booked-removal options.",
+        ],
+        image: {
+          src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp",
+          alt: "Removal crew measuring a Dubai apartment doorway while moving dismantled furniture into a protected service lift",
+        },
+      },
+      {
+        heading: "Fit collection between turnover teams",
+        content: [
+          "Use a sequence: checkout and documentation, lost-property isolation, removal, maintenance, cleaning, replacement delivery, inventory check and final guest-ready inspection. Swapping cleaning and removal often means cleaners work around damaged furniture or repeat floors after the crew leaves.",
+          "In [Dubai Marina](/areas/dubai-marina), confirm contractor entry, service-lift and loading-bay times before promising the unit will be ready. In [Palm Jumeirah](/areas/palm-jumeirah), explain whether the property is a villa or apartment and follow the relevant community or building access process. Keep collection vehicles and staged items out of guest and resident routes.",
+          "Leave enough time to handle a rejected lift booking, an item too large for the doorway or a replacement delivered with damage. The buffer should be based on the building and scope; a host should not rely on a nominal checkout-to-check-in gap when several contractors need the same lift.",
+        ],
+      },
+      {
+        heading: "Protect privacy, keys and the guest experience",
+        content: [
+          "Remove booking sheets, guest names, access codes and identity documents from view before sending quote photos. Share only the building and access information the collector needs. Issue a temporary smart-lock code where the property's approved system allows it, or keep a representative present and record physical key handover.",
+          "Do not wheel furniture through a lobby during a guest arrival rush or leave it beside a communal waste room. Wrap chipped edges, box loose fittings and keep the unit door attended while the route is active. The collection should be invisible to the next guest except for a correctly furnished, checked room.",
+          "Our [junk-removal service](/services/junk-removal-dubai) handles declared turnover items from furnished apartments and villas. Where the window is short and the load is small and fully ready, the [same-day team](/services/same-day-junk-removal-dubai) can confirm whether capacity and access align.",
+        ],
+      },
+      {
+        heading: "Coordinate replacements and their packaging",
+        content: [
+          "Confirm replacement dimensions before the old item leaves. Measure the room, doorway, corridor and service lift, then check whether the new piece arrives assembled. A host gains nothing by removing a worn sofa on time if its replacement cannot turn through the apartment entrance. Keep model details and delivery contacts with the turnover manifest rather than in a cleaner's informal chat thread.",
+          "Ask the supplier what packaging it will take back. Cardboard, film, foam, timber bracing and a damaged outgoing item are different streams and may not belong in one collection. Flatten clean cartons only after the replacement has been inspected and accepted; original packaging may be needed if the delivered item is wrong or damaged. Keep plastic film and loose straps away from guest routes and children.",
+          "For operators managing several units, label any reusable spare with its owner, unit and condition before taking it to a store. Otherwise, good chairs, lamps and small appliances become anonymous stock and are eventually cleared twice. Keep a transfer record when furnishings move between units so the inventory for both properties remains accurate.",
+          "Rebuild the room against the listing promise and the unit inventory, not memory. Count dining seats, check that lamp shades and remotes match, and return retained decorative items to their recorded locations. Photograph the finished room only after packaging and tools are gone. If the replacement changes capacity, amenities or the accuracy of listing images, the operator should review the listing and applicable DET requirements before the next booking.",
+          "Use the same turnover log for recurring wear. Repeated failures of the same lightweight chair or bedside fitting may indicate that piecemeal replacement is creating more downtime than a planned room refresh. Grouping approved replacements into one quiet maintenance window can reduce lift bookings, collection trips and disruption, provided usable items are not discarded simply for visual uniformity.",
+        ],
+      },
+      {
+        heading: "Finish with a guest-ready control check",
+        content: [
+          "Match completion photos to the manifest, confirm every replacement, recount room equipment, test only what the operator is qualified to test and remove packaging from the new items. Recover keys and cancel temporary access. Any unresolved maintenance issue should remain visible in the turnover record rather than being hidden by the next booking.",
+          "[Send the remove-and-replace list, item photos, unit type and available turnover window](/contact). We will confirm the collection scope, building-access needs and fixed price without asking the crew to decide what belongs in the holiday home.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "palm-jumeirah"],
+  },
+  {
     slug: "urgent-junk-pickup-dubai",
     title: "Urgent Junk Pickup in Dubai: How to Get Ready Fast",
     seoTitle: "Urgent Junk Pickup Dubai: Get Ready for Same-Day Service",
@@ -253,7 +531,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Start with anything that can block the handover: large furniture, appliances, balcony items, storage-room contents and pieces fixed to walls with the landlord's approval. Then group boxes, bags and small loose objects. Finish with a sweep of cabinets, utility spaces and behind appliances so the crew does not leave a hidden second batch.",
           "Create three clear zones: keep, property handover and remove. Use different rooms or physical spacing instead of small labels that can fall off. Passports, tenancy papers, keys, jewellery, medicines and data-bearing devices should remain with the responsible person, not in any clearance zone.",
-          "The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains the fixture-versus-belonging decision. Get written approval before removing landlord furniture, curtains, light fittings or anything listed in the inventory.",
+          "The [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains the fixture-versus-belonging decision. Get written approval before removing landlord furniture, curtains, light fittings or anything listed in the inventory. Operators working between guest bookings should use the separate [holiday-home turnover clearance guide](/blog/junk-removal-for-holiday-home-hosts-dubai) to protect lost property and the unit inventory.",
         ],
       },
       {
@@ -5939,7 +6217,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Stage 1: The garage junk removal checklist for villa owners",
         content: [
           "For villa communities such as [Arabian Ranches](/areas/arabian-ranches) and [The Springs](/areas/the-springs), garages rarely stay two-car parking bays for long. They inevitably absorb broken children's bicycles, cracked desert camping chairs, deflated paddleboards, discarded packaging from appliance purchases, and half-empty paint tins left by maintenance teams.",
-          "Treat garage junk removal in Dubai as a zone-by-zone purge rather than pulling everything out at once. Start by clearing the floor perimeter so you have a safe walking lane. Inspect your desert and barbecue equipment honestly: if a tent has dry-rotted canvas or bent poles from last winter's dune trip, it is taking up valuable real estate. Use the [camping-gear disposal guide](/blog/how-to-dispose-of-old-camping-gear-in-dubai) to separate tents and furniture from fuel, batteries and powered equipment.",
+          "Treat garage junk removal in Dubai as a zone-by-zone purge rather than pulling everything out at once. Start by clearing the floor perimeter so you have a safe walking lane. The complete [villa-garage clear-out method](/blog/how-to-clear-out-a-villa-garage-dubai) explains how to isolate chemicals, batteries, tools and dense items before collection. Inspect your desert and barbecue equipment honestly: if a tent has dry-rotted canvas or bent poles from last winter's dune trip, it is taking up valuable real estate. Use the [camping-gear disposal guide](/blog/how-to-dispose-of-old-camping-gear-in-dubai) to separate tents and furniture from fuel, batteries and powered equipment.",
         ],
         listItems: [
           "Empty and recycle flattened cardboard boxes that attract silverfish and moisture.",
@@ -9182,7 +9460,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Before rental handover in Dubai, identify your personal belongings, the landlord's inventory and anything covered by a retention or reinstatement agreement. Arrange removal of the agreed personal items and waste, while keeping fixtures and unresolved items out of the collection scope. This practical guide was checked on 19/09/2026.",
           "The key question is not whether a room looks empty. It is whether the right items have left and the right items remain. A furnished apartment may need its original furniture restored to the agreed positions; an unfurnished property can still contain landlord-owned appliances, fitted storage and accessories.",
-          "Use the [villa clearance checklist](/blog/villa-move-out-clearance-checklist-dubai) for the room-by-room work. This guide addresses ownership, permission and the written decisions that should come before booking that work.",
+          "Use the [villa clearance checklist](/blog/villa-move-out-clearance-checklist-dubai) for the room-by-room work. This guide addresses ownership, permission and the written decisions that should come before booking that work. When a broker is coordinating the owner, keys, viewing schedule and collector, the [real-estate agent clearance guide](/blog/junk-removal-for-real-estate-agents-dubai) adds the listing-specific control process.",
         ],
       },
       {
