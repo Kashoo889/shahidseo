@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-02**
+Last synchronized: **2026-11-03**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -162,10 +162,14 @@ Canonical implementation: `data/blog.ts`
 | 155 | `junk removal for real estate agents in dubai`                            | Informational              | `/blog/junk-removal-for-real-estate-agents-dubai`                               | 2026-11-02 | Published |
 | 156 | `how to clear out a villa garage in dubai`                                | Informational              | `/blog/how-to-clear-out-a-villa-garage-dubai`                                   | 2026-11-02 | Published |
 | 157 | `junk removal for holiday home hosts in dubai`                            | Informational              | `/blog/junk-removal-for-holiday-home-hosts-dubai`                               | 2026-11-02 | Published |
+| 158 | `how to dispose of furniture with bed bugs in dubai`                      | Informational              | `/blog/how-to-dispose-of-furniture-with-bed-bugs-dubai`                         | 2026-11-03 | Published |
+| 159 | `how to dispose of a dead palm tree in dubai`                             | Informational              | `/blog/how-to-dispose-of-a-dead-palm-tree-dubai`                                | 2026-11-03 | Published |
+| 160 | `how to clear a villa for vacant handover to a buyer`                     | Informational              | `/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai`               | 2026-11-03 | Published |
 
 ## Current counts
 
-- Published: **157**
+- Published: **160**
+- Published on 2026-11-03: **3**
 - Published on 2026-11-02: **3**
 - Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
@@ -190,8 +194,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **127**
-- Service-support queue written: **3 / 90**
-- Next approved priority: **Day 2 (03/11/2026): furniture with bed bugs, a dead palm tree, and vacant villa handover to a buyer.**
+- Service-support queue written: **6 / 90**
+- Next approved priority: **Day 3 (04/11/2026): furniture fit through doors and lifts, quote photos, and decluttering before a home sale.**
+
+## Cannibalization notes for 2026-11-03 batch
+
+- The bed-bug furniture guide owns pest-control-first decisions, in-room containment, infestation disclosure, marking and direct service-route collection. The general furniture guide retains sell/donate/municipal/private route selection, and the mattress guide retains ordinary mattress preparation and disposal. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The dead-palm guide owns instability checks, possible red-palm-weevil escalation, specialist felling, trunk section planning and separation from soil or hardscape. The garden-waste guide retains routine healthy pruning streams, and the future stump guide retains grinding and below-ground removal. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The vacant-villa handover guide owns sale-agreement inclusions, the seller's remove/stay/hold inventory, forgotten exterior spaces, buyer inspection and the access handover pack. The rental-handover guide retains tenant-versus-landlord ownership, while the real-estate-agent guide retains listing and key coordination. Commercial intent stays with `/services/villa-clearance-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, a current primary source and `/contact`. Contextual inbound links were added from the general furniture, garden-waste and rental-handover guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-03.md`.
 
 ## Cannibalization notes for 2026-11-02 batch
 

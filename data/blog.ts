@@ -49,6 +49,234 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-furniture-with-bed-bugs-dubai",
+    title: "How to Dispose of Furniture with Bed Bugs in Dubai",
+    seoTitle: "How to Dispose of Bed Bug Furniture Safely in Dubai",
+    excerpt:
+      "Learn how to dispose of furniture with bed bugs in Dubai without spreading the infestation through your home, corridor, lift or collection vehicle.",
+    category: "Guides",
+    tags: ["Bed Bugs", "Furniture Disposal", "Pest Control", "Apartments", "Dubai"],
+    coverImage: "/images/blog/mattress-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew carrying a fully wrapped mattress beside a Dubai apartment service lift",
+    publishedAt: "2026-11-03",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Tell a pest-control professional, building management and the collector before infested furniture leaves the room.",
+      "Do not drag an uncovered sofa or mattress through the home, corridor or lift; contain it in place first.",
+      "Discarding one item does not prove the infestation is gone, because bed bugs can remain elsewhere in the room.",
+      "Mark discarded furniture so nobody takes it for reuse, and keep it out of communal areas until the collection window.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of furniture with bed bugs in Dubai",
+        content: [
+          "To dispose of furniture with bed bugs in Dubai, first have the infestation assessed and agree the removal sequence with the pest-control provider. Tell building management and the collector, seal or fully wrap the item inside the affected room, label it as infested and move it directly through an approved service route at the booked time. Never leave it beside a communal bin or offer it for reuse. Checked on 03/11/2026.",
+          "Removing the bed or sofa is not a complete treatment. Bed bugs can hide in frames, skirting gaps, nearby furniture and other cracks. The US Environmental Protection Agency advises against moving items from an infested area into a clean one and recommends sealed bags for items that must move. Its [bed-bug preparation guidance](https://www.epa.gov/bedbugs/preparing-treatment-against-bed-bugs) also explains why clutter must be handled without spreading the insects.",
+          "Dubai Municipality's Public Health Pest Control Section oversees pest-control activity, and current Municipality guidance for regulated accommodation calls for approved pest-control providers. For a home, confirm the current provider requirements with the [Public Health Pest Control Section](https://www.dm.gov.ae/municipality-business/public-health-pest-control-section/) rather than relying on a general cleaner or an unverified spray treatment.",
+        ],
+        callout: {
+          title: "Contain first, carry second",
+          text: "The dangerous moment is often the trip to the vehicle. An uncovered item can brush walls, door frames and lift surfaces before it ever reaches disposal.",
+        },
+      },
+      {
+        heading: "Let the treatment plan decide what leaves",
+        content: [
+          "Ask the pest-control professional whether the item can be treated, should remain in place for treatment or must be removed. A sound bed frame or valuable sofa may not automatically be waste. Conversely, badly torn upholstery, inaccessible internal cavities or a resident's need for rapid replacement may make controlled disposal the practical choice.",
+          "Do not carry furniture into another bedroom, balcony or store while deciding. Photograph the item where it stands, including its full dimensions and the route out, but avoid placing bags, tools or clean textiles on it. Keep the infested and treated-clean groups visibly separate.",
+          "The broader [mattress-disposal guide](/blog/how-to-dispose-of-an-old-mattress-in-dubai) covers ordinary condition and collection choices. This article owns the infestation route: pest-control coordination, containment, marking and a direct building exit.",
+        ],
+      },
+      {
+        heading: "Wrap and mark the furniture inside the room",
+        content: [
+          "Use intact, heavy-duty wrapping large enough to enclose the whole piece, including the base, seams and legs. Seal joins before the item crosses the room threshold. Do not dismantle upholstered furniture into many exposed pieces merely to fit the lift; every new cut or open cavity makes containment harder. Follow the pest controller's instructions if treatment chemicals were applied.",
+          "Write clearly that the item is bed-bug infested and not for reuse. EPA guidance says discarded infested mattresses or furniture should be made unusable so another person does not take them. Coordinate how this will be done without opening the containment or creating sharp hazards for the crew.",
+          "Bag removable feet, bolts and tools that contacted the item separately. Do not reuse moving blankets from an infested load on another job unless the responsible operator has an effective decontamination process. The collector must know the condition before quoting and dispatching—not after an ordinary furniture crew arrives.",
+        ],
+        image: {
+          src: "/images/blog/booked-sofa-removal-service-lift-dubai.webp",
+          alt: "Wrapped sofa on a trolley entering a reserved service lift in a Dubai apartment tower",
+        },
+      },
+      {
+        heading: "Book a direct route through the building",
+        content: [
+          "Tell management what is being removed and ask for the service lift, contractor entry and a time that avoids residents waiting in the same lobby. In [Dubai Marina](/areas/dubai-marina), tower permission and lift protection can determine the whole route. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), confirm whether the home is in a managed tower or a villa and keep the vehicle close to the approved exit.",
+          "Do not stage infested furniture overnight in a corridor, loading bay or bin room. Have the vehicle and crew ready before the wrapped item leaves the property. After removal, follow the pest controller's cleaning, monitoring and follow-up instructions for the route and affected room.",
+          "Our [furniture-removal team](/services/furniture-removal-dubai) can assess a declared, contained item and its access route. For several ordinary household items alongside it, the [junk-removal service](/services/junk-removal-dubai) can quote the separate clean scope; never hide the infested piece among it.",
+        ],
+      },
+      {
+        heading: "Do not donate, sell or disguise an infested item",
+        content: [
+          "Donation and resale are not appropriate while an item is infested. A clean-looking surface is not proof that seams and internal voids are clear, and sun exposure on a balcony is not a controlled treatment. Only represent an item as treated when the pest-control professional has confirmed the relevant process and outcome.",
+          "Keep the invoice, treatment note and removal record together. In a rented apartment, notify the responsible party according to the tenancy and building process; do not quietly discard landlord-owned furniture. Written decisions protect both the resident and the owner while the infestation is being resolved.",
+          "[Send photos of the wrapped item, its dimensions and the approved exit route](/contact). We will confirm whether we can accept the declared scope and give a fixed collection plan that does not expose an ordinary crew or shared building area to a hidden infestation.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-a-dead-palm-tree-dubai",
+    title: "How to Dispose of a Dead Palm Tree in Dubai",
+    seoTitle: "How to Dispose of a Dead Palm Tree in Dubai Safely",
+    excerpt:
+      "Dispose of a dead palm tree in Dubai safely: check for pest symptoms, protect irrigation and property, section the load, and confirm its green-waste route.",
+    category: "Eco & Recycling",
+    tags: ["Palm Trees", "Garden Waste", "Red Palm Weevil", "Villas", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener separating dry palm fronds, branches, soil and pots in a landscaped Dubai villa garden",
+    publishedAt: "2026-11-03",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Keep people away from a leaning or structurally weak palm and use a qualified tree contractor for felling.",
+      "Treat holes, odour, oozing material or damaged crown growth as possible pest signs that need specialist advice.",
+      "Separate clean fronds from heavy trunk sections, root material, soil, irrigation parts and treated wood.",
+      "Confirm community access and the receiving route before cutting the trunk into a pile that nobody has agreed to take.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of a dead palm tree in Dubai",
+        content: [
+          "To dispose of a dead palm tree in Dubai, first isolate the area and have the palm checked for instability and pest symptoms. A qualified tree contractor should fell a tall or leaning trunk, section it to the collector's agreed size and protect walls, paving and irrigation. Keep suspect infested material contained, separate ordinary fronds from soil and hard materials, and send every stream through a confirmed route. Checked on 03/11/2026.",
+          "Do not begin with a chainsaw and solve disposal later. Palm trunks are dense, fibrous and much heavier than a heap of dry fronds. The work plan must cover the fall zone, cutting method, lifting weight, vehicle access and destination before the first section reaches the ground.",
+          "Dubai Municipality's waste-transport guideline lists tree and plant waste under authorised organic-waste transport. Use a provider able to carry the declared material and confirm the current route; the [Municipality service directory](https://www.dm.gov.ae/dubai-municipality-services/) is the starting point for current public services, permits and contacts.",
+        ],
+        callout: {
+          title: "A dead palm may be a pest-control job first",
+          text: "Do not move a suspect trunk around the garden or offer offcuts as firewood. Inspection and containment come before routine green-waste collection.",
+        },
+      },
+      {
+        heading: "Check for red palm weevil and other pest signs",
+        content: [
+          "Look without cutting into the trunk: damaged frond bases, holes, fibrous material, an unpleasant smell, oozing brown material or crown collapse can indicate serious internal damage. Keep children, pets and gardeners away from a palm that is leaning or shedding heavy fronds.",
+          "The UAE Ministry of Climate Change and Environment describes red palm weevil as a difficult, concealed pest and advises disposal of infected dry or falling trees and pruning waste. Its [red palm weevil guidance](https://www.moccae.gov.ae/assets/download/7ab7dc61/IRPW%20English%2031-03-16.pdf.aspx) supports specialist handling rather than casual movement of suspect material.",
+          "Ask the landscaping contractor, community management or relevant authority who should inspect and approve the method. Do not apply unlabelled pesticide, burn the palm or transport an apparently infested trunk to another property. The purpose is to remove the hazard without spreading the pest.",
+        ],
+      },
+      {
+        heading: "Plan the felling and section sizes before collection",
+        content: [
+          "Identify walls, windows, vehicles, overhead services, pool equipment and irrigation lines. A tall trunk or compromised crown needs trained arboricultural handling, appropriate rigging and an exclusion zone. Junk-removal crews collect sections from a safe staging point; they do not replace a qualified tree-felling contractor.",
+          "Agree maximum section length and approximate diameter with the collector. Keep trunk rounds low and stable rather than stacking them. Bundle dry fronds so sharp leaf bases face inward, and keep loose fibres contained. Photograph the pile with a familiar object for scale so the quote reflects both volume and weight.",
+          "The [general garden-waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai) explains clean leaves, clippings and soil separation. A whole dead palm is different because it adds structural risk, dense trunk sections and a possible plant-health issue.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Palm fronds and cut branches separated from leaves, soil and broken pots beside a measured Dubai villa gate",
+        },
+      },
+      {
+        heading: "Keep soil, roots and hard materials separate",
+        content: [
+          "Decide whether the stump stays, is ground or is excavated. Stump work can reach irrigation, lighting cables and nearby paving, so locate services first. A future article covers stump removal in detail; this guide stops at making the dead above-ground palm safe and routing its material.",
+          "Do not mix trunk sections with bags of soil, concrete footings, plastic irrigation pipe, landscape fabric or ceramic pots. Those materials have different weights and destinations. Sweep fibrous debris from the work route, but do not wash it into a drain.",
+          "In [Arabian Ranches](/areas/arabian-ranches), confirm community contractor and vehicle access before a crane or chipper is proposed. In [The Springs](/areas/the-springs), protect shared roads and neighbouring walls, and keep cut sections inside the property until the booked vehicle is ready.",
+        ],
+      },
+      {
+        heading: "Arrange the correct garden-waste collection",
+        content: [
+          "Our [garden-waste removal team](/services/garden-waste-removal-dubai) can quote declared, safely cut palm material and other separated garden streams. If a villa clearance also includes outdoor furniture and store-room contents, the [villa-clearance service](/services/villa-clearance-dubai) can plan the ordinary items as a separate part of the load.",
+          "Tell the collector whether the palm was inspected, whether infestation is suspected, who performed the felling, the number and size of trunk sections, and the gate-to-vehicle distance. A clean photograph of six frond bundles must not stand in for an unseen tonne of trunk rounds.",
+          "[Send photos of the palm, suspected damage, access route and proposed cut sections](/contact). We will confirm the collectible scope and fixed price, and tell you when a tree or pest specialist must act before collection.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai",
+    title: "How to Clear a Villa for Vacant Handover to a Buyer",
+    seoTitle: "How to Clear a Villa for Vacant Handover to a Buyer",
+    excerpt:
+      "Clear a Dubai villa for vacant handover by turning the sale agreement into a stay-and-remove list, then documenting every room before buyer inspection.",
+    category: "Moving & Clearance",
+    tags: ["Villa Handover", "Property Sale", "Vacant Possession", "Moving", "Dubai"],
+    coverImage: "/images/blog/rental-handover-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Villa seller and property representative reviewing a digital handover inventory before clearance in Dubai",
+    publishedAt: "2026-11-03",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Use the signed sale agreement and written variations—not memory—to decide what stays with the villa.",
+      "Freeze a room-by-room remove, retain and buyer-approved-stay list before the clearance crew arrives.",
+      "Clear forgotten exterior and service spaces early enough to repair, clean and test access before inspection.",
+      "Finish with matched photos, keys, remotes, manuals and meter or access records in one handover pack.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a villa for vacant handover to a buyer",
+        content: [
+          "To clear a villa for vacant handover to a buyer, read the signed sale agreement and every written variation, then build a room-by-room list of items to remove, items included in the sale and items awaiting buyer confirmation. Clear personal belongings and agreed exclusions first, inspect hidden spaces, complete repairs and cleaning, and record the final condition before the buyer's walkthrough and key transfer. Checked on 03/11/2026.",
+          "Vacant does not mean stripped of everything. Built-in joinery, agreed appliances, landscaping, remotes, manuals and specifically included furniture may need to remain. Equally, a seller's freestanding cabinets, garage shelving or garden ornaments do not become the buyer's responsibility merely because the removal deadline was missed.",
+          "Dubai Land Department advises inspection of completed property and use of the standard sale contract, with additional agreed terms where appropriate. Its [buyer-rights guide](https://dubailand.gov.ae/media/wlzmuycr/know_your_rights.pdf) is useful context, but the signed transaction documents and professional advice govern the particular sale.",
+        ],
+        callout: {
+          title: "The contract is the packing list",
+          text: "When a chandelier, cooker, pool item or garden feature is disputed, pause it. A clearance crew should not interpret the sale agreement at the truck.",
+        },
+      },
+      {
+        heading: "Turn the sale terms into one controlled inventory",
+        content: [
+          "Walk clockwise through every room with the broker or authorised representative. Mark each item remove, stay or hold. Include fitted and freestanding appliances, curtains, mirrors, smart-home equipment, garden furniture, gym equipment and shelving. Give the list a version date and obtain written approval for changes.",
+          "Photograph items that stay as carefully as items that leave. Bag remotes, keys, manuals and proprietary fittings by room. Do not let movers pack the buyer's appliance accessories or let a clearance crew discard spare tiles and paint that the parties agreed would remain.",
+          "The [rental-handover guide](/blog/what-to-remove-before-rental-handover-dubai) owns landlord-versus-tenant decisions. A sale handover is different: it must reconcile the seller's possessions with fixtures and any contents explicitly included for the buyer.",
+        ],
+      },
+      {
+        heading: "Clear the spaces sellers most often miss",
+        content: [
+          "Check the garage loft, roof access, pump room, under-stair cupboards, maid's room, driver's room, garden store, pool-equipment enclosure, side passage and every built-in cabinet. Open drawers only with the owner's authority, and isolate documents, keys, jewellery and medication before the crew starts.",
+          "Separate ordinary household contents from paint, chemicals, gas cylinders, batteries, refrigerant appliances and renovation debris. Specialist items should not be buried in a final mixed load. Use the [villa garage clear-out guide](/blog/how-to-clear-out-a-villa-garage-dubai) for tools, automotive products and stored equipment.",
+          "Photograph the full removal group, heavy items and vehicle route. If a large safe, stone table or piano was not disclosed, the planned crew and truck may be wrong. Freeze the scope several days before inspection so there is time for a second specialist route if needed.",
+        ],
+        image: {
+          src: "/images/blog/rental-stay-remove-dubai-20260919-body.webp",
+          alt: "Seller photographing a cleared villa bedroom while a removal worker checks shelves and labelled boxes",
+        },
+      },
+      {
+        heading: "Leave time for repair, cleaning and buyer inspection",
+        content: [
+          "Schedule bulky removal before the final clean. A wardrobe can reveal anchor holes, dust lines or damaged paint; garden equipment can conceal irrigation leaks; garage shelving may expose wall fixings. Assign repairs to the appropriate contractor rather than expecting the removal crew to improvise them.",
+          "In [Dubai Hills Estate](/areas/dubai-hills-estate), confirm community contractor entry and keep the driveway available. In [Palm Jumeirah](/areas/palm-jumeirah), plan vehicle access and any property-management requirements before the final week. Community procedures vary, so obtain the current instruction for the actual villa.",
+          "Arrange a seller-side walkthrough before the buyer's inspection. Compare the property with the stay-and-remove inventory, test only systems you are qualified to test, and record any unfinished item with an owner and deadline. Do not conceal a defect behind an agreed-to-stay cabinet or last-minute staging furniture.",
+        ],
+      },
+      {
+        heading: "Close the handover with evidence and access",
+        content: [
+          "Take completion photographs from the same positions as the initial inventory. Check walls, floors, cupboards and outdoor areas, then collect gate remotes, access cards, mailbox and utility keys, alarm instructions, warranties and manuals into one labelled handover pack.",
+          "Our [villa-clearance team](/services/villa-clearance-dubai) can quote a documented whole-property scope. If only a defined group of seller-owned leftovers remains, the [junk-removal service](/services/junk-removal-dubai) can plan that load without turning the buyer's inspection into a clearance decision meeting.",
+          "[Send the approved remove list, room photos, access details and inspection deadline](/contact). We will confirm the scope, crew and fixed price, leaving the seller or authorised representative in control of what remains with the villa.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "palm-jumeirah"],
+  },
+  {
     slug: "junk-removal-for-real-estate-agents-dubai",
     title: "Junk Removal for Real Estate Agents in Dubai",
     seoTitle: "Junk Removal for Real Estate Agents in Dubai: Guide",
@@ -4230,7 +4458,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Route 1: sell, donate or give away furniture that still has life in it",
         content: [
           "A solid table, clean sofa or complete bed frame is a reuse item, not automatically waste. Photograph it in daylight, state the dimensions and defects honestly, and set a firm collection window. For towers, tell the recipient whether parking, a service lift or security registration is required. A vague ‘free sofa’ listing often creates messages but no successful pickup.",
-          "Donation is not guaranteed. Organisations and recipients can decline stained upholstery, damaged flat-pack furniture, incomplete beds or items they cannot safely collect. Keep a backup disposal booking if your tenancy handover is close. Our guide to [selling or donating used furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai) will cover that route in more depth when published.",
+          "Donation is not guaranteed. Organisations and recipients can decline stained upholstery, damaged flat-pack furniture, incomplete beds or items they cannot safely collect. Furniture with a known infestation needs the separate [bed-bug furniture disposal plan](/blog/how-to-dispose-of-furniture-with-bed-bugs-dubai), not a reuse listing. Keep a backup disposal booking if your tenancy handover is close. Our guide to [selling or donating used furniture](/blog/how-to-sell-or-donate-used-furniture-in-dubai) explains the reuse route in more depth.",
         ],
       },
       {
@@ -9258,6 +9486,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Before a large pruning job, ask the gardener whether the quoted work includes gathering, bagging, loading and taking away the cuttings. Get an explicit answer about the destination. 'We leave it tidy' might mean a stack behind the gate rather than removal from the property.",
           "Check whether community management or the appointed waste contractor offers a separate green-waste arrangement. Ask which materials qualify, whether there is a limit, what containers are required and where collection occurs. Do not assume the household bulky service includes landscaping waste or that a neighbour's arrangement applies to your street.",
           "If the gardener is leaving the material, arrange collection around the actual cutting schedule. Photograph the first completed section before estimating the rest. Palm pruning can create awkward lengths that look modest from above but occupy substantial vehicle space.",
+          "If the entire palm has died or shows holes, oozing material, odour or crown damage, stop treating it as routine pruning. The [dead-palm disposal guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) covers pest assessment, specialist felling and trunk-section collection.",
         ],
       },
       {
@@ -9461,6 +9690,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Before rental handover in Dubai, identify your personal belongings, the landlord's inventory and anything covered by a retention or reinstatement agreement. Arrange removal of the agreed personal items and waste, while keeping fixtures and unresolved items out of the collection scope. This practical guide was checked on 19/09/2026.",
           "The key question is not whether a room looks empty. It is whether the right items have left and the right items remain. A furnished apartment may need its original furniture restored to the agreed positions; an unfurnished property can still contain landlord-owned appliances, fitted storage and accessories.",
           "Use the [villa clearance checklist](/blog/villa-move-out-clearance-checklist-dubai) for the room-by-room work. This guide addresses ownership, permission and the written decisions that should come before booking that work. When a broker is coordinating the owner, keys, viewing schedule and collector, the [real-estate agent clearance guide](/blog/junk-removal-for-real-estate-agents-dubai) adds the listing-specific control process.",
+          "If the property has been sold rather than rented, use the separate [vacant villa handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai). It turns the sale terms and buyer-approved inclusions into the stay-and-remove list.",
         ],
       },
       {

@@ -235,7 +235,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Published roadmap articles: **30 / 30 (complete)**
 - Published supplemental approved articles: **127**
 - Total published blog articles: **157**
-- Phase 7 service-support queue: **3 / 90 written**
+- Phase 7 service-support queue: **6 / 90 written**
 - Published on 2026-11-02: **3**
 - Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
