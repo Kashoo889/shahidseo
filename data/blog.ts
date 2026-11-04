@@ -49,6 +49,234 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai",
+    title: "How to Check If Furniture Will Fit Through Doors and Lifts",
+    seoTitle: "Will Furniture Fit Through Doors and Lifts? A Guide",
+    excerpt:
+      "Learn how to check if furniture will fit through doors and lifts by measuring the item, openings, turns and usable clearance along the complete route.",
+    category: "Guides",
+    tags: ["Furniture Measuring", "Doorways", "Service Lifts", "Access Planning", "Dubai"],
+    coverImage: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+    coverImageAlt:
+      "Resident photographing a sofa while a removal worker measures a Dubai apartment service lift",
+    publishedAt: "2026-11-04",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Measure the furniture in the position it will be carried, including fixed arms, feet, handles and protective wrapping.",
+      "Record usable opening width and height with doors fully open; the frame, closer, handrail and lift controls can reduce clearance.",
+      "Map every turn from the room to the vehicle, because a generous doorway does not guarantee enough space to rotate the item.",
+      "If the route is close, send photos and measurements before dismantling anything or booking the building lift.",
+    ],
+    sections: [
+      {
+        heading: "How to check if furniture will fit through doors and lifts",
+        content: [
+          "To check if furniture will fit through doors and lifts, measure the item's height, width and depth in its planned carrying position. Then measure the usable width and height of every doorway and lift opening, the lift-car depth, corridor width, ceiling height and turning space. Compare the complete route—not just the smallest-looking door—and allow room for hands, blankets and a trolley. Checked on 04/11/2026.",
+          "A single width comparison is not enough. A sofa narrower than the apartment door can still fail at a ninety-degree corridor turn. A wardrobe may pass the lift opening upright but be too tall to tilt inside the car. The question is whether the item can translate and rotate through each connected space without being forced against walls, controls or fire doors.",
+          "Use a rigid tape measure, record millimetres and label every figure. Avoid rounded estimates such as ‘about one metre.’ When the difference is small, a mistaken skirting-board or door-handle measurement can turn a straightforward collection into an unplanned dismantling job.",
+        ],
+        callout: {
+          title: "The route is a chain",
+          text: "Furniture only fits when it clears every opening, turn and lift position between its current room and the vehicle. One failed link stops the move.",
+        },
+      },
+      {
+        heading: "Measure the furniture as it will actually travel",
+        content: [
+          "Record maximum height, width and depth, including fixed arms, feet, handles, trim and overhanging tops. For a sofa, also measure the diagonal from the highest rear corner toward the front base; that helps assess whether the piece can be pitched through a doorway. For a cabinet, measure the rigid carcass after only genuinely removable shelves or drawers are taken out.",
+          "Check the manufacturer or assembly instructions before assuming a part detaches. Bolt-on feet and modular sofa sections may reduce the envelope safely. Glued frames, powered recliner mechanisms, stone tops, glass panels and old flat-pack joints can be damaged by casual dismantling. Photograph every fixing before removal and keep hardware in a labelled bag.",
+          "Add the protection the job needs. A blanket, corner guard or wrapped glass edge consumes some of the apparent gap, and carriers need space for their hands. A route that works only when the measured item scrapes both sides is not a workable route.",
+        ],
+      },
+      {
+        heading: "Measure usable openings, not architectural openings",
+        content: [
+          "Open each door to the position available on collection day. Measure between the points the furniture will actually pass: projecting handles, door closers, frame stops and hinges may matter more than the nominal frame size. Note thresholds, steps and low ceiling features that affect a trolley or the ability to tilt the load.",
+          "For the service lift, record the clear opening width and height, internal width, depth and height, and the space directly outside on both floors. Photograph the lift data plate only if building staff permit it, and ask management about load limits, padding, booking time and which entrance the crew must use. Do not treat a passenger-lift measurement as permission to use it.",
+          "In [Dubai Marina](/areas/dubai-marina), a protected service-lift slot and basement loading route may control the move. In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), include the corridor and loading access for the actual cluster and tower. Current building instructions always take priority over what worked on a previous job.",
+        ],
+        image: {
+          src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp",
+          alt: "Removal crew measuring a doorway and wheeling protected furniture toward a padded service lift",
+        },
+      },
+      {
+        heading: "Test the turns on paper before collection day",
+        content: [
+          "Draw a simple route from the item to the vehicle and mark widths at the room door, hall, apartment entrance, lift lobby, lift and loading door. Add the direction of every sharp turn. The critical space is often the pocket opposite a doorway: the leading end enters, but the trailing end has nowhere to swing.",
+          "Use a cardboard rectangle, taped floor outline or the item's measured footprint to understand a tight turn without shifting the furniture repeatedly. This is a planning aid, not proof of clearance; tall backs, diagonal movement, hand space and ceiling limits still matter. For heavy or valuable pieces, let an experienced mover inspect a marginal route.",
+          "The [pickup-preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers staging, loose parts and collection-day access. The [large-furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) helps decide whether an unwanted piece should be sold, donated, collected or dismantled after its route is known.",
+        ],
+      },
+      {
+        heading: "What to do when the furniture does not fit",
+        content: [
+          "Stop before forcing it. Recheck removable feet, doors, drawers, shelves or modular connections, using the maker's instructions where available. Ask whether a different approved exit, larger service lift or qualified dismantling method exists. Never remove a building door, lift fitting, balcony panel or fixed glazing without the owner's and management's approval and the correct contractor.",
+          "Our [furniture-removal team](/services/furniture-removal-dubai) can plan dismantling and carrying for a declared route. If the item is one part of a wider clear-out, the [junk-removal service](/services/junk-removal-dubai) can quote the complete photographed scope rather than discovering the access problem at arrival.",
+          "[Send the furniture dimensions, photos of every turn, lift measurements and building instructions](/contact). We will confirm whether the route looks workable, what should remain assembled and when an on-site check or specialist is the safer next step.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-lake-towers"],
+  },
+  {
+    slug: "how-to-take-photos-for-a-junk-removal-quote-dubai",
+    title: "How to Take Photos for a Junk Removal Quote",
+    seoTitle: "How to Take Photos for a Junk Removal Quote: Photo Guide",
+    excerpt:
+      "Learn how to take photos for a junk removal quote that show the complete load, item condition, scale and access clearly enough for accurate remote pricing.",
+    category: "Guides",
+    tags: ["Junk Removal Quote", "Photo Inventory", "Fixed Price", "Access Planning", "Dubai"],
+    coverImage: "/images/blog/estimate-junk-removal-cost-dubai-hero.webp",
+    coverImageAlt:
+      "Removal worker measuring a doorway beside a resident and a grouped household load in Dubai",
+    publishedAt: "2026-11-04",
+    readingTime: "7 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Start with one wide photograph of every room or outdoor area included in the collection.",
+      "Add close views of bulky, dense, damaged or unusual items, with labels and dimensions where they affect handling.",
+      "Photograph the route to the vehicle, including stairs, lift, gate, loading point and any narrow turn.",
+      "Send one final item count and disclose what is inside opaque bags, boxes, cupboards and drawers.",
+    ],
+    sections: [
+      {
+        heading: "How to take photos for a junk removal quote",
+        content: [
+          "To take photos for a junk removal quote, begin with a wide image of each included room, then photograph every bulky or unusual item in full. Add close views of damage, labels or hazardous features, show a familiar object or tape measure for scale, and capture the route from the load to the vehicle. Finish with a written count so nothing depends on an ambiguous picture. Checked on 04/11/2026.",
+          "The photo set should answer four questions: what is leaving, how much space and weight it represents, what preparation it needs, and how the crew will carry it out. Attractive photographs are unnecessary. Complete, well-lit and ordered photographs produce a more reliable scope than a dozen close-ups with no view of the whole pile.",
+          "Take the pictures before items are wrapped in black bags or hidden inside cartons where possible. A collector cannot distinguish clothes from books, or dry household waste from leaking containers, by looking at the outside of an opaque package.",
+        ],
+        callout: {
+          title: "Use a wide–close–route sequence",
+          text: "For each area, send one wide context image, the close views that change handling, and the access route. That sequence is faster to assess and harder to misunderstand.",
+        },
+      },
+      {
+        heading: "Start with a complete room-by-room overview",
+        content: [
+          "Stand at the doorway or far corner and photograph the whole removal group. Do this for the living room, bedrooms, kitchen, balcony, garage, garden store or storage cage only when those spaces are in scope. If part of a room is staying, separate it physically or mark the removal group in a duplicate image; do not rely on ‘everything except the brown box’ in a crowded frame.",
+          "Number the images and item groups: L1 sofa, L2 cabinet, B1 bed frame. Use the same labels in the written list. Open cupboards or drawers only when you are authorised to do so, and state whether they are empty. A large wardrobe photographed with closed doors may contain another load's worth of belongings.",
+          "Check reflections, documents, screens and noticeboards before sending. Hide passports, tenancy papers, family photographs, access codes and other private information. The quote needs the item and route, not a record of the household.",
+        ],
+      },
+      {
+        heading: "Add close photographs that affect the job",
+        content: [
+          "Photograph each large item far enough away to include all edges, then add the rear, side or underside only when connections, fixings or damage matter. Include the model label on an appliance if it is safely accessible. Show cracked glass, loose mechanisms, mould, pest concerns, sharp metal or water damage plainly; concealed condition can change acceptance and safe handling.",
+          "Use a tape measure in the frame for furniture, appliances, long timber, trunk sections or a deep pile. For bags and boxes, give an exact count and describe their contents. Photograph dense materials such as books, tiles, soil or metal separately because their weight is not obvious from volume alone.",
+          "Do not send one photograph of a single chair to represent six chairs, or crop extra bags out of the frame. If the scope changes, send an updated overview and count before the slot is confirmed. The written quote should identify the same version of the load that the crew will find.",
+        ],
+        image: {
+          src: "/images/blog/junk-removal-scope-estimate-workbook-dubai.webp",
+          alt: "Phone photo inventory, blank scope sheet and measuring tools overlooking a grouped apartment load",
+        },
+      },
+      {
+        heading: "Photograph access from the item to the vehicle",
+        content: [
+          "Take images facing both directions at the narrowest doorway, corridor turn, staircase, lift opening, villa gate and loading point. State the floor, whether a service lift is booked, and the approximate carry from the exit to legal parking. A clear load photograph cannot reveal that the truck must park across a basement or that a sofa has to descend two flights of stairs.",
+          "For a tower in [Business Bay](/areas/business-bay), include the approved lift and loading-bay route. In [Arabian Ranches](/areas/arabian-ranches), show steps, side gates and driveway access. Ask the actual building or community for current contractor requirements instead of assuming the photographs themselves secure entry.",
+          "If a large piece is close to the route limits, use the separate guide to [checking furniture against doors and lifts](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai). Measurements and turn photos help determine whether ordinary dismantling is enough or an inspection is needed.",
+        ],
+      },
+      {
+        heading: "Send one quote-ready message",
+        content: [
+          "Put the photos in room order and send the address area, property type, floor, lift or stair access, item list, condition, preferred date and any deadline in the same message. Identify optional items separately. Our [cost-estimation worksheet](/blog/how-to-estimate-junk-removal-cost-in-dubai) can help structure a larger or uncertain scope.",
+          "Our [junk-removal service](/services/junk-removal-dubai) uses the declared load and access to prepare a fixed scope. When the job includes most contents across several rooms, the [house-clearance team](/services/house-clearance-dubai) can plan the larger sequence and vehicle requirement.",
+          "[Send the wide, close and route photographs with your final item count](/contact). We will flag anything unclear before confirming the price, so collection day begins with the same scope both sides approved.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["business-bay", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-declutter-a-home-before-selling-dubai",
+    title: "How to Declutter a Home Before Selling in Dubai",
+    seoTitle: "How to Declutter a Home Before Selling in Dubai: Guide",
+    excerpt:
+      "Learn how to declutter a home before selling in Dubai so listing photos and viewings feel spacious without stripping useful furniture from the property.",
+    category: "Moving & Clearance",
+    tags: ["Home Selling", "Decluttering", "Property Viewings", "Staging", "Dubai"],
+    coverImage: "/images/blog/room-by-room-decluttering-dubai-hero.webp",
+    coverImageAlt:
+      "Decluttered Dubai apartment living room with clear surfaces, open floor space and orderly shelving",
+    publishedAt: "2026-11-04",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Declutter for the camera and viewing route while keeping enough furniture to show how each room works.",
+      "Remove personal, duplicate and visibly damaged items before deciding whether useful furniture should stay for scale.",
+      "Treat cupboards, balconies, storage rooms and parking cages as viewing spaces, not places to hide the overflow.",
+      "Complete bulky removal before photography so cleaning, touch-ups and a final reset can happen afterward.",
+    ],
+    sections: [
+      {
+        heading: "How to declutter a home before selling in Dubai",
+        content: [
+          "To declutter a home before selling in Dubai, agree the likely buyer and photography date, then edit each room for purpose, space and a clear viewing path. Remove personal items, duplicates, excess small furniture and anything visibly broken, but keep enough well-proportioned furniture to show scale. Clear storage and outdoor areas too, then schedule removal before the final clean and listing photographs. Checked on 04/11/2026.",
+          "The aim is not to make an occupied home look vacant. Emptying every room can make proportions harder to read, while overfilled rooms hide floor area and storage. A useful rule is that every remaining piece should explain the room, support daily life until the move, or strengthen the presentation. Everything else needs a destination.",
+          "Ask the agent or photographer which rooms and sightlines matter most before the first sorting session. That prevents a seller from clearing the study completely while leaving the entrance, balcony and main living space crowded—the exact route buyers will notice first.",
+        ],
+        callout: {
+          title: "Edit for the sale, not the move",
+          text: "Pre-sale decluttering should improve photographs and viewings while the home still functions. Packing the entire move is a later, broader job.",
+        },
+      },
+      {
+        heading: "Build four destinations before opening cupboards",
+        content: [
+          "Set up keep for viewing, pack for the next home, sell or donate, and remove. Give every category a physical zone and a deadline. Items awaiting an online buyer should not remain in the photographed room indefinitely; use a firm cutoff and a backup removal route.",
+          "Start with obvious personal and visual noise: paperwork, family photographs, collections, surplus toiletries, fridge magnets, tangled cables and countertop appliances that are rarely used. Pack valuables, passports, medicines, keys and tenancy or sale papers yourself. They should never enter a mixed donation or removal pile.",
+          "Use the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) for the broader keep-or-release method. This article owns the sales presentation: what improves listing photos, circulation and buyer understanding while the seller still occupies the home.",
+        ],
+      },
+      {
+        heading: "Keep furniture that proves scale and purpose",
+        content: [
+          "Retain the best-fitting bed, dining table, sofa and desk when they help a buyer read the room. Remove duplicate side tables, extra dining chairs, exercise equipment from a bedroom and oversized pieces that pinch the walking route. Do not hide wear with crowded styling; damaged furniture and unfinished repairs still show during viewings.",
+          "Stand at the photographer's likely position and look toward the room's main feature. Clear the foreground, open a route of comfortable width and reduce objects that break the sightline. Keep doors, balcony access, electrical panels and built-in storage usable. Buyers should be able to open a wardrobe without moving boxes first.",
+          "If furniture is leaving, check the route and book the building access early. Our guide to [measuring furniture against doors and lifts](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) prevents a large piece from becoming stranded on the day the photographer is due.",
+        ],
+        image: {
+          src: "/images/blog/new-home-furniture-fit-test-dubai.webp",
+          alt: "Seller photographing labelled boxes while furniture positions are measured in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Declutter the spaces that expose rushed preparation",
+        content: [
+          "Edit the entrance first: shoes, delivery cartons and spare furniture should not narrow the opening impression. Then check balconies, maid's rooms, utility cupboards, garage shelves, garden stores and parking storage cages. Moving overflow into these spaces does not remove it; it turns a later viewing into an awkward discovery.",
+          "In [Downtown Dubai](/areas/downtown-dubai), keep tower corridors and lift lobbies out of the staging plan and arrange the service route with management. In [Dubai Hills Estate](/areas/dubai-hills-estate), include the garage, garden edge and driveway in the presentation walk. Obtain the current access instruction for the actual property before a collection vehicle is booked.",
+          "Separate paint, chemicals, batteries, gas cylinders, refrigerant appliances and unknown liquids from ordinary household contents. They require a confirmed route and should not be disguised inside boxes. Working furniture may be sold or donated only when a recipient has actually accepted it and the collection timing fits the listing schedule.",
+        ],
+      },
+      {
+        heading: "Remove, repair, clean and reset—in that order",
+        content: [
+          "Book bulky collection before the deep clean and photography. Removed cabinets and beds can reveal dust lines, anchor holes, cable damage or faded paint. Give the appropriate cleaner or maintenance contractor time to deal with those surfaces, then return only the restrained furniture and accessories selected for presentation.",
+          "The [vacant villa handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) covers the later stage when sale terms decide what must remain for the buyer. For an occupied property being prepared for market, our [house-clearance service](/services/house-clearance-dubai) can remove an approved room-by-room scope, while the [furniture-removal team](/services/furniture-removal-dubai) suits a defined group of bulky pieces.",
+          "[Send room photos, the approved removal list, building access and the photography date](/contact). We will confirm the fixed scope and collection plan, leaving enough time for cleaning and a calm final reset before the listing goes live.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-hills-estate"],
+  },
+  {
     slug: "how-to-dispose-of-furniture-with-bed-bugs-dubai",
     title: "How to Dispose of Furniture with Bed Bugs in Dubai",
     seoTitle: "How to Dispose of Bed Bug Furniture Safely in Dubai",
@@ -352,6 +580,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Prepare the listing for photographs and viewings",
         content: [
           "Clearing for sale or lease is not always the same as emptying the property. Confirm the presentation brief with the owner and photographer. A dining table may need to stay for scale, while a damaged spare chair, unused cot and balcony cartons should leave. If a staging company supplied cushions, lamps or artwork, photograph and isolate them before the removal crew enters.",
+          "For an occupied property going to market, use the [pre-sale home decluttering plan](/blog/how-to-declutter-a-home-before-selling-dubai) to decide what should remain for scale, what should be packed and what needs to leave before photography.",
           "After bulky pieces leave, inspect the surfaces they concealed. A wardrobe can reveal dust, cable holes or a different paint shade; an outdoor cabinet may leave sand and irrigation marks. Put cleaning, touch-up and maintenance tasks on a separate list with their own responsible contractor. A removal crew should not quietly expand into wall repair, electrical isolation or deep cleaning because the photographer arrives that afternoon.",
           "Sequence other vendors around the cleared rooms. If painters, cleaners and movers all arrive together, the agent loses control of keys and the lift while fresh surfaces are exposed to trolleys. Give each contractor a named contact and defined area, and record when the property passes from one team to the next. This is especially important when the owner is overseas and cannot settle an on-site disagreement.",
           "Walk the likely viewing route from entrance to balcony. Keep fire doors, corridors, utility cupboards and access to electrical panels unobstructed. Remove packing materials and loose hardware generated by dismantling, but retain manuals, remotes and documented spare parts for appliances or furniture that stays. The final image set should show a deliberate property, not merely evidence that a truck visited.",
@@ -6857,7 +7086,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Measure the route and prepare fragile or awkward items",
         content: [
-          "Measure the widest part of the item, then the narrowest door, corridor turn, and lift opening. A sofa may fit through the front door but fail at the service-lift turn. Share the measurements rather than attempting uncertain dismantling. Remove small loose shelves and cushions if they lift out easily, place fittings in a labelled bag, and keep the bag with the item.",
+          "Measure the widest part of the item, then the narrowest door, corridor turn, and lift opening. A sofa may fit through the front door but fail at the service-lift turn. Share the measurements rather than attempting uncertain dismantling. The [furniture access measuring guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows how to record usable openings, diagonals and turn space. Remove small loose shelves and cushions if they lift out easily, place fittings in a labelled bag, and keep the bag with the item.",
           "Cross-tape large mirrors and glass panels, cover sharp edges, bundle loose cables, and box small electronics so pieces are not lost. Empty and defrost fridges only after confirming collection timing, and protect floors from remaining water. If an appliance is connected to plumbing, gas, or fixed electrical supply, arrange a qualified disconnection rather than improvising.",
         ],
         image: {
@@ -8861,6 +9090,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Step 3: map access and labour from item to vehicle",
         content: [
           "Trace the route for the largest piece. Record the room, floor, doorway and corridor widths, lift dimensions, stairs, loading point and walking distance to legal parking. Add building registration, service-lift booking, floor protection and permitted working hours. These are job tasks, not footnotes.",
+          "Use the [quote-photo sequence](/blog/how-to-take-photos-for-a-junk-removal-quote-dubai) to show the complete load, close details and access route in a form a remote estimator can reconcile with this worksheet.",
           "A [Dubai Marina](/areas/dubai-marina) apartment may have a fast lift ride but a timed loading bay and long basement carry. A villa in [Arabian Ranches](/areas/arabian-ranches) may offer driveway access yet require furniture to come down stairs or through a narrow side gate. Send pictures from both ends of the route so the estimate reflects the actual property.",
           "List labour separately: dismantling freestanding furniture, protecting corners, carrying dense boxes, sorting streams, or making more than one destination stop. For scheduling as well as price planning, compare the same inputs with our guide to [how long junk removal takes](/blog/how-long-does-a-typical-junk-removal-job-take).",
         ],

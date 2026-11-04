@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-03**
+Last synchronized: **2026-11-04**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -165,10 +165,14 @@ Canonical implementation: `data/blog.ts`
 | 158 | `how to dispose of furniture with bed bugs in dubai`                      | Informational              | `/blog/how-to-dispose-of-furniture-with-bed-bugs-dubai`                         | 2026-11-03 | Published |
 | 159 | `how to dispose of a dead palm tree in dubai`                             | Informational              | `/blog/how-to-dispose-of-a-dead-palm-tree-dubai`                                | 2026-11-03 | Published |
 | 160 | `how to clear a villa for vacant handover to a buyer`                     | Informational              | `/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai`               | 2026-11-03 | Published |
+| 161 | `how to check if furniture will fit through doors and lifts`              | Informational              | `/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai`        | 2026-11-04 | Published |
+| 162 | `how to take photos for a junk removal quote`                             | Informational              | `/blog/how-to-take-photos-for-a-junk-removal-quote-dubai`                       | 2026-11-04 | Published |
+| 163 | `how to declutter a home before selling in dubai`                         | Informational              | `/blog/how-to-declutter-a-home-before-selling-dubai`                            | 2026-11-04 | Published |
 
 ## Current counts
 
-- Published: **160**
+- Published: **163**
+- Published on 2026-11-04: **3**
 - Published on 2026-11-03: **3**
 - Published on 2026-11-02: **3**
 - Published on 2026-10-30: **3**
@@ -193,9 +197,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **127**
-- Service-support queue written: **6 / 90**
-- Next approved priority: **Day 3 (04/11/2026): furniture fit through doors and lifts, quote photos, and decluttering before a home sale.**
+- Supplemental approved articles published: **130**
+- Service-support queue written: **9 / 90**
+- Next approved priority: **Day 4 (05/11/2026): tree-stump removal, getting rid of junk without a car, and end-of-lease shop clearance.**
+
+## Cannibalization notes for 2026-11-04 batch
+
+- The furniture-fit guide owns the complete item-to-vehicle measurement chain: carried dimensions, usable openings, diagonal clearance, connected turns and service-lift geometry. The pickup-preparation guide retains general collection staging, while item-specific disposal guides retain preparation for individual furniture and appliances. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The quote-photo guide owns the wide–close–route photo sequence, room labels, scale, condition disclosure, privacy and one reconciled remote-quote message. The cost-estimation guide retains scenario planning and the price worksheet; the urgent-pickup guide retains fast small-load dispatch preparation. Commercial intent stays with `/services/junk-removal-dubai`.
+- The pre-sale decluttering guide owns occupied-home presentation for listing photographs and viewings: purposeful furniture, clear sightlines, storage and exterior overflow, and the remove–repair–clean–reset order. The room-by-room guide retains general household decision-making, the real-estate-agent guide retains owner authority and key control, and the vacant-villa guide retains sale-contract handover. Commercial intent stays with `/services/house-clearance-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the pickup-preparation, cost-estimation and real-estate-agent guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-04.md`.
 
 ## Cannibalization notes for 2026-11-03 batch
 
@@ -207,7 +219,7 @@ Canonical implementation: `data/blog.ts`
 
 ## Cannibalization notes for 2026-11-02 batch
 
-- The real-estate-agent guide owns listing-clearance coordination: written owner scope, room-coded inventory, key custody, viewing buffers and matched completion photos. `/blog/what-to-remove-before-rental-handover-dubai` retains the outgoing tenant's fixture-versus-belonging decisions, and `/blog/how-to-declutter-a-home-before-selling-dubai` will retain occupied-home staging. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
+- The real-estate-agent guide owns listing-clearance coordination: written owner scope, room-coded inventory, key custody, viewing buffers and matched completion photos. `/blog/what-to-remove-before-rental-handover-dubai` retains the outgoing tenant's fixture-versus-belonging decisions, and `/blog/how-to-declutter-a-home-before-selling-dubai` retains occupied-home staging. Commercial intent stays with `/services/junk-removal-dubai` and `/services/house-clearance-dubai`.
 - The villa-garage guide owns the zone-by-zone method across tools, chemicals, batteries, bikes, stored furniture, dense loads and driveway access. `/blog/spring-cleaning-junk-removal-checklist-dubai` retains seasonal whole-home cleaning, while the paint, battery, bicycle and material-sorting guides retain their specialist streams. Commercial intent stays with `/services/villa-clearance-dubai`.
 - The holiday-home-host guide owns the checkout-to-check-in sequence, lost-property isolation, remove-and-replace manifests, unit inventory protection, turnover-team timing and temporary access. The rental-handover guide retains tenancy surrender, and the urgent-pickup guide retains generic small-load dispatch preparation. Commercial intent stays with `/services/junk-removal-dubai` and `/services/same-day-junk-removal-dubai`.
 - Each article links to two service pages, two area pages, supporting sibling guides, a current official source and `/contact`. Contextual inbound links were added from the rental-handover, spring-cleaning and urgent-collection guides.
