@@ -49,6 +49,232 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-get-rid-of-a-tree-stump-dubai",
+    title: "How to Get Rid of a Tree Stump in Dubai",
+    seoTitle: "How to Get Rid of a Tree Stump in Dubai Safely",
+    excerpt:
+      "Learn how to get rid of a tree stump in Dubai by choosing grinding or excavation, locating buried services, and planning the heavy waste collection.",
+    category: "Eco & Recycling",
+    tags: ["Tree Stumps", "Stump Grinding", "Garden Clearance", "Villa Gardens", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener and villa resident reviewing separated palm fronds, branches, soil and plant pots in a Dubai garden",
+    publishedAt: "2026-11-05",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Choose grinding when the roots can stay underground and excavation when the whole root plate must leave.",
+      "Locate irrigation, lighting, drainage and utility routes before any digging or grinding begins.",
+      "Use a tree contractor for cutting and machinery; a waste crew collects only a safe, staged load.",
+      "Keep stump wood, roots and soil separate because their weights and disposal routes differ.",
+    ],
+    sections: [
+      {
+        heading: "How to get rid of a tree stump in Dubai",
+        content: [
+          "To get rid of a tree stump in Dubai, first confirm ownership and community approval, then locate irrigation, lighting cables, drainage and other buried services. Choose stump grinding if the roots can remain and the area will be replanted or levelled. Choose excavation if the root plate must leave for construction, paving or a new tree. Have a qualified contractor do the machinery work, then separate the wood, roots and excess soil for an agreed collection route. Checked on 05/11/2026.",
+          "The visible stump is only part of the job. A compact date-palm stump may sit beside a network of drip lines, while a broad ornamental tree can lift paving well beyond the trunk. Digging first and asking questions later is how irrigation gets cut, boundary tiles crack and a manageable garden job becomes a repair project.",
+          "Stump removal also differs from removing the dead tree above it. The [dead-palm disposal guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) covers instability, pest signs and specialist felling; this guide begins after the trunk has been made safe.",
+        ],
+        callout: {
+          title: "Mark the buried services before the machine arrives",
+          text: "Ask the property manager, landscaper or relevant utility specialist to identify known service routes. Never assume a clear patch of soil is free of irrigation, cables or drainage.",
+        },
+      },
+      {
+        heading: "Choose grinding or complete excavation",
+        content: [
+          "Grinding uses a rotating cutter to reduce the stump below ground level. It usually disturbs less of the garden, produces wood chips that are easier to load and leaves the main roots in place to decay. It suits a lawn or planting bed where a shallow depression can be filled and monitored. It does not create a clean structural excavation for a footing, pool deck or replacement tree in the exact same position.",
+          "Excavation removes the root crown and enough major roots to lift the stump out. That means more digging, a heavier load and a larger hole. Access determines whether a mini excavator can reach the garden or the work must be done in smaller hand-cut sections. Protect boundary walls, pool equipment, paving and neighbouring planting before a machine crosses the property.",
+          "Do not try to pull a stump out with a car or ordinary pickup. Ropes, chains and tow points can fail suddenly, and the root plate may release into a wall, vehicle or person. Burning or dosing it with unapproved chemicals is not an acceptable shortcut either.",
+        ],
+      },
+      {
+        heading: "Prepare the garden and the collection route",
+        content: [
+          "Clear pots, furniture and loose garden waste from the working radius. Photograph the stump with its diameter, the nearest gate and every narrow turn between the garden and the vehicle. In [Arabian Ranches](/areas/arabian-ranches), community contractor and vehicle rules may shape the booking; in [The Springs](/areas/the-springs), the route may pass close to shared walls, parked cars and irrigated landscaping. Obtain the current instruction for the actual property.",
+          "Ask the contractor what will remain after the work: a mound of chips, root sections, loose soil or one intact root ball. Agree who backfills the hole and who removes the material. These are separate tasks, and a grinding quotation does not automatically include hauling or reinstating turf and irrigation.",
+          "Dubai Municipality lists waste collection and transport as permitted activities and provides current waste services through its [official service directory](https://www.dm.gov.ae/dubai-municipality-services/). Confirm the receiving route before work begins, especially when a load mixes timber, soil, concrete edging or suspected pest-affected material.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Garden worker measuring a villa gate beside separated branches, palm fronds, leaves, soil and broken pots",
+        },
+      },
+      {
+        heading: "Separate wood, roots, soil and hardscape",
+        content: [
+          "Keep clean stump wood and roots apart from excavated soil. Soil makes a load dense very quickly and may contain stones, old concrete, irrigation fittings or landscape fabric. Bagging everything together hides the weight and makes recovery harder. The [garden-waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) explains the ordinary green stream; stump rounds and a soil-heavy root ball need to be declared separately.",
+          "Leave sound wood chips on site only if the landscaper agrees they suit the planting plan. Fresh chips can be used as surface mulch in some beds, but they should not be packed against trunks, mixed deeply into soil without advice or used when pest or disease contamination is suspected. Keep suspect material contained and follow the tree specialist's direction.",
+          "After removal, photograph the open area before backfilling, repair any exposed irrigation correctly and allow loose fill to settle before laying expensive paving. If the stump caused lifting, have the affected base assessed rather than placing new tiles over moving roots.",
+        ],
+      },
+      {
+        heading: "Arrange collection after the stump is made safe",
+        content: [
+          "Our [garden-waste removal team](/services/garden-waste-removal-dubai) can quote cut stump sections, root material and separately declared green waste from a safe staging point. If the garden work is part of a wider property clear-out, the [villa-clearance service](/services/villa-clearance-dubai) can plan ordinary outdoor furniture and store contents as a separate part of the load.",
+          "[Send photos of the stump, its diameter, the gate-to-vehicle route and the material the contractor will leave](/contact). We will confirm the collectible scope and fixed price, and tell you when the stump still needs a qualified grinding, excavation or pest-control contractor before collection.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "how-to-get-rid-of-junk-without-a-car-dubai",
+    title: "How to Get Rid of Junk Without a Car in Dubai",
+    seoTitle: "How to Get Rid of Junk Without a Car in Dubai",
+    excerpt:
+      "Get rid of junk without a car in Dubai by sorting small bin-safe items, arranging donation or municipal options, and booking bulky collection from your door.",
+    category: "Guides",
+    tags: ["No Car", "Apartment Living", "Bulky Waste", "Junk Collection", "Dubai"],
+    coverImage: "/images/blog/how-to-dispose-of-junk-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew loading boxes, a chair, a rug and a small appliance into a truck outside a Dubai home",
+    publishedAt: "2026-11-05",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Use the building's normal bins only for accepted household waste that fits safely inside them.",
+      "Donation pickup works for clean, usable items, but confirm acceptance before moving anything downstairs.",
+      "Municipal availability depends on the property zone and item type, so check the current service first.",
+      "For private collection, send the complete item list and access route so the price includes carrying and loading.",
+    ],
+    sections: [
+      {
+        heading: "How to get rid of junk without a car in Dubai",
+        content: [
+          "To get rid of junk without a car in Dubai, split the load by route instead of trying to move it all at once. Put only accepted, bagged household waste inside the building's normal bins; arrange a charity or resale pickup for usable items; check whether the current municipal bulky-waste service covers your address; and book a licensed private collection for furniture, appliances or a mixed load that must be carried from the property. Never leave items beside a bin or in a corridor. Checked on 05/11/2026.",
+          "Not having a car is often helpful because it stops a common mistake: loading a sofa, leaking appliance or mixed bags into a vehicle before confirming where they can go. The right plan begins at the item, not at the destination. Sort by condition and material, then choose a service that collects that stream from the door or approved loading point.",
+          "The [complete junk-disposal guide](/blog/how-to-dispose-of-junk-in-dubai-complete-guide) explains the main disposal routes. This article focuses on making those routes work for apartment residents and other people who cannot transport the load themselves.",
+        ],
+        callout: {
+          title: "The bin room is not a bulky-item holding area",
+          text: "A mattress, cabinet or pile of boxes can block fire and service routes even when placed neatly. Ask management where an approved collection may be staged and for how long.",
+        },
+      },
+      {
+        heading: "Start with the options that collect from you",
+        content: [
+          "Offer saleable items as collection-only and state the floor, lift and parking situation honestly. A buyer is more likely to arrive prepared when the listing includes dimensions, condition and dismantling needs. For donations, ask the organisation to approve photographs before you promise the item; stained upholstery, damaged flat-pack furniture and incomplete appliances are commonly unsuitable even if transport is available.",
+          "Dubai Municipality's current service directory includes household furniture and appliance disposal and notes eligibility limits, including exclusions for some development zones. Check the live [Dubai Municipality service listing](https://www.dm.gov.ae/dubai-municipality-services/) for your address, item and expected collection arrangement. A building concierge cannot guarantee that an external service covers the tower.",
+          "Private junk collection is the most direct route for mixed or time-sensitive loads because the crew can carry, protect the lift and load the vehicle. Ask for a fixed photographed scope rather than a vague ‘one room’ estimate. The [quote-photo guide](/blog/how-to-take-photos-for-a-junk-removal-quote-dubai) shows the wide, close and access views that prevent surprises.",
+        ],
+      },
+      {
+        heading: "Decide what belongs in the building bins",
+        content: [
+          "Use ordinary bins only for the household waste accepted by the building's waste contractor, contained in closed bags and small enough to fit without forcing the lid or chute. Do not push long objects, cardboard bundles, glass panels or loose metal down a refuse chute. They can jam the system or injure the staff who clear it.",
+          "Keep batteries, electronics, paint, chemicals, gas cylinders, fluorescent lamps and other controlled or hazardous items out of general rubbish. Use their specialist return or collection route. The [items collectors cannot take guide](/blog/items-junk-removal-companies-cannot-take-dubai) helps identify materials that must be declared before any booking.",
+          "Flatten clean cardboard only when the building has told you which recycling point to use. If a move has produced more boxes than the room can accept, keep them dry and bundle them for a scheduled pickup rather than filling the shared bin area in one trip.",
+        ],
+        image: {
+          src: "/images/blog/high-rise-service-lift-junk-removal-dubai.webp",
+          alt: "Removal worker wheeling a protected bulky item from a padded service lift while building security records the collection",
+        },
+      },
+      {
+        heading: "Book the route through the building, not just the vehicle",
+        content: [
+          "Ask management about contractor registration, service-lift booking, protective padding, loading-bay access and permitted hours. In [Dubai Marina](/areas/dubai-marina), the lift and basement loading window can matter more than the driving distance. In [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), instructions vary by cluster and tower, so use the current process for the actual building.",
+          "Keep the junk inside the apartment until the crew and approved route are ready. Do not leave it in a corridor, stair enclosure, parking bay or pavement for someone to ‘take later.’ If the load contains documents, medication, keys or personal electronics, isolate them before collection and complete a final drawer and pocket check.",
+          "Send one reconciled list: item count, bag and box contents, dimensions of bulky pieces, floor, lift status and walking distance to the vehicle. Disclose anything wet, sharp, infested or unusually heavy. A complete scope lets the collector send the right crew and trolley without requiring you to arrange transport separately.",
+        ],
+      },
+      {
+        heading: "Arrange a collection from your door",
+        content: [
+          "Our [junk-removal service](/services/junk-removal-dubai) carries declared household items from apartments and villas, coordinates the agreed building route and loads them in one visit. For a single sofa, mattress or other awkward piece, the [bulky-item team](/services/bulky-item-removal-dubai) may be the simpler fit.",
+          "[Send photos of everything leaving and the path from the items to the loading point](/contact). We will reply with a fixed price based on the complete scope, so you do not need to rent a car, find a disposal site or move bulky items into a shared area yourself.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "jumeirah-lake-towers"],
+  },
+  {
+    slug: "shop-clearance-at-the-end-of-a-retail-lease-dubai",
+    title: "Shop Clearance at the End of a Retail Lease in Dubai",
+    seoTitle: "Dubai Retail Lease Shop Clearance: Handover Guide",
+    excerpt:
+      "Plan shop clearance at the end of a retail lease in Dubai: confirm the handover standard, control stock and data, remove fixtures, and document sign-off.",
+    category: "Commercial & Office",
+    tags: ["Shop Clearance", "Retail Lease", "Commercial Handover", "Fixtures", "Dubai"],
+    coverImage: "/images/blog/occupied-office-clearance-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Commercial clearance crew moving a tall shelving unit through an occupied Dubai workplace",
+    publishedAt: "2026-11-05",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Turn the lease, fit-out approvals and landlord instructions into a written remove, retain and reinstate schedule.",
+      "Close stock, customer data, keys and payment equipment before general clearance starts.",
+      "Separate loose contents from landlord assets, specialist fit-out work, electrical items and controlled waste.",
+      "Finish early enough for repairs, cleaning, authority processes and a documented landlord or mall inspection.",
+    ],
+    sections: [
+      {
+        heading: "Shop clearance at the end of a retail lease in Dubai",
+        content: [
+          "Shop clearance at the end of a retail lease in Dubai should begin with the signed lease, fit-out approvals and the landlord or mall's written handover standard. Build a schedule showing what stays, what the tenant removes and what a licensed fit-out contractor must reinstate. Close stock and customer-data controls first, clear loose fixtures in zones, complete specialist disconnections and repairs, then clean and photograph the unit before inspection. Checked on 05/11/2026.",
+          "An empty-looking shop can still fail handover. Signage anchors may remain above the fascia, data cabinets may hold live equipment, stock can be mixed with consignment goods and a removed display may expose unpatched floor sockets. The clearance plan must follow the agreed condition of return, not a generic assumption that every unit should be stripped to concrete.",
+          "Dubai Land Department provides official channels for tenancy management, including cancellation, through Dubai REST, Ejari and trustee services. Review the current [tenancy cancellation service](https://dubailand.gov.ae/en/eservices/cancel-tenancy-contract/) with the authorised company representative; physical clearance, landlord sign-off, licence changes and Ejari processes are related deadlines but not interchangeable tasks.",
+        ],
+        callout: {
+          title: "Do not let the clearance crew interpret the lease",
+          text: "Mark every counter, shelf, light, sign and service point as remove, retain or specialist action before loading begins. Disputed items stay in place until the authorised parties decide in writing.",
+        },
+      },
+      {
+        heading: "Freeze the handover standard and inventory",
+        content: [
+          "Walk the unit with the landlord, mall facilities team or authorised representative. Compare the original condition report, approved drawings, fit-out manual and later variations. Record responsibility for shopfront signs, shutters, display lighting, counters, shelving, fitting rooms, mirrors, security equipment, data cabling, sinks, grease lines and any mezzanine or storage cage.",
+          "Create one asset register for tenant-owned, landlord-owned, leased and consignment items. Photograph serial numbers and condition before anything moves. Payment terminals, routers, CCTV recorders, safes and branded equipment should have named owners; they should never disappear into a mixed metal or electronics load.",
+          "The [office-clearance-while-working guide](/blog/how-to-clear-an-office-while-staff-work-dubai) explains zone release and live-business controls. A retail closeout adds public trading hours, customer stock, mall loading rules and a stricter shopfront handover, so schedule the final trading day and clearance access separately.",
+        ],
+      },
+      {
+        heading: "Close stock, records and customer data first",
+        content: [
+          "Stop stock movement at a defined time and reconcile sale, transfer, return-to-supplier, donation and disposal quantities. Keep saleable stock away from removal piles and label cartons by destination. Food, cosmetics, chemicals, batteries and pressurised products need their own approved route rather than a general shop-clearance load.",
+          "Secure invoices, employee files and customer information before desks or cabinets are emptied. Wipe or retain point-of-sale devices, computers, drives, CCTV storage and network hardware under the company's data policy. The [secure document disposal guide](/blog/how-to-dispose-of-old-documents-and-paperwork-dubai) covers paper records, while electronics should be inventoried through to their receiving route.",
+          "Return leased terminals, fridges, coffee machines, display stands and telecom equipment to their providers before the main clearance. A branded fixture in the store may belong to a supplier, not the tenant or landlord.",
+        ],
+        image: {
+          src: "/images/blog/office-zone-release-dubai-20260919-body.webp",
+          alt: "Commercial clearance worker and manager inventorying monitors, cables and computer equipment on a trolley",
+        },
+      },
+      {
+        heading: "Separate loose clearance from fit-out reinstatement",
+        content: [
+          "A junk-removal crew can handle declared loose shelves, counters, furniture, packaging and disconnected equipment. Fixed electrical work, plumbing, fire systems, refrigeration, gas, shutters, ceilings and structural fit-out belong with appropriately authorised contractors. Obtain isolation records or completion evidence where the landlord requires it; do not ask a loading crew to cut live cables or cap services.",
+          "Release the shop in zones: back store, office, sales floor and shopfront. In [Dubai Mall and Downtown](/areas/downtown-dubai), loading access and mall permits can control every shift. In [Dubai Marina](/areas/dubai-marina), a street retail unit and a mall unit may have completely different contractor routes. Confirm vehicle details, staff identification, insurance evidence, lift protection and working hours before dispatch.",
+          "Sort timber, metal, glass, electronics, clean cardboard and residual material where the site allows. Keep paint, chemicals, lamps, extinguishers and unknown liquids isolated and declared. Complete removals before the final clean so hidden wall holes, adhesive, cable penetrations and floor damage can be repaired and inspected.",
+        ],
+      },
+      {
+        heading: "Document inspection and final sign-off",
+        content: [
+          "Photograph each zone from matched positions after clearance and cleaning. Record keys, access cards, loading permits, meter information, alarm codes, manuals and contractor certificates in one handover pack. Attend the landlord or mall inspection with the agreed schedule and log every snag with an owner and deadline rather than relying on a verbal promise.",
+          "Our [commercial cleanout team](/services/office-cleanout-dubai) can plan the loose contents and disconnected fixtures around approved access windows. If the deadline leaves a small, clearly defined final load, the [same-day collection service](/services/same-day-junk-removal-dubai) can assess it without taking over specialist reinstatement work.",
+          "[Send the approved remove list, unit photos, loading rules and handover deadline](/contact). We will quote the declared collection scope and crew, leaving lease interpretation, service disconnection and formal sign-off with the authorised parties.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "dubai-marina"],
+  },
+  {
     slug: "how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai",
     title: "How to Check If Furniture Will Fit Through Doors and Lifts",
     seoTitle: "Will Furniture Fit Through Doors and Lifts? A Guide",
@@ -411,7 +637,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Keep soil, roots and hard materials separate",
         content: [
-          "Decide whether the stump stays, is ground or is excavated. Stump work can reach irrigation, lighting cables and nearby paving, so locate services first. A future article covers stump removal in detail; this guide stops at making the dead above-ground palm safe and routing its material.",
+          "Decide whether the stump stays, is ground or is excavated. Stump work can reach irrigation, lighting cables and nearby paving, so locate services first. The [tree-stump removal guide](/blog/how-to-get-rid-of-a-tree-stump-dubai) compares grinding with excavation; this guide stops at making the dead above-ground palm safe and routing its material.",
           "Do not mix trunk sections with bags of soil, concrete footings, plastic irrigation pipe, landscape fabric or ceramic pots. Those materials have different weights and destinations. Sweep fibrous debris from the work route, but do not wash it into a drain.",
           "In [Arabian Ranches](/areas/arabian-ranches), confirm community contractor and vehicle access before a crane or chipper is proposed. In [The Springs](/areas/the-springs), protect shared roads and neighbouring walls, and keep cut sections inside the property until the booked vehicle is ready.",
         ],
@@ -7874,6 +8100,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "The second pathway is the official municipal service. As outlined in our guide on [Dubai Municipality waste disposal rules and regulations](/blog/dubai-municipality-waste-disposal-rules-and-regulations), Dubai Municipality offers bulky waste collections primarily for eligible villas and residential homes. However, you must schedule days in advance, carry everything to the roadside curb yourself, and observe strict item limits.",
           "The third pathway involves self-transport to neighborhood recycling kiosks. If you have personal transport and smaller volumes of cardboard, electronics, or clothing, municipal 'My Smart Waste' stations and neighborhood centers across the city accept pre-sorted materials at no cost. You can locate your nearest drop-off point in our [complete list of recycling centers in Dubai](/blog/complete-list-of-recycling-centers-in-dubai).",
           "The fourth pathway is charitable donation. If your sofas, dining sets, or kitchen appliances remain in clean, fully functional condition, registered entities such as Beit Al Khair, Emirates Red Crescent, and Dar Al Ber accept scheduled drop-offs or arrange volunteer collections for families in need.",
+          "If you cannot transport anything yourself, use the [no-car junk disposal plan](/blog/how-to-get-rid-of-junk-without-a-car-dubai) to compare collection-only resale, approved donation pickup, address-dependent municipal options and private door-to-truck removal.",
         ],
       },
       {
@@ -9811,7 +10038,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To clear an office while staff keep working, divide it into small areas, move affected staff temporarily, and release one area at a time for removal. Agree routes, noise windows and IT checks before the crew arrives. Stop whenever the work could affect an occupied area or an unapproved system. This guide was prepared on 19/09/2026.",
           "A partial clearance has two outputs: unwanted items leave, and the remaining workplace still functions. A cleared storeroom is not a success if the crew has removed shared printer supplies, unplugged a network device or blocked the only route to an occupied meeting room. Inventory spent consumables separately and use the [printer ink and toner recycling guide](/blog/how-to-recycle-printer-ink-and-toner-cartridges-dubai) for their return route.",
-          "Use this method for removing surplus desks, storage and loose equipment from a working office. For an entire relocation and the decision to sell, reuse or recycle furniture, see the [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation). Structural strip-out or demolition needs a separate works plan.",
+          "Use this method for removing surplus desks, storage and loose equipment from a working office. For an entire relocation and the decision to sell, reuse or recycle furniture, see the [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation). A closing retail unit needs the separate [end-of-lease shop clearance plan](/blog/shop-clearance-at-the-end-of-a-retail-lease-dubai). Structural strip-out or demolition needs a separate works plan.",
         ],
       },
       {

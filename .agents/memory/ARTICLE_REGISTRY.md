@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-04**
+Last synchronized: **2026-11-05**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -168,10 +168,14 @@ Canonical implementation: `data/blog.ts`
 | 161 | `how to check if furniture will fit through doors and lifts`              | Informational              | `/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai`        | 2026-11-04 | Published |
 | 162 | `how to take photos for a junk removal quote`                             | Informational              | `/blog/how-to-take-photos-for-a-junk-removal-quote-dubai`                       | 2026-11-04 | Published |
 | 163 | `how to declutter a home before selling in dubai`                         | Informational              | `/blog/how-to-declutter-a-home-before-selling-dubai`                            | 2026-11-04 | Published |
+| 164 | `how to get rid of a tree stump in dubai`                                 | Informational              | `/blog/how-to-get-rid-of-a-tree-stump-dubai`                                    | 2026-11-05 | Published |
+| 165 | `how to get rid of junk without a car in dubai`                           | Informational              | `/blog/how-to-get-rid-of-junk-without-a-car-dubai`                              | 2026-11-05 | Published |
+| 166 | `shop clearance at the end of a retail lease in dubai`                    | Informational              | `/blog/shop-clearance-at-the-end-of-a-retail-lease-dubai`                       | 2026-11-05 | Published |
 
 ## Current counts
 
-- Published: **163**
+- Published: **166**
+- Published on 2026-11-05: **3**
 - Published on 2026-11-04: **3**
 - Published on 2026-11-03: **3**
 - Published on 2026-11-02: **3**
@@ -197,9 +201,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **130**
-- Service-support queue written: **9 / 90**
-- Next approved priority: **Day 4 (05/11/2026): tree-stump removal, getting rid of junk without a car, and end-of-lease shop clearance.**
+- Supplemental approved articles published: **124**
+- Service-support queue written: **12 / 90**
+- Next approved priority: **Day 5 (06/11/2026): villa-to-apartment downsizing, water-damaged items after a leak, and old chest-freezer disposal.**
+
+## Cannibalization notes for 2026-11-05 batch
+
+- The stump guide owns the grinding-versus-excavation decision, buried-service checks, machinery access, root-ball handling and post-removal reinstatement. The dead-palm guide retains instability, pest escalation and above-ground felling; the general garden-waste guide retains routine green streams. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The no-car guide owns collection-first disposal for residents without transport: building-bin limits, collection-only reuse, address-dependent municipal availability, private door-to-truck pickup and tower access. The complete disposal guide retains the broad comparison of all legal routes. Commercial intent stays with `/services/junk-removal-dubai`.
+- The retail-lease guide owns the shop closeout sequence: lease-defined handover condition, stock and data control, loose-fixture clearance, specialist reinstatement boundaries and landlord or mall sign-off. The occupied-office guide retains phased clearance while staff continue working, and the office-furniture guide retains relocation decisions. Commercial intent stays with `/services/office-cleanout-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, a current official source and `/contact`. Contextual inbound links were added from the dead-palm, complete junk-disposal and occupied-office guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-05.md`.
 
 ## Cannibalization notes for 2026-11-04 batch
 

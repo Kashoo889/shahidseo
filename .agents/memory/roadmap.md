@@ -230,12 +230,15 @@ _Objective: Support the homepage and every service page with long-tail informati
 
 ---
 
-## 4. Publication Progress (Updated 2026-11-02)
+## 4. Publication Progress (Updated 2026-11-05)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **127**
-- Total published blog articles: **157**
-- Phase 7 service-support queue: **6 / 90 written**
+- Published supplemental approved articles: **124**
+- Total published blog articles: **166**
+- Phase 7 service-support queue: **12 / 90 written**
+- Published on 2026-11-05: **3**
+- Published on 2026-11-04: **3**
+- Published on 2026-11-03: **3**
 - Published on 2026-11-02: **3**
 - Published on 2026-10-30: **3**
 - Published on 2026-10-29: **3**
@@ -393,3 +396,12 @@ _Objective: Support the homepage and every service page with long-tail informati
 | Service support    | `junk removal for real estate agents in dubai`                            | Published | 2026-11-02 |
 | Service support    | `how to clear out a villa garage in dubai`                                | Published | 2026-11-02 |
 | Service support    | `junk removal for holiday home hosts in dubai`                            | Published | 2026-11-02 |
+| Service support    | `how to dispose of furniture with bed bugs in dubai`                      | Published | 2026-11-03 |
+| Service support    | `how to dispose of a dead palm tree in dubai`                             | Published | 2026-11-03 |
+| Service support    | `how to clear a villa for vacant handover to a buyer`                     | Published | 2026-11-03 |
+| Service support    | `how to check if furniture will fit through doors and lifts`              | Published | 2026-11-04 |
+| Service support    | `how to take photos for a junk removal quote`                             | Published | 2026-11-04 |
+| Service support    | `how to declutter a home before selling in dubai`                         | Published | 2026-11-04 |
+| Service support    | `how to get rid of a tree stump in dubai`                                 | Published | 2026-11-05 |
+| Service support    | `how to get rid of junk without a car in dubai`                           | Published | 2026-11-05 |
+| Service support    | `shop clearance at the end of a retail lease in dubai`                    | Published | 2026-11-05 |
