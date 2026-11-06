@@ -49,6 +49,257 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "downsizing-from-a-villa-to-an-apartment-dubai",
+    title: "Downsizing From a Villa to an Apartment in Dubai",
+    seoTitle: "Villa-to-Apartment Downsizing in Dubai: Fit Plan",
+    excerpt:
+      "Downsizing from a villa to an apartment in Dubai starts with a measured floor plan, a furniture fit test and a firm route for everything left behind.",
+    category: "Moving & Clearance",
+    tags: ["Downsizing", "Villa Move", "Apartment Move", "Furniture Fit", "Dubai"],
+    coverImage: "/images/blog/declutter-before-moving-dubai-fit-test-hero.webp",
+    coverImageAlt:
+      "Couple measuring a sofa beside a tablet floor plan and packed boxes in a Dubai apartment",
+    publishedAt: "2026-11-06",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Plan the apartment first: usable room dimensions, storage, lift access and building rules decide what can move.",
+      "Give every large item a named position on the new floor plan instead of moving it on the chance it might fit.",
+      "Clear villa-only items early, including garden furniture, garage stock, duplicate appliances and oversized storage.",
+      "Set resale and donation deadlines before move week, with one booked collection route for everything unclaimed.",
+    ],
+    sections: [
+      {
+        heading: "Downsizing from a villa to an apartment in Dubai",
+        content: [
+          "Downsizing from a villa to an apartment in Dubai works best when you design the smaller home before clearing the larger one. Measure the apartment's usable walls, doors, turns, lift and storage; place the essential furniture on a scaled plan; then sort the villa into move, sell, donate and collect. Anything without a safe route or a named place by the decision date does not join the move. Checked on 06/11/2026.",
+          "The biggest mistake is treating downsizing as ordinary packing. A four-bedroom villa can hide volume in the garage, utility room, garden, understairs cupboards and spare bedrooms. If all of that reaches the apartment loading bay, the decision has merely moved into a smaller, more expensive space.",
+          "The [pre-move decluttering guide](/blog/how-to-declutter-before-moving-in-dubai) covers general keep-or-release decisions. This guide owns the villa-to-apartment fit problem: proving what works in the new flat and closing the surplus before moving day.",
+        ],
+        callout: {
+          title: "No destination, no moving label",
+          text: "Write the apartment room and exact position on every large-item label. ‘Keep for now’ is not a destination and usually becomes paid storage or a blocked room.",
+        },
+      },
+      {
+        heading: "Measure the apartment as a working home",
+        content: [
+          "Start with the actual unit, not the advertised square footage. Record clear wall lengths after doors, curtains, sockets and AC controls; usable wardrobe depth; balcony limits; kitchen appliance recesses; and the space needed to open drawers and walk around furniture. Mark fixed elements on a simple scaled plan.",
+          "Then measure the route. The sofa must pass the apartment door, corridor corners and service-lift opening before it can occupy the measured wall. Check the largest rigid dimension after removable legs or cushions come off. Our [door-and-lift furniture measuring method](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) covers diagonals, turns and carried dimensions in detail.",
+          "Ask building management about mover registration, lift reservations, padding, loading-bay height and permitted hours. A measured cabinet that fits the room can still fail the move if it cannot enter the booked lift or the vehicle cannot use the loading point.",
+        ],
+      },
+      {
+        heading: "Build the keep list from the floor plan",
+        content: [
+          "Place the non-negotiables first: beds, a practical dining surface, daily seating, work needs and the storage that genuinely fits. Keep circulation routes open and leave enough clearance for wardrobes, balcony doors and kitchen appliances. Photograph each accepted piece and write its destination beside it on the plan.",
+          "Compare duplicates by fit and function rather than price paid. One compact dining table may serve the apartment better than a valuable eight-seat set. A tall cabinet can offer useful storage only if the ceiling, skirting, wall restraint and door swing all work. Measure outdoor pieces against the balcony and the building's current balcony rules before assigning them space.",
+          "Use a one-in, one-position test for boxes as well. Kitchenware needs named cabinets, linens need shelves and hobby equipment needs a realistic storage volume. If the plan relies on filling every corner with cartons, the apartment has already exceeded capacity.",
+        ],
+        image: {
+          src: "/images/blog/new-home-furniture-fit-test-dubai.webp",
+          alt: "Resident photographing boxes while another person measures a cabinet against taped furniture outlines in a Dubai apartment",
+        },
+      },
+      {
+        heading: "Clear the villa-only categories first",
+        content: [
+          "Begin with items that have no equivalent space in the apartment: lawn equipment, hoses, ladders, pool accessories, bulky outdoor sets, garage shelving, chest freezers, spare refrigerators and workshop stock. These decisions are easier than sentimental rooms and release enough space to create separate move, resale and collection zones.",
+          "Next compare room counts. Extra bed sets, guest-room wardrobes, side tables and large desks need an explicit role in the flat. Do not send them to storage automatically. Add the monthly storage fee, transport at both ends and a review date; if there is no credible future use, release the item now.",
+          "Treat built-ins, landlord fixtures and sale-agreement inclusions separately. Confirm in writing what stays with the villa. The [vacant handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) explains how to reconcile the agreed inventory before keys change hands.",
+        ],
+      },
+      {
+        heading: "Run sell, donate and removal routes to deadlines",
+        content: [
+          "List saleable items early with honest condition, measurements and collection-only dates. Set a price-reduction date and a final collection date. An unanswered listing is not a disposal plan. Buyers also need the villa access details and enough time to dismantle or carry safely.",
+          "Offer donation items only after a recipient has approved current photos and the collection scope. Keep a fallback for anything rejected or not collected. Once the deadline passes, combine the remaining furniture, garden pieces and boxed household surplus into one photographed clearance scope rather than arranging several uncertain pickups.",
+          "Keep the apartment load physically separate from everything leaving. Use room labels, coloured tape or different staging zones, and perform a final check of drawers, pockets, documents and hardware bags before either vehicle is loaded.",
+        ],
+      },
+      {
+        heading: "Sequence the villa collection before the apartment move",
+        content: [
+          "Book surplus collection early enough to reveal walls, floors and forgotten cupboards while there is still time to correct the scope. In [Dubai Hills Estate](/areas/dubai-hills-estate), confirm community vehicle and contractor access for the villa. At the destination in [Dubai Marina](/areas/dubai-marina), reserve the tower service route separately; approval at one property says nothing about the other.",
+          "Our [villa-clearance team](/services/villa-clearance-dubai) can remove the measured surplus from the house, garage and garden while protecting the set-aside moving load. When the apartment cannot accept a few individual pieces, the [furniture-removal service](/services/furniture-removal-dubai) can quote those items as a defined scope.",
+          "[Send the surplus photos, villa access and the date your movers need clear working space](/contact). We will provide a fixed price for the agreed load so the apartment receives only the items already assigned a place.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "dubai-marina"],
+  },
+  {
+    slug: "what-to-do-with-water-damaged-items-after-a-leak-dubai",
+    title: "What to Do With Water-Damaged Items After a Leak in Dubai",
+    seoTitle: "Water-Damaged Items After a Dubai Leak: What to Do",
+    excerpt:
+      "What to do with water-damaged items after a leak in Dubai: make the area safe, document the loss, dry salvageable goods and contain what must leave.",
+    category: "Guides",
+    tags: ["Water Damage", "Leaks", "Mould Prevention", "Damaged Furniture", "Dubai"],
+    coverImage: "/images/blog/household-junk-triage-sorting-dubai.webp",
+    coverImageAlt:
+      "Clearance worker recording separated household boxes, dismantled furniture and electronics outside a Dubai villa",
+    publishedAt: "2026-11-06",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Stop the source and resolve electrical, structural or contaminated-water hazards before handling possessions.",
+      "Photograph rooms and individual items before moving them, then follow the insurer or landlord's evidence instructions.",
+      "Clean-water damage to hard surfaces may be recoverable; wet porous materials need a fast, condition-specific decision.",
+      "Never power up a wet appliance, and disclose moisture, mould, sewage or chemicals before booking collection.",
+    ],
+    sections: [
+      {
+        heading: "What to do with water-damaged items after a leak in Dubai",
+        content: [
+          "After a leak in Dubai, stop the water if it is safe, notify the landlord or building team, isolate electrical risk through a qualified person and photograph the affected rooms and belongings before moving them. Separate clean-water items that can be dried from porous, swollen, contaminated or electrically unsafe items. Follow the insurer's evidence instructions, begin drying promptly and book specialist remediation or declared collection for anything that cannot be safely restored. Checked on 06/11/2026.",
+          "Do not begin by filling black bags. A burst supply hose, an overflowing drain and sewage entering a room are different events. The water source, time wet and item material decide whether cleaning is reasonable, whether a restorer should assess it, and how rejected material must be handled.",
+          "If water is still near sockets, fixed equipment, a sagging ceiling or damaged building fabric, keep people out and use the appropriate maintenance, electrical or emergency professional. A junk crew removes a declared, safe load; it does not make an active leak or wet electrical area safe.",
+        ],
+        callout: {
+          title: "Evidence first, but safety comes before evidence",
+          text: "Take wide and close photographs only from a safe position. Do not step into water, touch wet electrical equipment or delay urgent action just to complete an insurance photo set.",
+        },
+      },
+      {
+        heading: "Create a record before the room changes",
+        content: [
+          "Photograph the apparent source, water line, every affected wall and floor, and groups of belongings in place. Then record individual high-value items, model or serial labels and visible swelling, staining or corrosion. Make a simple inventory with keep-for-assessment, drying and disposal-pending columns.",
+          "Contact the landlord, property manager and insurer through their stated channels. Ask what immediate mitigation they expect, whether a surveyor must inspect, which invoices and photographs to retain, and whether damaged items must remain available. Do not promise that a clearance receipt proves cause, value or insurance coverage; it proves only the collection scope provided.",
+          "Save leak reports, maintenance messages, dated photographs and restoration or collection documents together. Keep landlord-owned furniture and appliances on a separate list until the owner authorises the next step in writing.",
+        ],
+      },
+      {
+        heading: "Sort by water source, material and time wet",
+        content: [
+          "For a limited clean-water leak, hard non-porous items such as metal, glass and many rigid plastics can often be cleaned and dried. Solid timber may be assessed once surface water is removed. Laminated particleboard, MDF, cardboard, mattresses, upholstered furniture and thick carpet hold moisture internally; swelling, delamination, odour or visible growth can make restoration impractical.",
+          "The US Environmental Protection Agency advises drying wet materials within 24–48 hours where possible and notes that the guidance changes when mould is present or water is contaminated. Its [water-damage cleanup table](https://www.epa.gov/sites/production/files/2014-08/documents/table1.pdf) also recommends professional help for sewage or chemical contamination. Treat the time window as a prompt for action, not proof that every item is safe at hour 47 or ruined at hour 49.",
+          "Do not run fans across visible mould or unidentified contaminated water. A qualified remediation company should assess extensive growth, concealed moisture, contaminated water and building materials. The removal plan begins after that assessment defines what can leave and how it should be contained.",
+        ],
+      },
+      {
+        heading: "Handle furniture, electronics and papers differently",
+        content: [
+          "Remove dry loose cushions and contents from the wet zone, but do not spread damp upholstery through the home. Photograph water-swollen cabinets before dismantling because fasteners can tear out of softened board. Mark glass, sharp metal and unstable furniture so the collection crew can plan the lift.",
+          "Never switch on a wet appliance or power strip to see whether it still works. The US Centers for Disease Control and Prevention says not to use a wet electrical device and to have equipment completely dry and checked when there is doubt; see its current [flood and electrical safety guidance](https://www.cdc.gov/floods/safety/reentering-your-flooded-home-safety.html). Use an appliance technician or suitable assessor rather than a trial run.",
+          "Air-dry small quantities of lightly damp, non-sensitive papers only when the area is safe and clean. Photographs, legal files, artwork and sentimental books may justify a conservation or document-recovery specialist. Ordinary mouldy books and soaked cardboard must stay apart from dry recycling; the [old-books guide](/blog/how-to-dispose-of-old-books-in-dubai) explains that condition gate.",
+        ],
+        image: {
+          src: "/images/blog/furniture-material-route-sorting-dubai.webp",
+          alt: "Worker recording separated timber panels, metal frames, upholstery and glass at a Dubai recovery workshop",
+        },
+      },
+      {
+        heading: "Stage rejected items without spreading moisture",
+        content: [
+          "Ask the remediator or collector how each rejected stream should be contained. Bag small damp residual items in robust sealed bags; wrap contaminated upholstery only as directed; contain loose fragments and protect sharp edges. Do not mix dry donation or recycling with wet material, and do not leave damp belongings in a corridor, lift lobby or air-conditioned store.",
+          "Photograph the final rejected load and state whether it came from clean supply water, grey water, sewage or an unknown source. Declare visible mould, odour, pests, broken glass, chemicals and unusual weight. A collector may exclude contaminated waste or require a specialist route, so obtain acceptance before moving anything to the loading point.",
+          "In a [Business Bay](/areas/business-bay) tower, coordinate the service lift and the safest route with management after the leak response. In a [Jumeirah Village Circle](/areas/jumeirah-village-circle) villa, protect unaffected floors and keep the vehicle path clear. Neither property type permits wet contents to be abandoned beside shared bins.",
+        ],
+      },
+      {
+        heading: "Arrange collection after the loss is documented",
+        content: [
+          "Our [junk-removal team](/services/junk-removal-dubai) can quote declared household items once the leak is stopped, the area is safe and the keep-versus-remove list is authorised. For a small number of heavy cabinets, mattresses or other awkward pieces, the [bulky-item service](/services/bulky-item-removal-dubai) can plan the carry route separately.",
+          "The [end-of-life furniture route guide](/blog/where-to-dispose-old-furniture-in-dubai) helps distinguish reusable pieces from swollen or contaminated furniture, but a water-restoration or mould specialist makes the remediation decision where conditions are uncertain.",
+          "[Send safe photos of the items, access route and the written removal scope](/contact), and disclose the water source and any mould or contamination. We will confirm what we can collect and provide a fixed price for the accepted load.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-chest-freezer-dubai",
+    title: "How to Dispose of an Old Chest Freezer in Dubai",
+    seoTitle: "How to Dispose of an Old Chest Freezer in Dubai",
+    excerpt:
+      "Learn how to dispose of an old chest freezer in Dubai by emptying and defrosting it safely, planning the heavy lift and using a refrigerant-aware route.",
+    category: "Eco & Recycling",
+    tags: ["Chest Freezer", "Appliance Disposal", "Refrigerant", "Heavy Lifting", "Dubai"],
+    coverImage: "/images/blog/fridge-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Two appliance movers guiding a large cooling appliance on a strapped trolley across protected flooring in Dubai",
+    publishedAt: "2026-11-06",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Empty the freezer, unplug it safely and defrost it naturally with towels and its drain rather than sharp tools or direct heat.",
+      "Measure the full cabinet and route; chest freezers are wide, awkward and may retain water even after they look empty.",
+      "Do not pierce, cut or dismantle the sealed cooling circuit because it contains refrigerant and compressor oil.",
+      "Confirm recipient or collection acceptance, building access and the downstream cooling-appliance route before set-out.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old chest freezer in Dubai",
+        content: [
+          "To dispose of an old chest freezer in Dubai, remove all food, confirm whether a working unit has an accepted reuse route, then unplug and defrost it according to the manufacturer’s instructions. Drain and dry the cabinet, secure loose baskets and control the lid for transport. Measure the freezer and exit route, keep the sealed cooling system intact, and use a collection route that accepts refrigerant appliances. Checked on 06/11/2026.",
+          "A chest freezer is not just a metal box. Its compressor, oil and refrigerant need suitable downstream handling, while its low, wide shape makes it harder to grip than an upright fridge. Units kept in garages and utility rooms may also sit behind shelving, steps or narrow side gates.",
+          "This guide covers freezer-specific preparation and lifting. The broader [fridge and AC disposal guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) retains the full refrigerant-appliance route, and the [appliance route guide](/blog/where-to-recycle-and-dispose-appliances-in-dubai) compares cooling equipment with other white goods and electronics.",
+        ],
+        callout: {
+          title: "Never attack the ice with a knife",
+          text: "A sharp tool can puncture the liner or concealed cooling components. Allow time for a natural defrost and follow the model instructions for any approved defrost method.",
+        },
+      },
+      {
+        heading: "Decide whether it is genuinely reusable",
+        content: [
+          "A working freezer may be worth selling or giving away when it reaches and holds the set temperature, the cable and seals are sound, the lid stays open safely, and the interior is clean and odour-free. Photograph the rating label, internal condition and any dents, then obtain recipient acceptance before preparing transport.",
+          "Do not pass on a unit with an intermittent compressor, damaged cable, punctured liner, failed seal, heavy rust, persistent odour or evidence of unsafe repair. Describe faults honestly. A recipient should not inherit spoiled food risk or an appliance that needs an unknown refrigerant repair.",
+          "If replacement delivery includes take-back, confirm the old freezer type, collection position, disconnection, stairs and condition in writing. A retailer’s offer may apply only to a like-for-like appliance at an accessible point.",
+        ],
+      },
+      {
+        heading: "Empty, defrost and dry the freezer",
+        content: [
+          "Move safe food to another working freezer or dispose of spoiled contents through the appropriate household route. Do not leave food inside for the collector. Once empty, switch off and unplug from a dry position; if the plug, socket or surrounding floor is wet or damaged, stop and use a qualified electrician.",
+          "Open the lid, place absorbent towels around the cabinet and use the model's drain plug or tray where fitted. Let the ice melt naturally in a ventilated area. Do not use knives, screwdrivers, boiling water, a heat gun or an open flame. Empty the drain pan and check beneath baskets and ledges for meltwater.",
+          "Clean and dry the interior, then leave the lid safely ajar only while the appliance remains supervised and inaccessible to children or pets. Before movement, refit the drain plug, bag removable baskets and tape the power cable to the cabinet without putting adhesive on a delicate finish.",
+        ],
+        image: {
+          src: "/images/blog/fridge-removal-preparation-dubai.webp",
+          alt: "Technician preparing an empty cooling appliance with shelves removed, protective towels laid out and tools beside it",
+        },
+      },
+      {
+        heading: "Measure the weight problem and the route",
+        content: [
+          "Record width, depth and height with the lid closed, plus any projecting hinges or handles. Photograph the model label and all four sides. Measure the garage door, side gate, corridor turns, steps and lift opening. State whether the unit is on a plinth, under a counter or blocked by other stored items.",
+          "Chest freezers are awkward because two people lifting from the ends must reach low around a wide cabinet. Use a rated appliance trolley, straps and enough trained handlers; never drag it by the lid or cooling pipes. Protect tile thresholds and marble floors, and remove only model-approved loose parts.",
+          "Keep the unit upright where practicable. If a working freezer must be tilted during transport, follow the manufacturer's model-specific standing and restart instructions. A disposal crew still needs the cabinet stable and the compressor circuit protected even when the appliance will not run again.",
+        ],
+      },
+      {
+        heading: "Use a route that accepts cooling equipment",
+        content: [
+          "Do not cut out the compressor, drill the cabinet or flatten the freezer for scrap. The sealed circuit can contain refrigerant and oil that require controlled recovery and treatment. Ask the collector to confirm that the complete cooling appliance is accepted and identify the intended appliance or refrigerant route.",
+          "Dubai Municipality's current [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household appliance and furniture disposal and notes eligibility limits, including exclusions for investment zones. Check the live service for the applicant, address, freezer and set-out instruction before relying on it. A managed development may use a separate waste contractor.",
+          "In [Arabian Ranches](/areas/arabian-ranches), check villa contractor access and the path from garage to vehicle. In [Dubai Marina](/areas/dubai-marina), book the service lift and loading bay, declare the cabinet dimensions and keep the freezer inside until the approved collection window.",
+        ],
+      },
+      {
+        heading: "Book a freezer-ready appliance collection",
+        content: [
+          "Our [appliance-removal service](/services/appliance-removal-dubai) collects empty, defrosted and disconnected chest freezers with the access and lifting scope agreed in advance. If it is part of a garage or full-property clear-out, the [villa-clearance team](/services/villa-clearance-dubai) can include the surrounding ordinary contents as a separate declared load.",
+          "[Send photos of the freezer, model label, dimensions and the complete path to the vehicle](/contact). State whether it works, is fully defrosted and has any leak, corrosion or damage. We will confirm acceptance and a fixed price for the agreed collection.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-marina"],
+  },
+  {
     slug: "how-to-get-rid-of-a-tree-stump-dubai",
     title: "How to Get Rid of a Tree Stump in Dubai",
     seoTitle: "How to Get Rid of a Tree Stump in Dubai Safely",
@@ -9405,7 +9656,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Use this route-by-type appliance decision guide",
         content: [
           "Large white goods without refrigerant—such as many washing machines, dryers, dishwashers and cookers—usually need a booked bulky collection or an appliance-recycling route. Drain water, remove loose racks or trays and state whether utilities are disconnected. A mover should not guess whether a fixed electrical, gas or plumbing connection is safe to release.",
-          "Cooling appliances, including refrigerators, freezers, water coolers and air-conditioning equipment, need a route that understands refrigerant and compressor oil. Keep the cabinet upright where practicable, secure doors for transport and do not pierce the system. The [water dispenser guide](/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai) covers the supplier and bottle-deposit checks that apply to water coolers before they leave. AC disconnection and refrigerant recovery are jobs for appropriately qualified technicians.",
+          "Cooling appliances, including refrigerators, freezers, water coolers and air-conditioning equipment, need a route that understands refrigerant and compressor oil. Keep the cabinet upright where practicable, secure doors for transport and do not pierce the system. The [chest-freezer disposal guide](/blog/how-to-dispose-of-an-old-chest-freezer-dubai) covers emptying, defrosting and the awkward wide-cabinet lift; the [water dispenser guide](/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai) covers supplier and bottle-deposit checks. AC disconnection and refrigerant recovery are jobs for appropriately qualified technicians.",
         ],
         listItems: [
           "Televisions, computers, routers and smart devices: use an e-waste route and remove personal data or accounts before handover.",
@@ -9610,7 +9861,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Use a four-question furniture condition gate",
         content: [
           "First ask whether the piece is structurally safe. Check loose joints, cracked glass, exposed staples, failed recliner mechanisms, unstable legs and panels that no longer hold fasteners. Do not disguise a defect with a cover or tape. If another household could be injured by normal use, the item is not donation-ready.",
-          "Second, check hygiene and moisture. Strong odours, mould, pests, bodily-fluid contamination or water-swollen board can eliminate reuse and may restrict handling. Photograph the issue and tell the collector before booking. Moving contaminated furniture through common areas without a plan can spread the problem.",
+          "Second, check hygiene and moisture. Strong odours, mould, pests, bodily-fluid contamination or water-swollen board can eliminate reuse and may restrict handling. Photograph the issue and tell the collector before booking. After an active leak, use the [water-damaged belongings guide](/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai) to document the loss and separate restoration decisions from removal. Moving contaminated furniture through common areas without a plan can spread the problem.",
           "Third, check completeness: doors, drawers, shelves, hardware, cushions, keys and assembly parts. Fourth, ask whether the item can be moved intact or safely dismantled. These answers determine whether the next route is confirmed reuse, repair or parts recovery, material separation, or lawful residual disposal. Tall shelving also needs its wall restraint and longest-panel route checked using the [bookshelf disposal guide](/blog/how-to-dispose-of-old-bookshelves-in-dubai).",
         ],
       },
@@ -9818,7 +10069,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Declutter before moving Dubai: start with the destination",
         content: [
           "To declutter before moving Dubai households should start with the next home, not the current cupboard. Test each large item and category against the destination's dimensions, access, function and replacement value before buying boxes or accepting a mover's final volume. This new-home fit method was checked on 18/09/2026.",
-          "This article owns the keep-or-remove decision before packing. Our [junk removal before moving guide](/blog/junk-removal-before-moving-house-in-dubai) retains the clearance booking timeline and mover-cost equation, while the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains the general home sequence.",
+          "This article owns the keep-or-remove decision before packing. Our [junk removal before moving guide](/blog/junk-removal-before-moving-house-in-dubai) retains the clearance booking timeline and mover-cost equation, while the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains the general home sequence. For the specific capacity gap between a large house and a smaller flat, use the [villa-to-apartment downsizing plan](/blog/downsizing-from-a-villa-to-an-apartment-dubai).",
           "The goal is not to own as little as possible. It is to move items that have a safe route, a defined place and a real use in the next home. Everything else needs a sell, donate, recycle or disposal decision before it becomes labelled cargo.",
         ],
         callout: {

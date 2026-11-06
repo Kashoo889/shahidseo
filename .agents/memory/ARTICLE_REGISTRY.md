@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-05**
+Last synchronized: **2026-11-06**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -171,10 +171,14 @@ Canonical implementation: `data/blog.ts`
 | 164 | `how to get rid of a tree stump in dubai`                                 | Informational              | `/blog/how-to-get-rid-of-a-tree-stump-dubai`                                    | 2026-11-05 | Published |
 | 165 | `how to get rid of junk without a car in dubai`                           | Informational              | `/blog/how-to-get-rid-of-junk-without-a-car-dubai`                              | 2026-11-05 | Published |
 | 166 | `shop clearance at the end of a retail lease in dubai`                    | Informational              | `/blog/shop-clearance-at-the-end-of-a-retail-lease-dubai`                       | 2026-11-05 | Published |
+| 167 | `downsizing from a villa to an apartment in dubai`                        | Informational              | `/blog/downsizing-from-a-villa-to-an-apartment-dubai`                           | 2026-11-06 | Published |
+| 168 | `what to do with water damaged items after a leak in dubai`               | Informational              | `/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai`                  | 2026-11-06 | Published |
+| 169 | `how to dispose of an old chest freezer in dubai`                         | Informational              | `/blog/how-to-dispose-of-an-old-chest-freezer-dubai`                            | 2026-11-06 | Published |
 
 ## Current counts
 
-- Published: **166**
+- Published: **169**
+- Published on 2026-11-06: **3**
 - Published on 2026-11-05: **3**
 - Published on 2026-11-04: **3**
 - Published on 2026-11-03: **3**
@@ -202,8 +206,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **124**
-- Service-support queue written: **12 / 90**
-- Next approved priority: **Day 5 (06/11/2026): villa-to-apartment downsizing, water-damaged items after a leak, and old chest-freezer disposal.**
+- Service-support queue written: **15 / 90**
+- Next approved priority: **Day 6 (07/11/2026): landlord furniture in a furnished rental, excess garden soil and sand, and bulky-item removal without a lift.**
+
+## Cannibalization notes for 2026-11-06 batch
+
+- The villa-to-apartment guide owns the capacity gap between the two homes: a measured apartment layout, named furniture positions, villa-only categories and deadlines for surplus routes. The general pre-move decluttering guide retains its fit-and-value decision score, while the moving-junk guide retains booking chronology and mover-cost planning. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The leak guide owns the immediate belongings workflow after water damage: safety escalation, evidence before movement, material-and-water-source triage, the 24–48-hour drying prompt and declared containment for rejected items. The end-of-life furniture guide retains the general furniture destination decision, while specialist remediators retain mould and contaminated-water treatment. Commercial intent stays with `/services/junk-removal-dubai`.
+- The chest-freezer guide owns freezer-specific emptying, safe defrosting, low-and-wide lifting, lid control and refrigerant-aware collection. The refrigerator and AC guide retains broad cooling-appliance handling, while the old-appliance route guide retains comparison across all appliance types. Commercial intent stays with `/services/appliance-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`; the two safety-sensitive articles also link to current official guidance. Contextual inbound links were added from the pre-move decluttering, end-of-life furniture and old-appliance route guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-06.md`.
 
 ## Cannibalization notes for 2026-11-05 batch
 

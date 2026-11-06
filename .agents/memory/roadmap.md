@@ -230,12 +230,13 @@ _Objective: Support the homepage and every service page with long-tail informati
 
 ---
 
-## 4. Publication Progress (Updated 2026-11-05)
+## 4. Publication Progress (Updated 2026-11-06)
 
 - Published roadmap articles: **30 / 30 (complete)**
 - Published supplemental approved articles: **124**
-- Total published blog articles: **166**
-- Phase 7 service-support queue: **12 / 90 written**
+- Total published blog articles: **169**
+- Phase 7 service-support queue: **15 / 90 written**
+- Published on 2026-11-06: **3**
 - Published on 2026-11-05: **3**
 - Published on 2026-11-04: **3**
 - Published on 2026-11-03: **3**
@@ -257,7 +258,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 2 (03/11/2026): furniture with bed bugs, a dead palm tree, and vacant villa handover to a buyer.**
+- Next approved priority: **Day 6 (07/11/2026): landlord furniture in a furnished rental, excess garden soil and sand, and bulky-item removal without a lift.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |
