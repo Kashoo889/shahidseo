@@ -174,10 +174,14 @@ Canonical implementation: `data/blog.ts`
 | 167 | `downsizing from a villa to an apartment in dubai`                        | Informational              | `/blog/downsizing-from-a-villa-to-an-apartment-dubai`                           | 2026-11-06 | Published |
 | 168 | `what to do with water damaged items after a leak in dubai`               | Informational              | `/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai`                  | 2026-11-06 | Published |
 | 169 | `how to dispose of an old chest freezer in dubai`                         | Informational              | `/blog/how-to-dispose-of-an-old-chest-freezer-dubai`                            | 2026-11-06 | Published |
+| 170 | `what to do with landlord furniture in a furnished rental in dubai`       | Informational              | `/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai`          | 2026-11-07 | Published |
+| 171 | `how to remove excess soil and sand from a villa garden`                  | Informational              | `/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai`            | 2026-11-07 | Published |
+| 172 | `bulky item removal in buildings without a lift in dubai`                 | Informational              | `/blog/bulky-item-removal-in-buildings-without-a-lift-dubai`                    | 2026-11-07 | Published |
 
 ## Current counts
 
-- Published: **169**
+- Published: **172**
+- Published on 2026-11-07: **3**
 - Published on 2026-11-06: **3**
 - Published on 2026-11-05: **3**
 - Published on 2026-11-04: **3**
@@ -206,8 +210,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **124**
-- Service-support queue written: **15 / 90**
-- Next approved priority: **Day 6 (07/11/2026): landlord furniture in a furnished rental, excess garden soil and sand, and bulky-item removal without a lift.**
+- Service-support queue written: **18 / 90**
+- Next approved priority: **Day 7 (09/11/2026): villa roof clearance, flat-pack furniture dismantling, and apartment balcony junk clearance.**
+
+## Cannibalization notes for 2026-11-07 batch
+
+- The landlord-furniture guide owns the in-tenancy decision before a supplied item is moved, stored, replaced or released: inventory matching, condition evidence, written authority, storage terms and separation of disputed property. The rental-handover guide retains the complete end-of-tenancy ownership and reinstatement check. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The excess-soil guide owns measuring, screening, reusing, safely containing and routing a dense mineral garden load. The general garden-waste guide retains ordinary pruning streams, while the stump guide retains grinding, excavation and root-plate decisions. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The no-lift guide owns stair-route geometry, half-landing turns, room-side reduction, carry controls, crew planning and the ground-floor route to the vehicle. The furniture-fit guide retains the general item-to-door-and-lift measurement method, while item guides retain their specific dismantling and material routes. Commercial intent stays with `/services/bulky-item-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, a current official source and `/contact`. Contextual inbound links were added from the rental-handover, garden-waste and furniture-fit guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-07.md`.
 
 ## Cannibalization notes for 2026-11-06 batch
 

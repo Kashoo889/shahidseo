@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-06**
+Last synchronized: **2026-11-07**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -31,9 +31,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       14 |   5 | 06/11/2026   | `downsizing from a villa to an apartment in dubai`                  | `/blog/downsizing-from-a-villa-to-an-apartment-dubai`                       | `/services/villa-clearance-dubai`       | Measuring the new flat, deciding what fits, clearing the rest                          | Written |
 |       15 |   5 | 06/11/2026   | `what to do with water damaged items after a leak in dubai`         | `/blog/what-to-do-with-water-damaged-items-after-a-leak-dubai`              | `/services/junk-removal-dubai`          | Insurance photos first, what can be dried, what must go, mould risk                    | Written |
 |       16 |   5 | 06/11/2026   | `how to dispose of an old chest freezer in dubai`                   | `/blog/how-to-dispose-of-an-old-chest-freezer-dubai`                        | `/services/appliance-removal-dubai`     | Defrosting, weight, refrigerant route                                                  | Written |
-|       17 |   6 | 07/11/2026   | `what to do with landlord furniture in a furnished rental in dubai` | `/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai`      | `/services/furniture-removal-dubai`     | Inventory, permission, storage or removal before swapping furniture                    | Planned |
-|       18 |   6 | 07/11/2026   | `how to remove excess soil and sand from a villa garden`            | `/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai`        | `/services/garden-waste-removal-dubai`  | Volumes, bagging, reuse and access for heavy loads                                     | Planned |
-|       19 |   6 | 07/11/2026   | `bulky item removal in buildings without a lift in dubai`           | `/blog/bulky-item-removal-in-buildings-without-a-lift-dubai`                | `/services/bulky-item-removal-dubai`    | Low-rise stairs, crew size and carry routes                                            | Planned |
+|       17 |   6 | 07/11/2026   | `what to do with landlord furniture in a furnished rental in dubai` | `/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai`      | `/services/furniture-removal-dubai`     | Inventory, permission, storage or removal before swapping furniture                    | Written |
+|       18 |   6 | 07/11/2026   | `how to remove excess soil and sand from a villa garden`            | `/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai`        | `/services/garden-waste-removal-dubai`  | Volumes, bagging, reuse and access for heavy loads                                     | Written |
+|       19 |   6 | 07/11/2026   | `bulky item removal in buildings without a lift in dubai`           | `/blog/bulky-item-removal-in-buildings-without-a-lift-dubai`                | `/services/bulky-item-removal-dubai`    | Low-rise stairs, crew size and carry routes                                            | Written |
 |       20 |   7 | 09/11/2026   | `how to clear a villa roof in dubai`                                | `/blog/how-to-clear-a-villa-roof-dubai`                                     | `/services/villa-clearance-dubai`       | Water tanks, satellite dishes, old AC units and stored junk on the roof                | Planned |
 |       21 |   7 | 09/11/2026   | `how to dismantle flat pack furniture for removal`                  | `/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai`              | `/services/furniture-removal-dubai`     | Tools, order, hardware bags and when dismantling is not worth it                       | Planned |
 |       22 |   7 | 09/11/2026   | `how to clear junk from a dubai apartment balcony`                  | `/blog/how-to-clear-junk-from-a-apartment-balcony-dubai`                    | `/services/rubbish-removal-dubai`       | Building rules on balconies, heat damage, carrying through the flat                    | Planned |
@@ -113,7 +113,8 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
 - Supplemental approved articles published: **124**
-- Total published articles: **154**
+- Total published articles: **172**
+- Service-support queue written: **18 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

@@ -49,6 +49,257 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai",
+    title: "What to Do With Landlord Furniture in a Furnished Rental in Dubai",
+    seoTitle: "Landlord Furniture in Dubai Rentals: What to Do Safely",
+    excerpt:
+      "Landlord furniture in a furnished Dubai rental needs an inventory check, condition record and written consent before it is moved, stored, replaced or removed.",
+    category: "Moving & Clearance",
+    tags: ["Furnished Rental", "Landlord Furniture", "Tenancy Inventory", "Move Out", "Dubai"],
+    coverImage: "/images/blog/rental-handover-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Tenant and property representative reviewing a tablet beside furniture and moving boxes in a Dubai apartment",
+    publishedAt: "2026-11-07",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Treat every supplied item as the landlord's property unless the tenancy records clearly say otherwise.",
+      "Photograph the item, inventory entry and existing damage before asking to move, store, replace or remove it.",
+      "Get the landlord or authorised manager's decision in writing, including who pays and what must be reinstated.",
+      "Keep disputed furniture out of the collection scope until ownership and instructions are resolved.",
+    ],
+    sections: [
+      {
+        heading: "What to do with landlord furniture in a furnished rental in Dubai",
+        content: [
+          "If landlord furniture in a furnished Dubai rental no longer suits you, do not sell, donate, discard or place it in storage on your own authority. Match the item to the signed inventory and check-in photographs, record its condition, then ask the landlord or authorised property manager for written instructions. Agree whether it stays, moves to approved storage, is replaced or may be collected, including costs and reinstatement at move-out. Checked on 07/11/2026.",
+          "A worn armchair can look like unwanted furniture to a tenant and still be an asset the owner expects at the next inspection. The same applies to spare dining chairs, bed components, lamps, outdoor sets and furniture moved into a store room. The practical issue is not whether the item is useful to you; it is who owns it and what the tenancy evidence requires.",
+          "The [rental-handover guide](/blog/what-to-remove-before-rental-handover-dubai) covers the complete stay-or-remove check at the end of a tenancy. This guide deals with the earlier decision: changing a furnished home without losing track of the owner's contents.",
+        ],
+        callout: {
+          title: "No written approval, no collection label",
+          text: "A WhatsApp message or email should identify the exact item and the agreed action. Keep it with the inventory so a future agent or inspector can follow the decision.",
+        },
+      },
+      {
+        heading: "Start with the contract, inventory and check-in record",
+        content: [
+          "Pull together the tenancy contract, addenda, furniture inventory, check-in report and dated photographs. Match by room, description and distinguishing details. If the inventory says only 'sofa' but the apartment contains two, ask the manager to confirm which one belongs to the property before either is moved.",
+          "Create a short discrepancy list for missing items, substitutions and damage that was present when you arrived. Photograph labels, scratches, stains, loose joints and incomplete sets in good light. Send that record through the normal property-management channel instead of waiting until the final inspection, when memories and staff may have changed.",
+          "Dubai Land Department's [tenancy guide](https://dubailand.gov.ae/media/wzfpke5h/tenancyguideen.pdf) reproduces the rule that a tenant returns the property in the condition in which it was received, apart from ordinary wear and tear or damage beyond the tenant's control. The contract and inventory are therefore the working evidence; this article is practical guidance, not a substitute for advice on a dispute.",
+        ],
+      },
+      {
+        heading: "Ask for one of four clear written outcomes",
+        content: [
+          "Request a specific decision: keep the item in place, move it elsewhere within the property, store it off-site, or remove it permanently. Avoid an ambiguous reply such as 'do what you like.' The approval should name the item, state who arranges and pays, and say whether an equivalent replacement becomes landlord property.",
+          "For off-site storage, agree the facility, account holder, access rights, insurance responsibility and retrieval date. Photograph the item before wrapping and retain the storage inventory. A cheap chair stored for two years can cost more than it is worth, so the landlord may prefer an approved replacement or disposal once the full cost is clear.",
+          "If replacement is agreed, record the specification rather than relying on 'similar.' Dimensions, colour, material, condition and purchase receipt make the handover less subjective. Do not discard the original until the owner has accepted the replacement arrangement in writing.",
+        ],
+        image: {
+          src: "/images/blog/rental-stay-remove-dubai-20260919-body.webp",
+          alt: "Tenant photographing a bedroom while a clearance worker checks a bookcase beside labelled moving boxes",
+        },
+      },
+      {
+        heading: "Move and store approved furniture without creating damage",
+        content: [
+          "Measure the item and the entire route before shifting it. Remove only parts designed to come off, place hardware in a labelled bag and protect corners, floors and door frames. The [furniture access guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows how to record usable openings and turns before a large piece is committed to the corridor.",
+          "Do not compress upholstered furniture into a damp balcony store or unventilated cupboard. Keep it dry, raised from the floor where appropriate and protected with breathable covers rather than sealing existing moisture under plastic. Store glass shelves upright in suitable protection and keep bed slats, legs and fixings with their parent item.",
+          "In a [Dubai Marina](/areas/dubai-marina) or [Downtown Dubai](/areas/downtown-dubai) tower, ask management whether a service-lift booking, contractor approval or protective covering is required even when furniture is only moving to a building store. Written landlord permission does not replace building access permission.",
+        ],
+      },
+      {
+        heading: "Keep tenant-owned and disputed items separate",
+        content: [
+          "Mark each piece as landlord-owned, tenant-owned or unresolved. Use photographs and a room-coded list rather than adhesive labels alone; labels can fall off or transfer. If a furnished flat also contains furniture you bought, keep receipts and delivery records, especially where two tables or mattresses look similar.",
+          "Pause any disputed item. A removal crew should not decide ownership at the door, and a signed collection list cannot fix an authority problem. Resolve the question with the landlord, manager or appropriate adviser first, then issue a revised scope containing only authorised items.",
+          "Reusable tenant-owned furniture can follow the [furniture reuse and disposal routes](/blog/where-to-dispose-and-donate-old-furniture-dubai). Landlord-owned pieces follow the owner's written instruction, even when their condition would otherwise make donation or disposal seem obvious.",
+        ],
+      },
+      {
+        heading: "Arrange removal only after the inventory is reconciled",
+        content: [
+          "Our [furniture-removal team](/services/furniture-removal-dubai) can collect the specific pieces the owner has approved for release, while the [house-clearance service](/services/house-clearance-dubai) can handle a larger move-out scope with separate keep and remove zones. We will need an authorised item list and accurate access details.",
+          "Before loading, photograph the approved pieces and their vacated positions. Afterward, retain completion photographs, the collection record and any replacement receipts with the tenancy file. These records make the final furnished-inventory check much easier.",
+          "[Send the approved item list, photos and building access details](/contact) for a fixed quote. Keep anything missing from the written approval physically outside the collection zone.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "downtown-dubai"],
+  },
+  {
+    slug: "how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai",
+    title: "How to Remove Excess Soil and Sand From a Villa Garden in Dubai",
+    seoTitle: "Removing Excess Garden Soil and Sand in Dubai: Guide",
+    excerpt:
+      "Remove excess soil and sand from a villa garden by measuring the load, screening reusable material and planning safe bags, access and collection.",
+    category: "Eco & Recycling",
+    tags: ["Garden Soil", "Sand Removal", "Villa Garden", "Dense Loads", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener and villa resident sorting palm fronds, branches, bagged leaves, plant pots and a soil pile",
+    publishedAt: "2026-11-07",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Measure the soil or sand pile before bagging; a small-looking mound can become a very heavy load.",
+      "Keep clean reusable topsoil separate from rubble, roots, plastic, chemicals and pet waste.",
+      "Use small strong containers filled to a safe lifting weight, not oversized sacks that split or cannot be carried.",
+      "Confirm the receiving route and vehicle access before excavation so dense material is not stranded on the driveway.",
+    ],
+    sections: [
+      {
+        heading: "How to remove excess soil and sand from a villa garden",
+        content: [
+          "To remove excess soil and sand from a villa garden, first measure the pile and identify what is mixed through it. Keep clean reusable material separate from roots, green waste, stones, concrete, landscape fabric and contaminated soil. Reuse suitable soil on site where the level and drainage design allow; otherwise divide it into safe lifting loads and book a collector that has confirmed the material, estimated volume, vehicle access and receiving route. Checked on 07/11/2026.",
+          "Loose soil is deceptive. Spread across a bed it seems modest; once excavated and consolidated into bags, it becomes one of the densest household clearance loads. Wet soil is heavier again, and fine sand escapes torn sacks, trolley wheels and vehicle seams.",
+          "Routine pruning belongs in the [garden-waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai). This article owns the earth-moving problem: estimating, separating, carrying and routing mineral material without burying it inside green waste.",
+        ],
+        callout: {
+          title: "Photograph the pile before you move it",
+          text: "Send one wide view, the length-width-height measurements and close photos of mixed material. A few bags of clean potting mix and a bed full of rubble-contaminated soil are different collection jobs.",
+        },
+      },
+      {
+        heading: "Work out how much material you actually have",
+        content: [
+          "For a roughly rectangular pile, measure average length, width and height in metres and multiply them for a cubic-metre estimate. For an irregular mound, use conservative average dimensions and share photographs. The figure does not need survey precision; it needs to distinguish ten small bags from a dense load requiring a different vehicle and labour plan.",
+          "Do not quote only the garden area. Removing five centimetres from a broad bed can create more material than digging one obvious mound. Mark the intended finished level with the gardener or landscaper first so useful soil is not removed and then bought back a week later.",
+          "Pause if excavation could affect irrigation, lighting cables, drainage, waterproofing, tree roots or boundary foundations. A clearance crew can carry prepared material, but the person directing excavation must understand the landscape and buried-service risks. The [tree-stump removal guide](/blog/how-to-get-rid-of-a-tree-stump-dubai) explains why roots and underground services need a separate plan.",
+        ],
+      },
+      {
+        heading: "Separate reusable soil from material that needs a route",
+        content: [
+          "Screen clean soil before deciding it is waste. It may be useful for levelling approved beds, filling planters or sharing with a neighbour or landscaper who has inspected it. Keep different materials distinct: topsoil, pale fill sand, decorative gravel and compost-rich potting mix do not have the same reuse value.",
+          "Remove plastic pots, irrigation pipe, cable ties, landscape membrane, glass, metal, pavers and concrete. Keep branches, leaves and root sections in the green stream. Mixed loads are harder to assess and can be rejected by a receiving site that expected clean soil or garden cuttings.",
+          "Do not give away soil with an unknown oily smell, chemical residue, sewage contact, pest treatment spill or other suspected contamination. Stop work, isolate the area and seek an appropriate assessment and permitted route. Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) distinguishes household bulky collection from permits for waste and unwanted materials; confirm the applicable route rather than assuming ordinary furniture collection covers excavated earth.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Worker measuring a villa garden gate beside separate containers of leaves, grass, soil and broken plant pots",
+        },
+      },
+      {
+        heading: "Bag and stage a dense load safely",
+        content: [
+          "Use robust small sacks, tubs or lidded containers that one person can lift safely. Fill a test container and lift it before repeating the pattern. Half-filled strong bags are better than large garden sacks filled to the top; an overloaded sack can split on paving or become impossible to move without repacking.",
+          "Close bags so sand cannot blow or spill, but do not hide rubble or sharp fragments inside them. Place the load on a stable paved area inside the property, away from drains, irrigation heads, public footpaths and vehicle sightlines. Protect finished paving from scraping and avoid creating a pile that blocks residents or emergency access.",
+          "Keep the staging point as close to the authorised vehicle position as practical. Every extra metre matters with dense material. Photograph steps, narrow side passages, soft lawn and gate widths so the crew can choose hand trucks, boards and staffing before arrival.",
+        ],
+      },
+      {
+        heading: "Plan community access and the final garden level",
+        content: [
+          "In [Arabian Ranches](/areas/arabian-ranches) and [The Springs](/areas/the-springs), confirm current community contractor and vehicle procedures before the booking. Ask where a collection vehicle may stand and whether the load must remain behind the boundary until the crew arrives. Do not leave soil sacks on a verge or beside communal bins without approval.",
+          "Schedule excavation close to collection, but leave enough time to correct the estimate. Cover dry fine material if wind is likely and protect bags from irrigation. If the soil becomes saturated, tell the collector; the handling plan and vehicle load have changed.",
+          "After removal, check the intended fall away from walls, clear drains and reinstate exposed irrigation only through the appropriate garden contractor. Collection ends with the agreed material gone; it does not certify drainage levels or landscape construction.",
+        ],
+      },
+      {
+        heading: "Book collection for the measured soil load",
+        content: [
+          "Our [garden-waste removal service](/services/garden-waste-removal-dubai) can assess separated garden streams and declared soil or sand, while the [villa-clearance team](/services/villa-clearance-dubai) can coordinate a wider exterior clear-out that also includes pots, furniture and stored items. Acceptance depends on knowing the material and access in advance.",
+          "[Send pile measurements, close photos of the material and the gate-to-load route](/contact). We will confirm whether the described soil or sand is within scope and quote the accepted load at a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "the-springs"],
+  },
+  {
+    slug: "bulky-item-removal-in-buildings-without-a-lift-dubai",
+    title: "Bulky Item Removal in Dubai Buildings Without a Lift",
+    seoTitle: "Bulky Item Removal Without a Lift in Dubai: Safe Guide",
+    excerpt:
+      "Plan bulky item removal in a Dubai building without a lift by measuring the stair route, reducing the item safely and matching the crew to every turn.",
+    category: "Guides",
+    tags: ["Bulky Items", "No Lift", "Stair Carry", "Furniture Removal", "Dubai"],
+    coverImage: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+    coverImageAlt:
+      "Resident photographing furniture while a worker measures an apartment doorway before a bulky-item collection",
+    publishedAt: "2026-11-07",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Measure the item and every door, landing, ceiling pinch point and stair turn before choosing a carry method.",
+      "Remove designed components and loose contents in the room; do not start improvised cutting in a shared stairwell.",
+      "The floor number alone does not set the job: item weight, stair geometry, parking distance and crew size all matter.",
+      "Secure building approval and keep the stairway usable; never leave a bulky item on a landing or fire route.",
+    ],
+    sections: [
+      {
+        heading: "How bulky item removal works in a building without a lift",
+        content: [
+          "Bulky item removal in a Dubai building without a lift starts with a route survey, not the first lift. Measure the item after removable parts come off, then record the apartment door, corridor, stair width, handrails, landing depth, turn clearance, ceiling height and exit. Confirm building permission and parking, choose safe dismantling points, protect the route and use enough trained people for a controlled stair carry. Checked on 07/11/2026.",
+          "A second-floor sofa can be harder than a fourth-floor mattress. The sofa may have a rigid arm that will not clear a half-landing, while the mattress can flex but blocks the carriers' view. Floor count is only one input; geometry, grip, balance, weight and the distance from the entrance to the vehicle decide the method.",
+          "The [furniture measuring guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) explains carried dimensions in general. This guide owns the no-lift route, where every landing becomes a transfer point and there is no elevator fallback.",
+        ],
+        callout: {
+          title: "Measure the turn, not just the stair width",
+          text: "The usual failure point is the half-landing: the item reaches it but cannot rotate beneath the ceiling or between opposing rails. Photograph each turn from above and below.",
+        },
+      },
+      {
+        heading: "Survey the complete route from room to truck",
+        content: [
+          "Record the item's height, width, depth and diagonal after cushions, drawers, shelves or legs designed for removal are taken off. Note the weight from a model label where available and disclose dense materials such as marble, thick glass, solid timber, sofa beds, recliner mechanisms and appliance counterweights.",
+          "Walk the route in order. Measure the apartment doorway, corridor turns, stair flight, rail-to-wall width, newel posts, landing rectangle, sloped ceiling and final building door. Include gates, thresholds, exterior steps and the distance to legal vehicle parking. A narrow point after three flights can invalidate the whole planned carry.",
+          "Send a continuous video plus still photographs with a tape measure visible. Do not rely on 'standard stairs.' Older low-rise buildings, converted villas and internal maisonette stairs vary widely, and decorative rails or low service pipes can reduce the usable opening.",
+        ],
+      },
+      {
+        heading: "Reduce the item before it reaches the stairs",
+        content: [
+          "Empty cupboards and drawers completely. Remove loose shelves, doors, cushions and feet only where the design allows, then label and bag the hardware. Photograph cable connections on powered furniture and disconnect it from power. Dismantle wardrobes, bed frames and modular sofas in the room, where there is light and floor space, rather than blocking a landing.",
+          "Do not cut an unknown frame or smash a cabinet to make it fit. Hidden springs, glass, wiring, sharp fixings and tensioned mechanisms can injure carriers and damage the common area. If an item must be reduced destructively, agree the method, containment and final material route before work begins.",
+          "Wrap vulnerable corners after measuring so protection does not hide handholds or add unexpected bulk. Keep glass and stone components separate and upright in suitable protection. The [sofa disposal guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) covers modular sections, recliner mechanisms and material separation for one common stair-carry item.",
+        ],
+        image: {
+          src: "/images/blog/safe-furniture-removal-service-lift-dubai.webp",
+          alt: "Worker measuring an apartment doorway while two protected furniture panels are secured on a moving trolley",
+        },
+      },
+      {
+        heading: "Match the crew and controls to the stair carry",
+        content: [
+          "A safe crew size depends on the item's weight, length, handholds and how often carriers must reposition. One person needs to coordinate the move and preserve clear communication. Extra people do not solve an impossible turn, but too few people can leave a carrier trapped below a load without a controlled resting point.",
+          "Protect floors and corners without creating trip hazards. Secure runners, use edge guards and keep doors controlled. Maintain three points of contact whenever a carrier is repositioning; nobody should walk backward blind or stand directly below an uncontrolled item. Residents, children and pets should stay off the route until the carry is complete.",
+          "Trolleys help on level corridors but ordinary wheeled dollies are not a substitute for stair-rated equipment or trained manual handling. Hoisting over a balcony, removing railings or using external lifting equipment is a separate specialist operation requiring building approval and a competent plan; it should never be improvised because the stair turn failed.",
+        ],
+      },
+      {
+        heading: "Coordinate the building and street access",
+        content: [
+          "Ask management or the landlord for permitted hours, contractor identification, route protection and any restriction on the main stair. The stairway must remain usable and should not become a dismantling workshop or storage point. Never leave an item on a landing, outside another flat or in a fire route while waiting for the vehicle.",
+          "In older low-rise parts of [Deira](/areas/deira) and [Bur Dubai](/areas/bur-dubai), parking and entrance access can be as important as the stairs. Confirm where the vehicle may stop, whether a loading permit or building approval applies and how far the crew must carry after reaching ground level. Do not assume a narrow lane will accept a truck at the desired time.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists a bulky household furniture and appliance collection service subject to applicant and location conditions. Confirm eligibility and the required presentation point; a booking does not by itself mean a municipal crew will perform an internal multi-floor stair carry.",
+        ],
+      },
+      {
+        heading: "Get a quote based on the route, not only the item",
+        content: [
+          "Our [bulky-item removal service](/services/bulky-item-removal-dubai) can assess a defined stair-carry job, while the [furniture-removal team](/services/furniture-removal-dubai) can handle several dismantled pieces in one planned collection. The quote needs the item, floor, complete route and parking information.",
+          "The [pickup preparation checklist](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) explains how to separate personal belongings and provide access details before arrival. For a no-lift building, add landing measurements and route photographs to that checklist.",
+          "[Send item dimensions, floor number, stair photos, a route video and the vehicle access point](/contact). We will confirm whether the carry is workable and provide a fixed price for the agreed scope.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["deira", "bur-dubai"],
+  },
+  {
     slug: "downsizing-from-a-villa-to-an-apartment-dubai",
     title: "Downsizing From a Villa to an Apartment in Dubai",
     seoTitle: "Villa-to-Apartment Downsizing in Dubai: Fit Plan",
@@ -208,7 +459,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Arrange collection after the loss is documented",
         content: [
           "Our [junk-removal team](/services/junk-removal-dubai) can quote declared household items once the leak is stopped, the area is safe and the keep-versus-remove list is authorised. For a small number of heavy cabinets, mattresses or other awkward pieces, the [bulky-item service](/services/bulky-item-removal-dubai) can plan the carry route separately.",
-          "The [end-of-life furniture route guide](/blog/where-to-dispose-old-furniture-in-dubai) helps distinguish reusable pieces from swollen or contaminated furniture, but a water-restoration or mould specialist makes the remediation decision where conditions are uncertain.",
+          "The [end-of-life furniture route guide](/blog/where-to-dispose-and-donate-old-furniture-dubai) helps distinguish reusable pieces from swollen or contaminated furniture, but a water-restoration or mould specialist makes the remediation decision where conditions are uncertain.",
           "[Send safe photos of the items, access route and the written removal scope](/contact), and disclose the water source and any mould or contamination. We will confirm what we can collect and provide a fixed price for the accepted load.",
         ],
       },
@@ -586,7 +837,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Draw a simple route from the item to the vehicle and mark widths at the room door, hall, apartment entrance, lift lobby, lift and loading door. Add the direction of every sharp turn. The critical space is often the pocket opposite a doorway: the leading end enters, but the trailing end has nowhere to swing.",
           "Use a cardboard rectangle, taped floor outline or the item's measured footprint to understand a tight turn without shifting the furniture repeatedly. This is a planning aid, not proof of clearance; tall backs, diagonal movement, hand space and ceiling limits still matter. For heavy or valuable pieces, let an experienced mover inspect a marginal route.",
-          "The [pickup-preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers staging, loose parts and collection-day access. The [large-furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) helps decide whether an unwanted piece should be sold, donated, collected or dismantled after its route is known.",
+          "The [pickup-preparation guide](/blog/how-to-prepare-for-your-junk-removal-pickup-dubai) covers staging, loose parts and collection-day access. The [large-furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) helps decide whether an unwanted piece should be sold, donated, collected or dismantled after its route is known. If the building has no usable lift, the [stair-carry planning guide](/blog/bulky-item-removal-in-buildings-without-a-lift-dubai) adds landing geometry, crew and common-route controls.",
         ],
       },
       {
@@ -10202,7 +10453,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Keep the first stream for clean plant material: leaves, grass and ordinary pruning cuttings, subject to the collector's acceptance. Remove plastic plant labels, ties, irrigation tubing, packaging and loose litter while the pieces are visible. Sorting a compacted mixed sack later is much harder.",
           "The second stream is woody or awkward material such as thick branches, logs, roots and palm fronds. Show its dimensions and condition separately. A collector may handle it differently from grass or decline pieces that need specialist cutting equipment.",
-          "Put soil, sand, stones and broken pots in a third group. These are dense materials, so a small-looking pile can add considerable weight. The fourth group is garden equipment and other objects: hoses, lighting, furniture, artificial turf, timber structures and chemical containers. Turf has its own infill and fixings to separate; the [artificial grass removal guide](/blog/how-to-dispose-of-old-artificial-grass-in-dubai) covers cutting and rolling it.",
+          "Put soil, sand, stones and broken pots in a third group. These are dense materials, so a small-looking pile can add considerable weight. For a soil-heavy project, use the [excess soil and sand removal guide](/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai) to measure, screen and stage the load. The fourth group is garden equipment and other objects: hoses, lighting, furniture, artificial turf, timber structures and chemical containers. Turf has its own infill and fixings to separate; the [artificial grass removal guide](/blog/how-to-dispose-of-old-artificial-grass-in-dubai) covers cutting and rolling it.",
         ],
         listItems: [
           "Leaves and grass: identify whether loose, damp or already contained.",
@@ -10434,7 +10685,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Reconcile landlord furniture and replacement appliances",
         content: [
-          "For furnished rentals, compare each listed piece and accessory: dining chairs, bed components, sofa cushions, lamps, remotes and appliance shelves. Photograph defects and record missing parts for discussion. Do not discard a worn landlord item because replacement seems cheaper or cleaner.",
+          "For furnished rentals, compare each listed piece and accessory: dining chairs, bed components, sofa cushions, lamps, remotes and appliance shelves. Photograph defects and record missing parts for discussion. Do not discard a worn landlord item because replacement seems cheaper or cleaner. The [landlord-furniture decision guide](/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai) explains how to obtain and record approval for storage, replacement or permanent removal.",
           "If you replaced an appliance during the tenancy, locate the written arrangement. It should clarify the original unit, ownership of the replacement and what is expected at departure. A purchase receipt supports what you bought, but it does not resolve a separate agreement to leave it behind.",
           "Do not swap two similar pieces between properties without checking identifiers and photos. Inventory descriptions such as 'white fridge' can be too vague; brand, model, location and distinguishing features make the handover record more useful.",
           "If something is disputed, mark it as excluded from collection until resolved. Removal can make an otherwise straightforward inventory question harder to settle.",
