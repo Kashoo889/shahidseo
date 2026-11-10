@@ -177,10 +177,18 @@ Canonical implementation: `data/blog.ts`
 | 170 | `what to do with landlord furniture in a furnished rental in dubai`       | Informational              | `/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai`          | 2026-11-07 | Published |
 | 171 | `how to remove excess soil and sand from a villa garden`                  | Informational              | `/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai`            | 2026-11-07 | Published |
 | 172 | `bulky item removal in buildings without a lift in dubai`                 | Informational              | `/blog/bulky-item-removal-in-buildings-without-a-lift-dubai`                    | 2026-11-07 | Published |
+| 173 | `how to clear a villa roof in dubai`                                      | Informational              | `/blog/how-to-clear-a-villa-roof-dubai`                                         | 2026-11-09 | Published |
+| 174 | `how to dismantle flat pack furniture for removal`                        | Informational              | `/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai`                  | 2026-11-09 | Published |
+| 175 | `how to clear junk from a dubai apartment balcony`                        | Informational              | `/blog/how-to-clear-junk-from-a-apartment-balcony-dubai`                        | 2026-11-09 | Published |
+| 176 | `final walkthrough before junk removal`                                   | Informational              | `/blog/final-walkthrough-before-junk-removal-dubai`                             | 2026-11-10 | Published |
+| 177 | `how to dispose of old paving and garden stones in dubai`                 | Informational              | `/blog/how-to-dispose-of-old-paving-and-garden-stones-dubai`                    | 2026-11-10 | Published |
+| 178 | `what to do if your movers cancel on moving day in dubai`                 | Informational              | `/blog/what-to-do-if-your-movers-cancel-on-moving-day-dubai`                    | 2026-11-10 | Published |
 
 ## Current counts
 
-- Published: **172**
+- Published: **178**
+- Published on 2026-11-10: **3**
+- Published on 2026-11-09: **3**
 - Published on 2026-11-07: **3**
 - Published on 2026-11-06: **3**
 - Published on 2026-11-05: **3**
@@ -209,9 +217,25 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **124**
-- Service-support queue written: **18 / 90**
-- Next approved priority: **Day 7 (09/11/2026): villa roof clearance, flat-pack furniture dismantling, and apartment balcony junk clearance.**
+- Supplemental approved articles published: **130**
+- Service-support queue written: **24 / 90**
+- Next approved priority: **Day 9 (11/11/2026): truck-size planning, villa driver's-room clearance, and apartment maid's-room clearance.**
+
+## Cannibalization notes for 2026-11-10 batch
+
+- The final-walkthrough guide owns the last no-loading inspection: approved scope version, remove/keep/unresolved zones, pockets and hidden furniture cavities, personal documents and keys, crew-lead handoff, and the matching post-load completion pass. The pickup-preparation guide retains the preceding 48-hour access and staging workflow, while the rental-handover guide retains landlord ownership and reinstatement decisions. Commercial intent stays with `/services/junk-removal-dubai`.
+- The paving-and-stone guide owns hard-landscape identification, matching-spare retention, intact-piece reuse, separation of clean mineral material, dense-load measurement and authorised inert or construction-waste routing. The excess-soil guide retains earth measurement and containment, while the renovation guide retains whole-project debris sequencing. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The mover-cancellation guide owns the day-of recovery sequence: written provider status, access and key-deadline escalation, possessions-versus-release triage, replacement mover or storage choices and the narrow role of same-day junk removal. The pre-move junk guide retains advance removal scheduling, while urgent collection guides retain quoting an already approved unwanted load. Commercial intent stays with `/services/same-day-junk-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`; the paving and mover-cancellation guides also link to current official guidance. Contextual inbound links were added from the pickup-preparation, excess-soil and pre-move junk-removal guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-10.md`.
+
+## Cannibalization notes for 2026-11-09 batch
+
+- The villa-roof guide owns the roof inventory and work boundary: loose stored contents versus water, cooling, satellite, electrical and other fixed systems; roof access, heat, wind, waterproofing protection and technician release before collection. The garage guide retains ground-level tools, chemicals and storage, while the cooling-appliance guide retains end-of-life refrigerant equipment handling. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The flat-pack guide owns the reverse-assembly sequence, panel labelling, item-specific hardware bags, reusable-panel protection and the decision to stop dismantling once disposal pieces fit the route. The furniture-fit guide retains complete-route measurement, while individual furniture guides retain item-specific materials and destination choices. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The apartment-balcony guide owns the balcony-to-vehicle workflow: building instructions, weather-damaged contents, doorway-outward sorting, safe carriage through the occupied flat and final drain and surface check. The small-apartment guide retains whole-home space planning, while the no-car guide retains disposal-route comparison. Commercial intent stays with `/services/rubbish-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`; the villa-roof and balcony guides also link to current official guidance. Contextual inbound links were added from the villa-garage, furniture-fit and small-apartment guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-09.md`.
 
 ## Cannibalization notes for 2026-11-07 batch
 
