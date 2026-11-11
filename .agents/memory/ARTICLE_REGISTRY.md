@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-06**
+Last synchronized: **2026-11-11**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -183,10 +183,14 @@ Canonical implementation: `data/blog.ts`
 | 176 | `final walkthrough before junk removal`                                   | Informational              | `/blog/final-walkthrough-before-junk-removal-dubai`                             | 2026-11-10 | Published |
 | 177 | `how to dispose of old paving and garden stones in dubai`                 | Informational              | `/blog/how-to-dispose-of-old-paving-and-garden-stones-dubai`                    | 2026-11-10 | Published |
 | 178 | `what to do if your movers cancel on moving day in dubai`                 | Informational              | `/blog/what-to-do-if-your-movers-cancel-on-moving-day-dubai`                    | 2026-11-10 | Published |
+| 179 | `which truck size do you need for junk removal in dubai`                  | Informational              | `/blog/which-truck-size-do-you-need-for-junk-removal-dubai`                     | 2026-11-11 | Published |
+| 180 | `how to clear a villa driver's room and outhouse`                         | Informational              | `/blog/how-to-clear-a-villa-drivers-room-and-outhouse-dubai`                    | 2026-11-11 | Published |
+| 181 | `how to clear a maid's room in a dubai apartment`                         | Informational              | `/blog/how-to-clear-a-maids-room-in-a-apartment-dubai`                          | 2026-11-11 | Published |
 
 ## Current counts
 
-- Published: **178**
+- Published: **181**
+- Published on 2026-11-11: **3**
 - Published on 2026-11-10: **3**
 - Published on 2026-11-09: **3**
 - Published on 2026-11-07: **3**
@@ -217,9 +221,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **130**
-- Service-support queue written: **24 / 90**
-- Next approved priority: **Day 9 (11/11/2026): truck-size planning, villa driver's-room clearance, and apartment maid's-room clearance.**
+- Supplemental approved articles published: **124**
+- Service-support queue written: **27 / 90**
+- Next approved priority: **Day 10 (12/11/2026): leaving Dubai for good, old majlis seating, and restaurant closure clearance.**
+
+## Cannibalization notes for 2026-11-11 batch
+
+- The truck-size guide owns the vehicle-selection decision: usable body space, item geometry, payload constraints, dense-material limits and access-driven trip planning. The cost guide retains price bands, while the quote-photo guide retains image-capture technique. Commercial intent stays with `/services/junk-removal-dubai`.
+- The driver's-room and outbuilding guide owns the authority, personal-property, mixed-storage and external-access workflow for detached staff rooms and villa outbuildings. The villa-garage guide retains garage zoning, while the vacant-sale guide retains the complete sale-handover inventory. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The maid's-room guide owns separation of an occupant's property from household overflow, the small-room check, cleaning-product and appliance streams, and the apartment carry route. The room-by-room guide retains whole-home decluttering, while the small-apartment guide retains long-term space planning. Commercial intent stays with `/services/house-clearance-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the quote-photo, vacant-sale-handover and room-by-room decluttering guides.
+- The queue-specific instruction to reuse existing project images was followed. Six relevant 1200 × 800 WebP assets were visually reviewed and reused within the file-size limits. See `docs/article-images-2026-11-11.md`.
 
 ## Cannibalization notes for 2026-11-10 batch
 

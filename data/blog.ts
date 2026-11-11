@@ -49,6 +49,234 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "which-truck-size-do-you-need-for-junk-removal-dubai",
+    title: "Which Truck Size Do You Need for Junk Removal in Dubai?",
+    seoTitle: "Which Truck Size for Junk Removal in Dubai?",
+    excerpt:
+      "Choose the right junk-removal truck size from a complete item list, usable load space, material weight and property access—not a room-count guess.",
+    category: "Guides",
+    tags: ["Truck Size", "Junk Volume", "Removal Quote", "Load Planning", "Dubai"],
+    coverImage: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+    coverImageAlt:
+      "Dubai clearance crew measuring furniture and loading boxed household items into an enclosed truck",
+    publishedAt: "2026-11-11",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "A vehicle name is not a reliable capacity measure; body dimensions, payload and the shape of the load all matter.",
+      "A pickup generally suits a few access-ready items, while an enclosed 3-ton-class truck suits larger mixed household loads.",
+      "Dense stone, soil, books and appliances can reach a safe weight limit before they fill the visible cargo space.",
+      "Photograph the whole load and access route so the collector can confirm one vehicle or plan a second run before arrival.",
+    ],
+    sections: [
+      {
+        heading: "Which truck size do you need for junk removal in Dubai?",
+        content: [
+          "Which truck size you need for junk removal in Dubai depends on the complete item list, the vehicle's usable internal space, material weight and the carry route. A pickup can suit one bulky piece or a small grouped load; an enclosed 3-ton-class truck is more appropriate for furniture, cartons and appliances from several rooms; a large property may need a larger body or planned second load. Confirm from photos and measurements rather than room count alone. Checked on 11/11/2026.",
+          "The phrase ‘half a truck’ has no meaning until both parties are discussing the same vehicle. Two trucks with the same weight class can have different body lengths and heights, while open pickups lose usable space when items must stay below the sides or be securely covered.",
+          "This guide owns vehicle selection. The [junk-removal cost guide](/blog/how-much-does-junk-removal-cost-in-dubai) retains market price bands, and the [quote-photo guide](/blog/how-to-take-photos-for-a-junk-removal-quote-dubai) explains how to document the load.",
+        ],
+        callout: {
+          title: "Ask for usable capacity, not only a truck label",
+          text: "Confirm the cargo-body dimensions, whether the body is enclosed, what weight the declared load can safely carry and whether dismantling is included. A familiar vehicle name alone does not answer those questions.",
+        },
+      },
+      {
+        heading: "Use the smallest vehicle that safely fits the real load",
+        content: [
+          "A pickup is usually the practical starting point for one sofa, mattress or appliance, or a compact group of bags and dismantled furniture. The items must fit within the body, remain secure and stay within the vehicle's safe load. A tall wardrobe carried upright or loose items piled above the sides are not a sound capacity plan.",
+          "An enclosed box body in the 3-ton class is better for a mixed multi-room collection because cartons can be stacked around protected furniture and the load stays contained. It is not automatically a whole-home truck: a furnished apartment with wardrobes, beds and white goods may fill the cube before every loose box is loaded.",
+          "A villa clearance can require a larger vehicle, two vehicles or staged trips. The best choice may also reflect the receiving routes: reusable furniture, electronics and residual material sometimes need separation rather than being compressed into one mixed load.",
+        ],
+      },
+      {
+        heading: "Estimate volume item by item",
+        content: [
+          "List furniture, appliances, bags and packed cartons by room. Add dimensions for sofas, wardrobes, bed frames, tables and unusually long pieces. State whether each item is assembled, and do not count empty drawers as usable packing space unless the collector agrees to pack them safely.",
+          "Dismantling changes shape more than it changes material volume. A flat-pack bed becomes easy-to-stack boards, but its mattress remains a large flexible slab. A sectional sofa may separate into modules without becoming much smaller. Show both the assembled item and the available dismantling space.",
+          "Photograph the whole group from two directions with a doorway or tape measure for scale. The image below shows why separated categories are easier to assess than a description such as ‘some household junk.’",
+        ],
+        image: {
+          src: "/images/blog/household-junk-triage-sorting-dubai.webp",
+          alt: "Separated cartons, dismantled desk panels, cables and metal items being recorded outside a Dubai villa",
+        },
+      },
+      {
+        heading: "Weight can fill the truck before volume does",
+        content: [
+          "Soil, paving, rubble, tiles, books, safes and metal equipment are dense. A low, apparently half-empty vehicle may already be at its safe operating limit. Declare these materials separately and give bag counts, dimensions or an estimated installed area where appropriate.",
+          "Wet garden waste, water-damaged furniture and appliances with residual liquid also weigh more than photographs suggest. Never conceal dense material under bags to preserve a volume quote. The collector must choose a vehicle and destination authorised for the actual material.",
+          "For mixed jobs, separate dense material from ordinary furniture before quoting. The [item-by-item pricing guide](/blog/item-by-item-junk-removal-pricing-dubai) explains why a small heavy item and a large lightweight item do not use the truck in the same way.",
+        ],
+      },
+      {
+        heading: "Access may decide the vehicle and number of trips",
+        content: [
+          "A large truck is only useful if it can enter, turn and wait at the approved loading point. In [Dubai Marina](/areas/dubai-marina), loading bays and service-lift windows can favour a compact vehicle and tightly scheduled trip. In [Arabian Ranches](/areas/arabian-ranches), gate approval, driveway space and community road clearance still need checking.",
+          "Show the parking position, height barriers, gate width, distance to the entrance, stairs and lift. A long carry or short lift booking may require extra crew even when the load fits one truck. Do not stage items in a corridor or roadside area simply to make loading faster without permission.",
+          "Our [junk-removal service](/services/junk-removal-dubai) matches the declared load to available crew and vehicle capacity, while the [bulky-item team](/services/bulky-item-removal-dubai) can plan a small number of large pieces. [Send the complete inventory and access photos](/contact) for a fixed quote and vehicle plan.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-clear-a-villa-drivers-room-and-outhouse-dubai",
+    title: "How to Clear a Villa Driver's Room and Outhouse in Dubai",
+    seoTitle: "Clear a Villa Driver's Room and Outhouse in Dubai",
+    excerpt:
+      "Clear a villa driver's room and outbuilding by confirming ownership, isolating personal belongings and separating utilities, tools and stored materials.",
+    category: "Moving & Clearance",
+    tags: ["Villa Clearance", "Driver's Room", "Outbuilding", "Property Handover", "Dubai"],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Residents sorting labelled boxes, stored equipment and dismantled shelving inside a bright Dubai villa garage",
+    publishedAt: "2026-11-11",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Confirm who owns and may release every item; staff belongings should never be treated as villa contents by default.",
+      "Define whether ‘outhouse’ means a detached room, store, utility enclosure or external washroom before quoting.",
+      "Separate ordinary contents from chemicals, tools, batteries, appliances, fixtures and pest-affected material.",
+      "Inspect power, water, AC, keys and the exterior route after clearance so the space is genuinely ready for handover.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a villa driver's room and outhouse",
+        content: [
+          "To clear a villa driver's room and outhouse, identify each space on a simple plan, confirm who owns the contents and obtain the occupant's or authorised owner's decision before moving personal property. Remove documents, clothing, medication and valuables first. Then separate reusable furniture, ordinary household items, tools, chemicals, electronics and fixed equipment, photograph the approved load, and inspect utilities, keys and the exterior route after collection. Checked on 11/11/2026.",
+          "These external rooms are often left until the main villa is already empty. That creates a false ‘small final job’: a bed and cabinet may share the room with years of boxes, spare tiles, paint, tools and garden equipment stored by several people.",
+          "This guide owns detached staff-room and outbuilding clearance. The [villa garage guide](/blog/how-to-clear-out-a-villa-garage-dubai) retains garage zoning, while the [vacant sale handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) retains the whole-property contract check.",
+        ],
+        callout: {
+          title: "Occupancy does not transfer ownership",
+          text: "Do not clear a staff member's belongings because the property owner wants the room empty. The authorised parties must agree what is collected, returned, stored or left for the occupant.",
+        },
+      },
+      {
+        heading: "Define the space and authority before entering",
+        content: [
+          "Use photos or a sketch to distinguish the driver's room, bathroom, external kitchen, laundry, garden store, pump enclosure and any detached store that the household calls an outhouse. A quote for one furnished room does not include every structure along the boundary wall.",
+          "Name one decision-maker and record the occupant's personal-property instructions. Put passports, IDs, employment papers, cash, medicine, keys and phones into a protected keep zone. Sealed bags and locked cases stay closed unless their owner authorises inspection.",
+          "For a rental or sale, compare freestanding belongings with the inventory and written handover terms. Fixed AC units, sanitary fittings, lights, cabinets and utility equipment normally require owner approval and the appropriate trade before removal.",
+        ],
+      },
+      {
+        heading: "Sort a room that has also become a store",
+        content: [
+          "Work from the doorway inward and keep the exit clear. Create separate groups for personal belongings, reusable furniture, textiles, cardboard, electronics, tools, garden material and authorised residual waste. Photograph unknown items rather than guessing where they belong.",
+          "Paint, pesticides, fuel, oils, gas cylinders, cleaning chemicals, batteries and unidentified liquids must not enter an ordinary mixed load. Leave containers closed, upright and labelled. If there is a leak, strong vapour, pest activity or unsafe electrical condition, pause and use the relevant specialist.",
+          "Dismantle only furniture approved for release. Do not remove wall shelves, plumbing, AC connections or hard-wired appliances as part of ordinary clearance. The [items-accepted guide](/blog/what-items-can-junk-removal-companies-take-in-dubai) helps identify what needs advance confirmation.",
+        ],
+        image: {
+          src: "/images/blog/move-out-junk-sorting-dubai.webp",
+          alt: "Labelled cartons, bed parts, monitors and separated recycling arranged for a Dubai move-out collection",
+        },
+      },
+      {
+        heading: "Plan for heat, dust, pests and narrow side access",
+        content: [
+          "An external room may have been without cooling for months. Open it in daylight, ventilate if safe and schedule physical work during a cooler period. Do not reach behind boxes blindly; check for broken glass, sharp tools, insects and signs of rodents before lifting.",
+          "Measure the door, side passage and gate. Remove hoses, bicycles and plant pots from the carry route, protect irrigation controls and keep doors into the occupied villa closed. Long bed frames or cabinets may need dismantling inside because a boundary passage offers no turning space.",
+          "In [Dubai Hills Estate](/areas/dubai-hills-estate) and [Arabian Ranches](/areas/arabian-ranches), confirm current contractor entry and parking instructions for the actual community. Keep the load inside the plot until the approved vehicle is ready.",
+        ],
+      },
+      {
+        heading: "Close the room as part of the villa handover",
+        content: [
+          "After loading, check cupboards, under the bed, bathroom ledges, roof space where safely accessible and the ground outside. Record anything left because it was disputed, fixed, hazardous or awaiting its owner. Return labelled keys and remotes to the authorised person.",
+          "Inspect water taps, drains, lights and AC only within your competence; report leaks, exposed wiring, damage, mould or pest evidence instead of hiding it behind cleaning. Clearance removes contents—it does not certify a room or repair building services.",
+          "Our [villa-clearance service](/services/villa-clearance-dubai) can include documented external rooms in a whole-property plan, while the [junk-removal team](/services/junk-removal-dubai) can quote a defined approved load. [Send photos of every named space, its contents and gate route](/contact) for a fixed scope.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-clear-a-maids-room-in-a-apartment-dubai",
+    title: "How to Clear a Maid's Room in a Dubai Apartment",
+    seoTitle: "How to Clear a Maid's Room in a Dubai Apartment",
+    excerpt:
+      "Clear a maid's room in a Dubai apartment respectfully by separating personal belongings, household overflow, appliances and stored boxes before pickup.",
+    category: "Moving & Clearance",
+    tags: ["Maid's Room", "Apartment Clearance", "Storage Room", "House Clearance", "Dubai"],
+    coverImage: "/images/blog/decluttering-small-apartments-dubai-hero.webp",
+    coverImageAlt:
+      "Dubai apartment resident and clearance crew moving a wooden table past labelled storage boxes",
+    publishedAt: "2026-11-11",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Separate the occupant's property from the household's stored overflow before any collection decision is made.",
+      "Empty the bed, wardrobe and cartons systematically; small rooms often conceal documents and valuable personal items.",
+      "Treat cleaning chemicals, batteries and small appliances as declared streams rather than hiding them in mixed bags.",
+      "Book the service lift and keep the kitchen or utility route protected so clearing one room does not disrupt the apartment.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a maid's room in a Dubai apartment",
+        content: [
+          "To clear a maid's room in a Dubai apartment, first identify the occupant's belongings and give that person control over what is packed, retained or released. Move passports, papers, valuables and medicine to a protected keep zone. Then sort the household's overflow—boxes, luggage, cleaning supplies, small appliances and spare furniture—by owner and destination, photograph the approved removal group, and confirm lift access before collection. Checked on 11/11/2026.",
+          "In many apartments, the smallest bedroom gradually becomes both living space and household store. Shelves fill with delivery cartons, spare bedding, suitcases and cleaning products until nobody can tell which items belong to the occupant and which belong to the home.",
+          "This guide owns the one-room ownership and removal workflow. The [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains whole-home organisation, while the [small-apartment guide](/blog/decluttering-tips-for-small-apartments-dubai) retains long-term space planning.",
+        ],
+        callout: {
+          title: "Clear with the occupant, not around them",
+          text: "Do not bag clothing, papers or personal containers as household junk. If ownership or permission is unclear, the item remains until the responsible person decides.",
+        },
+      },
+      {
+        heading: "Separate four kinds of contents before packing",
+        content: [
+          "Mark four physical zones: occupant keeps, household keeps, approved release and unresolved. Use different corners or labelled containers rather than a spoken instruction. One authorised household member should answer questions, but the occupant should decide their own personal property.",
+          "Check wardrobes, under-bed drawers, suitcase pockets, bedside cabinets and every carton. Put identity documents, employment records, bank papers, cash, jewellery, medication, phones and chargers somewhere outside the clearance route. Never send paperwork in an open mixed bag.",
+          "Pair accessories with items that remain: appliance shelves, router cables, remotes, furniture fittings and building keys. A small object may look disposable while belonging to equipment elsewhere in the apartment.",
+        ],
+      },
+      {
+        heading: "Deal with stored boxes, appliances and cleaning supplies",
+        content: [
+          "Flatten genuinely empty cartons and separate clean paper from food-stained packaging. Open owner-approved boxes one at a time, finish the decision and label the outcome. Moving an unopened box from the room to a parking cage only postpones the same problem.",
+          "Test household-owned fans, irons, vacuum cleaners and other small appliances before donation. Remove accessible batteries where safe and route failed devices as electronics. Cleaning chemicals stay in original closed containers; leaking or unidentified liquids require separate advice and must not be poured into sinks or placed in an ordinary collection bag.",
+          "Assess the bed, mattress, cabinet and shelving only after loose contents are gone. Photograph condition and measurements, then confirm whether dismantling is needed. Fixed cupboards, plumbing and hard-wired equipment are not ordinary room contents.",
+        ],
+        image: {
+          src: "/images/blog/apartment-closet-storage-declutter-dubai.webp",
+          alt: "Resident sorting clothing into labelled keep and donate containers in an organised Dubai apartment wardrobe",
+        },
+      },
+      {
+        heading: "Protect the apartment route and building booking",
+        content: [
+          "The maid's room often opens beside the kitchen or utility area. Clear floor obstacles, protect corners and keep food, pets and children away from the carry route. Do not stack bags against the apartment entrance or fire door while waiting for the lift.",
+          "In [Downtown Dubai](/areas/downtown-dubai) and [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), obtain the current service-lift, contractor and loading instructions from building management. Provide crew or vehicle details early and work within the approved window.",
+          "Count the final bags and cartons after packing and include the furniture in the same photo set. The [truck-size guide](/blog/which-truck-size-do-you-need-for-junk-removal-dubai) explains why a small room can still require more capacity when it holds a bed, cabinet and years of dense storage.",
+        ],
+      },
+      {
+        heading: "Finish with a room check, not just an empty floor",
+        content: [
+          "Repeat the room from top shelf to floor after loading. Confirm that retained belongings are present, check behind furniture and photograph any declined or unresolved item. Return keys and record the condition of walls, flooring and fitted storage.",
+          "Our [house-clearance service](/services/house-clearance-dubai) can include the room in a larger apartment plan, while the [junk-removal service](/services/junk-removal-dubai) can collect a clearly grouped smaller load. Both require the authorised owner to decide what leaves.",
+          "[Send room photos, the approved item group and building access details](/contact) for a fixed quote. Keep personal and unresolved property outside the quoted load so the collection stays respectful and controlled.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "junk-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "jumeirah-lake-towers"],
+  },
+  {
     slug: "final-walkthrough-before-junk-removal-dubai",
     title: "Final Walkthrough Before Junk Removal: What to Check",
     seoTitle: "Final Walkthrough Before Junk Removal: Dubai Checklist",
@@ -1406,7 +1634,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Add close photographs that affect the job",
         content: [
           "Photograph each large item far enough away to include all edges, then add the rear, side or underside only when connections, fixings or damage matter. Include the model label on an appliance if it is safely accessible. Show cracked glass, loose mechanisms, mould, pest concerns, sharp metal or water damage plainly; concealed condition can change acceptance and safe handling.",
-          "Use a tape measure in the frame for furniture, appliances, long timber, trunk sections or a deep pile. For bags and boxes, give an exact count and describe their contents. Photograph dense materials such as books, tiles, soil or metal separately because their weight is not obvious from volume alone.",
+          "Use a tape measure in the frame for furniture, appliances, long timber, trunk sections or a deep pile. For bags and boxes, give an exact count and describe their contents. Photograph dense materials such as books, tiles, soil or metal separately because their weight is not obvious from volume alone. The [truck-size guide](/blog/which-truck-size-do-you-need-for-junk-removal-dubai) shows how those details translate into a suitable vehicle.",
           "Do not send one photograph of a single chair to represent six chairs, or crop extra bags out of the frame. If the scope changes, send an updated overview and count before the slot is confirmed. The written quote should identify the same version of the load that the crew will find.",
         ],
         image: {
@@ -1709,7 +1937,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Clear the spaces sellers most often miss",
         content: [
-          "Check the garage loft, roof access, pump room, under-stair cupboards, maid's room, driver's room, garden store, pool-equipment enclosure, side passage and every built-in cabinet. Open drawers only with the owner's authority, and isolate documents, keys, jewellery and medication before the crew starts.",
+          "Check the garage loft, roof access, pump room, under-stair cupboards, maid's room, driver's room, garden store, pool-equipment enclosure, side passage and every built-in cabinet. Open drawers only with the owner's authority, and isolate documents, keys, jewellery and medication before the crew starts. Use the [driver's room and outbuilding guide](/blog/how-to-clear-a-villa-drivers-room-and-outhouse-dubai) when an external room contains staff belongings or mixed storage.",
           "Separate ordinary household contents from paint, chemicals, gas cylinders, batteries, refrigerant appliances and renovation debris. Specialist items should not be buried in a final mixed load. Use the [villa garage clear-out guide](/blog/how-to-clear-out-a-villa-garage-dubai) for tools, automotive products and stored equipment.",
           "Photograph the full removal group, heavy items and vehicle route. If a large safe, stone table or piano was not disclosed, the planned crew and truck may be wrong. Freeze the scope several days before inspection so there is time for a second specialist route if needed.",
         ],
@@ -7475,7 +7703,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Room 3: The maid's room, storage cupboard & utility locker",
         content: [
-          "In Dubai villas and 2-to-3-bedroom apartments, the maid's room or utility closet is notorious for becoming an unchecked junk repository:",
+          "In Dubai villas and 2-to-3-bedroom apartments, the maid's room or utility closet is notorious for becoming an unchecked junk repository. When the room is occupied or mixes personal property with household storage, follow the [dedicated maid's-room clearance guide](/blog/how-to-clear-a-maids-room-in-a-apartment-dubai) before anything is bagged:",
         ],
         listItems: [
           "Old Delivery Boxes: Break down empty electronics cartons and shipping boxes that were kept 'just in case'.",
