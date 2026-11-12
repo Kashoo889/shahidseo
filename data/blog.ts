@@ -49,6 +49,291 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "what-to-do-with-your-belongings-when-leaving-for-good-dubai",
+    title: "What to Do With Your Belongings When Leaving Dubai for Good",
+    seoTitle: "What to Do With Belongings When Leaving Dubai for Good",
+    excerpt:
+      "Sort everything by destination and deadline before leaving Dubai for good, then sequence shipping, handovers, donations and final collection around access dates.",
+    category: "Moving & Clearance",
+    tags: ["Leaving Dubai", "International Move", "Belongings", "Move-Out", "Dubai"],
+    coverImage: "/images/blog/leaving-dubai-belongings-sorting-hero.webp",
+    coverImageAlt:
+      "Couple reviewing grouped luggage, cartons and household belongings with a clearance worker in a Dubai apartment",
+    publishedAt: "2026-11-12",
+    readingTime: "9 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Give every item one destination—ship, carry, sell, donate, return, store or collect—and one decision deadline.",
+      "Keep passports, records, medication, keys, valuables and the first weeks of essentials outside every removal pile.",
+      "Sell and donate early; use a final booked collection for usable items that were rejected or did not move in time.",
+      "Finish with a room-by-room sweep, building access sign-off and photographic record before surrendering keys.",
+    ],
+    sections: [
+      {
+        heading: "What should you do with your belongings when leaving Dubai for good?",
+        content: [
+          "When deciding what to do with your belongings when leaving Dubai for good, assign every item to one of seven routes: carry, ship, sell, donate, return, store or collect. Protect documents and travel essentials first, set an earlier deadline for every uncertain item, book building access, then complete a photographed final sweep before handing over the keys. Checked on 12/11/2026.",
+          "The difficult part is not choosing between keep and throw. It is making several destinations finish on the same date. An international mover may collect before the flight, a buyer may cancel, a charity may reject worn furniture and the landlord may expect an empty apartment while you still need a bed for the last night.",
+          "This guide owns the final destination sequence for a permanent departure. The [pre-move decluttering guide](/blog/how-to-declutter-before-moving-in-dubai) retains next-home fit decisions, while the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) retains fixtures, inventory and landlord scope.",
+        ],
+        callout: {
+          title: "Work backwards from key handover, not the flight",
+          text: "Your usable deadline is usually the last approved collection or service-lift window before inspection. Keep a buffer between that slot and the airport so one failed pickup does not become an abandoned-item problem.",
+        },
+      },
+      {
+        heading: "Build one inventory with a destination and deadline",
+        content: [
+          "Walk the home by room and record furniture, appliances, cartons and anything fixed to a wall. For each line, name the owner, intended destination, decision deadline and person responsible. Photograph serial numbers and existing damage for valuable equipment, but keep identity documents and account details out of shared quote photos.",
+          "Measure the large pieces before paying to ship them. A sofa that suited a Dubai apartment may not pass through the destination doorway; a low-value flat-pack wardrobe can cost more to export than replace. Ask the mover what is excluded, how dismantling is treated and when the final packing list closes.",
+          "Mark uncertain pieces with a deadline rather than leaving them in a permanent ‘maybe’ pile. If the sale has not completed by that date, it moves to donation; if donation is not confirmed by the next date, it moves to the final collection inventory. That rule keeps the departure from stalling around one cabinet or television.",
+        ],
+      },
+      {
+        heading: "Protect the items that must travel with you",
+        content: [
+          "Create a no-collection zone for passports, visas, tenancy and employment records, medication, jewellery, keys, laptops, chargers and the clothing needed after the main shipment leaves. Use closed luggage or a locked room, not a label on a carton that looks like every other box.",
+          "Return employer, landlord, telecoms or building property to the named owner and obtain a record where appropriate. Remove personal data from devices only after the required files have been backed up. SIM cards, storage drives and paperwork should never disappear inside a mixed electronics box.",
+          "Keep a small cleaning and sleep kit until the last day, but decide its exit route in advance. The final kettle, mattress topper and cleaning tools are the pieces most often forgotten because they were deliberately left in use after the rest of the home was packed.",
+        ],
+        image: {
+          src: "/images/blog/leaving-dubai-inventory-destination-sorting.webp",
+          alt: "Measured furniture, luggage, electronics and cartons arranged in separate destination groups for an international move",
+        },
+      },
+      {
+        heading: "Sell and donate while there is still time to recover",
+        content: [
+          "List sale items early with honest dimensions, condition, collection floor and deadline. Agree whether the buyer dismantles and carries the item, and do not let an unapproved buyer arrive at a tower loading bay. Keep a backup route for every sale until payment and collection are complete.",
+          "Offer donations as specific, usable pieces rather than an entire unseen household. Clean furniture, assemble loose parts and ask the recipient to confirm acceptance and transport. The [furniture donation guide](/blog/charity-furniture-collection-and-donation-dubai) explains why a donation message is not the same as a booked collection.",
+          "Do not give away landlord fixtures, a flatmate's property or items still included in a sale agreement. When several adults are leaving, each owner should approve their lines on the inventory. Unclaimed does not automatically mean unwanted.",
+        ],
+      },
+      {
+        heading: "Reserve the final collection around property access",
+        content: [
+          "Send the collector a complete inventory after shipping, sale and donation deadlines have passed. Include photographs of the remaining load and the route from each room to the vehicle. A final quote cannot stay fixed if a few bags become beds, appliances and a balcony store on the morning of collection.",
+          "In a [Dubai Marina](/areas/dubai-marina) tower, the service-lift and loading-bay window may be the real departure deadline. In [Arabian Ranches](/areas/arabian-ranches), community vehicle approval, driveway access and items in the garden or garage need checking. Current property instructions control the job.",
+          "Our [junk-removal service](/services/junk-removal-dubai) can collect the final mixed approved load, while the [house-clearance team](/services/house-clearance-dubai) is better suited to a complete apartment or villa close-out. Keep chemicals, gas cylinders, unknown liquids and other controlled items separate for confirmation rather than hiding them in cartons.",
+        ],
+      },
+      {
+        heading: "Complete a final sweep that someone else can verify",
+        content: [
+          "Check inside and above every wardrobe, kitchen cabinet, utility cupboard and drawer. Look behind doors, under beds, on the balcony, in the parking space and inside any storage cage. Compare the empty rooms with the tenancy inventory and return agreed keys, access cards and remotes through the documented handover route.",
+          "Photograph each cleared room and the collection point after loading. Record any item deliberately left by written agreement. Do not close utilities or surrender access before every booked trade and collection has finished; a disconnected lift card or locked loading bay can strand an otherwise ready crew.",
+          "If someone else will attend the handover, give them the same inventory and photographs rather than relying on a verbal summary. They should be able to distinguish retained, transferred and collected property without reopening decisions at the empty home.",
+        ],
+      },
+      {
+        heading: "Sequence cancellations after the last physical job",
+        content: [
+          "Build a close-out list for every service that still supports the move: building access, storage, internet equipment, utility appointments, movers, cleaning and the final inspection. Record the booking reference, responsible person and the point at which each service can safely end. A cancellation date chosen in isolation can remove the access or power another contractor still needs.",
+          "Keep a local contact authorised for a narrowly defined task if you must leave before a delayed shipment or agreed repair completes. Put that authority, key handling and cost limit in writing. Do not leave an informal promise that a friend will ‘sort out the rest’ without an inventory, property permission and confirmed destination for the remaining items.",
+          "Store photographs, receipts and handover messages somewhere accessible after the UAE phone number or employer account closes. The useful record is a simple chain showing what travelled, what was returned, what another person accepted and what a collector removed. That record is easier to build during the move than reconstruct from another country.",
+          "If the departure date is fixed, [send the remaining inventory and access photos](/contact). We can confirm the approved scope, vehicle plan and a fixed collection price without treating saleable, personal or controlled items as one anonymous pile.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-dispose-of-old-majlis-seating-dubai",
+    title: "How to Dispose of Old Majlis Seating in Dubai",
+    seoTitle: "How to Dispose of Old Majlis Seating in Dubai Safely",
+    excerpt:
+      "Assess old majlis seating as cushions, covers, foam, timber bases and fixings, then choose reuse or a booked material-aware collection route.",
+    category: "Eco & Recycling",
+    tags: ["Majlis Seating", "Furniture Disposal", "Upholstery", "Villa Clearance", "Dubai"],
+    coverImage: "/images/blog/old-majlis-seating-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers carefully lifting a detachable timber majlis seating base inside a Dubai villa",
+    publishedAt: "2026-11-12",
+    readingTime: "8 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Decide whether the full seating set is reusable before separating covers, cushions, foam, timber bases and metal fixings.",
+      "Photograph the whole U-shaped or wall-length arrangement because loose cushions alone do not show the collection volume.",
+      "Remove connectors and decorative loose parts methodically; do not cut upholstery or smash bases inside the room.",
+      "Confirm the building, community and receiving route before staging any section outside the property.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old majlis seating in Dubai?",
+        content: [
+          "To dispose of old majlis seating in Dubai, first photograph the complete arrangement and test whether it is clean, structurally sound and reusable as a set. If reuse is unsuitable, separate loose cushions and covers from foam, timber base modules and metal fixings without damaging the room. Confirm a booked furniture collection and the receiving route before moving any section outside. Checked on 12/11/2026.",
+          "Majlis seating is easy to underestimate because it follows the walls rather than standing as one obvious sofa. A room may contain a dozen base modules, back cushions, bolsters, corner pieces and fitted covers. Once stacked, the soft parts can occupy more truck space than the timber beneath them.",
+          "This guide owns low modular majlis seating and its material layers. The [old-sofa guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) retains sprung sofas and recliners, while the [carpet-and-rug guide](/blog/how-to-dispose-of-old-carpets-and-rugs-dubai) retains floor coverings removed from the same room.",
+        ],
+        callout: {
+          title: "Do not quote from one cushion photograph",
+          text: "Show every wall run, corner and loose textile group. State whether the timber bases lift apart, are screwed together or were made in place; those details decide the crew, tools and vehicle space.",
+        },
+      },
+      {
+        heading: "Judge reuse as a complete seating system",
+        content: [
+          "A reusable set needs sound bases, consistent modules, dry foam, clean covers and enough matching pieces to form a practical layout. Photograph stains, faded sections, torn seams, compressed foam and missing corner units honestly. A recipient should not discover those problems after arranging transport.",
+          "Measure the length, width and height of each base type, then count seats, backs, bolsters and corner cushions. Traditional patterned textiles may be valuable to the owner even when the foam has failed, so ask whether covers or decorative pieces should be retained before a collection decision is final.",
+          "Sun fading on the window side does not automatically make the whole set waste. Covers may be washable or replaceable, and sound timber modules can sometimes be reupholstered. By contrast, persistent damp odour, pest evidence, unstable frames or contaminated foam can make donation inappropriate even when the pattern looks attractive.",
+        ],
+      },
+      {
+        heading: "Separate the layers without creating a hazard",
+        content: [
+          "Remove loose cushions first and keep each matching group together. If covers have zips, take them off only when they are dry and the owner wants them retained or cleaned. Do not slice fabric merely to make the load look smaller; exposed staples, tack strips and degraded foam make carrying and sorting less safe.",
+          "Check how adjoining bases connect. Some use loose locating blocks, bolts or screws; others are individual boxes pushed together. Support long timber sections while connectors are released, bag the hardware and protect carved faces and tiled floors. A made-in-place platform needs a different scope from freestanding furniture.",
+          "Keep foam dry, stack textiles in closed bags, lay timber sections flat and contain fixings. The image below shows a useful separation: covers and cushions remain recognisable, foam is clean, timber is intact and metal hardware cannot scatter across the carry route.",
+        ],
+        image: {
+          src: "/images/blog/majlis-seating-material-separation-dubai.webp",
+          alt: "Majlis cushions, textile covers, foam, timber base sections and metal fixings separated in a covered villa service area",
+        },
+      },
+      {
+        heading: "Match each material to a realistic destination",
+        content: [
+          "Complete clean seating has the strongest reuse chance. Once dismantled, the outcome depends on current receiver acceptance: uncontaminated timber may be recoverable, metal fixings can join an appropriate metal stream, and good covers may be retained, but bonded foam and mixed upholstery are not automatically recyclable simply because they were separated.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household furniture disposal under applicant and location conditions. Check the live eligibility and presentation instructions for the actual address. Managed developments may direct residents to a separate community process.",
+          "Do not leave cushions beside a communal bin, against a villa boundary or in a service corridor while waiting for an answer. Soft furnishings absorb moisture and dust quickly, and loose modules can obstruct exits. A confirmed collection point and time should come before staging.",
+        ],
+      },
+      {
+        heading: "Plan the carry route around the longest base",
+        content: [
+          "Measure doorways, sharp corridor turns, stair landings and gates against the longest rigid section. Remove loose décor and protect tiled thresholds. Two people should carry a long base in control; dragging it by fabric or one carved corner can damage both the furniture and the floor.",
+          "In [Emirates Hills](/areas/emirates-hills), show side gates, steps and the route from the majlis to the approved vehicle position. In [Arabian Ranches](/areas/arabian-ranches), confirm current community contractor and vehicle access. Keep all sections inside the plot until the collection vehicle is ready.",
+          "Our [furniture-removal service](/services/furniture-removal-dubai) handles reusable and non-reusable seating sets, while the [bulky-item team](/services/bulky-item-removal-dubai) can plan unusually long or heavy bases. The declared condition and construction determine the route; the word ‘sofa’ alone does not.",
+        ],
+      },
+      {
+        heading: "Send enough detail for a fixed collection plan",
+        content: [
+          "Provide one wide photograph of each wall run, close views of connectors and damage, module counts, the longest dimensions and access images. Say whether cushions are dry, whether covers will be kept and whether the bases are freestanding, linked or fixed to the room.",
+          "Also identify anything that is not part of the seating: carpets, low tables, lamps, wall panels or curtains need their own decision and volume. Keeping the scope precise avoids a collection arriving prepared for modular seating and finding a complete majlis renovation load.",
+          "Keep those details together as the agreed scope. A crew can then distinguish the seating from retained rugs, tables, lighting and fitted décor before lifting begins.",
+        ],
+      },
+      {
+        heading: "Treat fitted panels and hidden damage as a separate scope",
+        content: [
+          "Some majlis rooms combine freestanding bases with wall-fixed back panels, corner shelves, lighting or decorative timber. Photograph the joint between furniture and building before assuming it can leave with the cushions. Fixed joinery may belong to the property, conceal wiring or require a trade and making-good work outside an ordinary furniture collection.",
+          "Pause if lifting a module reveals active insects, damp, mould-like growth, sharp broken framing or an unknown powder. Keep other cushions away from the affected area and tell the collector what is visible. Do not carry suspect soft furnishings through the villa simply to create a cleaner photograph outside.",
+          "After removal, check the floor perimeter for forgotten fixings, loose tack strips, trapped personal items and marks that were hidden by the seating. Bag only safe loose hardware; leave electrical or structural discoveries untouched for the appropriate person. A finished job includes a safe, inspectable room, not merely an empty wall line.",
+          "[Send the photographs and measurements for a fixed quote](/contact). We can plan the dismantling, protected carry and material separation without cutting the set apart or staging it in a shared area.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["emirates-hills", "arabian-ranches"],
+  },
+  {
+    slug: "restaurant-closure-clearance-dubai",
+    title: "Restaurant Closure Clearance in Dubai: A Practical Plan",
+    seoTitle: "Restaurant Closure Clearance in Dubai: Key Steps",
+    excerpt:
+      "Plan a Dubai restaurant closure clearance from the lease and asset register, separating stock, resale equipment, fixed services and controlled waste.",
+    category: "Commercial & Office",
+    tags: [
+      "Restaurant Closure",
+      "Commercial Clearance",
+      "Kitchen Equipment",
+      "Asset Recovery",
+      "Dubai",
+    ],
+    coverImage: "/images/blog/restaurant-closure-clearance-dubai-hero.webp",
+    coverImageAlt:
+      "Restaurant manager and clearance workers inventorying dining furniture, tableware and boxed equipment in Dubai",
+    publishedAt: "2026-11-12",
+    readingTime: "10 min read",
+    author: {
+      name: "EcoHaul Dubai Team",
+      role: "Dubai Clearance Specialists",
+    },
+    takeaways: [
+      "Start with the lease, licence-closure plan and asset register; closing service does not authorise an immediate strip-out.",
+      "Separate owned, leased, financed, supplier and landlord items before inviting buyers or a clearance crew.",
+      "Food, used cooking oil, grease, chemicals, gas systems, refrigerants and ordinary furniture need different handlers and records.",
+      "Release the premises in zones and keep a final photographic, asset-transfer and waste record for handover.",
+    ],
+    sections: [
+      {
+        heading: "How should a restaurant closure clearance in Dubai begin?",
+        content: [
+          "A restaurant closure clearance in Dubai should begin with the lease, licence-closure plan and verified asset register—not with a truck. Freeze stock movements, mark what is owned, leased, financed, supplied or part of the premises, arrange food and controlled-waste routes, then let qualified trades isolate fixed equipment before the clearance team releases each approved zone. Checked on 12/11/2026.",
+          "Closing the doors to customers is only the operating event. The physical close-out must still reconcile assets, landlord obligations, employee and supplier property, food safety, utilities, waste records and building access. Emptying first and asking who owned the equipment later creates expensive disputes.",
+          "Dubai Government's [business-closure guidance](https://www.dubai.ae/en/investing/closing-your-business) explains that permanent trade-licence cancellation can involve other local and federal cancellations, with requirements depending on company type. Treat the legal and accounting workstream as separate from—but coordinated with—the physical clearance.",
+        ],
+        callout: {
+          title: "A clearance contractor does not decide the reinstatement scope",
+          text: "Obtain the landlord or facilities team's written handover requirements. Freestanding chairs may leave immediately; extract systems, counters, signs, partitions and service connections may be landlord assets or require approved de-fit trades.",
+        },
+      },
+      {
+        heading: "Reconcile ownership before advertising equipment",
+        content: [
+          "Lock the asset list at a named time and walk it with finance, operations and the authorised decision-maker. Record serial numbers, condition, location and destination for ovens, refrigeration, coffee equipment, point-of-sale devices, furniture, tableware and décor. Keep sale proceeds and disposal approvals traceable to the same list.",
+          "Mark leased dishwashers, beverage dispensers, gas cylinders, coffee machines, telecoms hardware and branded supplier equipment for return. Check finance agreements before selling anything with an outstanding interest. Secure cash drawers, customer data, staff files and storage drives before general access begins.",
+          "Give buyers a collection deadline, measured access route and the rule that nothing else in the premises is included. A buyer removing one oven must not disconnect adjacent services or take stainless benches that belong to the landlord. Payment is not permission to bypass mall or tower contractor procedures.",
+        ],
+      },
+      {
+        heading: "Empty food and liquids through their proper routes",
+        content: [
+          "Stop new ordering, count sealed stock and decide which goods can be transferred through an approved business process. Keep chilled and frozen foods under the required control until they leave; do not unplug refrigeration to make it sale-ready while food remains inside. Spoiled or unfit food needs the route agreed with the responsible waste provider.",
+          "Keep used cooking oil in suitable closed containers and separate it from grease-trap contents, cleaning chemicals and lubricants. Dubai Municipality publishes a current [waste circulars and approved-operator directory](https://www.dm.gov.ae/municipality-business/waste-department-2/) that includes permitted waste-oil collection information. Verify the operator's current scope rather than accepting an undocumented pickup.",
+          "The [used cooking-oil guide](/blog/how-to-dispose-of-used-cooking-oil-in-dubai) explains containment and route confirmation. A restaurant's repeated commercial volumes need its contracted process and records; they are not a larger version of a household bottle.",
+        ],
+        image: {
+          src: "/images/blog/restaurant-closure-asset-sorting-dubai.webp",
+          alt: "Commercial kitchen equipment, cookware, tableware, scrap metal and sealed used cooking oil separated for restaurant closure",
+        },
+      },
+      {
+        heading: "Decommission equipment in the right order",
+        content: [
+          "Run down stock first, then clean and document equipment before isolation. Qualified trades should handle fixed gas, electrical, water, drainage, suppression, ventilation and refrigerant work within their approved scope. A clearance crew should receive equipment only after it is safely disconnected and released.",
+          "Do not cut copper lines, drain unknown liquids, disturb grease ducts or drag a connected appliance forward to discover what is behind it. Record keys, manuals, loose shelves, trays and specialist attachments with each sale unit. Protect glass doors and keep refrigeration upright where the manufacturer or technician requires it.",
+          "Our [appliance-removal service](/services/appliance-removal-dubai) can collect approved disconnected kitchen equipment. The [office-cleanout team](/services/office-cleanout-dubai) coordinates the wider dining room, store, office and back-of-house inventory after ownership and service isolation are confirmed.",
+        ],
+      },
+      {
+        heading: "Release the restaurant zone by zone",
+        content: [
+          "Use a sequence that preserves safe access: secure records and high-value stock; clear loose dining assets; release dry storage; remove disconnected back-of-house equipment; then complete the authorised de-fit and final residual collection. Keep fire exits, panels, drains and shared corridors unobstructed throughout.",
+          "In [Downtown Dubai](/areas/downtown-dubai), a mall or mixed-use building may control contractor permits, service corridors and loading times. In [Business Bay](/areas/business-bay), tower management may request crew, insurance and vehicle information plus lift protection. Obtain the current premises-specific requirements before dispatch.",
+          "Dubai Municipality's [duty-of-care guideline](https://www.dm.gov.ae/wp-content/uploads/2021/09/Technical-Guidelines-no.4-Duty-of-Care.pdf) says waste should be handed only to authorised persons and places responsibility on generators to check the collector. Keep the agreed inventory, transfer or collection evidence and destination record for each relevant stream.",
+        ],
+      },
+      {
+        heading: "Close with a joint handover, not an empty-looking room",
+        content: [
+          "Compare the cleared premises with the written landlord scope and photograph every zone, service point and item deliberately retained. Reconcile sold, returned, transferred and collected assets against the frozen register. An apparently empty kitchen can still fail handover because a duct, sign base, cable, grease residue or landlord fitting was treated incorrectly.",
+          "Keep keys and access active until the final trades, collection and inspection are complete. Name one person who can approve exceptions on the day; without that authority, unknown equipment should remain in place rather than being guessed into a load.",
+          "Use the joint inspection to close exceptions in writing. Any item intentionally retained, any finish awaiting repair and any service left live should have a named owner and completion date rather than disappearing into a general snagging list.",
+        ],
+      },
+      {
+        heading: "Separate sale, de-fit and clearance budgets",
+        content: [
+          "Track expected sale proceeds independently from removal cost. A buyer may collect a valuable espresso machine yet leave its water treatment, stand and adjacent storage behind; the clearance scope must still account for every residual piece. Do not use an optimistic resale total to hide the labour and specialist work needed to release the premises.",
+          "Likewise, keep de-fit work distinct from loose-asset clearance. Removing a table is not the same task as removing its floor fixing, isolating a service or repairing the finish beneath it. Ask each contractor to state inclusions, exclusions, protection, records and the point at which responsibility transfers to the next team.",
+          "Reconcile the three budgets at the end against the asset register and handover scope: money received, property returned, specialist work completed and material collected. That prevents a closing account from showing a successful equipment sale while the landlord still has an unresolved removal or reinstatement claim.",
+          "For a measured closure plan, [send the asset list, lease scope and access requirements](/contact). We can price the approved clearance, vehicle and crew work separately from specialist disconnection and controlled-waste services, so the responsibilities remain clear.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "appliance-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "business-bay"],
+  },
+  {
     slug: "which-truck-size-do-you-need-for-junk-removal-dubai",
     title: "Which Truck Size Do You Need for Junk Removal in Dubai?",
     seoTitle: "Which Truck Size for Junk Removal in Dubai?",
@@ -7942,7 +8227,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "The short answer: work backwards from the handover, not the move",
         content: [
-          "For a partial clearance while the team remains on site, use the [occupied-office clearance plan](/blog/how-to-clear-an-office-while-staff-work-dubai) to coordinate area releases and business continuity.",
+          "For a partial clearance while the team remains on site, use the [occupied-office clearance plan](/blog/how-to-clear-an-office-while-staff-work-dubai) to coordinate area releases and business continuity. A hospitality business closing completely needs the separate [restaurant closure clearance plan](/blog/restaurant-closure-clearance-dubai) for food, cooking oil, supplier equipment and fixed kitchen services.",
           "When you relocate an office in Dubai, deal with the old furniture in four passes: check what the lease obliges you to remove, list every asset and decide what moves with you, sell or donate what has genuine resale value, and book a licensed clearance for the rest inside the building’s permitted working window. The handover date on the lease is the deadline that matters, and it usually lands before you have finished settling into the new space.",
           "Teams routinely plan the move-in in detail and treat the old floor as an afterthought. That is how a company ends up paying rent on an empty unit for another month because a landlord will not sign off a handover with forty workstations still in it.",
         ],
@@ -10019,7 +10304,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "You can recycle an old sofa in Dubai only through a bulky-waste or furniture collector that can sort its components or deliver it to an appropriate facility. A sofa is not one recyclable material: upholstery, foam, timber, engineered board, steel springs, fasteners and sometimes electrical mechanisms are joined together. It should never be forced into a building recycling room. This guide was checked on 15/09/2026.",
           "The best route depends on condition. A clean, safe sofa may be reused. A solid frame with worn fabric may suit repair or reupholstery. A broken or unsuitable sofa may be dismantled for recoverable material where a processor accepts it, with the remaining residue sent through a lawful disposal route. ‘Recyclable’ does not guarantee that every component will be recovered.",
-          "This article owns the sofa-specific condition and material decision. Our broader guide explains [how to dispose of old furniture in Dubai](/blog/how-to-dispose-of-large-furniture-in-dubai), while the [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) covers recipient and charity selection across furniture categories.",
+          "This article owns the sofa-specific condition and material decision. Our broader guide explains [how to dispose of old furniture in Dubai](/blog/how-to-dispose-of-large-furniture-in-dubai), while the [used-furniture donation guide](/blog/where-to-donate-used-furniture-in-dubai) covers recipient and charity selection across furniture categories. Low wall-length seating has its own modular construction and is covered in the [old majlis seating guide](/blog/how-to-dispose-of-old-majlis-seating-dubai).",
         ],
         callout: {
           title: "Do not dismantle first and ask later",
@@ -11055,7 +11340,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Declutter before moving Dubai: start with the destination",
         content: [
           "To declutter before moving Dubai households should start with the next home, not the current cupboard. Test each large item and category against the destination's dimensions, access, function and replacement value before buying boxes or accepting a mover's final volume. This new-home fit method was checked on 18/09/2026.",
-          "This article owns the keep-or-remove decision before packing. Our [junk removal before moving guide](/blog/junk-removal-before-moving-house-in-dubai) retains the clearance booking timeline and mover-cost equation, while the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains the general home sequence. For the specific capacity gap between a large house and a smaller flat, use the [villa-to-apartment downsizing plan](/blog/downsizing-from-a-villa-to-an-apartment-dubai).",
+          "This article owns the keep-or-remove decision before packing. Our [junk removal before moving guide](/blog/junk-removal-before-moving-house-in-dubai) retains the clearance booking timeline and mover-cost equation, while the [room-by-room decluttering guide](/blog/how-to-declutter-your-home-room-by-room-dubai) retains the general home sequence. For the specific capacity gap between a large house and a smaller flat, use the [villa-to-apartment downsizing plan](/blog/downsizing-from-a-villa-to-an-apartment-dubai). If the move is a permanent international departure, continue with the [leaving-Dubai belongings plan](/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai) to coordinate shipping, returns and final collection.",
           "The goal is not to own as little as possible. It is to move items that have a safe route, a defined place and a real use in the next home. Everything else needs a sell, donate, recycle or disposal decision before it becomes labelled cargo.",
         ],
         callout: {

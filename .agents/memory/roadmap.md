@@ -230,12 +230,13 @@ _Objective: Support the homepage and every service page with long-tail informati
 
 ---
 
-## 4. Publication Progress (Updated 2026-11-11)
+## 4. Publication Progress (Updated 2026-11-12)
 
 - Published roadmap articles: **30 / 30 (complete)**
 - Published supplemental approved articles: **124**
-- Total published blog articles: **181**
-- Phase 7 service-support queue: **27 / 90 written**
+- Total published blog articles: **184**
+- Phase 7 service-support queue: **30 / 90 written**
+- Published on 2026-11-12: **3**
 - Published on 2026-11-11: **3**
 - Published on 2026-11-10: **3**
 - Published on 2026-11-09: **3**
@@ -262,7 +263,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 10 (12/11/2026): leaving Dubai for good, old majlis seating, and restaurant closure clearance.**
+- Next approved priority: **Day 11 (13/11/2026): irrigation pipes and drippers, a long-empty villa, and an old wine cooler.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |

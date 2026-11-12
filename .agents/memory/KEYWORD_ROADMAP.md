@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-11**
+Last synchronized: **2026-11-12**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -43,9 +43,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       26 |   9 | 11/11/2026   | `which truck size do you need for junk removal in dubai`            | `/blog/which-truck-size-do-you-need-for-junk-removal-dubai`                 | `/services/junk-removal-dubai`          | Pickup vs 3-ton vs larger trucks, translated into rooms and items                      | Written |
 |       27 |   9 | 11/11/2026   | `how to clear a villa driver's room and outhouse`                   | `/blog/how-to-clear-a-villa-drivers-room-and-outhouse-dubai`                | `/services/villa-clearance-dubai`       | External rooms and stores often forgotten until handover                               | Written |
 |       28 |   9 | 11/11/2026   | `how to clear a maid's room in a dubai apartment`                   | `/blog/how-to-clear-a-maids-room-in-a-apartment-dubai`                      | `/services/house-clearance-dubai`       | Storage-room clutter, appliances and stored boxes                                      | Written |
-|       29 |  10 | 12/11/2026   | `what to do with your belongings when leaving dubai for good`       | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai`         | `/services/junk-removal-dubai`          | Countdown from resignation to flight: sell, ship, donate, clear                        | Planned |
-|       30 |  10 | 12/11/2026   | `how to dispose of old majlis seating in dubai`                     | `/blog/how-to-dispose-of-old-majlis-seating-dubai`                          | `/services/furniture-removal-dubai`     | Floor and sofa-style majlis sets: fabric, foam and frames                              | Planned |
-|       31 |  10 | 12/11/2026   | `restaurant closure clearance in dubai`                             | `/blog/restaurant-closure-clearance-dubai`                                  | `/services/office-cleanout-dubai`       | Kitchen equipment, grease, furniture and resale routes                                 | Planned |
+|       29 |  10 | 12/11/2026   | `what to do with your belongings when leaving dubai for good`       | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai`         | `/services/junk-removal-dubai`          | Countdown from resignation to flight: sell, ship, donate, clear                        | Written |
+|       30 |  10 | 12/11/2026   | `how to dispose of old majlis seating in dubai`                     | `/blog/how-to-dispose-of-old-majlis-seating-dubai`                          | `/services/furniture-removal-dubai`     | Floor and sofa-style majlis sets: fabric, foam and frames                              | Written |
+|       31 |  10 | 12/11/2026   | `restaurant closure clearance in dubai`                             | `/blog/restaurant-closure-clearance-dubai`                                  | `/services/office-cleanout-dubai`       | Kitchen equipment, grease, furniture and resale routes                                 | Written |
 |       32 |  11 | 13/11/2026   | `how to dispose of old irrigation pipes and drippers`               | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai`           | `/services/garden-waste-removal-dubai`  | Lifting lines, timers and valves, plastic and metal routes                             | Planned |
 |       33 |  11 | 13/11/2026   | `how to clear a villa that has been empty for months`               | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai`           | `/services/villa-clearance-dubai`       | Dust, pests, sun-damaged items and dead gardens after a long absence                   | Planned |
 |       34 |  11 | 13/11/2026   | `how to dispose of an old wine cooler in dubai`                     | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai`                          | `/services/appliance-removal-dubai`     | Compressor vs thermoelectric, built-in units                                           | Planned |
@@ -113,8 +113,8 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
 - Supplemental approved articles published: **124**
-- Total published articles: **181**
-- Service-support queue written: **27 / 90**
+- Total published articles: **184**
+- Service-support queue written: **30 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

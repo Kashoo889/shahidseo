@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-11**
+Last synchronized: **2026-11-12**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -186,10 +186,14 @@ Canonical implementation: `data/blog.ts`
 | 179 | `which truck size do you need for junk removal in dubai`                  | Informational              | `/blog/which-truck-size-do-you-need-for-junk-removal-dubai`                     | 2026-11-11 | Published |
 | 180 | `how to clear a villa driver's room and outhouse`                         | Informational              | `/blog/how-to-clear-a-villa-drivers-room-and-outhouse-dubai`                    | 2026-11-11 | Published |
 | 181 | `how to clear a maid's room in a dubai apartment`                         | Informational              | `/blog/how-to-clear-a-maids-room-in-a-apartment-dubai`                          | 2026-11-11 | Published |
+| 182 | `what to do with your belongings when leaving dubai for good`             | Informational              | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai`             | 2026-11-12 | Published |
+| 183 | `how to dispose of old majlis seating in dubai`                           | Informational              | `/blog/how-to-dispose-of-old-majlis-seating-dubai`                              | 2026-11-12 | Published |
+| 184 | `restaurant closure clearance in dubai`                                   | Informational              | `/blog/restaurant-closure-clearance-dubai`                                      | 2026-11-12 | Published |
 
 ## Current counts
 
-- Published: **181**
+- Published: **184**
+- Published on 2026-11-12: **3**
 - Published on 2026-11-11: **3**
 - Published on 2026-11-10: **3**
 - Published on 2026-11-09: **3**
@@ -222,8 +226,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **124**
-- Service-support queue written: **27 / 90**
-- Next approved priority: **Day 10 (12/11/2026): leaving Dubai for good, old majlis seating, and restaurant closure clearance.**
+- Service-support queue written: **30 / 90**
+- Next approved priority: **Day 11 (13/11/2026): irrigation pipes and drippers, a long-empty villa, and an old wine cooler.**
+
+## Cannibalization notes for 2026-11-12 batch
+
+- The leaving-Dubai guide owns the permanent-departure destination and deadline sequence across carry, ship, sell, donate, return, store and final collection. The pre-move decluttering guide retains the new-home fit test, while the rental-handover guide retains fixture and landlord-inventory decisions. Commercial intent stays with `/services/junk-removal-dubai`.
+- The majlis-seating guide owns low wall-length modular seating: complete-set reuse, cover and cushion retention, foam, timber-base and fixing separation, and long-base access. The sofa guide retains sprung sofas and recliners, while the carpet guide retains floor coverings. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The restaurant-closure guide owns the lease-led close-out across asset ownership, food and liquid streams, equipment isolation, controlled collection records and zoned premises release. The office-relocation guide retains general office furniture moves, while the used-cooking-oil guide retains household containment and the household-versus-commercial boundary. Commercial intent stays with `/services/office-cleanout-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, current official Dubai guidance and `/contact`. Contextual inbound links were added from the pre-move decluttering, old-sofa and office-relocation guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-11-12.md`.
 
 ## Cannibalization notes for 2026-11-11 batch
 
