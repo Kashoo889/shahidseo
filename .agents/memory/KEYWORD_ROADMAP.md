@@ -46,9 +46,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       29 |  10 | 12/11/2026   | `what to do with your belongings when leaving dubai for good`       | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai`         | `/services/junk-removal-dubai`          | Countdown from resignation to flight: sell, ship, donate, clear                        | Written |
 |       30 |  10 | 12/11/2026   | `how to dispose of old majlis seating in dubai`                     | `/blog/how-to-dispose-of-old-majlis-seating-dubai`                          | `/services/furniture-removal-dubai`     | Floor and sofa-style majlis sets: fabric, foam and frames                              | Written |
 |       31 |  10 | 12/11/2026   | `restaurant closure clearance in dubai`                             | `/blog/restaurant-closure-clearance-dubai`                                  | `/services/office-cleanout-dubai`       | Kitchen equipment, grease, furniture and resale routes                                 | Written |
-|       32 |  11 | 13/11/2026   | `how to dispose of old irrigation pipes and drippers`               | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai`           | `/services/garden-waste-removal-dubai`  | Lifting lines, timers and valves, plastic and metal routes                             | Planned |
-|       33 |  11 | 13/11/2026   | `how to clear a villa that has been empty for months`               | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai`           | `/services/villa-clearance-dubai`       | Dust, pests, sun-damaged items and dead gardens after a long absence                   | Planned |
-|       34 |  11 | 13/11/2026   | `how to dispose of an old wine cooler in dubai`                     | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai`                          | `/services/appliance-removal-dubai`     | Compressor vs thermoelectric, built-in units                                           | Planned |
+|       32 |  11 | 13/11/2026   | `how to dispose of old irrigation pipes and drippers`               | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai`           | `/services/garden-waste-removal-dubai`  | Lifting lines, timers and valves, plastic and metal routes                             | Written |
+|       33 |  11 | 13/11/2026   | `how to clear a villa that has been empty for months`               | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai`           | `/services/villa-clearance-dubai`       | Dust, pests, sun-damaged items and dead gardens after a long absence                   | Written |
+|       34 |  11 | 13/11/2026   | `how to dispose of an old wine cooler in dubai`                     | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai`                          | `/services/appliance-removal-dubai`     | Compressor vs thermoelectric, built-in units                                           | Written |
 |       35 |  12 | 14/11/2026   | `how to sell antique furniture in dubai`                            | `/blog/how-to-sell-antique-furniture-dubai`                                 | `/services/furniture-removal-dubai`     | Valuation, dealers, auctions and what to do with unsold pieces                         | Planned |
 |       36 |  12 | 14/11/2026   | `junk removal for landlords between tenants in dubai`               | `/blog/junk-removal-for-landlords-between-tenants-dubai`                    | `/services/junk-removal-dubai`          | Apartment turnaround: what the outgoing tenant left, inspection timing                 | Planned |
 |       37 |  12 | 14/11/2026   | `how to dispose of old marble and stone tabletops in dubai`         | `/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai`              | `/services/bulky-item-removal-dubai`    | Heavy slabs: separating from bases, safe carrying, inert routes                        | Planned |
@@ -112,9 +112,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **124**
-- Total published articles: **184**
-- Service-support queue written: **30 / 90**
+- Supplemental approved articles published: **127**
+- Total published articles: **187**
+- Service-support queue written: **33 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

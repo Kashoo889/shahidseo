@@ -263,7 +263,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 11 (13/11/2026): irrigation pipes and drippers, a long-empty villa, and an old wine cooler.**
+- Next approved priority: **Day 12 (14/11/2026): antique furniture, landlord turnaround clearance, and marble or stone tabletops.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |

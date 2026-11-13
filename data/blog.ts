@@ -49,6 +49,239 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai",
+    title: "How to Dispose of Old Irrigation Pipes and Drippers in Dubai",
+    seoTitle: "Dispose of Old Irrigation Pipes and Drippers in Dubai",
+    excerpt:
+      "Lift, drain and sort old irrigation pipes and drippers in Dubai, keeping reusable fittings, metal valves and electronic controllers in separate routes.",
+    category: "Eco & Recycling",
+    tags: ["Irrigation Pipes", "Drippers", "Garden Clearance", "Plastic Waste", "Dubai"],
+    coverImage: "/images/blog/old-irrigation-pipes-drippers-dubai-hero.webp",
+    coverImageAlt:
+      "Garden worker lifting old black drip-irrigation lines beside sorted valves and a controller in a Dubai villa garden",
+    publishedAt: "2026-11-13",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm which irrigation zones are abandoned before lifting pipe; live branches may share the same valve box.",
+      "Drain and uncoil lines in manageable lengths instead of pulling them through plants or cutting them into mixed fragments.",
+      "Keep polyethylene pipe, small plastic fittings, metal valves and electronic timers separate because they do not share one route.",
+      "Photograph buried runs, valve boxes and access before work so the quote includes removal rather than only the visible coils.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old irrigation pipes and drippers?",
+        content: [
+          "To dispose of old irrigation pipes and drippers, first have the redundant zone isolated and confirm that no live planting still depends on it. Drain the line, expose it without damaging roots or buried services, remove emitters and connectors where practical, then separate plastic pipe, brass or steel valves, filters, batteries and electronic controllers for their appropriate receiving routes. Checked on 13/11/2026.",
+          "A villa garden rarely contains one simple hose. Mainline, narrow lateral tube, micro-pipe, buried joints, solenoid valves and a timer may have been extended by several gardeners. Pulling the first visible line can disturb a working zone elsewhere or leave sharp connectors and short plastic pieces throughout the soil.",
+          "This guide owns the redundant irrigation system after the keep-or-remove decision. The [general garden-waste guide](/blog/how-to-dispose-of-garden-waste-in-dubai) retains plants and pruning, while the [pool-equipment guide](/blog/how-to-dispose-of-old-swimming-pool-equipment-in-dubai) retains pumps, filters and chlorination equipment.",
+        ],
+        callout: {
+          title: "Do not treat every black pipe as abandoned",
+          text: "Ask the gardener or irrigation technician to identify live zones, capped branches and shared valve boxes. Clearance should begin only after the redundant section has been released from service.",
+        },
+      },
+      {
+        heading: "Map and isolate the system before lifting it",
+        content: [
+          "Run each zone while the system is still serviceable and mark the emitters it feeds. Photograph the controller schedule, valve-box layout and connections at taps or pumps. If the system is failed, trace cautiously from visible endpoints rather than assuming that colour or pipe diameter proves ownership.",
+          "Switch off the irrigation supply for the released zone and let pressure fall. Electrical controllers, pumps and hard-wired solenoids need competent isolation; a garden-clearance crew should not improvise on fixed wiring. Preserve any fittings the replacement contractor has asked to reuse.",
+          "Check the proposed lifting line for lighting cable, pool services, tree roots and newly installed irrigation. Where a pipe disappears beneath paving or a wall, agree whether it is pulled, cut and capped by the technician, or left documented in place. Removal is not a reason to break finished surfaces without authority.",
+        ],
+      },
+      {
+        heading: "Lift long runs without scattering plastic",
+        content: [
+          "Start at a known free end, loosen soil around pegs and emitters, and lift the line toward yourself in short controlled sections. Do not yank tubing through shrubs or around a palm trunk. Brittle sun-exposed pipe can split into pieces, while buried connectors can catch roots and landscape fabric.",
+          "Drain residual water away from walkways, then coil flexible line while it is still whole. Cut only where a run is too long to handle, using consistent lengths that can be tied securely. Collect every stake, punch-off plug and dripper as you go; tiny fittings left in beds become litter and a maintenance nuisance.",
+          "The image below shows the useful separation after lifting: long pipe stays coilable, fittings remain contained, metal is visible and the controller is not buried in a mixed garden load.",
+        ],
+        image: {
+          src: "/images/blog/irrigation-components-material-sorting-dubai.webp",
+          alt: "Coiled irrigation pipe, plastic drippers, brass valves, filters and a battery-free controller separated on villa paving",
+        },
+      },
+      {
+        heading: "Sort pipe, fittings, valves and controls by material",
+        content: [
+          "Clean, undamaged pipe and compatible fittings may be kept as labelled spares if the irrigation contractor wants them. UV-cracked lateral tube, clogged emitters and glue-contaminated connectors are poor reuse candidates. Do not promise that mixed small plastics will be recycled until a receiver confirms the resin, cleanliness and quantity it accepts.",
+          "Keep brass valves and other metal parts apart from plastic. Remove accessible household batteries from a timer and protect their terminals; the controller itself belongs with electronics rather than green waste. Filters should be emptied and kept with their plastic or metal group, while unknown treatment cartridges need receiver confirmation.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household bulky-waste, electronics and waste-related services with applicant and location conditions. Check the live route for the actual address; managed developments and free zones may use their own approved contractors.",
+        ],
+      },
+      {
+        heading: "Quote the underground work and the garden load separately",
+        content: [
+          "A photograph of one coil does not show metres still buried under gravel, the number of valve boxes or whether planters and dead vegetation also leave. Provide wide garden views, approximate bed lengths, controller and valve photos, and the route from the garden to the vehicle.",
+          "In [Arabian Ranches](/areas/arabian-ranches), identify side-gate width and any community contractor requirements. In [Dubai Hills Estate](/areas/dubai-hills-estate), protect finished paving and confirm where removed material may be staged. Keep coils inside the plot until the approved vehicle is ready.",
+          "Our [garden-waste removal service](/services/garden-waste-removal-dubai) can collect released irrigation material with an agreed garden load, while the [villa-clearance service](/services/villa-clearance-dubai) suits a whole-property close-out. [Send the garden map, material photos and access route](/contact) for a written scope.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-hills-estate"],
+  },
+  {
+    slug: "how-to-clear-a-villa-that-has-been-empty-for-months-dubai",
+    title: "How to Clear a Villa That Has Been Empty for Months in Dubai",
+    seoTitle: "Clear a Villa Left Empty for Months in Dubai Safely",
+    excerpt:
+      "Clear a villa left empty for months with a safety-first re-entry, ownership inventory, pest and moisture checks, staged sorting and documented collection.",
+    category: "Moving & Clearance",
+    tags: ["Villa Clearance", "Vacant Property", "Pest Check", "Property Handover", "Dubai"],
+    coverImage: "/images/blog/long-empty-villa-clearance-dubai-hero.webp",
+    coverImageAlt:
+      "Property manager and clearance workers inspecting dusty covered furniture in a long-empty Dubai villa",
+    publishedAt: "2026-11-13",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Treat the first visit as an inspection: confirm authority, utilities, air quality, pests, water damage and safe access before moving contents.",
+      "Photograph every room before sorting because dust, fading and failed cooling do not prove that an item is abandoned.",
+      "Use separate specialist decisions for active pests, mould, sewage, exposed electrics, gas or structural damage.",
+      "Clear in zones from the access route outward, then inspect stores, garden, roof access and utility spaces before sign-off.",
+    ],
+    sections: [
+      {
+        heading: "How do you clear a villa that has been empty for months?",
+        content: [
+          "To clear a villa that has been empty for months, begin with an authorised daylight inspection rather than immediate loading. Check access, power, water, odour, pest evidence and visible damage without disturbing suspect areas. Photograph every room, protect documents and valuables, obtain specialist release where needed, then sort approved contents in stages and finish with a documented property sweep. Checked on 13/11/2026.",
+          "Time changes a clearance. Failed AC can leave textiles stale and timber distorted; a small leak can spread unseen behind furniture; food or standing water can attract pests; and an unwatered garden can add a large dry load. The contents may still belong to an owner, tenant, estate or insurer despite their condition.",
+          "This guide owns re-entry and staged clearance after prolonged vacancy. The [vacant-sale handover guide](/blog/how-to-clear-a-villa-for-vacant-handover-to-a-buyer-dubai) retains the sale-contract inventory, while the [villa garage guide](/blog/how-to-clear-out-a-villa-garage-dubai) retains detailed garage zoning.",
+        ],
+        callout: {
+          title: "Inspection comes before removal",
+          text: "If the first visit finds strong gas or chemical odour, exposed electrics, active water, unstable ceilings, sewage, extensive mould or a significant infestation, leave the affected zone and bring in the appropriate qualified specialist.",
+        },
+      },
+      {
+        heading: "Confirm authority and make the first entry controlled",
+        content: [
+          "Name the person authorised to open the property and release contents. Bring the tenancy or ownership inventory, keys, alarm instructions and any insurer or property-manager conditions. Do not force locks, open sealed personal cases or assume that sun-damaged furniture has no owner.",
+          "Visit in daylight with charged phones, gloves, suitable footwear and a second person. Keep the entrance and one escape route clear. Do not restore a tripped circuit, operate a dry pump or switch on an appliance simply to test it; DEWA advises competent technicians for internal faults and maintenance in its [electrical safety guidance](https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2023/07/dewa-urges-customers-to-implement-precautionary-measures).",
+          "Open accessible doors cautiously and ventilate only when doing so will not spread a suspected contamination. Photograph utility meters, visible leaks, damaged ceilings and every room from the doorway. That record separates pre-existing conditions from clearance work and helps specialists quote accurately.",
+        ],
+      },
+      {
+        heading: "Separate ordinary neglect from specialist hazards",
+        content: [
+          "Dust, dry leaves and sun-faded fabric can usually be assessed with ordinary precautions. Active insects or rodents, droppings across food or soft furnishings, widespread mould, sewage, unknown chemicals and sharps need a different boundary. Do not shake, sweep or bag a suspect area merely to make it look ready.",
+          "Dubai Municipality describes its integrated pest-management role and provides information on licensed providers through the [Public Health Pest Control Section](https://www.dm.gov.ae/municipality-business/public-health-pest-control-section/). Obtain treatment or release instructions before a clearance crew disturbs harbourage or moves affected items through clean rooms.",
+          "The image below shows a practical triage: reusable pieces, personal records, electronics, damaged textiles and dry garden material stay identifiable, while a concern zone remains closed pending specialist advice.",
+        ],
+        image: {
+          src: "/images/blog/long-empty-villa-item-triage-dubai.webp",
+          alt: "Clearance worker recording separated furniture, electronics, documents, textiles and dry garden debris at a vacant villa",
+        },
+      },
+      {
+        heading: "Inventory first, then clear one clean zone at a time",
+        content: [
+          "Create keep, return, sell, donate, collect and unresolved groups by room. Protect passports, title papers, photographs, jewellery, keys, devices and medicine before bulk sorting. Test or clean items only when safe; a dusty object may be reusable, while a superficially clean sofa may have odour, pest or moisture damage that makes donation unsuitable.",
+          "Start with the access route and a clean staging room, then work outward. Empty cupboards and furniture before moving them, contain broken glass and keep chemicals upright in original containers. Photograph every unresolved item and record why it stayed: ownership, fixed status, hazard or specialist appointment.",
+          "Do not let the interior consume the whole schedule. Check the maid's or driver's room, laundry, garage, under-stair cupboards, balcony, roof access, plant room, garden store and perimeter. Dead plants, brittle hoses and sun-damaged outdoor furniture can equal another room of volume.",
+        ],
+      },
+      {
+        heading: "Plan the collection around recovery work",
+        content: [
+          "Sequence pest treatment, electrical or plumbing safety, inventory decisions, cleaning and collection so one trade does not undo another. A crew cannot price a fixed load while rooms remain unopened, and cleaners should not be booked before bulky contents and rejected textiles have an approved route.",
+          "In [Emirates Hills](/areas/emirates-hills), provide security with current authority, contractor and vehicle details and show long internal carries or side access. In [Arabian Ranches](/areas/arabian-ranches), include garden, garage and outbuilding photos and keep all material inside the plot until collection.",
+          "Our [villa-clearance service](/services/villa-clearance-dubai) can stage an approved whole-property load, while the [house-clearance service](/services/house-clearance-dubai) suits a defined internal contents plan. [Send the room inventory, concern zones and access photographs](/contact) after specialist boundaries are clear.",
+        ],
+      },
+      {
+        heading: "Close the villa with evidence, not an empty-room impression",
+        content: [
+          "Repeat the property plan after loading. Open every cleared cupboard, look behind doors and check exterior stores, meters, garden corners and the approved collection point. Record anything retained, disputed or awaiting a specialist and identify the person responsible for its next step.",
+          "Photograph floors, walls and fixtures after the load leaves, then return keys, remotes and access cards through the authorised handover. Clearance removes approved contents; it does not certify electrical, plumbing, pest, mould or structural condition. Those close-out records should remain separate.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "house-clearance-dubai"],
+    relatedAreas: ["emirates-hills", "arabian-ranches"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-wine-cooler-dubai",
+    title: "How to Dispose of an Old Wine Cooler in Dubai",
+    seoTitle: "How to Dispose of an Old Wine Cooler Safely in Dubai",
+    excerpt:
+      "Dispose of an old wine cooler in Dubai by emptying and unplugging it, identifying compressor or thermoelectric cooling, and booking upright collection.",
+    category: "Eco & Recycling",
+    tags: ["Wine Cooler", "Appliance Disposal", "Refrigerant", "E-Waste", "Dubai"],
+    coverImage: "/images/blog/old-wine-cooler-removal-dubai-hero.webp",
+    coverImageAlt:
+      "Two workers sliding an unplugged glass-door wine cooler from fitted cabinetry in a Dubai apartment",
+    publishedAt: "2026-11-13",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Empty the cabinet, unplug it and secure removable shelves before deciding whether repair, reuse or appliance recycling is realistic.",
+      "Check the rating plate and rear components: compressor coolers may contain refrigerant, while thermoelectric units use a fan and heat-sink module.",
+      "Built-in and under-counter models must be released from cabinetry without damaging ventilation grilles, trim, wiring or the landlord's kitchen.",
+      "Keep the cooler upright and declare its technology, dimensions, glass door, access route and condition when booking collection.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of an old wine cooler in Dubai?",
+        content: [
+          "To dispose of an old wine cooler in Dubai, remove the bottles, unplug the unit, let it reach room temperature and clean up ordinary condensation. Secure the racks and glass door, identify whether it uses a compressor or thermoelectric module, then arrange an appliance or electronics route that accepts that technology. Keep compressor models upright and never cut refrigerant tubing. Checked on 13/11/2026.",
+          "A wine cooler looks like a small cabinet, but its disposal depends on what is behind it. Some are compact refrigerators with a sealed compressor circuit; others use a thermoelectric heat-sink and fans. Under-counter models can also be fixed through trim or cabinetry even though the appliance itself plugs into a socket.",
+          "This guide owns freestanding and built-in wine cabinets. The [refrigerator and AC guide](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai) retains full-size cooling appliances and refrigerant handling, while the [appliance-route guide](/blog/where-to-recycle-and-dispose-appliances-in-dubai) compares general donation, take-back and collection options.",
+        ],
+        callout: {
+          title: "Small does not mean ordinary rubbish",
+          text: "A wine cooler contains glass, electronics and either a sealed refrigeration circuit or a thermoelectric module. Declare the complete appliance instead of dismantling it into a mixed household load.",
+        },
+      },
+      {
+        heading: "Decide whether repair or reuse still makes sense",
+        content: [
+          "Record the model, age, fault code, temperature behaviour, fan or compressor noise, door-seal condition and any water damage. A clean complete unit with stable temperature and all shelves has a stronger reuse case than one with a failed controller, damaged glass or unknown intermittent fault.",
+          "Do not offer it as working because the light turns on. Wine storage depends on controlled temperature, door sealing and ventilation. If a technician is assessing the unit, leave the sealed cooling circuit intact and ask for the likely repair cost before paying to move a low-value cabinet twice.",
+          "Remove every bottle and confirm who owns it. Wipe the interior with the manufacturer's appropriate method, dry the drain or condensation tray where accessible and leave the door ajar only while the unit remains safely stationary. Locking models should be left unlocked for inspection, with the key protected.",
+        ],
+      },
+      {
+        heading: "Identify compressor and thermoelectric coolers",
+        content: [
+          "A compressor model usually has a black rounded compressor and narrow tubing near the rear base, similar to a small refrigerator. Its sealed system may contain refrigerant and oil, so it needs an appliance route that can recover or manage those components. Do not puncture, flatten or remove the compressor yourself.",
+          "A thermoelectric model normally has one or more fans and a finned heat-sink assembly rather than a compressor. It still contains wiring, circuit boards, metals, plastic and glass and belongs with an accepted electronics or appliance stream—not in a general rubbish bag.",
+          "The image below shows why the distinction should be made before booking. Both cabinets look similar from the front, while their rear cooling assemblies require different downstream handling.",
+        ],
+        image: {
+          src: "/images/blog/wine-cooler-technology-inspection-dubai.webp",
+          alt: "Technician comparing an upright compressor wine cooler with a smaller thermoelectric fan-cooled cabinet",
+        },
+      },
+      {
+        heading: "Release a built-in unit without damaging the kitchen",
+        content: [
+          "First confirm ownership against the tenancy inventory or fit-out record. Remove the plinth or trim only with permission, find the plug and check for retaining screws through adjacent panels. Never pull on the door handle or lever against a stone worktop; slide the cabinet onto a protected runner with a second person controlling it.",
+          "If the plug, cable or isolation point is inaccessible, or if the unit is hard-wired, use a competent technician. DEWA's [current appliance and electrical safety advice](https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2023/07/dewa-urges-customers-to-implement-precautionary-measures) emphasises safe connections, ventilation and competent maintenance rather than direct work on electrical sources.",
+          "Remove wooden or wire shelves and wrap them separately. Tape or strap the door closed without putting adhesive on a delicate finish, protect glass corners and keep the cabinet upright on a trolley. Do not lay a compressor cooler flat merely to fit a lift without checking manufacturer transport instructions.",
+        ],
+      },
+      {
+        heading: "Choose a confirmed appliance route",
+        content: [
+          "Ask a retailer about take-back before a replacement arrives, but confirm eligibility, timing and whether built-in extraction is included. Donation is suitable only when a receiver accepts this appliance type and the unit is clean, complete and demonstrably functional.",
+          "Dubai Municipality's [services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household appliance and furniture disposal with applicant and location conditions. Check the live service and the property's own rules; managed development zones may direct residents to a community or private route.",
+          "In [Dubai Marina](/areas/dubai-marina), book the service lift and loading bay before extracting a built-in cabinet. In [Downtown Dubai](/areas/downtown-dubai), confirm contractor registration and protect the route from kitchen to vehicle. Never leave a glass-fronted appliance in a corridor or waste room without approval.",
+        ],
+      },
+      {
+        heading: "Send the details that make a fixed collection possible",
+        content: [
+          "Provide front and rear photos, the rating plate, dimensions, approximate weight if stated, technology, fault, shelf count and whether the unit is freestanding or fixed into cabinetry. Add doorway, lift and parking images and disclose broken glass, a damaged plug, oil marks or cooling-system damage.",
+          "Our [appliance-removal service](/services/appliance-removal-dubai) can collect an upright released wine cooler for an appropriate route, while the [bulky-item service](/services/bulky-item-removal-dubai) can combine it with other large approved items. [Send the appliance and access photos](/contact) after disconnection and ownership are confirmed.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["dubai-marina", "downtown-dubai"],
+  },
+  {
     slug: "what-to-do-with-your-belongings-when-leaving-for-good-dubai",
     title: "What to Do With Your Belongings When Leaving Dubai for Good",
     seoTitle: "What to Do With Belongings When Leaving Dubai for Good",
@@ -2234,7 +2467,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Leave time for repair, cleaning and buyer inspection",
         content: [
-          "Schedule bulky removal before the final clean. A wardrobe can reveal anchor holes, dust lines or damaged paint; garden equipment can conceal irrigation leaks; garage shelving may expose wall fixings. Assign repairs to the appropriate contractor rather than expecting the removal crew to improvise them.",
+          "Schedule bulky removal before the final clean. A wardrobe can reveal anchor holes, dust lines or damaged paint; garden equipment can conceal irrigation leaks; garage shelving may expose wall fixings. If the property has stood unused, follow the [long-empty villa clearance guide](/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai) before treating the sale clean as an ordinary handover. Assign repairs to the appropriate contractor rather than expecting the removal crew to improvise them.",
           "In [Dubai Hills Estate](/areas/dubai-hills-estate), confirm community contractor entry and keep the driveway available. In [Palm Jumeirah](/areas/palm-jumeirah), plan vehicle access and any property-management requirements before the final week. Community procedures vary, so obtain the current instruction for the actual villa.",
           "Arrange a seller-side walkthrough before the buyer's inspection. Compare the property with the stay-and-remove inventory, test only systems you are qualified to test, and record any unfinished item with an owner and deadline. Do not conceal a defect behind an agreed-to-stay cabinet or last-minute staging furniture.",
         ],
@@ -10940,7 +11173,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Choose among reuse, retailer, municipal and private routes",
         content: [
-          "Reuse comes first only when a recipient has accepted the model and condition. Retailers or brands may offer take-back when delivering a replacement, but the scope varies: confirm whether removal from the room, disconnection, stairs and the old unit's condition are included. Keep the order or collection confirmation.",
+          "Reuse comes first only when a recipient has accepted the model and condition. Retailers or brands may offer take-back when delivering a replacement, but the scope varies: confirm whether removal from the room, disconnection, stairs and the old unit's condition are included. Keep the order or collection confirmation. For a compact glass-fronted cabinet, the [wine-cooler disposal guide](/blog/how-to-dispose-of-an-old-wine-cooler-dubai) explains compressor, thermoelectric and built-in differences.",
           "The municipal bulky service may be suitable where the current eligibility and location rules apply. A private [appliance removal service](/services/appliance-removal-dubai) is useful when inside-property lifting, a precise appointment, building coordination or a mixed load is required. Ask the provider which appliance categories it accepts and the intended downstream route.",
           "A specialist drop-off can work for small devices when the site publishes an accepted-material list. Do not travel with a large or damaged appliance on the assumption that any recycling point will take it. Telephone or check the operator's current instructions, opening hours and resident or business restrictions first.",
         ],
@@ -11515,7 +11748,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A villa in [Arabian Ranches](/areas/arabian-ranches) may have driveway access but a narrow side gate between the back garden and vehicle. Photograph that gate, changes in level and any passage beside outdoor equipment. Make clear whether the pile is already near the front or still spread across the property.",
           "For a townhouse in [The Springs](/areas/the-springs), confirm community entry and where a collection vehicle may stop. Shared paths should not become a holding area for cuttings. These are property-specific checks; obtain the current instructions from management rather than relying on a general neighbourhood rule.",
-          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs, the [plant pot and planter guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers emptying and sorting containers, and the [lawn mower disposal guide](/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai) explains how to drain fuel and isolate batteries before power garden tools leave.",
+          "If the job also contains furniture or a damaged shed, list that separately from the plant material. The [garden collection service](/services/garden-waste-removal-dubai) and a [mixed household collection](/services/junk-removal-dubai) involve different scope questions even when a coordinated visit is possible. The [outdoor furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) explains how to prepare patio sets, parasol bases and BBQs, the [plant pot and planter guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers emptying and sorting containers, the [irrigation-pipe guide](/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai) separates redundant lines, valves and timers, and the [lawn mower disposal guide](/blog/how-to-dispose-of-an-old-lawn-mower-in-dubai) explains how to drain fuel and isolate batteries before power garden tools leave.",
         ],
       },
       {

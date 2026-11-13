@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-12**
+Last synchronized: **2026-11-13**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -189,10 +189,14 @@ Canonical implementation: `data/blog.ts`
 | 182 | `what to do with your belongings when leaving dubai for good`             | Informational              | `/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai`             | 2026-11-12 | Published |
 | 183 | `how to dispose of old majlis seating in dubai`                           | Informational              | `/blog/how-to-dispose-of-old-majlis-seating-dubai`                              | 2026-11-12 | Published |
 | 184 | `restaurant closure clearance in dubai`                                   | Informational              | `/blog/restaurant-closure-clearance-dubai`                                      | 2026-11-12 | Published |
+| 185 | `how to dispose of old irrigation pipes and drippers`                     | Informational              | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai`               | 2026-11-13 | Published |
+| 186 | `how to clear a villa that has been empty for months`                     | Informational              | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai`               | 2026-11-13 | Published |
+| 187 | `how to dispose of an old wine cooler in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai`                              | 2026-11-13 | Published |
 
 ## Current counts
 
-- Published: **184**
+- Published: **187**
+- Published on 2026-11-13: **3**
 - Published on 2026-11-12: **3**
 - Published on 2026-11-11: **3**
 - Published on 2026-11-10: **3**
@@ -225,9 +229,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **124**
-- Service-support queue written: **30 / 90**
-- Next approved priority: **Day 11 (13/11/2026): irrigation pipes and drippers, a long-empty villa, and an old wine cooler.**
+- Supplemental approved articles published: **127**
+- Service-support queue written: **33 / 90**
+- Next approved priority: **Day 12 (14/11/2026): antique furniture, landlord turnaround clearance, and marble or stone tabletops.**
+
+## Cannibalization notes for 2026-11-13 batch
+
+- The irrigation guide owns abandoned garden water-distribution hardware: live-zone release, controlled lifting, line coiling, emitter containment and separation of pipe, valves, filters, batteries and controllers. The garden-waste guide retains plants and pruning, while the pool-equipment guide retains pumps and pool treatment systems. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The long-empty villa guide owns safety-led re-entry after prolonged vacancy, including authority, first inspection, specialist hazard boundaries, condition evidence and staged whole-property clearance. The vacant-sale guide retains sale-contract inventory and buyer handover, while the garage guide retains detailed garage zoning. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The wine-cooler guide owns compact wine cabinets: working-condition evidence, compressor-versus-thermoelectric identification, built-in cabinetry release, glass and shelf protection, and upright transport. The refrigerator guide retains full-size cooling appliances and general refrigerant handling. Commercial intent stays with `/services/appliance-removal-dubai`.
+- Each article links to two service pages, two area pages, sibling guides, current official Dubai guidance and `/contact`. Contextual inbound links were added from the general garden-waste, vacant-sale-handover and appliance-route guides.
+- Six original article-specific images were generated with the built-in image workflow, visually reviewed and converted to 1200 × 800 WebP. See `docs/article-images-2026-11-13.md`.
 
 ## Cannibalization notes for 2026-11-12 batch
 
