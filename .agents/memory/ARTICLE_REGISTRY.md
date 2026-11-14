@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-13**
+Last synchronized: **2026-11-14**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -192,10 +192,14 @@ Canonical implementation: `data/blog.ts`
 | 185 | `how to dispose of old irrigation pipes and drippers`                     | Informational              | `/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai`               | 2026-11-13 | Published |
 | 186 | `how to clear a villa that has been empty for months`                     | Informational              | `/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai`               | 2026-11-13 | Published |
 | 187 | `how to dispose of an old wine cooler in dubai`                           | Informational              | `/blog/how-to-dispose-of-an-old-wine-cooler-dubai`                              | 2026-11-13 | Published |
+| 188 | `how to sell antique furniture in dubai`                                  | Informational              | `/blog/how-to-sell-antique-furniture-dubai`                                     | 2026-11-14 | Published |
+| 189 | `junk removal for landlords between tenants in dubai`                     | Informational              | `/blog/junk-removal-for-landlords-between-tenants-dubai`                        | 2026-11-14 | Published |
+| 190 | `how to dispose of old marble and stone tabletops in dubai`               | Informational              | `/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai`                  | 2026-11-14 | Published |
 
 ## Current counts
 
-- Published: **187**
+- Published: **190**
+- Published on 2026-11-14: **3**
 - Published on 2026-11-13: **3**
 - Published on 2026-11-12: **3**
 - Published on 2026-11-11: **3**
@@ -229,9 +233,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **127**
-- Service-support queue written: **33 / 90**
-- Next approved priority: **Day 12 (14/11/2026): antique furniture, landlord turnaround clearance, and marble or stone tabletops.**
+- Supplemental approved articles published: **130**
+- Service-support queue written: **36 / 90**
+- Next approved priority: **Day 13 (16/11/2026): planting-season garden clean-up, recurring junk-removal timing, and post-event rubbish removal.**
+
+## Cannibalization notes for 2026-11-14 batch
+
+- The antique-furniture guide owns the evidence-to-sale sequence for potentially valuable older pieces: condition and provenance records, specialist valuation routes, net-sale terms, protected collection and the unsold deadline. The general used-furniture guide retains ordinary marketplace pricing, while the old-furniture destination guide retains no-sale disposal and donation routes. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The landlord-turnover guide owns contractor sequencing after possession returns: authority, turnover-file evidence, released-item scope, removal before repairs and cleaning, and the next check-in record. The previous-tenant guide retains disputed and uncollected belongings, while the rental-handover guide retains the outgoing tenant's fixture-versus-belonging decisions. Commercial intent stays with `/services/junk-removal-dubai`.
+- The marble and stone tabletop guide owns slab identification, crack and fixing inspection, supported base release, upright transport and confirmed reuse or inert-material routes. The dining-table guide retains complete sets and chairs, while the mirrors-and-glass guide retains glass tops. Commercial intent stays with `/services/bulky-item-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, current official Dubai guidance where needed and `/contact`. Contextual inbound links were added from the general used-furniture, previous-tenant belongings and dining-table guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-14.md`.
 
 ## Cannibalization notes for 2026-11-13 batch
 

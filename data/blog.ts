@@ -49,6 +49,225 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "how-to-sell-antique-furniture-dubai",
+    title: "How to Sell Antique Furniture in Dubai Without Undervaluing It",
+    seoTitle: "How to Sell Antique Furniture in Dubai: A Safe Plan",
+    excerpt:
+      "Sell antique furniture in Dubai with a documented condition record, informed valuation, suitable sales route and a firm plan for collection or unsold pieces.",
+    category: "Guides",
+    tags: ["Antique Furniture", "Furniture Valuation", "Resale", "Collection Planning", "Dubai"],
+    coverImage: "/images/blog/old-dressing-table-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Workers inspecting the mirror, joinery and fittings of an old wooden dressing table in a Downtown Dubai apartment",
+    publishedAt: "2026-11-14",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Record maker's marks, dimensions, construction, repairs and provenance before cleaning, moving or advertising the piece.",
+      "Ask an appropriate dealer, auction specialist or independent valuer for an informed opinion instead of treating age as proof of value.",
+      "Compare the net result after commission, transport, storage and an unsold-item fee—not just the headline estimate.",
+      "Set a decision date early enough to arrange consignment, family retention, donation or careful removal before handover.",
+    ],
+    sections: [
+      {
+        heading: "How do you sell antique furniture in Dubai?",
+        content: [
+          "To sell antique furniture in Dubai, first photograph it in place and record its dimensions, maker's marks, construction, condition, repairs and known history. Do not refinish it before advice. Send the evidence to dealers, auction specialists or a suitable valuer, compare the likely net return and sale terms, then agree insured collection and a written fallback for anything unsold. Checked on 14/11/2026.",
+          "The first decision is whether the item may have specialist value at all. Old, vintage, reproduction and antique are not interchangeable labels, and a dark finish or carved detail does not establish age. A buyer may care more about a documented maker, original hardware, unusual construction and credible ownership history than about an owner's estimate of how long the piece has been in the family.",
+          "This guide owns the appraisal-to-sale process for potentially valuable older furniture. The [general used-furniture guide](/blog/how-to-sell-or-donate-used-furniture-in-dubai) retains ordinary marketplace pricing, while the [old-furniture destination guide](/blog/where-to-dispose-and-donate-old-furniture-dubai) retains routes for pieces with no realistic resale market.",
+        ],
+        callout: {
+          title: "Document first; polish later",
+          text: "Aggressive cleaning, sanding, re-gluing or replacing old fittings can remove evidence and change value. Photograph the untouched piece and ask the person assessing it what preparation, if any, is appropriate.",
+        },
+      },
+      {
+        heading: "Build an evidence file before requesting a valuation",
+        content: [
+          "Take one full view from each side, then close photographs of the back, underside, drawer sides, joints, locks, hinges, labels, stamps, signatures and damage. Include a ruler beside small marks and give height, width and depth in centimetres. For a set, photograph every component and state what is missing rather than presenting the best chair as representative of all six.",
+          "Write down what is actually known: where and when it was acquired, previous owners, invoices, old photographs, restoration receipts and any family account of its origin. Keep originals secure and share copies with private information removed. Provenance is useful only when it can be followed; an attractive story should not be presented as a verified fact.",
+          "Condition notes should be plain. Record loose joints, veneer loss, woodworm holes, replaced handles, water marks, odour, cracked stone, lifting inlay and a stiff lock. Do not force a drawer or key for a better photograph. A specialist can price visible work; concealed or freshly disguised damage tends to undermine confidence later.",
+        ],
+      },
+      {
+        heading: "Choose the sales route by item, deadline and likely net return",
+        content: [
+          "A specialist dealer may make a direct offer or accept a piece on consignment. An auction route may suit an item with a recognised market, but the estimate is not a promise and the selling calendar may be longer than a move-out deadline. An independent valuation can help with an unusual or higher-stakes piece, especially when family members, an estate or an insurer need a neutral record.",
+          "Ask each route the same questions: Is the opinion based on photographs or an in-person inspection? Who sets the reserve? What commission, photography, transport, storage, insurance and unsold-item charges apply? When is the seller paid, and who must collect the piece if it does not sell? Compare the amount likely to reach you after all of those deductions.",
+          "Ordinary online marketplaces can still work for decorative older furniture, but use accurate wording such as 'older carved cabinet' or 'vintage-style table' unless the description has been supported. Give dimensions, faults, collection requirements and clear photographs. Do not invent a period, timber species, maker or country of origin to make the listing sound more valuable.",
+        ],
+        image: {
+          src: "/images/blog/dressing-table-material-sorting-dubai.webp",
+          alt: "Worker examining an old framed mirror beside labelled wooden drawers, panels and original furniture hardware",
+        },
+      },
+      {
+        heading: "Protect the piece while buyers inspect and collect it",
+        content: [
+          "Keep the furniture in a dry, stable room and away from a loading route until the buyer is confirmed. Empty drawers privately, remove keys and documents, and disclose pests, mould or unstable parts before anyone visits. If a person is inspecting at home, confirm their identity and appointment and avoid leaving them alone with unrelated valuables.",
+          "Agree in writing whether the buyer takes the piece assembled, whether a mirror or marble insert detaches, who packs it and when ownership and risk transfer. A fragile old cabinet should not be dismantled like modern flat-pack furniture. Mark removable drawers and shelves in a reversible way, wrap loose hardware separately and let the carrier decide how to support weak joints.",
+          "In [Downtown Dubai](/areas/downtown-dubai), a service-lift booking and contractor details may need to be approved before collection. In [Emirates Hills](/areas/emirates-hills), share gate and vehicle requirements and measure the full path from room to truck. Put these constraints in the sale terms so the buyer cannot arrive with an unsuitable car and two unprepared helpers.",
+        ],
+      },
+      {
+        heading: "Set an unsold deadline before the property deadline",
+        content: [
+          "Give the chosen sales route time to work, but keep a firm release date. If an auction falls after a flight or tenancy handover, arrange authorised storage or appoint someone who can act for you; do not leave the decision with a building guard, broker or incoming tenant. Record exactly who owns and controls the piece at every stage.",
+          "If the market does not support the expected price, decide whether the family retains it, a dealer revises the offer, or an organisation has confirmed it can accept the item. Donation should be agreed from photographs and condition details before transport. A valuable-looking piece is not automatically useful to a recipient, and a rejected wardrobe can create a second urgent move.",
+          "Our [furniture-removal service](/services/furniture-removal-dubai) can collect a formally released piece that no longer has a sale or donation route, while the [house-clearance service](/services/house-clearance-dubai) suits a larger documented contents plan. [Send photographs, dimensions and the access route](/contact) only after the appraisal and ownership decisions are complete.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["downtown-dubai", "emirates-hills"],
+  },
+  {
+    slug: "junk-removal-for-landlords-between-tenants-dubai",
+    title: "Junk Removal for Landlords Between Tenants in Dubai",
+    seoTitle: "Junk Removal for Landlords Between Dubai Tenancies",
+    excerpt:
+      "Plan junk removal for landlords between tenants in Dubai with possession records, a released-item inventory, repair sequencing and a photographed handover file.",
+    category: "Moving & Clearance",
+    tags: ["Landlords", "Tenant Turnover", "Property Handover", "Apartment Clearance", "Dubai"],
+    coverImage: "/images/blog/rental-handover-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Landlord and property manager reviewing an apartment handover inventory beside boxed tenant belongings in Dubai",
+    publishedAt: "2026-11-14",
+    readingTime: "9 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm that possession has been returned and that the person instructing removal has authority before a crew enters the unit.",
+      "Photograph leftovers and separate landlord assets, former-tenant property, released waste, valuables and specialist items.",
+      "Remove bulky contents before repairs and final cleaning, but preserve evidence needed for the condition and deposit file.",
+      "Freeze the collection scope and building access before booking so the next tenancy is not delayed by a second load.",
+    ],
+    sections: [
+      {
+        heading: "How should landlords arrange junk removal between tenants?",
+        content: [
+          "Junk removal for landlords between tenants in Dubai should begin only after the tenancy has ended, possession and keys have been returned, and the instructor is authorised to act. Photograph the unit before moving anything, compare leftovers with the inventory, isolate disputed or valuable property, obtain written release or advice where needed, then remove the approved load before repairs, deep cleaning and the new check-in record. Checked on 14/11/2026.",
+          "A fast turnaround can compress key return, inspection, maintenance, cleaning and the next move-in into a few days. The clearance is still not the first step. A crew should receive a final, authorised list—not decide whether a boxed laptop belongs to the former tenant, whether curtains are part of the flat, or whether a damaged wardrobe should be charged against a deposit.",
+          "This guide owns the landlord's operational sequence after possession is returned. The [previous-tenant belongings guide](/blog/what-to-do-with-items-left-by-previous-tenant-dubai) retains recording, contact and disputed-property safeguards; the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) retains the outgoing tenant's stay-or-remove decision.",
+        ],
+        callout: {
+          title: "No possession or release, no removal instruction",
+          text: "If keys, access, ownership or a former tenant's belongings are disputed, keep the affected items in place or secured and obtain appropriate advice. A clearance booking cannot resolve a tenancy dispute.",
+        },
+      },
+      {
+        heading: "Open one turnover file before contractors start",
+        content: [
+          "Keep the tenancy contract, check-in inventory, check-out report, key receipt, dated photographs, correspondence and authority to instruct contractors together. Dubai Land Department's [tenancy guidance](https://dubailand.gov.ae/media/wzfpke5h/tenancyguideen.pdf) makes the contract and the condition in which the property was received central to handover responsibilities. Use the actual agreement and professional advice for the case rather than a generic disposal assumption.",
+          "Walk the property before a cleaner or maintenance team rearranges it. Take wide room views and close photographs of leftovers, damage, meter areas, cupboards, appliances, balcony, parking store and access cards. Number the items and mark each one landlord asset, released former-tenant item, valuable or data-bearing, specialist/hazard, or unresolved.",
+          "Do not state a universal waiting period for uncollected belongings. Contact the former tenant in writing and preserve their instructions. If they do not respond, ownership is contested or costs may become part of a claim, the official route for lease disputes is the [Rental Disputes Center](https://rdc.gov.ae/), not the removal company.",
+        ],
+      },
+      {
+        heading: "Turn the inspection into a fixed removal scope",
+        content: [
+          "Once each item is released, make a clean collection list by room. Count bags and cartons after packing, state whether cupboards are empty and identify anything needing dismantling. Photograph large pieces with a doorway or tape measure for scale. Include a maid's room, balcony, storage cage and parking bay even if they appear empty at first glance.",
+          "Separate ordinary contents from paint, chemicals, gas cylinders, medicines, batteries, refrigerant appliances, sharps and renovation debris. These should be declared and approved for a suitable route instead of hidden in black bags. Keep passports, bank papers, keys and devices out of the removal zone and log who holds them.",
+          "The image below shows the practical result: furniture, boxed room contents, electronics and recyclable material remain distinct and countable. That record protects the agreed quote and prevents the cleaner from mixing retained manuals or remotes into the outgoing load.",
+        ],
+        image: {
+          src: "/images/blog/move-out-junk-sorting-dubai.webp",
+          alt: "Released furniture, labelled room boxes, electronics and recyclable materials separated for a Dubai rental turnover",
+        },
+      },
+      {
+        heading: "Sequence clearance, repair and cleaning once",
+        content: [
+          "Remove approved bulky furniture before painting, floor work and deep cleaning. Large pieces hide wall marks, loose sockets, stains and damaged skirting, and carrying them after cleaning can undo finished work. Keep disputed items in one locked, photographed zone if they cannot leave; do not let contractors treat that room as spare storage.",
+          "After loading, repeat the same room order and photograph the cleared areas. Give the maintenance contractor a defect list rather than asking the removal crew to patch anchors, disconnect fixed services or judge structural damage. When repairs and cleaning finish, create a fresh dated check-in inventory for the next tenant rather than recycling old photographs.",
+          "Dubai Land Department also advises documenting property condition at handover with photographs or video in its [Ejari guidance](https://dubailand.gov.ae/media/rhojzudp/ejari_guide_in_dubai_en.pdf). Keep the removal quote, invoice, approved list and completion images in the same turnover file so the sequence is clear.",
+        ],
+      },
+      {
+        heading: "Book the building before promising the next move-in date",
+        content: [
+          "In [Business Bay](/areas/business-bay), confirm the authorised contractor, service lift, loading bay and working hours before fixing the collection. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), state whether the unit is in a tower, low-rise block or townhouse because the carry route and management process can differ. Never stage a load in a corridor, fire route or communal waste room while waiting for access.",
+          "Send the item list, floor, lift dimensions, parking instructions, collection window and contact authorised to open and sign off. If maintenance removes another cabinet after the quote, photograph and approve it as a scope change rather than leaving an unlabelled pile for the crew.",
+          "Our [junk-removal service](/services/junk-removal-dubai) handles an approved mixed turnover load, while the [house-clearance service](/services/house-clearance-dubai) suits a complete property with several rooms and retained zones. [Send the released inventory and access details](/contact) for a written scope and fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-village-circle"],
+  },
+  {
+    slug: "how-to-dispose-of-old-marble-and-stone-tabletops-dubai",
+    title: "How to Dispose of Old Marble and Stone Tabletops in Dubai",
+    seoTitle: "Dispose of Marble and Stone Tabletops Safely in Dubai",
+    excerpt:
+      "Dispose of old marble and stone tabletops in Dubai by identifying the slab, releasing the base, carrying it upright and confirming its accepted route.",
+    category: "Guides",
+    tags: ["Marble Tabletops", "Stone Furniture", "Heavy Lifting", "Inert Waste", "Dubai"],
+    coverImage: "/images/blog/old-furniture-disposal-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew guiding a large wrapped rectangular furniture top on a trolley through a Dubai service lift",
+    publishedAt: "2026-11-14",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Identify whether the top is natural stone, engineered quartz, sintered material or a thin stone layer bonded to another core.",
+      "Confirm whether the slab is loose, clipped, screwed or bonded before separating it from the base; never pry against an unsupported edge.",
+      "Keep intact slabs upright on a padded A-frame or rated stone trolley because broad stone tops are vulnerable when flexed flat.",
+      "Ask the receiver to confirm reuse, stone recovery or inert-waste acceptance before dismantling; do not assume mixed household recycling accepts it.",
+    ],
+    sections: [
+      {
+        heading: "How do you dispose of old marble and stone tabletops?",
+        content: [
+          "To dispose of old marble and stone tabletops, first identify the material and inspect cracks, repairs and the connection to the base. Empty the route, support the slab before releasing clips, screws, adhesive or suction pads, then have an equipped crew move it upright on edge with padding and a rated trolley or A-frame. Confirm reuse or an accepted inert-material route before collection. Checked on 14/11/2026.",
+          "A stone top is not simply heavy furniture. It can look sound while a hairline crack, sink cut-out or old repair has reduced its strength. The base may also be carrying the load unevenly. Lifting one corner to see what happens can break the slab, damage the floor and turn a manageable tabletop into sharp fragments.",
+          "This guide owns loose furniture tops made from marble, granite, engineered stone, ceramic or similar slab material. The [dining-table guide](/blog/how-to-dispose-of-an-old-dining-table-and-chairs-in-dubai) retains complete dining sets and chairs, while the [mirrors and glass guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai) retains glass tabletops. Fixed kitchen worktops belong within an authorised renovation or cabinet-removal plan.",
+        ],
+        callout: {
+          title: "Do not deliberately break the slab indoors",
+          text: "Breaking stone creates uncontrolled sharp pieces, dust and floor impact. Keep the top intact where possible; if it is already cracked, support and contain it as a damaged slab and tell the collector before arrival.",
+        },
+      },
+      {
+        heading: "Identify the slab and its weak points before moving it",
+        content: [
+          "Check invoices, furniture labels and the underside before relying on colour or veining. Natural marble and granite, engineered quartz, porcelain or sintered slabs, and stone veneer over a honeycomb or timber core can require different repair and receiving routes. Avoid improvised acid, flame or scratch tests inside the home; they can damage the finish without proving what the whole top contains.",
+          "Measure length, width and thickness and photograph both faces, every edge and the base connection. Mark cracks, drilled fixing holes, corner chips, previous resin repairs and narrow sections around decorative cut-outs. A round top may be awkward but uniform; a long console top with a central cut-out can be much more fragile in bending.",
+          "Decide whether reuse is realistic before dismantling. An intact top may suit a replacement base or fabricator if dimensions, condition and material are useful, but a recipient must accept it first. Do not advertise a cracked slab as an easy repair or promise a collector that unverified composite material is recyclable.",
+        ],
+      },
+      {
+        heading: "Release the base only while the top is fully supported",
+        content: [
+          "Clear chairs, rugs and decorations and protect the floor and door route. Inspect underneath with a light: the top may rest on rubber pads, locate on pins, screw through brackets, sit in a recessed frame or be bonded with adhesive. Do not assume that visible weight is the only thing holding it in place.",
+          "A competent crew should support the slab evenly before any fixing is released. Bases can shift as the load transfers, and a pedestal may remain attached unexpectedly. Do not lever a screwdriver between stone and frame or hammer the underside. If the top is bonded to fitted joinery or requires cutting, stop and move the task into an authorised renovation scope.",
+          "Keep the base, fasteners and slab labelled if reuse remains possible. Metal or timber bases can follow their own furniture routes only after the receiver confirms separation. Mixing small stone fragments, screws and packaging in one bag removes recovery options and creates a handling risk.",
+        ],
+        image: {
+          src: "/images/blog/kitchen-cabinet-material-sorting-dubai.webp",
+          alt: "Large pale stone slab secured upright on a padded A-frame beside separated timber panels and metal fittings",
+        },
+      },
+      {
+        heading: "Carry and transport stone upright, padded and restrained",
+        content: [
+          "Plan the route before the slab leaves its base. Measure doors, corners, lift opening and cab diagonal, remove trip hazards and protect thresholds. The team needs enough people and rated handling equipment for the actual size and condition; household suction handles or a furniture blanket alone do not make an unknown slab safe.",
+          "Move an intact slab on edge with its faces vertical, supported on a padded stone trolley or A-frame and restrained against tipping. Protect corners without taping directly onto a sensitive polished surface. Never carry a broad slab flat by its ends, drag an edge across tile or lean it unsecured against a wall while the lift is called.",
+          "In [Downtown Dubai](/areas/downtown-dubai), book a service lift and loading bay and disclose the slab so management can approve protection. In [Arabian Ranches](/areas/arabian-ranches), check gates, steps, gravel and the path to the vehicle; a villa side route is not automatically suitable for a narrow upright load.",
+        ],
+      },
+      {
+        heading: "Confirm the receiving route before the truck arrives",
+        content: [
+          "Send the receiver photographs, measurements, material if known, base type, crack locations and whether the slab is intact or already fragmented. Ask specifically whether it will be reused, accepted as separated stone or handled as inert material. A general dry-recycling bin is not an appropriate assumption for a dense mixed or engineered slab.",
+          "Dubai Municipality's [current services directory](https://www.dm.gov.ae/dubai-municipality-services/) lists household bulky-waste services with applicant and location conditions. Check the live service for the address and item; managed developments and free zones may use their own route. Do not leave a slab at a bin room, pavement or community skip without express approval.",
+          "Our [bulky-item removal service](/services/bulky-item-removal-dubai) can plan an approved heavy slab collection, while the [furniture-removal service](/services/furniture-removal-dubai) suits a complete table with a released base. [Send top, underside and access photographs](/contact) for a written handling scope before anything is detached.",
+        ],
+      },
+    ],
+    relatedServices: ["bulky-item-removal-dubai", "furniture-removal-dubai"],
+    relatedAreas: ["downtown-dubai", "arabian-ranches"],
+  },
+  {
     slug: "how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai",
     title: "How to Dispose of Old Irrigation Pipes and Drippers in Dubai",
     seoTitle: "Dispose of Old Irrigation Pipes and Drippers in Dubai",
@@ -8391,6 +8610,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Second-hand pricing in Dubai has less to do with what an item cost new than with whether it can survive a move. Solid timber, metal frames and recognised brands hold value because a buyer can see they will still be intact after being carried down a service lift. Flat-pack furniture that has already been assembled once loses most of its value the moment it is disassembled — the panels chip, the cam locks loosen, and the buyer knows it.",
           "Three categories are effectively unsellable regardless of condition: used mattresses, upholstered items with stains or odour, and anything built into the property such as fitted wardrobes and made-to-measure shelving. Do not spend two weeks trying to sell them. Mattresses in particular need their own route, which our guide on [mattress disposal in Dubai](/blog/how-to-dispose-of-an-old-mattress-in-dubai) covers in full.",
+          "A piece that may be genuinely old, signed or unusually made should not be priced from ordinary marketplace comparisons alone. Build a condition and provenance record first, then follow the [antique furniture appraisal and sale plan](/blog/how-to-sell-antique-furniture-dubai) before cleaning, repairing or accepting an offer.",
           "Set a realistic asking price, add a line saying the price is firm for the first week, then reduce once. Buyers here are experienced negotiators and a listing that has been up for a month with three price cuts signals that the seller is running out of time.",
         ],
         image: {
@@ -12974,6 +13194,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Book the clearance with the list, not a guess",
         content: [
           "Send the numbered list and photographs when you ask for a quote, mark anything excluded, and state the building's access rules and the date the unit must be ready for the next tenant. A crew that knows exactly what it may take works faster and leaves nothing ambiguous behind.",
+          "For the complete contractor order after keys are returned, use the [between-tenancy landlord clearance plan](/blog/junk-removal-for-landlords-between-tenants-dubai) to place approved removal before repairs, final cleaning and the new check-in record.",
           "[Message us the photo list](/contact) and we will send a fixed price for the released items, schedule around the building's lift booking and provide the paperwork you need for the tenant file.",
         ],
       },
@@ -15454,7 +15675,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Many contemporary dining tables in Dubai residences feature heavy stone, ceramic, or tempered glass surfaces rather than solid wood. These require specialized lifting and transport precautions.",
           "Glass tabletops must be lifted off their base frames using heavy-duty rubber suction lifters. Inspect the glass for perimeter micro-chips; tempered glass is under internal tensile stress and can shatter spontaneously if an unprotected corner strikes a tiled floor. Wrap the perimeter with slotted foam edge protectors and multiple layers of corrugated cardboard, as detailed in our [mirrors and glass disposal guide](/blog/how-to-dispose-of-mirrors-and-glass-in-dubai). For smaller lounge accent pieces, tempered glass coffee tables, or nested side tables, see our [coffee table and side table disposal guide](/blog/how-to-dispose-of-an-old-coffee-table-and-side-tables-in-dubai).",
-          "Solid marble or engineered quartz slabs easily weigh 70 to 140 kilograms. Stone slabs must always be carried vertically on edge by two or three operatives using shoulder lifting straps—never carried horizontally flat like a tabletop, as natural stone has low tensile strength and can snap under its own middle weight.",
+          "Stone tops need their own material check, support plan and receiver confirmation. The [marble and stone tabletop disposal guide](/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai) explains how to inspect fixings and cracks, release the base and move the slab upright without assuming every stone-look top follows the same route.",
         ],
         image: {
           src: "/images/blog/new-home-furniture-fit-test-dubai.webp",
