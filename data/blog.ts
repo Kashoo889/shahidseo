@@ -49,6 +49,231 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "garden-clean-up-before-the-planting-season-dubai",
+    title: "Garden Clean Up Before the Planting Season in Dubai",
+    seoTitle: "Garden Clean Up Before Planting Season: Dubai Guide",
+    excerpt:
+      "Plan a garden clean up before the planting season in Dubai: assess summer damage, clear beds in the right order and remove waste before new plants arrive.",
+    category: "Guides",
+    tags: ["Garden Clean-Up", "Planting Season", "Villa Gardens", "Green Waste", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener carrying dry palm fronds past pruned cuttings, bagged leaves, old pots and a soil pile while a resident reviews a Dubai villa garden",
+    publishedAt: "2026-11-16",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Walk the garden in the first cooler weeks and mark each plant as recovering, cut back, replace or remove before anyone starts pulling things out.",
+      "Clear in a fixed order: dead plants and fronds, then exhausted soil and broken pots, then failed irrigation, so new beds are not disturbed twice.",
+      "Keep plant material, soil, pots and hardware in separate piles because each follows a different collection or reuse route.",
+      "Book the removal before the nursery delivery, not after it, so the access route is clear when new plants and fresh soil arrive.",
+    ],
+    sections: [
+      {
+        heading: "What a garden clean up before the planting season involves",
+        content: [
+          "A garden clean up before the planting season in Dubai means judging what survived the summer, removing plants and material that will not recover, preparing beds for new planting and clearing the waste before nursery deliveries arrive. Work from assessment to removal to preparation, keep plant waste, soil, pots and irrigation parts separate, and book collection before replanting starts. Checked on 16/11/2026.",
+          "Summer is hard on villa gardens. By the time evenings cool, many beds hold a mix of scorched annuals, half-dead shrubs, dry fronds, salt-crusted soil, cracked pots and drip lines that stopped working in August. Some of it is finished; some of it only looks finished. The cooler months are when most planting happens, so the clean-up has a natural deadline.",
+          "This guide owns the seasonal sequence for preparing a garden. The [garden-waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) covers sorting and routes for a pruning pile, and the [excess soil guide](/blog/how-to-remove-excess-soil-and-sand-from-a-villa-garden-dubai) covers heavy soil and sand volumes in detail.",
+        ],
+        callout: {
+          title: "Do not pull everything on day one",
+          text: "Plants that look dead after the summer sometimes push new growth once temperatures ease and watering is corrected. Scratch a stem or check for green buds before removing an established shrub; replacing a mature plant costs far more than waiting two weeks to be sure.",
+        },
+      },
+      {
+        heading: "Walk the garden and decide what stays",
+        content: [
+          "Go round with a gardener or a notebook and give every bed a decision. Recovering plants stay and get pruned. Plants with dead tips but healthy stems are cut back. Plants that are dead to the base, diseased or simply wrong for the spot are removed. Write it down; a clean-up without a list tends to stop halfway when the first pile gets big.",
+          "Look past the plants. Check whether pots have cracked in the heat, whether plastic edging has gone brittle, whether timers and valves still work, and whether a bed has sunk or become compacted. Note salt crust on the soil surface and areas where water has been pooling, because these decide whether you can simply top up a bed or need to replace some of the soil.",
+          "Agree with your gardener who removes the waste. A maintenance visit often covers pruning but not the removal of a full season's worth of material, old pots and soil. Settle that before work starts so cuttings are not left in the side passage for a week.",
+        ],
+      },
+      {
+        heading: "Clear in an order that does not undo the work",
+        content: [
+          "Start with dead plants, fronds and pruning, because they are light, bulky and block access to everything else. Bag leaves and fine cuttings, and bundle woody stems and palm fronds rather than forcing them into bags. Large trunks, root balls and dead palms are separate jobs; see the [dead palm tree guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) before anyone starts cutting.",
+          "Next, deal with soil and containers. Remove exhausted or contaminated soil only where the bed plan needs it, and keep it apart from plant waste because it is far heavier and goes to a different route. Empty and stack pots; cracked terracotta and brittle plastic planters can follow the [plant pots and planters guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai).",
+          "Leave irrigation until the bed layout is settled. Lifting drip lines before you know where new plants are going often means relaying the same line twice. Once the plan is fixed, remove the failed pipe, drippers and timers and handle them as described in the [irrigation pipes and drippers guide](/blog/how-to-dispose-of-old-irrigation-pipes-and-drippers-dubai).",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Separate containers of dry leaves and green cuttings beside bundled branches, palm fronds, soil and broken pots while a gardener measures a villa side gate",
+        },
+      },
+      {
+        heading: "Stage the waste so one collection takes it all",
+        content: [
+          "Keep each material in its own pile on hard standing, close to the exit but clear of the gate, driveway and neighbours' paths. Count the bags, estimate the bundles and photograph each pile with something for scale. That list lets a collector quote the load accurately and bring the right vehicle and number of people.",
+          "Do not leave green waste out for days. Wet cuttings start to smell and attract insects, dry fronds are a fire risk near a barbecue area, and soil bags left on lawn will kill the grass under them. Aim to have the collection within a day or two of the last pile being made.",
+          "Measure the side gate and any steps between the garden and the vehicle. A narrow villa side passage often sets how big a bundle can be. In [Dubai Hills Estate](/areas/dubai-hills-estate) and [The Meadows](/areas/the-meadows), check community rules for contractor access and where a vehicle may park before you fix a date.",
+        ],
+      },
+      {
+        heading: "Book removal before new plants and soil arrive",
+        content: [
+          "Fix the collection date first, then the nursery delivery. Fresh soil, compost and trays of plants need the same route your waste has to leave by, and a delivery that arrives before the clean-up is cleared ends up stacked on a lawn or blocking the gate.",
+          "If the clean-up is part of a larger clear-out of a garage, majlis or outdoor furniture, include those items in the same booking so the vehicle visits once. For a villa that has been empty through the summer, the [long-empty villa guide](/blog/how-to-clear-a-villa-that-has-been-empty-for-months-dubai) covers the indoor side of the job.",
+          "Our [garden waste removal service](/services/garden-waste-removal-dubai) collects separated plant waste, soil and old pots, and the [villa clearance service](/services/villa-clearance-dubai) suits a garden clean-up that sits inside a bigger property clear-out. [Send photos of the piles and the gate width](/contact) and we will reply with a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "villa-clearance-dubai"],
+    relatedAreas: ["dubai-hills-estate", "the-meadows"],
+  },
+  {
+    slug: "how-often-should-you-book-junk-removal-dubai",
+    title: "How Often Should You Book Junk Removal? A Practical Rhythm",
+    seoTitle: "How Often Should You Book Junk Removal? Dubai Guide",
+    excerpt:
+      "How often should you book junk removal? Match collections to your household, storage space and life events instead of a fixed calendar, with Dubai examples.",
+    category: "Guides",
+    tags: [
+      "Booking Frequency",
+      "Decluttering",
+      "Household Planning",
+      "Seasonal Clear-Outs",
+      "Dubai",
+    ],
+    coverImage: "/images/blog/spring-cleaning-decluttering-garage-dubai.webp",
+    coverImageAlt:
+      "Couple sorting a villa garage into labelled donation, storage, tools and removal piles during a seasonal clear-out in Dubai",
+    publishedAt: "2026-11-16",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Most households do not need a fixed schedule; they need a holding area and a clear rule for when it is full enough to book.",
+      "Small, frequent pickups rarely make sense because a single bulky item and a half-truck load can cost similar amounts to arrange.",
+      "Villas with garages, gardens and large families often settle into two or three planned clear-outs a year, timed around the Dubai seasons.",
+      "Book separately and promptly for anything that is unsafe, blocking a lift or exit, or tied to a move, handover or renovation deadline.",
+    ],
+    sections: [
+      {
+        heading: "How often should you book junk removal?",
+        content: [
+          "How often you should book junk removal depends on how fast unwanted items build up and where you can keep them safely, not on the calendar. Most apartments manage with one planned clear-out a year plus event-driven bookings. Busy villas often suit two or three. Book sooner whenever an item is unsafe, blocking access or tied to a move or handover deadline. Checked on 16/11/2026.",
+          "People tend to get the frequency wrong in both directions. Some book a truck every time one chair breaks and pay for several small visits that could have been one. Others wait until the garage door no longer closes and the clear-out becomes a two-day job that needs a bigger vehicle, extra hands and a free weekend nobody has.",
+          "This guide covers how often to book. The [timing guide](/blog/best-times-to-schedule-junk-removal-in-dubai) covers which day and hour to choose once you have decided to book, and the [seasonal clearing checklist](/blog/spring-cleaning-junk-removal-checklist-dubai) covers what to sort room by room.",
+        ],
+        callout: {
+          title: "Some items should never wait for the next clear-out",
+          text: "Swollen batteries, leaking appliances, gas cylinders, mouldy mattresses and anything stored in a corridor, stairwell or service area should be dealt with on its own timeline. A planned rhythm is for ordinary clutter, not for hazards.",
+        },
+      },
+      {
+        heading: "Why small, frequent pickups are usually poor value",
+        content: [
+          "Most junk removal pricing is built around the vehicle, crew time and volume, with a minimum charge that covers getting a truck and a team to your door. A single broken chair and a quarter-truck of mixed items often cost close to the same to arrange, because the travel, building booking and loading time are similar. The [cost estimating guide](/blog/how-to-estimate-junk-removal-cost-in-dubai) explains how volume affects the quote.",
+          "There is also the building cost in time. Many Dubai towers need a service-lift booking, contractor details and sometimes a gate pass for each visit. Doing that paperwork four times a year for a few bags each time is a lot of admin for very little space gained.",
+          "The exception is a household with no storage at all. In a studio with no balcony or store room, keeping a broken bed frame for two months is worse than paying for an earlier pickup. Space is the real constraint; price comes second.",
+        ],
+      },
+      {
+        heading: "Use a holding area and a clear trigger to book",
+        content: [
+          "Choose one place where outgoing items wait: a corner of the garage, a shelf in the store room, a labelled box in a cupboard. It must not be a corridor, a fire exit or a shared parking area. Items go there once you have decided they are leaving, sorted roughly into donate, sell, recycle and remove.",
+          "Then set a trigger. Common ones work well: the holding area is full; a bulky item arrives that does not fit in it; a donation drive or sale date is approaching; or a season is changing. When the trigger hits, photograph everything in the area and request a quote for the whole lot at once.",
+          "Keep the donate and sell piles moving between collections. Items waiting months for a buyer take up the space a removal would have freed. If something has not sold after two price cuts, move it to the removal side.",
+        ],
+        image: {
+          src: "/images/blog/household-junk-triage-sorting-dubai.webp",
+          alt: "Worker checking a clipboard beside labelled donation boxes, flattened cardboard, cans, a desk for collection and an e-waste bin in a Dubai villa driveway",
+        },
+      },
+      {
+        heading: "Typical rhythms for different Dubai households",
+        content: [
+          "A one- or two-bedroom apartment with little storage usually needs one planned clear-out a year, plus a booking whenever a large item is replaced. Tie the planned one to a natural moment such as the lease renewal, so you go into the next year with less to move if you do relocate. In towers in [Dubai Marina](/areas/dubai-marina), the service-lift booking is often the slowest part, so one bigger visit beats several small ones.",
+          "A family villa with a garage, garden and children tends to build up faster: outgrown bikes and toys, broken outdoor furniture, garden equipment and boxes from deliveries. Two or three clear-outs a year works for many households here, often before the summer heat makes garage work unpleasant and again in the cooler months. In communities such as [Al Furjan](/areas/al-furjan), a regular rhythm also keeps the garage usable for a car.",
+          "Landlords, holiday-home hosts and offices book differently because their triggers are external: tenant turnovers, guest reviews, desk moves and equipment refreshes. For those, the event sets the date and the rhythm follows the turnover calendar rather than the season.",
+        ],
+      },
+      {
+        heading: "Know the signs it is time to book now",
+        content: [
+          "Book without waiting for the next planned clear-out if outgoing items are blocking a door or exit, sitting on a balcony where they could be blown or fall, spoiling in the heat, attracting pests, or breaking building rules. The same applies when a move, handover, renovation or new furniture delivery has a fixed date.",
+          "Also book when the holding area has started to spread. Once a second spare room or the car's half of the garage is taken over, the next clear-out has already become a bigger job than it needed to be.",
+          "Our [junk removal service](/services/junk-removal-dubai) handles planned and one-off loads of mixed household items, and the [house clearance service](/services/house-clearance-dubai) suits a whole-property clear-out when a holding area has turned into several rooms. [Send photos of what is waiting](/contact) and we will quote the whole load in one go.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["dubai-marina", "al-furjan"],
+  },
+  {
+    slug: "rubbish-removal-after-a-party-or-event-at-home-dubai",
+    title: "Rubbish Removal After a Party or Event at Home in Dubai",
+    seoTitle: "Rubbish Removal After a Home Party or Event in Dubai",
+    excerpt:
+      "Plan rubbish removal after a party or event at home in Dubai: sort waste on the night, keep hired items apart and avoid overloading your building's bins.",
+    category: "Guides",
+    tags: ["Party Clean-Up", "Event Waste", "Household Rubbish", "Recycling", "Dubai"],
+    coverImage: "/images/blog/recycle-household-waste-dubai-hero.webp",
+    coverImageAlt:
+      "Family sorting cardboard, cans, plastic bottles and electronics into separate containers in a Dubai apartment",
+    publishedAt: "2026-11-16",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Set up separate bags for food waste, recyclables and general rubbish before guests arrive, not after the last one leaves.",
+      "Clear food and drink waste the same night; leave decorations, packaging and furniture for a calm morning sort.",
+      "Keep hired tables, chairs, tents, heaters and helium cylinders completely apart from rubbish so nothing rented is thrown away.",
+      "Check what your building or community bins can take before stuffing them; a large event can produce more waste than a shared bin room is meant to absorb.",
+    ],
+    sections: [
+      {
+        heading: "How to handle rubbish removal after a party at home",
+        content: [
+          "For rubbish removal after a party or event at home in Dubai, separate food waste, recyclables and general rubbish while the event runs, clear food and drink waste the same night, then sort decorations, packaging and broken items the next morning. Keep hired equipment apart, check your building's bin rules and book a collection for anything too bulky or too much for the shared bins. Checked on 16/11/2026.",
+          "A birthday, a family gathering during Eid, a graduation dinner or a large barbecue in the garden can easily produce more rubbish in one evening than a household makes in a week. Most of it is light but bulky: cups, plates, food trays, cardboard boxes, bottles, cans, balloons and banners. The problem is rarely the type of waste; it is the volume arriving at once.",
+          "This guide is about the clean-up after a one-off event. For everyday separation at home, see the [household recycling guide](/blog/how-to-recycle-household-waste-in-dubai).",
+        ],
+        callout: {
+          title: "Check the hired items before anything is bagged",
+          text: "Rented chairs, table linen, tent parts, patio heaters, speakers and helium cylinders go back to the supplier. Count them and put them in one room or corner before the clean-up starts, so nothing hired ends up crushed in a rubbish bag or loaded into a collection.",
+        },
+      },
+      {
+        heading: "Set up the bags before guests arrive",
+        content: [
+          "Put out at least three clearly marked containers near where people eat and drink: food and wet waste, recyclables such as cans, plastic bottles and clean cardboard, and general rubbish. Line each one with a strong bag and keep spare bags nearby. Guests will use a sensible system if it is obvious; they will not sort a single overflowing bin afterwards.",
+          "Keep glass separate and out of the main bags. A bag of wet plates with broken glass inside will cut whoever carries it to the bin room. Use a sturdy box or crate for bottles and jars.",
+          "If there is a barbecue, plan for the coals and ash. Let them cool completely, ideally until the next day, before bagging. Hot ash in a plastic bag inside a shared bin room is a genuine fire risk.",
+        ],
+      },
+      {
+        heading: "Clear food waste the same night, sort the rest in the morning",
+        content: [
+          "Food scraps, half-finished drinks and greasy trays are the urgent part. In Dubai's climate they smell within hours and attract ants and cockroaches by morning. Drain drinks into the sink, scrape plates into the food-waste bag, tie it off and take it to the bin room or outside bin before bed.",
+          "Used cooking oil from frying should not go down the sink or into the bin bag. Let it cool, pour it into a sealed bottle and follow the [used cooking oil guide](/blog/how-to-dispose-of-used-cooking-oil-in-dubai). Gas cylinders from a barbecue or outdoor stove belong with the supplier, as explained in the [gas cylinder guide](/blog/how-to-dispose-of-gas-cylinders-in-dubai).",
+          "Everything else can wait for daylight. Decorations, packaging, flattened boxes and any broken furniture are easier to sort when you can see what is reusable. Rinse and flatten recyclables so they take less space.",
+        ],
+        image: {
+          src: "/images/blog/dubai-apartment-recycling-route.webp",
+          alt: "Resident placing a plastic bottle into a colour-coded recycling bin in a Dubai residential building waste room with cardboard and glass stored on shelves",
+        },
+      },
+      {
+        heading: "Do not overload the building's bins and chutes",
+        content: [
+          "Shared bin rooms and chutes are sized for normal daily use. Twenty bags left in a tower's waste room on one evening can block the room for other residents and break building rules. Large or heavy bags, boxes and anything with glass inside can jam a chute. Check your building's guidance and, for a big event, ask the management office whether there is a set time or place for extra bags.",
+          "In a tower in [Jumeirah Lake Towers](/areas/jumeirah-lake-towers), that may mean spreading bags over a couple of days or arranging a collection from your door. On a villa plot on [Palm Jumeirah](/areas/palm-jumeirah), it often means not leaving overflow bags out on the street where they will be torn open, and keeping them in a garage or behind the gate until they are collected.",
+          "Never leave event rubbish beside a full community bin or on a pavement. It counts as dumping, it blows around, and it is the first thing neighbours complain about.",
+        ],
+      },
+      {
+        heading: "Book a collection for what the bins cannot take",
+        content: [
+          "After a large event there is often a residue the household bins are not meant for: broken folding tables, a collapsed gazebo you owned, dozens of flattened boxes, stacks of single-use trays, or garden furniture that did not survive the night. These are worth one collection rather than weeks of sneaking extra bags into the bin room.",
+          "Group what is leaving in one spot, count the bags and items, and photograph them. Add any bulky items you have been meaning to get rid of anyway; the vehicle is coming regardless.",
+          "Our [rubbish removal service](/services/rubbish-removal-dubai) collects bagged and loose post-event waste, and the [same-day junk removal service](/services/same-day-junk-removal-dubai) helps when a rental property or hired venue must be clear the next morning. [Send photos of the pile and your building details](/contact) for a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["rubbish-removal-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["jumeirah-lake-towers", "palm-jumeirah"],
+  },
+  {
     slug: "how-to-sell-antique-furniture-dubai",
     title: "How to Sell Antique Furniture in Dubai Without Undervaluing It",
     seoTitle: "How to Sell Antique Furniture in Dubai: A Safe Plan",
@@ -9577,6 +9802,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "The best time to book junk removal in Dubai is the first approved morning or mid-morning slot that gives the crew legal access, a reserved lift or loading bay, and enough time to finish before your deadline. For planned clearances, book before the final clean—not on handover day.",
           "There is no universal perfect hour. A villa garage in September, a forty-storey apartment with a two-hour service-lift booking, and an office restricted to evenings each need a different schedule. Access rules come first, then heat, parking, traffic, load complexity, and your fallback time.",
+          "This guide is about choosing the slot. If the real question is how many collections a year your household needs, the [junk-removal frequency guide](/blog/how-often-should-you-book-junk-removal-dubai) explains holding areas, booking triggers and typical rhythms for apartments and villas.",
         ],
         callout: {
           title: "The best slot has a buffer after it",
@@ -10358,6 +10584,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "Walk to the waste room or ask reception, security or the facilities manager who collects the recycling and what that contractor accepts. Photograph the current instructions so everyone in the household follows the same rules. In a tower, also ask whether recycling is available on each floor, in a basement room or at a central loading bay.",
           "Residents in [Dubai Marina](/areas/dubai-marina) may have a shared high-rise collection room, while villas in [Arabian Ranches](/areas/arabian-ranches) may use community bins or scheduled contractor collections. Neither format tells you automatically which plastics, glass or cartons are accepted. The operator's current acceptance list is the deciding factor.",
           "If your building has no separate route, do not place a bag marked ‘recycling’ into the general chute and assume it will be recovered later. Choose a nearby public collection point or a verified private collector, and store only the amount you can transfer regularly without blocking balconies, corridors or utility rooms.",
+          "A single large gathering can overwhelm this routine in one evening. The [post-party rubbish plan](/blog/rubbish-removal-after-a-party-or-event-at-home-dubai) covers setting up bags before guests arrive, clearing food waste the same night and keeping the shared bin room usable.",
         ],
       },
       {
@@ -11909,7 +12136,7 @@ export const BLOG_POSTS: BlogPost[] = [
           "To dispose of garden waste in Dubai, separate plant material from soil and garden hardware, check your property's collection arrangements, and book a collector that accepts the actual load. Confirm containers, access and the receiving route before putting anything outside. This guide was checked on 19/09/2026.",
           "A post-pruning pile is rarely one material. Leaves and grass sit beside woody branches, fibrous palm fronds, roots, plastic ties and broken pots. Mixing them makes the collection harder to price and can prevent a clean plant stream from reaching a suitable processing route.",
           "Dubai Municipality's [waste classification overview](https://www.dm.gov.ae/rasid/hazardous-waste-management/) identifies green or horticultural waste separately from general, construction, liquid and hazardous wastes. That distinction is useful when describing your load; it does not mean every collection service accepts every garden item.",
-          "This guide covers disposal after garden work. For deciding what else to clear from garages and terraces, use the [seasonal home and garden checklist](/blog/spring-cleaning-junk-removal-checklist-dubai).",
+          "This guide covers disposal after garden work. For deciding what else to clear from garages and terraces, use the [seasonal home and garden checklist](/blog/spring-cleaning-junk-removal-checklist-dubai). When the cooler months arrive and beds need preparing for new plants, follow the [pre-planting garden clean-up sequence](/blog/garden-clean-up-before-the-planting-season-dubai).",
         ],
       },
       {

@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-14**
+Last synchronized: **2026-11-16**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -195,10 +195,14 @@ Canonical implementation: `data/blog.ts`
 | 188 | `how to sell antique furniture in dubai`                                  | Informational              | `/blog/how-to-sell-antique-furniture-dubai`                                     | 2026-11-14 | Published |
 | 189 | `junk removal for landlords between tenants in dubai`                     | Informational              | `/blog/junk-removal-for-landlords-between-tenants-dubai`                        | 2026-11-14 | Published |
 | 190 | `how to dispose of old marble and stone tabletops in dubai`               | Informational              | `/blog/how-to-dispose-of-old-marble-and-stone-tabletops-dubai`                  | 2026-11-14 | Published |
+| 191 | `garden clean up before the planting season in dubai`                     | Informational              | `/blog/garden-clean-up-before-the-planting-season-dubai`                        | 2026-11-16 | Published |
+| 192 | `how often should you book junk removal`                                  | Informational              | `/blog/how-often-should-you-book-junk-removal-dubai`                            | 2026-11-16 | Published |
+| 193 | `rubbish removal after a party or event at home in dubai`                 | Informational              | `/blog/rubbish-removal-after-a-party-or-event-at-home-dubai`                    | 2026-11-16 | Published |
 
 ## Current counts
 
-- Published: **190**
+- Published: **193**
+- Published on 2026-11-16: **3**
 - Published on 2026-11-14: **3**
 - Published on 2026-11-13: **3**
 - Published on 2026-11-12: **3**
@@ -233,9 +237,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **130**
-- Service-support queue written: **36 / 90**
-- Next approved priority: **Day 13 (16/11/2026): planting-season garden clean-up, recurring junk-removal timing, and post-event rubbish removal.**
+- Supplemental approved articles published: **133**
+- Service-support queue written: **39 / 90**
+- Next approved priority: **Day 14 (17/11/2026): old-villa clearance before demolition or rebuild, helping elderly parents declutter, and responding to building-management removal notices.**
+
+## Cannibalization notes for 2026-11-16 batch
+
+- The planting-season guide owns the seasonal sequence for preparing a garden after summer: plant-by-plant assessment, clearing order (plants, then soil and pots, then irrigation), staging for one collection and booking removal before nursery deliveries. The garden-waste disposal guide retains sorting and routes for a pruning pile; soil, plant-pot, dead-palm and irrigation guides retain their item-specific handling. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The booking-frequency guide owns how many collections a household needs: why small frequent pickups are poor value, the holding-area-and-trigger method, typical rhythms by household type and signs to book immediately. The best-time guide retains choice of day, hour and slot; the spring-cleaning checklist retains room-by-room seasonal sorting. Commercial intent stays with `/services/junk-removal-dubai`.
+- The post-event guide owns one-off party waste at home: bag setup before guests arrive, same-night food waste, hired-item separation, shared bin-room and chute limits, and a collection for the residue. The household-recycling guide retains everyday separation; cooking-oil and gas-cylinder guides retain those routes. Commercial intent stays with `/services/rubbish-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the garden-waste disposal, best-time-to-book and household-recycling guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-16.md`.
 
 ## Cannibalization notes for 2026-11-14 batch
 
