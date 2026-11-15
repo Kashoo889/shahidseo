@@ -4,8 +4,8 @@ import { SERVICES } from "@/data/services";
 import { getPublishedBlogPosts } from "@/data/blog";
 import { siteConfig } from "@/lib/seo";
 
-// ISR: regenerate hourly so scheduled posts appear once their date arrives.
-export const revalidate = 3600;
+// ISR: daily fallback regeneration; the daily cron (/api/revalidate) refreshes it at Dubai midnight.
+export const revalidate = 86400;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

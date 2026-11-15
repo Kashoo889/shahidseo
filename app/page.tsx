@@ -9,7 +9,8 @@ export const metadata: Metadata = createMetadata({
   path: "/",
 });
 
-// ISR: the "latest articles" widget re-checks hourly for newly live posts.
-export const revalidate = 3600;
+// ISR: the "latest articles" widget re-checks daily (fallback); the daily
+// /api/revalidate cron refreshes it at Dubai midnight when scheduled posts go live.
+export const revalidate = 86400;
 
 export default Home;

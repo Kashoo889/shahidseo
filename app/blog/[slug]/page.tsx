@@ -4,10 +4,11 @@ import { getAllBlogPosts, getBlogPost, getRecentBlogPosts } from "@/data/blog";
 import { BlogPageTemplate } from "@/components/templates/BlogPageTemplate";
 import { createMetadata } from "@/lib/seo";
 
-// ISR: re-check hourly so scheduled (future-dated) posts go live without a
+// ISR: daily fallback + daily /api/revalidate cron at Dubai midnight, so
+// scheduled (future-dated) posts go live without a
 // redeploy. dynamicParams stays true (default) so a slug not prebuilt at build
 // time is rendered on demand once its publish date has passed.
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 type Props = {
   params: Promise<{ slug: string }>;

@@ -3,8 +3,9 @@ import { createMetadata } from "@/lib/seo";
 import { Blog } from "@/components/page-content/Blog";
 import { BLOG_CATEGORIES, getAllBlogPosts } from "@/data/blog";
 
-// ISR: re-check hourly so scheduled posts go live without a redeploy.
-export const revalidate = 3600;
+// ISR: daily fallback re-render. Scheduled posts go live just after midnight (Asia/Dubai) via
+// the daily cron in vercel.json -> /api/revalidate, which revalidates the blog routes.
+export const revalidate = 86400;
 
 export const metadata: Metadata = createMetadata({
   title: "EcoHaul Dubai Blog | Sustainable Junk Removal Guides & Insights",
