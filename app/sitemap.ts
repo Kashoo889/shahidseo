@@ -1,8 +1,11 @@
 import type { MetadataRoute } from "next";
 import { AREAS } from "@/data/areas";
 import { SERVICES } from "@/data/services";
-import { BLOG_POSTS } from "@/data/blog";
+import { getPublishedBlogPosts } from "@/data/blog";
 import { siteConfig } from "@/lib/seo";
+
+// ISR: regenerate hourly so scheduled posts appear once their date arrives.
+export const revalidate = 3600;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -54,7 +57,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   // Specific Blog Articles
-  const blogEntries: MetadataRoute.Sitemap = BLOG_POSTS.map((post) => ({
+  const blogEntries: MetadataRoute.Sitemap = getPublishedBlogPosts().map((post) => ({
     url: `${siteConfig.url}/blog/${post.slug}`,
     lastModified: new Date(post.updatedAt || post.publishedAt),
     changeFrequency: "monthly",

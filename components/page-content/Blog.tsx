@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Search, BookOpen, Sparkles } from "lucide-react";
-import { BLOG_CATEGORIES, getAllBlogPosts } from "@/data/blog";
+import type { BlogPost } from "@/data/blog";
 import { blogCollectionPageSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
 import { Seo } from "@/components/Seo";
 import { Container } from "@/components/ui/Container";
@@ -10,11 +10,19 @@ import { Breadcrumbs } from "@/components/sections/Breadcrumbs";
 import { BlogCard } from "@/components/sections/BlogCard";
 import { CTASection } from "@/components/sections/CTASection";
 
-export function Blog() {
+// Posts are filtered for scheduled publishing on the server (app/blog/page.tsx)
+// and passed in, so future-dated posts never reach the client.
+export function Blog({
+  posts,
+  categories,
+}: {
+  posts: BlogPost[];
+  categories: BlogPost["category"][];
+}) {
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [searchQuery, setSearchQuery] = useState<string>("");
 
-  const allPosts = getAllBlogPosts();
+  const allPosts = posts;
   const featuredPost = allPosts[0];
 
   const filteredPosts = allPosts.filter((post) => {
@@ -105,7 +113,7 @@ export function Blog() {
               >
                 All Articles ({allPosts.length})
               </button>
-              {BLOG_CATEGORIES.map((cat) => {
+              {categories.map((cat) => {
                 const count = allPosts.filter((p) => p.category === cat).length;
                 return (
                   <button

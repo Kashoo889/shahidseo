@@ -15,7 +15,6 @@ import {
   Wrench,
 } from "lucide-react";
 import type { BlogPost } from "@/data/blog";
-import { getRecentBlogPosts } from "@/data/blog";
 import { SERVICES } from "@/data/services";
 import { AREAS } from "@/data/areas";
 import { blogPostingSchema, breadcrumbSchema, webPageSchema } from "@/lib/schema";
@@ -27,6 +26,8 @@ import { CTASection } from "@/components/sections/CTASection";
 
 interface BlogPageTemplateProps {
   post: BlogPost;
+  /** Published-only related posts, computed on the server. */
+  recentPosts: BlogPost[];
 }
 
 function RichParagraph({ text }: { text: string }) {
@@ -55,9 +56,8 @@ function RichParagraph({ text }: { text: string }) {
   );
 }
 
-export function BlogPageTemplate({ post }: BlogPageTemplateProps) {
+export function BlogPageTemplate({ post, recentPosts }: BlogPageTemplateProps) {
   const [copied, setCopied] = useState(false);
-  const recentPosts = getRecentBlogPosts(3, post.slug);
 
   const breadcrumbs = [
     { name: "Home", path: "/" },

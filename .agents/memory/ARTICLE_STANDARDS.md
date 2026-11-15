@@ -10,3 +10,7 @@ The complete article rules remain canonical in:
 4. `ARTICLE_REGISTRY.md` — published keyword-to-URL mappings and counts.
 
 No article may publish unless it passes the final editorial checklist in `content-rules.md` and the eight-point image checklist in `image-standards.md`.
+
+## Scheduled publishing
+
+Set the publish date (`publishedAt`, `YYYY-MM-DD` in `data/blog.ts`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically within ~1 hour. Logic: `lib/publish.ts` (`isPublished`).

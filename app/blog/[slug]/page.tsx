@@ -1,15 +1,20 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { BLOG_POSTS, getBlogPost } from "@/data/blog";
+import { getAllBlogPosts, getBlogPost, getRecentBlogPosts } from "@/data/blog";
 import { BlogPageTemplate } from "@/components/templates/BlogPageTemplate";
 import { createMetadata } from "@/lib/seo";
+
+// ISR: re-check hourly so scheduled (future-dated) posts go live without a
+// redeploy. dynamicParams stays true (default) so a slug not prebuilt at build
+// time is rendered on demand once its publish date has passed.
+export const revalidate = 3600;
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
 export function generateStaticParams() {
-  return BLOG_POSTS.map((post) => ({ slug: post.slug }));
+  return getAllBlogPosts().map((post) => ({ slug: post.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -41,5 +46,5 @@ export default async function BlogDetailPage({ params }: Props) {
     notFound();
   }
 
-  return <BlogPageTemplate post={post} />;
+  return <BlogPageTemplate post={post} recentPosts={getRecentBlogPosts(3, post.slug)} />;
 }

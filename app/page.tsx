@@ -9,4 +9,7 @@ export const metadata: Metadata = createMetadata({
   path: "/",
 });
 
+// ISR: the "latest articles" widget re-checks hourly for newly live posts.
+export const revalidate = 3600;
+
 export default Home;

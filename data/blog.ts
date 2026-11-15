@@ -1,3 +1,5 @@
+import { isPublished } from "@/lib/publish";
+
 export type BlogAuthor = {
   name: string;
   role: string;
@@ -17440,20 +17442,30 @@ export const BLOG_POSTS: BlogPost[] = [
   },
 ];
 
+/**
+ * Scheduled publishing: posts whose publishedAt is in the future (Asia/Dubai
+ * calendar date) are deployed but hidden from every public accessor below
+ * until their date arrives. BLOG_POSTS remains the raw, unfiltered list for
+ * internal use only; public surfaces must use these helpers.
+ */
+export const getPublishedBlogPosts = (now: Date = new Date()): BlogPost[] =>
+  BLOG_POSTS.filter((p) => isPublished(p.publishedAt, now));
+
 export const getBlogPost = (slug: string): BlogPost | null =>
-  BLOG_POSTS.find((p) => p.slug === slug) ?? null;
+  getPublishedBlogPosts().find((p) => p.slug === slug) ?? null;
 
 export const getAllBlogPosts = (): BlogPost[] =>
-  [...BLOG_POSTS].sort(
+  getPublishedBlogPosts().sort(
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
   );
 
 export const getRecentBlogPosts = (limit = 3, excludeSlug?: string): BlogPost[] =>
-  BLOG_POSTS.filter((p) => p.slug !== excludeSlug)
+  getPublishedBlogPosts()
+    .filter((p) => p.slug !== excludeSlug)
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
     .slice(0, limit);
 
 export const getPostsByCategory = (category: string): BlogPost[] => {
   if (category === "All") return getAllBlogPosts();
-  return BLOG_POSTS.filter((p) => p.category === category);
+  return getPublishedBlogPosts().filter((p) => p.category === category);
 };
