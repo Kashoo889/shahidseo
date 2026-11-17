@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-16**
+Last synchronized: **2026-11-17**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -198,10 +198,14 @@ Canonical implementation: `data/blog.ts`
 | 191 | `garden clean up before the planting season in dubai`                     | Informational              | `/blog/garden-clean-up-before-the-planting-season-dubai`                        | 2026-11-16 | Published |
 | 192 | `how often should you book junk removal`                                  | Informational              | `/blog/how-often-should-you-book-junk-removal-dubai`                            | 2026-11-16 | Published |
 | 193 | `rubbish removal after a party or event at home in dubai`                 | Informational              | `/blog/rubbish-removal-after-a-party-or-event-at-home-dubai`                    | 2026-11-16 | Published |
+| 194 | `how to clear an old villa before demolition or rebuild`                  | Informational              | `/blog/how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai`            | 2026-11-17 | Published |
+| 195 | `how to help elderly parents declutter in dubai`                          | Informational              | `/blog/how-to-help-elderly-parents-declutter-dubai`                             | 2026-11-17 | Published |
+| 196 | `what to do when building management asks you to remove items`            | Informational              | `/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai`      | 2026-11-17 | Published |
 
 ## Current counts
 
-- Published: **193**
+- Published: **196**
+- Published on 2026-11-17: **3**
 - Published on 2026-11-16: **3**
 - Published on 2026-11-14: **3**
 - Published on 2026-11-13: **3**
@@ -238,8 +242,16 @@ Canonical implementation: `data/blog.ts`
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
 - Supplemental approved articles published: **133**
-- Service-support queue written: **39 / 90**
-- Next approved priority: **Day 14 (17/11/2026): old-villa clearance before demolition or rebuild, helping elderly parents declutter, and responding to building-management removal notices.**
+- Service-support queue written: **42 / 90**
+- Next approved priority: **Day 15 (18/11/2026): furniture movers will not ship abroad, grass cuttings, and tower storage-cage clearance.**
+
+## Cannibalization notes for 2026-11-17 batch
+
+- The pre-demolition villa guide owns the boundary and sequence before works begin: authorised room schedule, loose contents, project-approved salvage, contractor-controlled fixtures and documented site handover. The renovation-waste guide retains rubble after work begins; the long-empty villa guide retains safe re-entry after vacancy. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The elderly-parent guide owns the family process: consent, a safety-first pass, small sessions, reversible pause decisions, named family collection deadlines and owner-approved removal. The general room-by-room guide retains the standard household sequence; the villa-to-apartment guide retains destination measurement and fit. Commercial intent stays with `/services/junk-removal-dubai`.
+- The building-notice guide owns a resident's response to a notice about identified belongings: verify the notice and ownership, choose a deadline-compatible route, obtain building access, and close with evidence. The waste-rules guide retains the general legal and material framework; the junk-without-a-car guide retains transport-route comparison. Commercial intent stays with `/services/same-day-junk-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides, current official Dubai guidance where needed and `/contact`. Contextual inbound links were added from the long-empty villa, room-by-room decluttering and waste-disposal-rules guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-17.md`.
 
 ## Cannibalization notes for 2026-11-16 batch
 
