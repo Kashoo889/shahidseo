@@ -51,6 +51,225 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai",
+    title: "What to Do With Furniture Your Movers Will Not Ship Abroad From Dubai",
+    seoTitle: "Furniture Your Movers Will Not Ship Abroad: What to Do",
+    excerpt:
+      "What to do with furniture your movers will not ship abroad: find out why it was excluded, then sell, donate or book removal before the packers arrive.",
+    category: "Moving & Clearance",
+    tags: ["International Move", "Furniture", "Shipping Exclusions", "Sell or Donate", "Dubai"],
+    coverImage: "/images/blog/combined-item-truck-volume-quote-dubai.webp",
+    coverImageAlt:
+      "Crew member measuring an armchair beside cartons, a fridge and dismantled bed-frame timber while others load a removal truck outside a Dubai tower",
+    publishedAt: "2026-11-18",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Ask the mover to state in writing why each piece is excluded; a safety or customs exclusion needs a different answer from a space or value decision.",
+      "Give every excluded item its own deadline that ends several days before the packing date, not on the day the container is loaded.",
+      "Flat-pack furniture is usually worth more assembled and photographed in your home than dismantled in a corner of the packing zone.",
+      "Keep excluded items physically apart from the shipment and book their collection for a different time slot from the packers.",
+    ],
+    sections: [
+      {
+        heading: "What to do with furniture your movers will not ship abroad",
+        content: [
+          "When your movers will not ship a piece of furniture abroad, first get the reason in writing: a destination restriction, a safety exclusion, a container-space limit or a cost decision. Then give each item one route—sell, donate, give to a named person or book removal—with a deadline a few days before the packers arrive. Keep excluded pieces apart from the shipment and collect them in their own slot. Checked on 18/11/2026.",
+          "The surprise usually comes during the pre-move survey. The surveyor walks the home, prices the volume and quietly marks the outdoor sofa, the cheap wardrobe and the old fridge as 'not recommended'. Families often accept the shipping quote and forget that those exclusions still need a plan while the clock runs down to the flight.",
+          "This guide owns the excluded-furniture decision during an international move. The [leaving Dubai for good guide](/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai) retains the wider household departure sequence, and the [used-furniture selling guide](/blog/how-to-sell-or-donate-used-furniture-in-dubai) covers pricing and buyer handling in more depth.",
+        ],
+        callout: {
+          title: "Never hide an excluded item inside the shipment",
+          text: "If a mover has refused an item for safety or customs reasons, packing it into a wardrobe carton or a sofa void can delay the whole consignment at inspection and may breach the shipping contract. Resolve it locally instead.",
+        },
+      },
+      {
+        heading: "Find out which kind of exclusion you are dealing with",
+        content: [
+          "Movers decline furniture for broadly four reasons, and each leads to a different decision. Read the survey notes and ask the move coordinator to confirm the reason for every line rather than relying on a verbal comment made in a hallway.",
+        ],
+        listItems: [
+          "Safety: items that contain or held fuel, gas, refrigerant, aerosols, paint or large batteries—garden heaters, barbecue units, motorised recliners, some appliances. These need emptying, a specialist route or local disposal.",
+          "Destination rules: soil, plant matter, untreated timber, cane, wicker or anything with signs of pests may face inspection, treatment or refusal at the destination. Outdoor furniture straight from a Dubai garden is the usual example.",
+          "Condition: broken frames, swollen chipboard and stained upholstery that are unlikely to survive the journey or be worth unpacking.",
+          "Space and value: the piece is legal to ship but would push you into a larger container or cost more to export than to replace.",
+        ],
+      },
+      {
+        heading: "Decide between selling, donating and removal by deadline",
+        content: [
+          "Work backwards from the packing date, not from the flight. Selling needs the most time because buyers want photographs, dimensions and a collection slot that fits your building rules. If an item has not sold by its deadline, move it to donation; if a donation is not confirmed by the next date, move it to the removal list. One rule, applied without negotiation, stops the last week filling with half-finished listings.",
+          "Flat-pack furniture is the common trap. It is cheap to buy, expensive per cubic metre to ship and loses value once dismantled. Photograph it assembled in good light and let the buyer dismantle it at collection. If nobody wants it, the [flat-pack dismantling guide](/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai) explains how to prepare it for a crew without losing fixings.",
+          "Donation suits clean, complete, usable pieces whose recipient has confirmed acceptance and transport. Read the [charity furniture collection guide](/blog/charity-furniture-collection-and-donation-dubai) before promising a mattress, a heavily used sofa or a fridge to a charity; acceptance standards are stricter than many families expect.",
+          "Appliances deserve their own check. A Dubai washing machine or fridge built for 220–240 V supply may need a transformer or be unsuitable in a destination with different voltage or plugs, which is one reason movers question shipping them. Sell or donate working units locally and keep their manuals and fittings together.",
+        ],
+        image: {
+          src: "/images/blog/leaving-dubai-inventory-destination-sorting.webp",
+          alt: "Resident photographing a living room where cartons, suitcases, wrapped furniture and small electronics are grouped behind ship, sell, donate and recycle signs",
+        },
+      },
+      {
+        heading: "Keep excluded pieces out of the packing zone",
+        content: [
+          "Packers move quickly and treat everything in a cleared room as part of the job. Put excluded furniture in a separate room, the maid's room or the balcony if building rules allow, and label it 'NOT SHIPPING' on two sides. Give the crew leader a printed list and walk them through it before packing starts.",
+          "Do not book the removal crew in the same time slot as the packers. Two crews competing for one service lift and one corridor slows both and creates the risk of a shipped item leaving in the wrong truck. Collection the day before packing, or after the container has been sealed, is usually cleaner. If your shipping date moves, the [guide to movers cancelling on the day](/blog/what-to-do-if-your-movers-cancel-on-moving-day-dubai) covers rebooking around the same access windows.",
+          "Keep one bed, a table and the essentials you need for the final nights off both lists until the end. Decide in advance who collects them and when; they are the pieces most often left behind for the landlord to discover.",
+        ],
+      },
+      {
+        heading: "Book the final collection around building access",
+        content: [
+          "In a [Palm Jumeirah](/areas/palm-jumeirah) apartment, the service lift may already be booked for the shipping crew, so request a separate slot for the removal or schedule it the following morning. In [Jumeirah Village Circle](/areas/jumeirah-village-circle), smaller buildings often have limited loading space, so confirm where the truck can stop before the day.",
+          "Our [furniture removal service](/services/furniture-removal-dubai) collects the pieces your mover has excluded, and the [house clearance team](/services/house-clearance-dubai) can take everything left once the shipment, sales and donations have gone. [Send the mover's exclusion list with photos and your packing date](/contact) and we will quote a fixed price for the collection.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "house-clearance-dubai"],
+    relatedAreas: ["palm-jumeirah", "jumeirah-village-circle"],
+  },
+  {
+    slug: "what-to-do-with-grass-cuttings-dubai",
+    title: "What to Do With Grass Cuttings in Dubai: Leave, Mulch, Compost or Bag",
+    seoTitle: "What to Do With Grass Cuttings in Dubai: 4 Options",
+    excerpt:
+      "What to do with grass cuttings in Dubai: when to leave them on the lawn, how to mulch or compost them safely and how to bag the rest for collection.",
+    category: "Eco & Recycling",
+    tags: ["Grass Cuttings", "Lawn Care", "Mulching", "Composting", "Garden Waste", "Dubai"],
+    coverImage: "/images/blog/garden-streams-dubai-20260919-body.webp",
+    coverImageAlt:
+      "Container of fresh green cuttings beside dry leaves, bundled branches and palm fronds while a worker measures a villa side gate",
+    publishedAt: "2026-11-18",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Short, regular cuts can usually stay on the lawn; it is the long, wet clumps after a missed mow that need removing.",
+      "Use cuttings as mulch only in thin, dry layers and never from a lawn recently treated with weedkiller or pesticide.",
+      "In a compost bin, mix fresh grass with dry leaves or cardboard; a pile of grass alone turns wet and smelly within days in Dubai heat.",
+      "Bag surplus cuttings separately from soil, branches and general waste, and keep the bags shaded until the collection arrives.",
+    ],
+    sections: [
+      {
+        heading: "What to do with grass cuttings in Dubai",
+        content: [
+          "In Dubai, most grass cuttings from a regular mow can be left on the lawn to break down. Long or clumped cuttings can be dried and used as a thin mulch on beds, mixed into compost with dry leaves, or bagged separately for green-waste collection. Never dump them on open land, in a building waste room or in recyclables bins. Checked on 18/11/2026.",
+          "The right choice depends on how often the lawn is cut and how much material comes off it. A small villa lawn cut weekly produces short clippings that disappear within days. The same lawn left for three weeks, then cut hard, produces a thick, wet mat that will smother the grass if left where it falls.",
+          "This guide owns real-lawn clippings. The [garden waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) retains the wider sorting of fronds, branches and soil, while the [artificial grass guide](/blog/how-to-dispose-of-old-artificial-grass-in-dubai) covers synthetic turf that is being lifted and replaced.",
+        ],
+        callout: {
+          title: "Cooler months change the volume",
+          text: "Warm-season lawns common in Dubai gardens, such as Bermuda and paspalum, grow hard in summer and slow as nights cool. If your gardener overseeds for winter, the extra mowing that follows produces more cuttings than usual, so plan the route before it starts.",
+        },
+      },
+      {
+        heading: "Leave short cuttings on the lawn",
+        content: [
+          "Leaving clippings on the lawn returns moisture and nutrients to the soil and saves bagging. It works when the mower takes off no more than about a third of the blade height and the cuttings are short enough to fall between the grass. A mulching mower or a second pass to break up the clippings helps.",
+          "Rake off anything that sits on top in clumps, especially after rain or heavy irrigation. Wet clumps block light and air, yellow the grass underneath and can encourage fungal problems. If the lawn already has disease or a pest issue, ask your gardener before returning any clippings to it.",
+          "Check your irrigation at the same time. Clippings break down well on a lawn watered evenly; over-watered patches stay soggy and a clump sitting on a broken dripper line hides the problem until the grass dies.",
+        ],
+        image: {
+          src: "/images/blog/old-irrigation-pipes-drippers-dubai-hero.webp",
+          alt: "Gardener lifting an old drip-irrigation line from a planting bed beside a lawn, with coiled pipe, valves and a controller laid on a tarpaulin",
+        },
+      },
+      {
+        heading: "Use dried cuttings as a thin mulch",
+        content: [
+          "Spread cuttings to dry for a day in the shade, then lay them no more than a few centimetres deep around shrubs and on vegetable beds. A thin layer helps keep moisture in the soil during warm afternoons. A thick fresh layer does the opposite: it compacts, heats up, smells and can rot plant stems it touches.",
+          "Do not mulch with cuttings from a lawn treated recently with weedkiller or other chemicals, and keep them away from edible crops if you are unsure what was applied. Ask the landscaping company what product was used and how long to wait; the answer is on the product label, not in a general rule.",
+          "Keep cuttings away from seed heads of weeds you are trying to remove. Mulching with them simply plants the next problem in your beds.",
+        ],
+      },
+      {
+        heading: "Compost them with dry material",
+        content: [
+          "Fresh grass is wet and nitrogen-rich. On its own it collapses into a slimy, anaerobic layer that attracts flies within days in Dubai heat. Mix it with roughly equal or greater volumes of dry, carbon-rich material: shredded dry leaves, small twigs, plain cardboard or paper. Turn the pile regularly and keep it moist rather than wet.",
+          "Place the bin in shade, away from a neighbour's wall, and check whether your community or tenancy rules allow it. A compost bin in a small townhouse garden in [Mirdif](/areas/mirdif) needs more care about smell and pests than a bay at the back of a large plot in [The Meadows](/areas/the-meadows).",
+        ],
+      },
+      {
+        heading: "Bag the surplus for collection",
+        content: [
+          "When the volume exceeds what the lawn and the compost bin can absorb, bag the cuttings in strong sacks, half-filled so they can be lifted. Keep them separate from soil, stones, branches, broken pots and general household waste, and store them in shade. Wet grass in a sealed black bag heats up and starts to smell within a day or two.",
+          "Check how your community collects green waste before buying bags; some master developers and landscaping contracts take garden material on set days, while others leave it to residents. Dubai's waste law, [Law No. 18 of 2024](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20%2818%29%20of%202024%20Regulating%20Waste%20Management.html), regulates how waste is sorted, transported and disposed of, so dumping cuttings on vacant land or beside the road is not an option.",
+          "Our [garden waste removal service](/services/garden-waste-removal-dubai) can collect bagged cuttings with the rest of a seasonal clear-out, and the [rubbish removal team](/services/rubbish-removal-dubai) handles mixed household bags on the same visit. Planning a full reset of the beds? The [pre-planting clean-up guide](/blog/garden-clean-up-before-the-planting-season-dubai) shows the order of work. [Send a photo of the bags and your access route](/contact) for a fixed quote.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["mirdif", "the-meadows"],
+  },
+  {
+    slug: "how-to-clear-a-tower-storage-cage-dubai",
+    title: "How to Clear a Tower Storage Cage in Dubai Without Breaking Building Rules",
+    seoTitle: "How to Clear a Tower Storage Cage in Dubai",
+    excerpt:
+      "How to clear a tower storage cage in Dubai: confirm the right cage, check for damp and pests, book the service lift and remove everything in one visit.",
+    category: "Moving & Clearance",
+    tags: ["Storage Cage", "Basement Storage", "Tower Living", "Building Rules", "Dubai"],
+    coverImage: "/images/blog/high-rise-service-lift-junk-removal-dubai.webp",
+    coverImageAlt:
+      "Removal worker wheeling a wrapped item out of a padded basement service lift while a building security officer records the collection",
+    publishedAt: "2026-11-18",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Confirm the cage number with building management before opening it; cage labels and apartment numbers rarely match.",
+      "Inspect the contents in daylight hours with good lighting and gloves, checking for damp, pest activity and anything that should not be stored.",
+      "Book the service lift and declare the collection with security; a basement route usually needs approval just like an apartment move.",
+      "Leave the cage empty, swept and photographed, and return any key or remove your own padlock the same day.",
+    ],
+    sections: [
+      {
+        heading: "How to clear a tower storage cage in Dubai",
+        content: [
+          "To clear a tower storage cage in Dubai, confirm the cage number and your right to it with building management, inspect the contents with gloves and a torch, and sort them into keep, sell or donate, and remove. Book the service lift and loading bay, declare the collection to security, then move everything in one visit and leave the cage empty, swept and photographed. Checked on 18/11/2026.",
+          "Storage cages are the mesh enclosures in a tower basement or car-park level that some buildings allocate to apartments. They fill slowly: a bicycle, a box of decorations, the packing crates from the last move, a previous tenant's leftovers. By the time a tenancy ends or management sends a notice, many residents have not opened theirs for a year.",
+          "This guide owns the building-cage job. The [storage unit clearance guide](/blog/how-to-clear-out-a-storage-unit-in-dubai) covers paid self-storage facilities and their contracts, while the [building management notice guide](/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai) covers responding to a formal request about items in shared areas.",
+        ],
+        callout: {
+          title: "Make sure it is your cage before anything leaves",
+          text: "Cage numbers often follow parking bays or a separate building schedule rather than apartment numbers. Ask management to confirm the allocation in writing; clearing the wrong cage removes a neighbour's property and creates a dispute that a photograph cannot undo.",
+        },
+      },
+      {
+        heading: "Confirm what belongs to whom",
+        content: [
+          "Check the tenancy contract or ownership records for the cage allocation and ask whether the landlord left anything inside that belongs with the apartment: spare tiles, paint for touch-ups, original light fittings or an AC part. These may be expected at handover.",
+          "If you inherited items from a previous tenant, tell management and the landlord before disposing of them. Photograph the cage as you first find it, including the label and the padlock, so the starting condition is on record.",
+        ],
+      },
+      {
+        heading: "Inspect the contents before you lift anything",
+        content: [
+          "Basements are dim, warm and sometimes humid. Bring a torch, gloves and a mask, and look before you lift. Cardboard boxes stored against a wall or on the floor may have softened from condensation or a leak and can split as you pick them up. Check for droppings, cockroaches, webbing and mould on fabric and mattresses.",
+          "Many building rules prohibit storing fuel, gas cylinders, paint, solvents and other flammables in basement cages. If you find any, set them aside, do not mix them with general contents and tell the collector before the day. The same applies to old batteries, e-scooter packs and anything swollen or leaking.",
+          "Sort as you go: items you want back in the apartment, items to sell or donate, and items for removal. Keep the removal pile inside the cage until the crew arrives; car-park walkways and fire exits are not a staging area.",
+        ],
+      },
+      {
+        heading: "Book the route from basement to truck",
+        content: [
+          "Ask management which service lift serves the basement level, which hours are permitted and whether lift protection is required. Many towers ask for the contractor's details and a move or removal approval before allowing furniture or bulk items through; the [permit guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) explains what is usually requested.",
+          "Do not plan on driving a truck down to the cage. Car-park ramps often have low height limits, so collection vehicles normally wait at the loading bay while the crew brings items up by lift. Measure long items, such as bed frames or shelving, against the lift door and car before the day, using the [lift and doorway fit guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) if a piece is borderline.",
+        ],
+        image: {
+          src: "/images/blog/measure-items-before-junk-pickup-dubai.webp",
+          alt: "Crew member measuring a padded service lift while a resident photographs prepared furniture, a washing machine and cartons in a Dubai tower lobby",
+        },
+      },
+      {
+        heading: "Clear in one visit and close the record",
+        content: [
+          "In a [Business Bay](/areas/business-bay) tower, loading-bay slots can be tight during working hours, so an early-morning or weekend booking usually moves faster. In [Jumeirah Beach Residence](/areas/jumeirah-beach-residence), check which tower and basement level your cage sits on; the nearest lift is not always the one approved for removals.",
+          "When the cage is empty, sweep it, photograph it with the label visible and send the photo to management. Return the key or remove your padlock as the building requires. Our [house clearance service](/services/house-clearance-dubai) can clear the cage together with an apartment at move-out, and the [bulky-item team](/services/bulky-item-removal-dubai) suits a single heavy piece such as a treadmill or wardrobe. [Send photos of the cage and the building's lift rules](/contact) for a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["house-clearance-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["business-bay", "jumeirah-beach-residence"],
+  },
+  {
     slug: "how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai",
     title: "How to Clear an Old Villa Before Demolition or Rebuild in Dubai",
     seoTitle: "How to Clear an Old Villa Before Demolition or Rebuild",
@@ -984,7 +1203,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Build one inventory with a destination and deadline",
         content: [
           "Walk the home by room and record furniture, appliances, cartons and anything fixed to a wall. For each line, name the owner, intended destination, decision deadline and person responsible. Photograph serial numbers and existing damage for valuable equipment, but keep identity documents and account details out of shared quote photos.",
-          "Measure the large pieces before paying to ship them. A sofa that suited a Dubai apartment may not pass through the destination doorway; a low-value flat-pack wardrobe can cost more to export than replace. Ask the mover what is excluded, how dismantling is treated and when the final packing list closes.",
+          "Measure the large pieces before paying to ship them. A sofa that suited a Dubai apartment may not pass through the destination doorway; a low-value flat-pack wardrobe can cost more to export than replace. Ask the mover what is excluded, how dismantling is treated and when the final packing list closes. For anything the surveyor rules out, the [plan for furniture your movers will not ship](/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai) sets a deadline and route for each piece.",
           "Mark uncertain pieces with a deadline rather than leaving them in a permanent ‘maybe’ pile. If the sale has not completed by that date, it moves to donation; if donation is not confirmed by the next date, it moves to the final collection inventory. That rule keeps the departure from stalling around one cabinet or television.",
         ],
       },
@@ -12398,7 +12617,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Decide whether any material can stay in the garden",
         content: [
-          "Before booking the whole pile, ask your gardener whether some clean, healthy plant material can be reused in your own garden through an appropriate mulch or compost arrangement. This depends on the plants, available space, equipment and maintenance you can provide. Treat it as a practical garden decision, not an automatic outcome for every pruning pile.",
+          "Before booking the whole pile, ask your gardener whether some clean, healthy plant material can be reused in your own garden through an appropriate mulch or compost arrangement. This depends on the plants, available space, equipment and maintenance you can provide. Treat it as a practical garden decision, not an automatic outcome for every pruning pile. Lawn clippings are the easiest case; the [grass cuttings guide](/blog/what-to-do-with-grass-cuttings-dubai) explains when to leave, mulch, compost or bag them.",
           "Keep suspect diseased or pest-affected material separate and ask the gardener or relevant specialist for handling instructions. Tell the collector what is known rather than mixing it with healthy cuttings. Likewise, disclose recent chemical treatment where it may affect acceptance.",
           "If on-site reuse is impractical, ask whether the receiving operation accepts your particular green stream. 'Collected for recycling' does not establish that soil, treated wood, fronds and plastic pots all share the same recovery process. The [household sorting guide](/blog/how-to-sort-junk-for-maximum-recycling-dubai) explains why a clean source stream matters.",
         ],
@@ -13679,7 +13898,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To clear out a storage unit in Dubai, confirm the contract's notice period and move-out rules, build an inventory from photos, decide where every item is going, then book one loading slot with a vehicle sized for what will not come home. Sweep the empty unit, photograph it and return the key or remove your lock. Checked on 24/09/2026.",
           "Storage units rarely get cleared on impulse. They get cleared because a monthly bill finally feels unjustifiable, a move is ending, or the items were meant to be temporary two years ago. The goal is to do it in a single, well-organised visit rather than three trips spread across another billing cycle.",
-          "Most of the work happens before you reach the facility. A crew can empty a unit quickly; what slows the day is deciding item by item, in a corridor, what should happen to each box.",
+          "Most of the work happens before you reach the facility. A crew can empty a unit quickly; what slows the day is deciding item by item, in a corridor, what should happen to each box. If the boxes are in your tower’s basement rather than a paid facility, follow the [building storage-cage clearance steps](/blog/how-to-clear-a-tower-storage-cage-dubai) instead.",
         ],
         callout: {
           title: "Decide at home, load on site",

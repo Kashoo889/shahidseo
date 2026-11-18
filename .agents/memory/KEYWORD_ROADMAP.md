@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-17**
+Last synchronized: **2026-11-18**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -58,9 +58,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       41 |  14 | 17/11/2026   | `how to clear an old villa before demolition or rebuild`            | `/blog/how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai`        | `/services/villa-clearance-dubai`       | Older villas being rebuilt: salvage, fixtures, contractor timing                       | Written |
 |       42 |  14 | 17/11/2026   | `how to help elderly parents declutter in dubai`                    | `/blog/how-to-help-elderly-parents-declutter-dubai`                         | `/services/junk-removal-dubai`          | Downsizing decisions at their pace, safety, what family keeps                          | Written |
 |       43 |  14 | 17/11/2026   | `what to do when building management asks you to remove items`      | `/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai`  | `/services/same-day-junk-removal-dubai` | Notices for balconies, corridors and parking: deadlines and options                    | Written |
-|       44 |  15 | 18/11/2026   | `what to do with furniture your movers will not ship abroad`        | `/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai`    | `/services/furniture-removal-dubai`     | Container limits, flat-pack value, sell or donate timeline                             | Planned |
-|       45 |  15 | 18/11/2026   | `what to do with grass cuttings in dubai`                           | `/blog/what-to-do-with-grass-cuttings-dubai`                                | `/services/garden-waste-removal-dubai`  | Real lawns: mulching, composting, bagging for collection                               | Planned |
-|       46 |  15 | 18/11/2026   | `how to clear a tower storage cage in dubai`                        | `/blog/how-to-clear-a-tower-storage-cage-dubai`                             | `/services/house-clearance-dubai`       | Car park and basement cages: access, labels, building rules                            | Planned |
+|       44 |  15 | 18/11/2026   | `what to do with furniture your movers will not ship abroad`        | `/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai`    | `/services/furniture-removal-dubai`     | Container limits, flat-pack value, sell or donate timeline                             | Written |
+|       45 |  15 | 18/11/2026   | `what to do with grass cuttings in dubai`                           | `/blog/what-to-do-with-grass-cuttings-dubai`                                | `/services/garden-waste-removal-dubai`  | Real lawns: mulching, composting, bagging for collection                               | Written |
+|       46 |  15 | 18/11/2026   | `how to clear a tower storage cage in dubai`                        | `/blog/how-to-clear-a-tower-storage-cage-dubai`                             | `/services/house-clearance-dubai`       | Car park and basement cages: access, labels, building rules                            | Written |
 |       47 |  16 | 19/11/2026   | `townhouse clearance in dubai`                                      | `/blog/townhouse-clearance-dubai`                                           | `/services/villa-clearance-dubai`       | Narrow stairs, shared walls and tight parking in townhouse communities                 | Planned |
 |       48 |  16 | 19/11/2026   | `how to dispose of old rattan and wicker furniture in dubai`        | `/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai`             | `/services/furniture-removal-dubai`     | Sun-brittle natural and synthetic rattan, frames and cushions                          | Planned |
 |       49 |  16 | 19/11/2026   | `how to clear out a warehouse in dubai`                             | `/blog/how-to-clear-out-a-warehouse-dubai`                                  | `/services/office-cleanout-dubai`       | Racking, pallets, stock and staged loading                                             | Planned |
@@ -112,9 +112,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **133**
-- Total published articles: **196**
-- Service-support queue written: **42 / 90**
+- Supplemental approved articles published: **136**
+- Total published articles: **199**
+- Service-support queue written: **45 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

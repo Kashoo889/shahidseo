@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-17**
+Last synchronized: **2026-11-18**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -201,10 +201,14 @@ Canonical implementation: `data/blog.ts`
 | 194 | `how to clear an old villa before demolition or rebuild`                  | Informational              | `/blog/how-to-clear-an-old-villa-before-demolition-or-rebuild-dubai`            | 2026-11-17 | Published |
 | 195 | `how to help elderly parents declutter in dubai`                          | Informational              | `/blog/how-to-help-elderly-parents-declutter-dubai`                             | 2026-11-17 | Published |
 | 196 | `what to do when building management asks you to remove items`            | Informational              | `/blog/what-to-do-when-building-management-asks-you-to-remove-items-dubai`      | 2026-11-17 | Published |
+| 197 | `what to do with furniture your movers will not ship abroad`              | Informational              | `/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai`        | 2026-11-18 | Published |
+| 198 | `what to do with grass cuttings in dubai`                                 | Informational              | `/blog/what-to-do-with-grass-cuttings-dubai`                                    | 2026-11-18 | Published |
+| 199 | `how to clear a tower storage cage in dubai`                              | Informational              | `/blog/how-to-clear-a-tower-storage-cage-dubai`                                 | 2026-11-18 | Published |
 
 ## Current counts
 
-- Published: **196**
+- Published: **199**
+- Published on 2026-11-18: **3**
 - Published on 2026-11-17: **3**
 - Published on 2026-11-16: **3**
 - Published on 2026-11-14: **3**
@@ -241,9 +245,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **133**
-- Service-support queue written: **42 / 90**
-- Next approved priority: **Day 15 (18/11/2026): furniture movers will not ship abroad, grass cuttings, and tower storage-cage clearance.**
+- Supplemental approved articles published: **136**
+- Service-support queue written: **45 / 90**
+- Next approved priority: **Day 16 (19/11/2026): townhouse clearance, old rattan and wicker furniture, and warehouse clear-outs.**
+
+## Cannibalization notes for 2026-11-18 batch
+
+- The movers-exclusion guide owns furniture a mover has declined during an international move: the reason for each exclusion (safety, destination rules, condition, space or value), deadline-driven sell, donate or removal routes, and keeping excluded pieces out of the packing zone. The leaving-Dubai-for-good guide retains the whole-household departure sequence; the used-furniture selling guide retains pricing and buyers. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The grass-cuttings guide owns real-lawn clippings: leaving short cuts on the lawn, thin dry mulch, composting with dry material and bagging surplus. The garden-waste guide retains the wider fronds, branches and soil sort; the artificial-grass guide retains synthetic turf. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The storage-cage guide owns the tower basement or car-park cage: confirming the allocation, inspecting for damp, pests and prohibited items, the basement-to-loading-bay route and closing with photographs. The storage-unit guide retains paid self-storage facilities; the building-notice guide retains responses to formal removal requests. Commercial intent stays with `/services/house-clearance-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the leaving-Dubai-for-good, garden-waste disposal and storage-unit guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-18.md`.
 
 ## Cannibalization notes for 2026-11-17 batch
 
