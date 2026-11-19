@@ -51,6 +51,224 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "townhouse-clearance-dubai",
+    title: "Townhouse Clearance in Dubai: Stairs, Shared Walls and Tight Parking",
+    seoTitle: "Townhouse Clearance in Dubai: Stairs, Walls and Parking",
+    excerpt:
+      "Townhouse clearance in Dubai: plan the stair carry, protect shared walls, stage on your own driveway and book one truck slot that suits the community.",
+    category: "Moving & Clearance",
+    tags: ["Townhouse", "House Clearance", "Stair Carry", "Community Access", "Dubai"],
+    coverImage: "/images/blog/junk-removal-permits-gate-pass-dubai-hero.webp",
+    coverImageAlt:
+      "Removal crew member showing a digital pass on a tablet to a security officer at a gated community barrier while a removal truck waits behind",
+    publishedAt: "2026-11-19",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "The staircase, not the floor area, sets the pace of a townhouse clearance; measure every turn before deciding what leaves whole.",
+      "Clear top floor first and work down, so nothing heavy waits on a landing while the crew carries past it.",
+      "Stage only on your own driveway or inside the garage; shared paths, the neighbour's frontage and visitor bays are not yours to fill.",
+      "Ask the community office about truck size, working hours and the access pass before the day, not at the gate.",
+    ],
+    sections: [
+      {
+        heading: "What makes townhouse clearance in Dubai different",
+        content: [
+          "Townhouse clearance in Dubai looks like a small villa job on paper, but it behaves differently on the day. Most of the furniture sits up a narrow internal staircase, the house shares one or two walls with neighbours, and the truck has to stop in a street designed for residents' cars rather than lorries. Plan the stair carry, the staging point and the community access first; the volume of items comes second. Checked on 19/11/2026.",
+          "A three-bedroom end unit and a three-bedroom mid-terrace unit can hold the same contents and still take different amounts of time. The mid-terrace unit usually has no side gate, so everything leaves through the front door, past the kitchen and across a short driveway that may already hold two cars.",
+          "This guide owns the townhouse-specific plan. The [villa move-out checklist](/blog/villa-move-out-clearance-checklist-dubai) covers detached homes with gardens, side access and outbuildings, and the [stair-carry guide for buildings without a lift](/blog/bulky-item-removal-in-buildings-without-a-lift-dubai) covers apartment blocks with shared stairwells.",
+        ],
+        callout: {
+          title: "The neighbours share your wall and your street",
+          text: "Hammering apart a wardrobe against a party wall at 8 am travels further than you expect. Do any dismantling on the ground floor or in the garage, and keep noisy work within the hours your community allows.",
+        },
+      },
+      {
+        heading: "Measure the staircase before deciding what leaves whole",
+        content: [
+          "Townhouse stairs are often a quarter-turn or half-turn design with a landing, a handrail on one side and a low ceiling where the stair passes under the upper floor. A king-size bed base, an L-shaped sofa or a tall wardrobe that came in flat-packed will not necessarily come down assembled.",
+          "Measure the narrowest point of the stair, the ceiling height at the turn and the door opening at the top. Compare them with the item's depth and diagonal, not just its width. The [door and lift fit guide](/blog/how-to-check-if-furniture-will-fit-through-doors-and-lifts-dubai) shows how to take the diagonal measurement, which is the one that usually decides whether a piece turns the corner.",
+          "Anything that fails the measurement needs to be dismantled where it stands. Remove drawers, doors, shelves and headboards in the bedroom, bag and label the fixings, and carry the parts down separately. Mirrors and glass shelves come out first and travel wrapped.",
+        ],
+      },
+      {
+        heading: "Clear from the top floor down",
+        content: [
+          "Start with the roof terrace or top bedroom and work downwards. Each floor that empties gives the crew a clear route for the next, and nothing heavy has to sit on a landing while people squeeze past it. Leave the ground-floor living room until last; it becomes the holding area for the final load.",
+          "Protect the handrail and the corners of the stair walls with blankets or card before the first heavy piece moves. Townhouse walls are typically painted plaster, and a scrape at the turn is the commonest deduction raised at a rental handover. Take photographs of the staircase and landing before work starts so the starting condition is on record.",
+          "Bedrooms in townhouses often hold built-in wardrobes that belong to the property. Confirm with the landlord which pieces are fixtures; the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) explains how to separate your items from the landlord's.",
+        ],
+      },
+      {
+        heading: "Stage on your own driveway, not the shared path",
+        content: [
+          "Townhouse rows usually have short private driveways with a shared pavement or landscaped strip in front. Move your cars out the evening before so the driveway and garage become the staging area. Keep items off the shared footpath, the neighbour's frontage and visitor parking bays, and never leave anything beside the community bins.",
+          "Group the staged load by route: items for donation in one place, items for recycling in another and general removal by the truck. Tell the crew which group is which before loading starts. A crew loading in the wrong order wastes time and can carry a donation item onto the wrong vehicle.",
+        ],
+        image: {
+          src: "/images/blog/old-doors-staged-collection-dubai.webp",
+          alt: "Two wrapped wooden doors on an A-frame trolley and a damaged door resting on timber blocks, staged on a paved driveway beside a truck with its loading ramp lowered",
+        },
+      },
+      {
+        heading: "Book the truck slot around community rules",
+        content: [
+          "Community access varies. Some gated developments ask for a contractor pass or a resident request in advance, limit commercial vehicles to certain hours, or restrict larger trucks from narrow internal roads. Call the community office or check the resident app before the day; our [permit and gate-pass guide](/blog/do-you-need-a-permit-for-junk-removal-in-dubai) lists what is usually requested.",
+          "In [Town Square](/areas/town-square), rows of townhouses face narrow streets with limited kerbside space, so a smaller truck making two trips can be faster than one large vehicle that cannot turn. In [The Springs](/areas/the-springs), many units have a single-car driveway and a small back garden, so measure the garden gate if anything is being carried round the side.",
+          "Our [villa clearance team](/services/villa-clearance-dubai) handles full townhouse clear-outs, and the [house clearance service](/services/house-clearance-dubai) suits partial jobs such as emptying the top floor before a move. [Send photos of each floor, the staircase turn and your driveway](/contact), and we will confirm the crew size and a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["villa-clearance-dubai", "house-clearance-dubai"],
+    relatedAreas: ["town-square", "the-springs"],
+  },
+  {
+    slug: "how-to-dispose-of-old-rattan-and-wicker-furniture-dubai",
+    title: "How to Dispose of Old Rattan and Wicker Furniture in Dubai",
+    seoTitle: "How to Dispose of Rattan and Wicker Furniture in Dubai",
+    excerpt:
+      "How to dispose of old rattan and wicker furniture in Dubai: tell natural cane from synthetic weave, check for pests and route frames and cushions apart.",
+    category: "Guides",
+    tags: ["Rattan", "Wicker", "Outdoor Furniture", "Furniture Disposal", "Dubai"],
+    coverImage: "/images/blog/long-empty-villa-item-triage-dubai.webp",
+    coverImageAlt:
+      "Worker in a high-visibility vest noting items sorted on a villa terrace, including rugs, cushions, electronics and dried palm fronds, with a white woven chair and table in the foreground",
+    publishedAt: "2026-11-19",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Work out first whether the weave is natural cane or synthetic resin; the answer changes how the piece is reused, repaired or disposed of.",
+      "Natural rattan and wicker can carry wood-boring beetles; fine powder and tiny round holes mean the piece should not go to a donor or into storage.",
+      "Synthetic weave usually covers an aluminium or steel frame, but stripping it for recycling is slow, so most sets leave as bulky items.",
+      "Cushions, glass tops and hanging-chair stands travel separately from the woven frame.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of old rattan and wicker furniture",
+        content: [
+          "To dispose of old rattan and wicker furniture in Dubai, first identify the weave: natural cane or synthetic resin. Sound, clean pieces can be sold or donated. Damaged natural wicker, or anything showing beetle damage, should be wrapped and collected as bulky waste. Synthetic sets are split into woven frames, cushions and glass, then collected separately. Never put woven furniture into garden-waste bags or communal bins. Checked on 19/11/2026.",
+          "'Rattan' and 'wicker' are often used as if they were the same thing. Strictly, wicker is the weaving method and rattan is one of the materials, alongside willow, bamboo, seagrass and the plastic strips used for outdoor sets. In Dubai homes you will mostly meet two groups: natural cane pieces used indoors, and synthetic 'all-weather' sets on terraces and balconies.",
+          "This guide owns woven furniture. The [outdoor and patio furniture guide](/blog/how-to-dispose-of-outdoor-and-patio-furniture-dubai) covers wider patio sets, parasol bases and BBQs, and the [large furniture disposal guide](/blog/how-to-dispose-of-large-furniture-in-dubai) covers solid indoor pieces.",
+        ],
+        callout: {
+          title: "Do not burn it",
+          text: "Natural cane burns fast, and synthetic weave gives off toxic smoke. Open burning of furniture is not an acceptable disposal route in Dubai communities; keep woven pieces in the bulky-item stream.",
+        },
+      },
+      {
+        heading: "Natural cane or synthetic weave: how to tell",
+        content: [
+          "Look at a broken strand or a trimmed end underneath the seat. Natural rattan and cane are fibrous, slightly irregular in thickness and matte where cut, with visible grain. Synthetic weave is a uniform plastic strip, the same width along its length, and often has a moulded texture printed on the surface.",
+          "Turn the piece over. Synthetic outdoor sets are usually woven over a powder-coated aluminium or steel tube frame, which you can see at the feet and under the seat. Natural pieces tend to be built on thicker rattan poles or a bent-wood frame, held with nails, binding and glue.",
+          "Weight helps too. An aluminium-framed synthetic armchair is light for its size; a natural rattan pole chair is light but flexes more; a steel-framed synthetic chair is noticeably heavy. The material matters because it decides whether a frame has scrap value, whether pests are possible and whether a buyer will want it.",
+        ],
+      },
+      {
+        heading: "Check for sun damage and pests",
+        content: [
+          "Synthetic weave degrades in Dubai sun. Look for chalky or faded strands, cracking where the weave bends around the frame and strands that snap rather than flex when pressed. Once the weave starts to unravel, it keeps going; the piece is no longer donation grade even if the frame is sound.",
+          "Natural cane dries out, cracks and loosens at the binding, especially if it has stood near an AC vent or in a sunny window. More important is pest damage. Small round exit holes and fine, flour-like powder underneath a piece are classic signs of wood-boring beetles. Do not move that piece into storage or near other timber furniture, and do not pass it on. Wrap it in plastic sheeting where it stands and keep it apart until collection.",
+          "If you are moving abroad, expect questions about natural cane. Plant-based furniture may face inspection or treatment at the destination, which is one reason movers decline it; the [guide to furniture movers will not ship](/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai) explains how to handle those exclusions.",
+        ],
+      },
+      {
+        heading: "Repair, pass on or remove",
+        content: [
+          "A clean natural rattan chair with a few loose strands can be rebound by a cane-repair workshop, and a solid set with intact weave is easy to sell or give away. Photograph it in daylight, show the underside and state honestly whether it has lived indoors or outside.",
+          "Synthetic sets with brittle weave are rarely worth repairing. The frame underneath may be aluminium, which is recyclable, but stripping the plastic strips off is slow work and the weave itself is a mixed plastic with few outlets. In practice most worn synthetic sets leave as bulky items, with the cushions and glass removed first.",
+          "Separate every set before collection day. Cushions go as textiles or general waste depending on condition; glass tabletops are lifted off and wrapped; hanging egg chairs come down from their steel stand, and the stand and chain go with the metal. The [sofa recycling guide](/blog/how-to-recycle-and-dispose-of-old-sofas-dubai) shows the same frame-and-soft-parts split for upholstered pieces.",
+        ],
+        image: {
+          src: "/images/blog/sofa-material-separation-dubai.webp",
+          alt: "Two workers in green uniforms separating an old sofa into timber frame pieces, steel springs, foam blocks and fabric in sorting bins at a recycling yard",
+        },
+      },
+      {
+        heading: "Prepare it for collection",
+        content: [
+          "Brittle woven pieces shed strands and splinters when carried. Wrap them in stretch film or an old sheet where they stand, and wear gloves. Stack chairs only if the weave is strong enough to take the weight; otherwise carry them singly.",
+          "On a villa terrace in [Arabian Ranches](/areas/arabian-ranches), bring the set to the driveway in the morning, before the frames get hot. On a [Dubai Marina](/areas/dubai-marina) balcony, check the service lift booking and measure the balcony door; a woven daybed or hanging chair stand often has to be dismantled first.",
+          "Our [furniture removal service](/services/furniture-removal-dubai) collects woven sets with cushions and glass already split, and the [bulky-item team](/services/bulky-item-removal-dubai) suits a single daybed or egg chair. [Send photos of the pieces, including the underside](/contact), and we will confirm a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["furniture-removal-dubai", "bulky-item-removal-dubai"],
+    relatedAreas: ["arabian-ranches", "dubai-marina"],
+  },
+  {
+    slug: "how-to-clear-out-a-warehouse-dubai",
+    title: "How to Clear Out a Warehouse in Dubai: Stock, Racking and Pallets",
+    seoTitle: "How to Clear Out a Warehouse in Dubai: Step-by-Step",
+    excerpt:
+      "How to clear out a warehouse in Dubai: decide the stock first, return hired equipment, dismantle racking safely and load in stages for a clean handover.",
+    category: "Commercial & Office",
+    tags: ["Warehouse", "Commercial Clearance", "Racking", "Pallets", "Dubai"],
+    coverImage: "/images/blog/furniture-material-route-sorting-dubai.webp",
+    coverImageAlt:
+      "Supervisor in a hard hat checking a tablet beside timber panels stacked on pallets, racks of metal frames, a cage of foam and fabric and a glass rack inside a warehouse",
+    publishedAt: "2026-11-19",
+    readingTime: "8 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Settle the stock decision before any racking comes down; unsold stock sitting on the floor blocks every later step.",
+      "Check the lease and fit-out records to see who owns the racking, mezzanine and floor markings, and what reinstatement is required.",
+      "Return hired equipment and pooled pallets to their owners; they are not yours to dispose of.",
+      "Load in planned stages through one dock, with saleable goods first and racking and cleaning last.",
+    ],
+    sections: [
+      {
+        heading: "How to clear out a warehouse in Dubai",
+        content: [
+          "To clear out a warehouse in Dubai, start with the paperwork, not the forklift. Confirm the handover standard in the lease, decide what happens to every stock line, and return hired equipment and pooled pallets. Then remove loose stock and office contents, dismantle racking from the top down, and load in staged batches through one dock. Finish with floor reinstatement and a documented inspection. Checked on 19/11/2026.",
+          "Warehouse clear-outs usually follow a lease end, a move to a larger unit or a business closure. The building is simple; the contents are not. A small unit can hold several thousand cartons, a run of pallet racking, a mezzanine office, a forklift, chemicals for cleaning and maintenance, and years of shrink-wrap and broken pallets in the corners.",
+          "This guide owns the industrial unit. The [retail lease clearance guide](/blog/shop-clearance-at-the-end-of-a-retail-lease-dubai) covers shopfronts and mall units, and the [guide to clearing an office while staff work](/blog/how-to-clear-an-office-while-staff-work-dubai) covers occupied offices.",
+        ],
+        callout: {
+          title: "Racking is a structure, not furniture",
+          text: "Loaded pallet racking can collapse if beams are removed in the wrong order or uprights are struck. Empty every bay before dismantling, work from the top level down, and use a crew experienced with racking; do not let the clearance become an improvised demolition.",
+        },
+      },
+      {
+        heading: "Decide the stock before anything else moves",
+        content: [
+          "List every stock line with its quantity and its route: transfer to the new site, return to the supplier, sell to a buyer or liquidator, donate, or dispose of. Branded, expired, damaged or recalled goods often cannot simply be sold off; check your supplier agreements and, where goods must be destroyed, ask the disposal contractor for written evidence of what was received.",
+          "Set a deadline for each route. Buyers and liquidators need time to inspect and collect. Anything without a confirmed route by its deadline moves to the disposal list, so the floor clears on schedule.",
+          "If the unit sits in a free zone, check the rules on moving goods out. Goods leaving a free zone may need gate passes or customs documentation, so confirm the process with the free zone authority before booking trucks.",
+        ],
+      },
+      {
+        heading: "Separate owned, hired and landlord items",
+        content: [
+          "Walk the unit with the lease and the fit-out approvals in hand. Pallet racking, mezzanine floors, office partitions, dock levellers and floor markings may belong to you, to the landlord or to a previous tenant. The lease will say what must be removed and what must stay.",
+          "Forklifts, pallet trucks and scissor lifts are often hired. Pooled or rented pallets belong to the pool operator and should be returned through their collection process, not broken up or sent for disposal. Arrange those returns early, because the operators work to their own collection schedules.",
+          "Keep chemicals, oils, batteries from electric pallet trucks and paint separate. These need licensed handling; mixing them into a general load is a compliance risk, not a shortcut.",
+        ],
+      },
+      {
+        heading: "Load in stages through one dock",
+        content: [
+          "Divide the floor into zones and clear them in a fixed order: saleable and transferred stock first, then office and mezzanine contents, then packaging waste and broken pallets, then racking, and finally floor cleaning. One dock or roller door handles outgoing loads; another area, if space allows, holds the next batch.",
+          "Bale or flatten cardboard and keep stretch film in its own bags. Packaging is bulky but light, and a truck filled with loose cartons is mostly air. Broken timber pallets go with wood waste; the [wood waste guide](/blog/how-to-dispose-of-wood-waste-in-dubai) explains the usual routes.",
+          "Office furniture from the mezzanine follows its own path, and the [office furniture relocation guide](/blog/what-to-do-with-old-office-furniture-during-relocation) helps decide what moves, sells or goes.",
+        ],
+        image: {
+          src: "/images/blog/dishwasher-appliance-sorting-loading-bay-dubai.webp",
+          alt: "Two workers wheeling a blanket-wrapped appliance strapped to a hand truck onto the tail lift of a box truck at a covered loading bay",
+        },
+      },
+      {
+        heading: "Finish the handover properly",
+        content: [
+          "Once the racking is down, the floor will show anchor bolt holes, worn line markings and stains. Reinstatement requirements vary by lease, so check whether holes must be filled and markings removed before the inspection. Photograph every zone empty, including the dock, the mezzanine and the yard.",
+          "In [Dubai Investment Park](/areas/dubai-investment-park), loading yards are generally larger, so several trucks can be planned across the same day. In [Dubai South](/areas/dubai-south), confirm whether the unit sits inside a free zone or a logistics district with its own gate and vehicle access rules before the day.",
+          "Our [office and commercial cleanout team](/services/office-cleanout-dubai) clears warehouse contents, office mezzanines and packaging waste, and the [rubbish removal service](/services/rubbish-removal-dubai) handles mixed waste left after the main clear-out. [Send photos of each zone and the lease handover date](/contact) for a fixed, staged quote.",
+        ],
+      },
+    ],
+    relatedServices: ["office-cleanout-dubai", "rubbish-removal-dubai"],
+    relatedAreas: ["dubai-investment-park", "dubai-south"],
+  },
+  {
     slug: "what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai",
     title: "What to Do With Furniture Your Movers Will Not Ship Abroad From Dubai",
     seoTitle: "Furniture Your Movers Will Not Ship Abroad: What to Do",
@@ -2390,7 +2608,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Record the item's height, width, depth and diagonal after cushions, drawers, shelves or legs designed for removal are taken off. Note the weight from a model label where available and disclose dense materials such as marble, thick glass, solid timber, sofa beds, recliner mechanisms and appliance counterweights.",
           "Walk the route in order. Measure the apartment doorway, corridor turns, stair flight, rail-to-wall width, newel posts, landing rectangle, sloped ceiling and final building door. Include gates, thresholds, exterior steps and the distance to legal vehicle parking. A narrow point after three flights can invalidate the whole planned carry.",
-          "Send a continuous video plus still photographs with a tape measure visible. Do not rely on 'standard stairs.' Older low-rise buildings, converted villas and internal maisonette stairs vary widely, and decorative rails or low service pipes can reduce the usable opening.",
+          "Send a continuous video plus still photographs with a tape measure visible. Do not rely on 'standard stairs.' Older low-rise buildings, converted villas and internal maisonette stairs vary widely, and decorative rails or low service pipes can reduce the usable opening. For internal staircases in a private home, the [townhouse clearance guide](/blog/townhouse-clearance-dubai) covers the top-down carry and driveway staging.",
         ],
       },
       {
@@ -2875,7 +3093,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "Walk the unit with the landlord, mall facilities team or authorised representative. Compare the original condition report, approved drawings, fit-out manual and later variations. Record responsibility for shopfront signs, shutters, display lighting, counters, shelving, fitting rooms, mirrors, security equipment, data cabling, sinks, grease lines and any mezzanine or storage cage.",
           "Create one asset register for tenant-owned, landlord-owned, leased and consignment items. Photograph serial numbers and condition before anything moves. Payment terminals, routers, CCTV recorders, safes and branded equipment should have named owners; they should never disappear into a mixed metal or electronics load.",
-          "The [office-clearance-while-working guide](/blog/how-to-clear-an-office-while-staff-work-dubai) explains zone release and live-business controls. A retail closeout adds public trading hours, customer stock, mall loading rules and a stricter shopfront handover, so schedule the final trading day and clearance access separately.",
+          "The [office-clearance-while-working guide](/blog/how-to-clear-an-office-while-staff-work-dubai) explains zone release and live-business controls. A retail closeout adds public trading hours, customer stock, mall loading rules and a stricter shopfront handover, so schedule the final trading day and clearance access separately. Industrial units with pallet racking and bulk stock follow the [warehouse clear-out guide](/blog/how-to-clear-out-a-warehouse-dubai) instead.",
         ],
       },
       {
@@ -14861,7 +15079,7 @@ export const BLOG_POSTS: BlogPost[] = [
       {
         heading: "Check sun damage before anyone lifts it",
         content: [
-          "Press gently on the seat and arms of plastic or resin chairs. A chalky surface, fine cracks or a creaking flex means the plastic has degraded under UV and may snap when carried. Synthetic rattan sets usually have an aluminium or steel frame under the weave; if the weave is brittle and unravelling, the frame may still be sound but the piece is no longer donation grade.",
+          "Press gently on the seat and arms of plastic or resin chairs. A chalky surface, fine cracks or a creaking flex means the plastic has degraded under UV and may snap when carried. Synthetic rattan sets usually have an aluminium or steel frame under the weave; if the weave is brittle and unravelling, the frame may still be sound but the piece is no longer donation grade. The [rattan and wicker furniture guide](/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai) explains how to tell natural cane from synthetic weave and route each.",
           "Tap steel and wrought-iron frames near the feet and welded joints, where rust starts. Check timber for grey, split or soft sections, especially where legs have stood on wet tiles or irrigation runoff. Loose or rusted bolts often need cutting rather than undoing.",
           "Anything that fails the check should be wrapped or bundled where it stands rather than carried bare across the garden. A brittle chair that shatters on the driveway leaves sharp plastic across the paving.",
         ],

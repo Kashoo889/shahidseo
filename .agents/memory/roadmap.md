@@ -230,12 +230,13 @@ _Objective: Support the homepage and every service page with long-tail informati
 
 ---
 
-## 4. Publication Progress (Updated 2026-11-18)
+## 4. Publication Progress (Updated 2026-11-19)
 
 - Published roadmap articles: **30 / 30 (complete)**
-- Published supplemental approved articles: **136**
-- Total published blog articles: **199**
-- Phase 7 service-support queue: **45 / 90 written**
+- Published supplemental approved articles: **139**
+- Total published blog articles: **202**
+- Phase 7 service-support queue: **48 / 90 written**
+- Published on 2026-11-19: **3**
 - Published on 2026-11-18: **3**
 - Published on 2026-11-17: **3**
 - Published on 2026-11-16: **3**
@@ -268,7 +269,7 @@ _Objective: Support the homepage and every service page with long-tail informati
 - Phase 5 moving, tenancy and decluttering lifecycle: **8 / 8 complete (100%)**
 - Phase 6 PAA and question-based content: **7 / 7 complete (100%)**
 - Published today: **3**
-- Next approved priority: **Day 16 (19/11/2026): townhouse clearance, old rattan and wicker furniture, and warehouse clear-outs.**
+- Next approved priority: **Day 17 (20/11/2026): end-of-semester student clear-outs, composting garden waste, and old RO water filters.**
 
 | Roadmap item       | Primary keyword                                                           | Status    | Published  |
 | ------------------ | ------------------------------------------------------------------------- | --------- | ---------- |

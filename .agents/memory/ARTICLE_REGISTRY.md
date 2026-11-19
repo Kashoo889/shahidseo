@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-18**
+Last synchronized: **2026-11-19**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -204,10 +204,14 @@ Canonical implementation: `data/blog.ts`
 | 197 | `what to do with furniture your movers will not ship abroad`              | Informational              | `/blog/what-to-do-with-furniture-your-movers-will-not-ship-abroad-dubai`        | 2026-11-18 | Published |
 | 198 | `what to do with grass cuttings in dubai`                                 | Informational              | `/blog/what-to-do-with-grass-cuttings-dubai`                                    | 2026-11-18 | Published |
 | 199 | `how to clear a tower storage cage in dubai`                              | Informational              | `/blog/how-to-clear-a-tower-storage-cage-dubai`                                 | 2026-11-18 | Published |
+| 200 | `townhouse clearance in dubai`                                            | Informational              | `/blog/townhouse-clearance-dubai`                                               | 2026-11-19 | Published |
+| 201 | `how to dispose of old rattan and wicker furniture in dubai`              | Informational              | `/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai`                 | 2026-11-19 | Published |
+| 202 | `how to clear out a warehouse in dubai`                                   | Informational              | `/blog/how-to-clear-out-a-warehouse-dubai`                                      | 2026-11-19 | Published |
 
 ## Current counts
 
-- Published: **199**
+- Published: **202**
+- Published on 2026-11-19: **3**
 - Published on 2026-11-18: **3**
 - Published on 2026-11-17: **3**
 - Published on 2026-11-16: **3**
@@ -245,9 +249,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **136**
-- Service-support queue written: **45 / 90**
-- Next approved priority: **Day 16 (19/11/2026): townhouse clearance, old rattan and wicker furniture, and warehouse clear-outs.**
+- Supplemental approved articles published: **139**
+- Service-support queue written: **48 / 90**
+- Next approved priority: **Day 17 (20/11/2026): end-of-semester student clear-outs, composting garden waste, and old RO water filters.**
+
+## Cannibalization notes for 2026-11-19 batch
+
+- The townhouse guide owns attached and terraced homes: measuring the internal staircase, clearing top floor down, protecting shared walls and stair corners, staging on the private driveway and booking the truck around community rules. The villa move-out checklist retains detached homes with side access and outbuildings; the no-lift guide retains apartment-block stairwells. Commercial intent stays with `/services/villa-clearance-dubai`.
+- The rattan and wicker guide owns woven furniture: telling natural cane from synthetic weave, sun damage and wood-boring beetle checks, repair versus removal and splitting frames, cushions, glass and hanging-chair stands. The outdoor and patio furniture guide retains wider patio sets, parasol bases and BBQs. Commercial intent stays with `/services/furniture-removal-dubai`.
+- The warehouse guide owns industrial units: stock routes and deadlines, owned versus hired versus landlord items (racking, mezzanines, forklifts, pooled pallets), top-down racking dismantling, staged loading through one dock and floor reinstatement. The retail lease guide retains shops and mall units; the occupied-office guide retains live offices. Commercial intent stays with `/services/office-cleanout-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the outdoor and patio furniture, retail lease clearance and no-lift stair-carry guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-19.md`.
 
 ## Cannibalization notes for 2026-11-18 batch
 
