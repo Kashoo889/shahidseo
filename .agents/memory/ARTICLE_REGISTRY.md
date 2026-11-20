@@ -1,6 +1,6 @@
 # Article Registry
 
-Last synchronized: **2026-11-19**
+Last synchronized: **2026-11-20**
 Canonical implementation: `data/blog.ts`
 
 |   # | Primary keyword                                                           | Intent                     | URL                                                                             | Published  | Status    |
@@ -207,10 +207,14 @@ Canonical implementation: `data/blog.ts`
 | 200 | `townhouse clearance in dubai`                                            | Informational              | `/blog/townhouse-clearance-dubai`                                               | 2026-11-19 | Published |
 | 201 | `how to dispose of old rattan and wicker furniture in dubai`              | Informational              | `/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai`                 | 2026-11-19 | Published |
 | 202 | `how to clear out a warehouse in dubai`                                   | Informational              | `/blog/how-to-clear-out-a-warehouse-dubai`                                      | 2026-11-19 | Published |
+| 203 | `end of semester clear out for students in dubai`                         | Informational              | `/blog/end-of-semester-clear-out-for-students-dubai`                            | 2026-11-20 | Published |
+| 204 | `how to compost garden waste in dubai`                                    | Informational              | `/blog/how-to-compost-garden-waste-dubai`                                       | 2026-11-20 | Published |
+| 205 | `how to dispose of an old ro water filter in dubai`                       | Informational              | `/blog/how-to-dispose-of-an-old-ro-water-filter-dubai`                          | 2026-11-20 | Published |
 
 ## Current counts
 
-- Published: **202**
+- Published: **205**
+- Published on 2026-11-20: **3**
 - Published on 2026-11-19: **3**
 - Published on 2026-11-18: **3**
 - Published on 2026-11-17: **3**
@@ -249,9 +253,17 @@ Canonical implementation: `data/blog.ts`
 - Published on 2026-10-08: **3**
 - Roadmap articles remaining: **0**
 - Roadmap status: **Complete (30/30)**
-- Supplemental approved articles published: **139**
-- Service-support queue written: **48 / 90**
-- Next approved priority: **Day 17 (20/11/2026): end-of-semester student clear-outs, composting garden waste, and old RO water filters.**
+- Supplemental approved articles published: **142**
+- Service-support queue written: **51 / 90**
+- Next approved priority: **Day 18 (21/11/2026): new-build handover leftovers, preparing a villa before leaving it empty for the summer, and old sauna and steam cabins.**
+
+## Cannibalization notes for 2026-11-20 batch
+
+- The student guide owns end-of-term exits from shared flats, studios and bed spaces: planning between the last exam, lease end and flight, settling jointly bought items, storage versus resale over the break and one flat-wide pickup. The leaving-for-good guide retains permanent departures; the flatmate cost-splitting article planned for 26/11/2026 retains cost division, so the student guide only mentions agreeing it in advance. Commercial intent stays with `/services/junk-removal-dubai`.
+- The composting guide owns mixed garden waste kept on site: moisture management in Dubai heat, green and brown balance, what to leave out (frond stems, seeding weeds, pest-damaged material, plastics) and bin placement. The grass-cuttings guide retains lawn clippings; the garden waste disposal guide retains material sent away. Commercial intent stays with `/services/garden-waste-removal-dubai`.
+- The RO guide owns under-sink and countertop reverse osmosis systems: ownership (rented, landlord or own), draining the tank, capping the feed and drain clamp, and routing cartridges, membrane, tank, pump and UV lamp. The water dispenser guide retains bottled-water coolers. Commercial intent stays with `/services/appliance-removal-dubai`.
+- Each article links to two service pages, two area pages, supporting sibling guides and `/contact`. Contextual inbound links were added from the junk-without-a-car, grass-cuttings and water dispenser guides.
+- Six existing 1200 × 800 WebP assets were visually reviewed and reused under the active service-support queue rule; no new images were generated or downloaded. See `docs/article-images-2026-11-20.md`.
 
 ## Cannibalization notes for 2026-11-19 batch
 

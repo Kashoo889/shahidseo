@@ -1,6 +1,6 @@
 # Keyword Roadmap Status
 
-Last synchronized: **2026-11-19**
+Last synchronized: **2026-11-20**
 
 The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `keywords.md`; publication ownership is logged in `ARTICLE_REGISTRY.md`.
 
@@ -64,9 +64,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 |       47 |  16 | 19/11/2026   | `townhouse clearance in dubai`                                      | `/blog/townhouse-clearance-dubai`                                           | `/services/villa-clearance-dubai`       | Narrow stairs, shared walls and tight parking in townhouse communities                 | Written |
 |       48 |  16 | 19/11/2026   | `how to dispose of old rattan and wicker furniture in dubai`        | `/blog/how-to-dispose-of-old-rattan-and-wicker-furniture-dubai`             | `/services/furniture-removal-dubai`     | Sun-brittle natural and synthetic rattan, frames and cushions                          | Written |
 |       49 |  16 | 19/11/2026   | `how to clear out a warehouse in dubai`                             | `/blog/how-to-clear-out-a-warehouse-dubai`                                  | `/services/office-cleanout-dubai`       | Racking, pallets, stock and staged loading                                             | Written |
-|       50 |  17 | 20/11/2026   | `end of semester clear out for students in dubai`                   | `/blog/end-of-semester-clear-out-for-students-dubai`                        | `/services/junk-removal-dubai`          | Short leases and shared flats around academic calendars                                | Planned |
-|       51 |  17 | 20/11/2026   | `how to compost garden waste in dubai`                              | `/blog/how-to-compost-garden-waste-dubai`                                   | `/services/garden-waste-removal-dubai`  | Heat, moisture and what composts well in this climate                                  | Planned |
-|       52 |  17 | 20/11/2026   | `how to dispose of an old ro water filter in dubai`                 | `/blog/how-to-dispose-of-an-old-ro-water-filter-dubai`                      | `/services/appliance-removal-dubai`     | Under-sink systems, cartridges, membranes and tanks                                    | Planned |
+|       50 |  17 | 20/11/2026   | `end of semester clear out for students in dubai`                   | `/blog/end-of-semester-clear-out-for-students-dubai`                        | `/services/junk-removal-dubai`          | Short leases and shared flats around academic calendars                                | Written |
+|       51 |  17 | 20/11/2026   | `how to compost garden waste in dubai`                              | `/blog/how-to-compost-garden-waste-dubai`                                   | `/services/garden-waste-removal-dubai`  | Heat, moisture and what composts well in this climate                                  | Written |
+|       52 |  17 | 20/11/2026   | `how to dispose of an old ro water filter in dubai`                 | `/blog/how-to-dispose-of-an-old-ro-water-filter-dubai`                      | `/services/appliance-removal-dubai`     | Under-sink systems, cartridges, membranes and tanks                                    | Written |
 |       53 |  18 | 21/11/2026   | `what to do with leftovers at a new build handover in dubai`        | `/blog/what-to-do-with-leftovers-at-a-new-build-handover-dubai`             | `/services/junk-removal-dubai`          | Developer packaging, offcuts and snagging debris after taking keys                     | Planned |
 |       54 |  18 | 21/11/2026   | `how to prepare a villa before leaving it empty for the summer`     | `/blog/how-to-prepare-a-villa-before-leaving-it-empty-for-the-summer-dubai` | `/services/villa-clearance-dubai`       | Clearing perishables, junk and garden risks before travel                              | Planned |
 |       55 |  18 | 21/11/2026   | `how to dispose of an old sauna and steam cabin in dubai`           | `/blog/how-to-dispose-of-an-old-sauna-and-steam-cabin-dubai`                | `/services/bulky-item-removal-dubai`    | Electrical isolation, panels, heaters and glass                                        | Planned |
@@ -112,9 +112,9 @@ The detailed canonical roadmap is `roadmap.md`; the keyword source of truth is `
 - Roadmap total: **30 articles**
 - Roadmap published: **30 (100%)**
 - Roadmap remaining: **0 (0%)**
-- Supplemental approved articles published: **139**
-- Total published articles: **202**
-- Service-support queue written: **48 / 90**
+- Supplemental approved articles published: **142**
+- Total published articles: **205**
+- Service-support queue written: **51 / 90**
 - Phase 3: **100% (6/6)**
 - Phase 4: **100% (9/9)**
 - Phase 5: **100% (8/8)**

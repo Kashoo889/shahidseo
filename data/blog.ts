@@ -51,6 +51,253 @@ export const BLOG_CATEGORIES: BlogPost["category"][] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "end-of-semester-clear-out-for-students-dubai",
+    title: "End of Semester Clear Out for Students in Dubai: Shared Flats and Short Leases",
+    seoTitle: "End of Semester Clear Out for Students in Dubai: A Plan",
+    excerpt:
+      "An end of semester clear out for students in Dubai: fit it between exams, lease end and flight, split shared items fairly and book one flat pickup.",
+    category: "Moving & Clearance",
+    tags: ["Students", "Shared Flats", "Short Lease", "Move Out", "Dubai"],
+    coverImage: "/images/blog/move-out-junk-sorting-dubai.webp",
+    coverImageAlt:
+      "Apartment living room with a dismantled bed frame and slats leaning on the wall, labelled moving boxes, crates marked plastic recycling, two monitors and a printer grouped by the window",
+    publishedAt: "2026-11-20",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Plan the clear-out in the gap between your last exam, the end of your lease or bed-space agreement and your flight; the exam week is not that gap.",
+      "Before anyone leaves, agree in writing who keeps each jointly bought item, such as the fridge, sofa or router.",
+      "Pass desks, lamps and kitchen kit to incoming students first; used mattresses and broken flat-pack rarely find a taker.",
+      "One pickup for the whole flat, booked with the service lift, beats four flatmates making separate trips on their last day.",
+    ],
+    sections: [
+      {
+        heading: "How to plan an end of semester clear out in Dubai",
+        content: [
+          "An end of semester clear out for students in Dubai works best when it is planned backwards from three dates: your last exam, the day your lease or bed-space agreement ends and your flight home. Sort what is yours, your flatmates' and the landlord's, pass usable items to students who are staying, and book a single collection for whatever is left, with the service lift reserved. Checked on 20/11/2026.",
+          "The academic calendar is what makes student clear-outs awkward. Everyone in the same building tends to leave in the same fortnight, so service lift slots, buyers for second-hand desks and collection bookings all get tighter at once. A flat that starts sorting a week before exams finishes calmly; a flat that starts the night before the flight usually leaves a pile in the corridor.",
+          "This guide is for students in shared flats, studios and bed spaces. If you are leaving the UAE permanently rather than for the break, the [guide to belongings when leaving Dubai for good](/blog/what-to-do-with-your-belongings-when-leaving-for-good-dubai) covers shipping, selling and final paperwork in more depth.",
+        ],
+        callout: {
+          title: "Do not leave it for the landlord",
+          text: "Items left in a room after the agreement ends are not someone else's problem. Landlords commonly deduct the cost of clearing them from the deposit, and anything left in shared corridors can bring complaints from building management. Clear it, or arrange its collection, before you hand back the keys.",
+        },
+      },
+      {
+        heading: "Work back from your last exam, lease end and flight",
+        content: [
+          "Write the three dates down. The useful clear-out window usually sits between the last exam and the lease end, and it is often only a few days long. Put the heavy jobs, such as dismantling the bed and carrying out furniture, into that window rather than the week of revision.",
+          "Some sorting can start earlier. Winter clothes you will not need, old notes, empty boxes and broken kitchen gadgets can all go in the weeks before exams without disturbing anyone's studying. If you are on a monthly agreement, check how much notice the landlord needs and whether the last day is the last day of the month or a date you choose.",
+          "If you live in university-provided accommodation, read the housing office's check-out list. It usually sets out what must be removed, how the room should be left and when the room inspection happens.",
+        ],
+      },
+      {
+        heading: "Sort what is yours, your flatmates' and the landlord's",
+        content: [
+          "Shared flats collect shared things: a fridge bought together, a sofa inherited from the last tenants, a router on someone's contract, a drying rack nobody remembers buying. Settle who keeps each one before the first person flies out. Once someone is gone, an unclaimed sofa becomes the problem of whoever leaves last.",
+          "In a furnished rental, the bed, wardrobe and sometimes the desk belong to the landlord and stay. Check the inventory you signed at the start; the [guide to landlord furniture in furnished rentals](/blog/what-to-do-with-landlord-furniture-in-a-furnished-rental-dubai) explains how to separate your items from the fixtures and contents that must remain.",
+          "Make a simple list with three columns: staying in the flat, leaving with a person and leaving for good. Everything in the third column needs a route, whether that is a buyer, a student who is staying, a donation point or a collection.",
+        ],
+      },
+      {
+        heading: "Store it, pass it on or let it go",
+        content: [
+          "If you are coming back next semester, compare the cost of storage over the break with the cost of buying again. Paying to store a cheap desk lamp, a kettle and a folding chair for months rarely makes sense. Books for next year's modules, a good office chair and a monitor may be worth keeping.",
+          "Students who are staying, or arriving next term, are the best market for desks, lamps, small appliances, hangers and kitchen kit. Post in your course or residence group early, with photos and a firm collection date. Textbooks often sell to the year below; the [guide to old books](/blog/how-to-dispose-of-old-books-in-dubai) covers what to do with the ones nobody wants.",
+          "Some things rarely find a taker. Used mattresses are a hygiene question for most donors, so read the [mattress disposal guide](/blog/how-to-dispose-of-an-old-mattress-in-dubai) before promising one to anyone. Wipe and reset laptops, tablets and phones before selling them; the [computer and laptop disposal guide](/blog/how-to-dispose-of-old-computers-and-laptops-in-dubai) explains how to clear your data properly.",
+        ],
+      },
+      {
+        heading: "Dismantle and stage on the last full day",
+        content: [
+          "Flat-pack beds, desks and shelving come apart more easily than they go together. Take them apart the day before collection, bag and tape the screws to the main panel, and stack the parts flat against a wall inside the flat. The [flat-pack dismantling guide](/blog/how-to-dismantle-flat-pack-furniture-for-removal-dubai) shows the order that avoids splitting the chipboard.",
+          "Ask building management for a service lift booking and the permitted hours. Keep everything inside the flat until the crew arrives; stacking it in the corridor or beside the lift is how complaints and fines start, and it blocks a fire route.",
+        ],
+        image: {
+          src: "/images/blog/bed-slats-frame-service-lift-transport-dubai.webp",
+          alt: "Two workers pushing a flatbed trolley carrying a strapped bundle of wooden bed slats and a blanket-wrapped frame along a tower corridor towards a padded service lift",
+        },
+      },
+      {
+        heading: "Book one collection for the whole flat",
+        content: [
+          "Four flatmates booking four separate pickups means four lift bookings and four sets of carrying. Agree a single morning, list everything in the leaving-for-good column, and send one set of photos. Decide in advance how the cost will be shared so the crew is not waiting while that is settled.",
+          "Student flats in [Dubai Silicon Oasis](/areas/dubai-silicon-oasis) and around Knowledge Park in [Al Sufouh](/areas/al-sufouh) see heavy lift demand at the end of term, so book the slot as soon as the lease end date is fixed. If you have no car, the [guide to getting rid of junk without a car](/blog/how-to-get-rid-of-junk-without-a-car-dubai) explains which routes still work.",
+          "Our [junk removal team](/services/junk-removal-dubai) clears shared flats in one visit, and the [same-day pickup service](/services/same-day-junk-removal-dubai) can help when a flight date moves forward. [Send photos of each room and your building's lift rules](/contact), and we will reply with a fixed price for the whole flat.",
+        ],
+      },
+    ],
+    relatedServices: ["junk-removal-dubai", "same-day-junk-removal-dubai"],
+    relatedAreas: ["dubai-silicon-oasis", "al-sufouh"],
+  },
+  {
+    slug: "how-to-compost-garden-waste-dubai",
+    title: "How to Compost Garden Waste in Dubai: Heat, Moisture and What to Add",
+    seoTitle: "How to Compost Garden Waste in Dubai's Climate",
+    excerpt:
+      "How to compost garden waste in Dubai: keep a shaded heap moist through the heat, balance green and dry material and leave out fronds, weeds and pests.",
+    category: "Eco & Recycling",
+    tags: ["Composting", "Garden Waste", "Villa Garden", "Green Waste", "Dubai"],
+    coverImage: "/images/blog/garden-disposal-dubai-20260919-hero.webp",
+    coverImageAlt:
+      "Gardener in a green uniform gathering dry palm fronds beside a pile of leafy cuttings, with bags of dry leaves, plant pots and a heap of dark soil on a tarp in a villa garden",
+    publishedAt: "2026-11-20",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "In Dubai, dryness, not cold, is what stalls a compost heap; it needs water added by you for most of the year.",
+      "Mix wet green material with roughly as much dry, brown material, chop everything small and turn the heap regularly.",
+      "Leave out palm frond stems, seeding weeds, diseased or pest-damaged plants, treated timber and anything plastic.",
+      "A home bin handles routine trimmings; a heavy prune, frond cut or hedge reduction is a collection job.",
+    ],
+    sections: [
+      {
+        heading: "How to compost garden waste in Dubai",
+        content: [
+          "To compost garden waste in Dubai, keep a bin or heap in shade, mix fresh green trimmings with an equal or larger share of dry leaves, twigs or plain cardboard, chop everything small, and keep the mix as damp as a wrung-out sponge. Turn it every week or two and add water as you go. Leave out woody palm stems, seeding weeds, diseased plants and anything treated or plastic. Checked on 20/11/2026.",
+          "The method is the same as anywhere else, but the climate pushes it in one direction. Warmth speeds decomposition, so a moist heap can work quickly here. The same heat and low rainfall dry a heap out fast, and a dry heap simply stops. Most failed compost bins in villa gardens are not too wet; they are dusty.",
+          "This guide covers mixed garden waste. For lawns, the [grass cuttings guide](/blog/what-to-do-with-grass-cuttings-dubai) explains when to leave cuttings on the grass, and the [garden waste disposal guide](/blog/how-to-dispose-of-garden-waste-in-dubai) covers material you are sending away rather than keeping.",
+        ],
+        callout: {
+          title: "Check your community rules first",
+          text: "Some communities and tenancy agreements restrict open heaps, bins against boundary walls or anything that could attract pests. A closed bin in shade is the easiest set-up to agree with a landlord or community office.",
+        },
+      },
+      {
+        heading: "Why the climate changes the routine",
+        content: [
+          "With little rain, the moisture in the heap comes from you. Water it when you turn it, mixing as you go, rather than splashing the surface. Squeeze a handful from the middle: a few drops of water is right, a crumbly handful that falls apart is too dry, and a stream of water means too much.",
+          "The cooler months, roughly from late autumn to early spring, are the easiest time to start a heap. You are pruning more, the heap holds its moisture longer and turning it outdoors is far more pleasant. In the summer, check moisture more often and turn in the early morning.",
+          "Garden soil in many Dubai villa plots is sandy and low in organic matter, so finished compost is genuinely useful here. Dug into beds or spread as a top layer, it helps the soil hold water between irrigation cycles.",
+        ],
+      },
+      {
+        heading: "What composts well and what to leave out",
+        content: [
+          "Good additions include soft hedge and shrub trimmings, spent annuals, fallen leaves from trees such as ficus and neem, small twigs, fruit and vegetable peelings, coffee grounds and plain shredded cardboard. Chop everything into short pieces; a long branch in a heap takes far longer than the rest of the pile.",
+          "Keep the following out of a home heap:",
+        ],
+        listItems: [
+          "Palm frond stems and spines. The leaflets break down if shredded, but the thick central stem is fibrous and very slow, and the spines are sharp.",
+          "Weeds that are flowering or seeding, and grasses that spread by runners. A home heap rarely gets hot enough throughout to kill them.",
+          "Diseased or pest-damaged plants. Material from a palm with suspected red palm weevil damage needs specialist handling, not a compost heap; the [dead palm tree guide](/blog/how-to-dispose-of-a-dead-palm-tree-dubai) explains who to ask.",
+          "Treated or painted timber, artificial grass, plant ties, drip line and nursery pots.",
+          "Meat, dairy and cooked food, which attract cats, rodents and flies.",
+          "Bulk soil, sand and stones, which add weight without feeding the heap.",
+        ],
+      },
+      {
+        heading: "Set up the bin in the right place",
+        content: [
+          "Choose a shaded spot on soil rather than paving, away from the house door, the neighbour's wall and the pool pump. A closed plastic bin with a lid holds moisture and keeps pests out better than an open heap in this climate. An open heap needs to be around a cubic metre to warm up properly, which is more than many villa gardens produce at once.",
+          "Keep the materials sorted before they go in. A stack of dry leaves in a bag beside the bin gives you brown material to add every time fresh green trimmings arrive. Branches, fronds and soil go into their own piles, not the bin.",
+        ],
+        image: {
+          src: "/images/blog/garden-streams-dubai-20260919-body.webp",
+          alt: "Garden waste separated along a villa side wall, with dry leaves and fresh green cuttings in two green containers, a bundle of tied branches, dry palm fronds and a bin of soil, while a worker measures the side gate",
+        },
+      },
+      {
+        heading: "Keep it working through the year",
+        content: [
+          "Turn the heap with a fork every week or two, moving the dry outside material into the middle. A heap that smells sour has too much wet green material and too little air: add dry leaves or torn cardboard and turn it. A heap full of flies usually has exposed food scraps; bury them in the middle and cover the top with brown material.",
+          "When the bottom of the bin is dark and crumbly with no recognisable leaves, it is ready. In warm conditions that is often a matter of months, not a year. Sieve out the pieces that have not broken down and put them back in the bin. Use finished compost on beds and around shrubs; keep half-finished material away from seedlings.",
+        ],
+      },
+      {
+        heading: "When the garden produces more than the bin can take",
+        content: [
+          "One home bin keeps up with routine trimming in a small garden. It cannot take a full prune of a hedge, a frond cut from several palms or the clear-out before replanting. The [planting season clean-up guide](/blog/garden-clean-up-before-the-planting-season-dubai) shows how to plan that bigger job, and the [plant pots guide](/blog/how-to-dispose-of-old-plant-pots-and-planters-in-dubai) covers what to do with the pots and old potting soil.",
+          "In large plots in [Dubai Hills Estate](/areas/dubai-hills-estate), many residents compost the routine trimmings and book a collection for seasonal pruning. In [Mudon](/areas/mudon), smaller back gardens often have room for one closed bin and little else, so the surplus needs a route from the start.",
+          "Our [garden waste collection team](/services/garden-waste-removal-dubai) takes palm fronds, branches and the material your bin cannot handle, and the [junk removal service](/services/junk-removal-dubai) can clear old garden furniture and pots on the same visit. [Send photos of the piles and your gate width](/contact), and we will reply with a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["garden-waste-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["dubai-hills-estate", "mudon"],
+  },
+  {
+    slug: "how-to-dispose-of-an-old-ro-water-filter-dubai",
+    title: "How to Dispose of an Old RO Water Filter in Dubai: Cartridges, Membrane and Tank",
+    seoTitle: "How to Dispose of an Old RO Water Filter in Dubai",
+    excerpt:
+      "How to dispose of an old RO water filter in Dubai: check who owns it, drain the tank, cap the plumbing and route cartridges, membrane and tank separately.",
+    category: "Guides",
+    tags: ["RO Water Filter", "Water Purifier", "Appliance Disposal", "Kitchen", "Dubai"],
+    coverImage: "/images/blog/dishwasher-disconnection-drain-prep-dubai-hero.webp",
+    coverImageAlt:
+      "Technician kneeling on a towel in a kitchen, draining water from a disconnected hose into a bucket beside an under-counter appliance, with plumbing hoses visible in the open cabinet space",
+    publishedAt: "2026-11-20",
+    readingTime: "7 min read",
+    author: { name: "EcoHaul Dubai Team", role: "Dubai Clearance Specialists" },
+    takeaways: [
+      "Check whether the RO system is yours, the landlord's or rented from a water company before removing anything.",
+      "Shut off the feed water, drain the storage tank through the faucet and unplug any pump or UV unit before disconnecting the tubing.",
+      "Cap the feed connection and seal the drain clamp hole; a dripping fitting under the sink can soak the cabinet base within days.",
+      "Used cartridges and the membrane go with general waste, the steel tank with metal, and pumps, adapters and UV lamps with e-waste.",
+    ],
+    sections: [
+      {
+        heading: "How to dispose of an old RO water filter in Dubai",
+        content: [
+          "To dispose of an old RO water filter in Dubai, first confirm it is yours to remove. Then turn off the feed water, drain the tank through the RO faucet, unplug any pump or UV lamp, disconnect the tubing and cap the plumbing. Bag the used cartridges and membrane with general waste, send the steel tank with metal, and take the pump, adapter and UV lamp to e-waste routes. Checked on 20/11/2026.",
+          "An under-sink reverse osmosis system looks like one appliance, but it is a set of different materials joined by plastic tubing: filter cartridges in plastic housings, a membrane, a pressurised storage tank, a faucet on the sink, and sometimes a booster pump or UV lamp with a power adapter. Each part has a different route.",
+          "This guide covers under-sink and countertop RO units. Freestanding bottled-water coolers are covered in the [water dispenser disposal guide](/blog/how-to-dispose-of-an-old-water-dispenser-in-dubai).",
+        ],
+        callout: {
+          title: "Leave the plumbing safe",
+          text: "Removing the filter is only half the job. The feed connection on the cold-water line needs a cap or a closed valve, and the clamp on the sink drain leaves a hole that must be sealed. A slow drip inside a closed cabinet can swell the base panel before anyone notices.",
+        },
+      },
+      {
+        heading: "Check whether it is yours to remove",
+        content: [
+          "Many RO systems in Dubai apartments are rented from a water company with a service contract that includes cartridge changes. If yours has a supplier sticker or you pay a monthly fee, contact the company first. They usually collect their own equipment when the contract ends, and removing it yourself may complicate the cancellation.",
+          "If the landlord installed the system, it is normally part of the flat and stays at handover. Check your tenancy inventory, and read the [rental handover guide](/blog/what-to-remove-before-rental-handover-dubai) if you are unsure which fittings belong to you.",
+          "If it is yours and still works, consider whether you only need new cartridges. A system with yellowed or cracked housings, a leaking tank, very slow flow or cartridges the brand no longer sells is a better candidate for removal.",
+        ],
+      },
+      {
+        heading: "Shut it down and drain it",
+        content: [
+          "Close the feed valve that supplies the RO unit from the cold-water line under the sink. Open the RO faucet and let it run until the tank stops delivering water. Unplug any booster pump, UV lamp or electronic faucet indicator at the socket before touching the tubing.",
+          "Put a towel and a shallow tray under the unit. Most RO tubing uses push-fit connectors: press the collar at the fitting and pull the tube out. Expect a little water from every connection and from each cartridge housing as it comes off.",
+          "The storage tank still holds compressed air behind its internal bladder after the water is gone. Do not puncture, cut or heat it. Close the tank valve, keep it upright and send it whole with metal.",
+          "Finally, cap the feed connection or remove it and refit the original fitting, and seal the drain clamp hole on the sink waste pipe or have a plumber replace that section. Run the cold tap and check for drips over the next hour.",
+        ],
+      },
+      {
+        heading: "What each part is made of and where it goes",
+        content: [
+          "Used filter parts hold whatever they have caught from the water, so they are not a recycling item. Place them in a sealed bag. Some brands run cartridge take-back for their own products, so it is worth checking the supplier's website before throwing them out.",
+        ],
+        listItems: [
+          "Sediment and carbon cartridges: a plastic casing around polypropylene fibre or carbon. Bag them with general waste.",
+          "RO membrane: a spiral-wound film inside a plastic shell. Bag it with general waste.",
+          "Storage tank: usually a painted steel shell with a rubber bladder inside. Drained and whole, it goes with scrap metal.",
+          "Housings, frame and tubing: mixed plastics. Clean, dry pieces can go with plastic recycling where your building accepts them; otherwise general waste.",
+          "Booster pump, power adapter and electronic faucet: electrical waste. The [small electronics guide](/blog/how-to-dispose-of-batteries-and-small-electronics-dubai) lists the drop-off routes.",
+          "UV lamp: treat it like a fluorescent tube, because it contains mercury. Keep it unbroken and follow the [light bulb and tube disposal guide](/blog/how-to-dispose-of-light-bulbs-and-fluorescent-tubes-dubai).",
+          "Faucet and metal fittings: brass and chrome go with scrap metal.",
+        ],
+        image: {
+          src: "/images/blog/sanitary-ware-material-sorting-dubai.webp",
+          alt: "Green crate of removed chrome and brass taps and plumbing fittings beside a washbasin and toilet on padded pallets, with bins of broken tiles near a truck in a building loading area",
+        },
+      },
+      {
+        heading: "Collect it with the rest of the kitchen",
+        content: [
+          "An RO filter is rarely the only thing leaving. It often comes out during a kitchen refit, with an old dishwasher or alongside a water heater replacement. If the cabinets are coming out too, the [kitchen cabinet disposal guide](/blog/how-to-dispose-of-old-kitchen-cabinets-in-dubai) explains the order of work so the plumbing is capped before the carcasses are removed.",
+          "In [Jumeirah Village Circle](/areas/jumeirah-village-circle), many low-rise buildings have small service lifts, so keep the tank and housings boxed together for one trip. In [Al Barsha](/areas/al-barsha), villa kitchens often have the RO unit in a utility room with a separate drain, so check both locations before the crew arrives.",
+          "Our [appliance removal team](/services/appliance-removal-dubai) collects drained RO systems with the parts already separated, and the [junk removal service](/services/junk-removal-dubai) can take the rest of the kitchen clear-out on the same visit. [Send a photo of the unit under the sink](/contact), tell us whether the plumbing is capped, and we will confirm a fixed price.",
+        ],
+      },
+    ],
+    relatedServices: ["appliance-removal-dubai", "junk-removal-dubai"],
+    relatedAreas: ["jumeirah-village-circle", "al-barsha"],
+  },
+  {
     slug: "townhouse-clearance-dubai",
     title: "Townhouse Clearance in Dubai: Stairs, Shared Walls and Tight Parking",
     seoTitle: "Townhouse Clearance in Dubai: Stairs, Walls and Parking",
@@ -402,7 +649,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: "Compost them with dry material",
         content: [
           "Fresh grass is wet and nitrogen-rich. On its own it collapses into a slimy, anaerobic layer that attracts flies within days in Dubai heat. Mix it with roughly equal or greater volumes of dry, carbon-rich material: shredded dry leaves, small twigs, plain cardboard or paper. Turn the pile regularly and keep it moist rather than wet.",
-          "Place the bin in shade, away from a neighbour's wall, and check whether your community or tenancy rules allow it. A compost bin in a small townhouse garden in [Mirdif](/areas/mirdif) needs more care about smell and pests than a bay at the back of a large plot in [The Meadows](/areas/the-meadows).",
+          "Place the bin in shade, away from a neighbour's wall, and check whether your community or tenancy rules allow it. A compost bin in a small townhouse garden in [Mirdif](/areas/mirdif) needs more care about smell and pests than a bay at the back of a large plot in [The Meadows](/areas/the-meadows). The [garden composting guide](/blog/how-to-compost-garden-waste-dubai) explains how to keep a mixed heap working through the heat.",
         ],
       },
       {
@@ -3006,7 +3253,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "To get rid of junk without a car in Dubai, split the load by route instead of trying to move it all at once. Put only accepted, bagged household waste inside the building's normal bins; arrange a charity or resale pickup for usable items; check whether the current municipal bulky-waste service covers your address; and book a licensed private collection for furniture, appliances or a mixed load that must be carried from the property. Never leave items beside a bin or in a corridor. Checked on 05/11/2026.",
           "Not having a car is often helpful because it stops a common mistake: loading a sofa, leaking appliance or mixed bags into a vehicle before confirming where they can go. The right plan begins at the item, not at the destination. Sort by condition and material, then choose a service that collects that stream from the door or approved loading point.",
-          "The [complete junk-disposal guide](/blog/how-to-dispose-of-junk-in-dubai-complete-guide) explains the main disposal routes. This article focuses on making those routes work for apartment residents and other people who cannot transport the load themselves.",
+          "The [complete junk-disposal guide](/blog/how-to-dispose-of-junk-in-dubai-complete-guide) explains the main disposal routes. This article focuses on making those routes work for apartment residents and other people who cannot transport the load themselves. Students leaving a shared flat at the end of term can follow the [end-of-semester clear-out plan](/blog/end-of-semester-clear-out-for-students-dubai).",
         ],
         callout: {
           title: "The bin room is not a bulky-item holding area",
@@ -7265,7 +7512,7 @@ export const BLOG_POSTS: BlogPost[] = [
         content: [
           "A clean working dispenser, particularly a bottom-load or hot-and-cold model, is easy to pass on. List it with the brand, the type of cooling, whether it takes a top-loaded or bottom-loaded bottle, and its age. Mention clearly that the bottles are not included if they belong to a supplier.",
           "Broken dispensers are an appliance recycling job. Check the label: units with a compressor contain refrigerant and should be handled by a recycler that can recover it, the same route described in the [guide to fridges and AC units](/blog/how-to-safely-dispose-of-refrigerators-ac-units-dubai). Thermoelectric units that cool with a small electronic plate have no refrigerant and can go with small electrical waste.",
-          "If other kitchen appliances are leaving at the same time, the [guide to donating and recycling appliances](/blog/where-to-donate-and-recycle-appliances-in-dubai) sets out which ones charities take and which go straight to recycling.",
+          "If other kitchen appliances are leaving at the same time, the [guide to donating and recycling appliances](/blog/where-to-donate-and-recycle-appliances-in-dubai) sets out which ones charities take and which go straight to recycling. If an under-sink purifier is coming out at the same time, the [RO water filter disposal guide](/blog/how-to-dispose-of-an-old-ro-water-filter-dubai) covers draining the tank and capping the plumbing.",
         ],
       },
       {
